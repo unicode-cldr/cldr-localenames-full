@@ -1,0 +1,133 @@
+{
+  "main": {
+    "br": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11093 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+        },
+        "language": "br"
+      },
+      "localeDisplayNames": {
+        "localeDisplayPattern": {
+          "localePattern": "{0} ({1})",
+          "localeSeparator": "{0}, {1}",
+          "localeKeyTypePattern": "{0}: {1}"
+        },
+        "keys": {
+          "calendar": "deiziadur",
+          "collation": "doare rummañ",
+          "currency": "moneiz",
+          "numbers": "niveroù"
+        },
+        "types": {
+          "calendar": {
+            "buddhist": "deiziadur boudaat",
+            "chinese": "deiziadur sinaat",
+            "coptic": "deiziadur kopt",
+            "dangi": "deiziadur dangi",
+            "ethiopic": "deiziadur etiopiat",
+            "ethiopic-amete-alem": "deiziadur etiopiat Amete Alem",
+            "gregorian": "deiziadur gregorian",
+            "hebrew": "deiziadur hebraek",
+            "indian": "deiziadur indian",
+            "islamic": "deiziadur islamek",
+            "islamic-civil": "deiziadur islamek keodedel",
+            "islamic-rgsa": "deiziadur islamek (Arabia Saoudat)",
+            "islamic-tbla": "deiziadur islamek steredoniel",
+            "islamic-umalqura": "deiziadur islamek (Umm al-Qura)",
+            "iso8601": "deiziadur ISO-8601",
+            "japanese": "deiziadur japanat",
+            "persian": "deiziadur persek",
+            "roc": "deiziadur Republik Sina"
+          },
+          "collation": {
+            "big5han": "urzh rummañ sinaek hengounel - Big5",
+            "dictionary": "urzh rummañ ar geriadur",
+            "ducet": "urzh rummañ Unicode dre ziouer",
+            "eor": "reolennoù urzhiañ europat",
+            "gb2312han": "urzh rummañ sinaek eeunaet - GB2312",
+            "phonebook": "urzh rummañ al levr-pellgomz",
+            "pinyin": "urzh rummañ pinyin",
+            "reformed": "urzh rummañ adreizhet",
+            "search": "enklask hollek",
+            "searchjl": "searchjl",
+            "standard": "urzh rummañ standart",
+            "stroke": "urzh rummañ an tresoù",
+            "traditional": "urzh rummañ hengounel",
+            "unihan": "urzh rummañ UniHan",
+            "zhuyin": "urzh rummañ Zhuyin"
+          },
+          "numbers": {
+            "arab": "sifroù arabek indian",
+            "arabext": "sifroù arabek indian astennet",
+            "armn": "niveroù armenianek",
+            "armnlow": "niveroù armenianek bihan",
+            "bali": "sifroù balinek",
+            "beng": "sifroù bengali",
+            "brah": "sifroù brahmi",
+            "cakm": "cakm",
+            "cham": "cham",
+            "deva": "sifroù devanagari",
+            "ethi": "niveroù etiopiat",
+            "fullwide": "sifroù led plaen",
+            "geor": "niveroù jorjianek",
+            "grek": "niveroù gresianek",
+            "greklow": "niveroù gresianek bihan",
+            "gujr": "sifroù gujarati",
+            "guru": "sifroù gurmukhi",
+            "hanidec": "niveroù sinaek dekvedennek",
+            "hans": "niveroù sinaek eeunaet",
+            "hansfin": "niveroù sinaek eeunaet an arcʼhant",
+            "hant": "niveroù sinaek hengounel",
+            "hantfin": "niveroù sinaek hengounel an arcʼhant",
+            "hebr": "niveroù hebraek",
+            "java": "sifroù javanek",
+            "jpan": "niveroù japanek",
+            "jpanfin": "niveroù japanek an arcʼhant",
+            "kali": "sifroù Kayah Li",
+            "khmr": "sifroù khmer",
+            "knda": "sifroù kanarek",
+            "lana": "sifroù Tai Tham Hora",
+            "lanatham": "sifroù Tai Tham Tham",
+            "laoo": "sifroù laosek",
+            "latn": "sifroù arabek ar Cʼhornôg",
+            "lepc": "lepc",
+            "limb": "limb",
+            "mlym": "sifroù malayalam",
+            "mong": "sifroù mongolek",
+            "mtei": "mtei",
+            "mymr": "sifroù myanmar",
+            "mymrshan": "sifroù shan Myanmar",
+            "nkoo": "nkoo",
+            "olck": "olck",
+            "orya": "sifroù oriya",
+            "osma": "osma",
+            "roman": "niveroù roman",
+            "romanlow": "niveroù roman bihan",
+            "saur": "saur",
+            "shrd": "shrd",
+            "sora": "sora",
+            "sund": "sifroù sundanek",
+            "takr": "takr",
+            "talu": "talu",
+            "taml": "niveroù tamilek hengounel",
+            "tamldec": "sifroù tamilek",
+            "telu": "sifroù telougou",
+            "thai": "sifroù thai",
+            "tibt": "sifroù tibetan",
+            "vaii": "sifroù vai"
+          }
+        },
+        "codePatterns": {
+          "language": "{0}",
+          "script": "{0}",
+          "territory": "{0}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "main": {
+    "ga": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11294 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+        },
+        "language": "ga"
+      },
+      "localeDisplayNames": {
+        "localeDisplayPattern": {
+          "localePattern": "{0} ({1})",
+          "localeSeparator": "{0}, {1}",
+          "localeKeyTypePattern": "{0}: {1}"
+        },
+        "keys": {
+          "calendar": "Féilire",
+          "collation": "Ord Sórtála",
+          "currency": "Airgeadra",
+          "numbers": "Uimhreacha"
+        },
+        "types": {
+          "calendar": {
+            "buddhist": "Féilire Búdaíoch",
+            "chinese": "Féilire Síneach",
+            "coptic": "Féilire Coptach",
+            "dangi": "dangi",
+            "ethiopic": "Féilire Aetóipice",
+            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "gregorian": "Féilire Ghréagóra",
+            "hebrew": "Féilire na nEabhrach",
+            "indian": "indian",
+            "islamic": "Féilire Ioslámach",
+            "islamic-civil": "islamic-civil",
+            "islamic-rgsa": "islamic-rgsa",
+            "islamic-tbla": "islamic-tbla",
+            "islamic-umalqura": "islamic-umalqura",
+            "iso8601": "Féilire ISO-8601",
+            "japanese": "Féilire Seapánach",
+            "persian": "Féilire Peirseach",
+            "roc": "Féilire Téavánach"
+          },
+          "collation": {
+            "big5han": "big5han",
+            "dictionary": "dictionary",
+            "ducet": "Ord Réamhshocraithe Sórtála Unicode",
+            "eor": "eor",
+            "gb2312han": "gb2312han",
+            "phonebook": "phonebook",
+            "pinyin": "pinyin",
+            "reformed": "reformed",
+            "search": "Cuardach Ilfhóinteach",
+            "searchjl": "searchjl",
+            "standard": "Ord Caighdeánach Sórtála",
+            "stroke": "stroke",
+            "traditional": "traditional",
+            "unihan": "unihan",
+            "zhuyin": "zhuyin"
+          },
+          "numbers": {
+            "arab": "Digití Ind-Arabacha",
+            "arabext": "Digití Ind-Arabacha Breisithe",
+            "armn": "Uimhreacha Airméanacha",
+            "armnlow": "armnlow",
+            "bali": "Digití Bailíocha",
+            "beng": "Digití Beangálacha",
+            "brah": "brah",
+            "cakm": "cakm",
+            "cham": "cham",
+            "deva": "Digití Déiveanágracha",
+            "ethi": "Uimhreacha Aetóipice",
+            "fullwide": "Digití Lánleithid",
+            "geor": "Uimhreacha Seoirseacha",
+            "grek": "Uimhreacha Gréagacha",
+            "greklow": "greklow",
+            "gujr": "Digití Gúisearátacha",
+            "guru": "Digití Gurmúcacha",
+            "hanidec": "Uimhreacha Deachúlacha Síneacha",
+            "hans": "hans",
+            "hansfin": "hansfin",
+            "hant": "hant",
+            "hantfin": "hantfin",
+            "hebr": "Uimhreacha Eabhracha",
+            "java": "Digití Iávacha",
+            "jpan": "Uimhreacha Seapánacha",
+            "jpanfin": "jpanfin",
+            "kali": "kali",
+            "khmr": "Digití Ciméaracha",
+            "knda": "Digití Cannadacha",
+            "lana": "lana",
+            "lanatham": "lanatham",
+            "laoo": "Digití Laosacha",
+            "latn": "Digití Iartharacha",
+            "lepc": "lepc",
+            "limb": "limb",
+            "mlym": "Digití Mailéalamacha",
+            "mong": "mong",
+            "mtei": "mtei",
+            "mymr": "Digití Maenmaracha",
+            "mymrshan": "mymrshan",
+            "nkoo": "nkoo",
+            "olck": "olck",
+            "orya": "Digití Oiríseacha",
+            "osma": "osma",
+            "roman": "Uimhreacha Rómhánacha",
+            "romanlow": "romanlow",
+            "saur": "saur",
+            "shrd": "shrd",
+            "sora": "sora",
+            "sund": "sund",
+            "takr": "takr",
+            "talu": "talu",
+            "taml": "Uimhreacha Traidisiúnta Tamalacha",
+            "tamldec": "Digití Tamalacha",
+            "telu": "Digití Teileagúcha",
+            "thai": "Digití Téalannacha",
+            "tibt": "Digití Tibéadacha",
+            "vaii": "vaii"
+          }
+        },
+        "codePatterns": {
+          "language": "Teanga: {0}",
+          "script": "Script: {0}",
+          "territory": "Réigiún: {0}"
+        }
+      }
+    }
+  }
+}

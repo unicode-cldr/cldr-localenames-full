@@ -1,0 +1,133 @@
+{
+  "main": {
+    "fur": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11093 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+        },
+        "language": "fur"
+      },
+      "localeDisplayNames": {
+        "localeDisplayPattern": {
+          "localePattern": "{0} ({1})",
+          "localeSeparator": "{0}, {1}",
+          "localeKeyTypePattern": "{0}: {1}"
+        },
+        "keys": {
+          "calendar": "calendari",
+          "collation": "ordenament",
+          "currency": "monede",
+          "numbers": "numbers"
+        },
+        "types": {
+          "calendar": {
+            "buddhist": "calendari budist",
+            "chinese": "calendari cinês",
+            "coptic": "coptic",
+            "dangi": "dangi",
+            "ethiopic": "ethiopic",
+            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "gregorian": "calendari gregorian",
+            "hebrew": "calendari ebreu",
+            "indian": "calendari nazionâl indian",
+            "islamic": "calendari islamic",
+            "islamic-civil": "calendari islamic civîl",
+            "islamic-rgsa": "islamic-rgsa",
+            "islamic-tbla": "islamic-tbla",
+            "islamic-umalqura": "islamic-umalqura",
+            "iso8601": "iso8601",
+            "japanese": "calendari gjaponês",
+            "persian": "persian",
+            "roc": "calendari de Republiche di Cine"
+          },
+          "collation": {
+            "big5han": "ordin cinês tradizionâl - Big5",
+            "dictionary": "dictionary",
+            "ducet": "ordenament predeterminât Unicode",
+            "eor": "eor",
+            "gb2312han": "ordin cinês semplificât - GB2312",
+            "phonebook": "ordin elenc telefonic",
+            "pinyin": "ordin pinyin",
+            "reformed": "reformed",
+            "search": "ricercje par fins gjenerâi",
+            "searchjl": "searchjl",
+            "standard": "standard",
+            "stroke": "ordin segns",
+            "traditional": "ordin tradizionâl",
+            "unihan": "unihan",
+            "zhuyin": "zhuyin"
+          },
+          "numbers": {
+            "arab": "arab",
+            "arabext": "arabext",
+            "armn": "armn",
+            "armnlow": "armnlow",
+            "bali": "bali",
+            "beng": "beng",
+            "brah": "brah",
+            "cakm": "cakm",
+            "cham": "cham",
+            "deva": "deva",
+            "ethi": "ethi",
+            "fullwide": "fullwide",
+            "geor": "geor",
+            "grek": "grek",
+            "greklow": "greklow",
+            "gujr": "gujr",
+            "guru": "guru",
+            "hanidec": "hanidec",
+            "hans": "hans",
+            "hansfin": "hansfin",
+            "hant": "hant",
+            "hantfin": "hantfin",
+            "hebr": "hebr",
+            "java": "java",
+            "jpan": "jpan",
+            "jpanfin": "jpanfin",
+            "kali": "kali",
+            "khmr": "khmr",
+            "knda": "knda",
+            "lana": "lana",
+            "lanatham": "lanatham",
+            "laoo": "laoo",
+            "latn": "numars ocidentâi",
+            "lepc": "lepc",
+            "limb": "limb",
+            "mlym": "mlym",
+            "mong": "mong",
+            "mtei": "mtei",
+            "mymr": "mymr",
+            "mymrshan": "mymrshan",
+            "nkoo": "nkoo",
+            "olck": "olck",
+            "orya": "orya",
+            "osma": "osma",
+            "roman": "roman",
+            "romanlow": "romanlow",
+            "saur": "saur",
+            "shrd": "shrd",
+            "sora": "sora",
+            "sund": "sund",
+            "takr": "takr",
+            "talu": "talu",
+            "taml": "taml",
+            "tamldec": "tamldec",
+            "telu": "telu",
+            "thai": "thai",
+            "tibt": "tibt",
+            "vaii": "vaii"
+          }
+        },
+        "codePatterns": {
+          "language": "Lenghe: {0}",
+          "script": "Scriture: {0}",
+          "territory": "Regjon: {0}"
+        }
+      }
+    }
+  }
+}

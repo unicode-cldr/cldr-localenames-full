@@ -1,0 +1,90 @@
+{
+  "main": {
+    "ks": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11294 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+        },
+        "language": "ks"
+      },
+      "localeDisplayNames": {
+        "variants": {
+          "1606NICT": "بعد وَقت وَسطی فرٛانس پٮ۪ٹھ ۱۶٠۶ تام",
+          "1694ACAD": "1694ACAD",
+          "1901": "رٮ۪وٲتی جٔرمَن عِلمہِ ہِجا",
+          "1959ACAD": "1959ACAD",
+          "1994": "مَیعٲری روٗسی عِلمہِ ہِجا",
+          "1996": "جٔرمَن عِلمہِ ہِجا ۱۹۹۶سُک",
+          "ALALC97": "ALALC97",
+          "ALUKU": "ALUKU",
+          "AREVELA": "مَشرِقی اَمریٖکا",
+          "AREVMDA": "AREVMDA",
+          "BAKU1926": "جٔمع کٔرِتھ تُرکی لاطیٖنی اَچھر",
+          "BALANKA": "BALANKA",
+          "BARLA": "BARLA",
+          "BAUDDHA": "BAUDDHA",
+          "BISCAYAN": "BISCAYAN",
+          "BISKE": "سین جارجِیو/بِلا بوٗلۍ",
+          "BOHORIC": "BOHORIC",
+          "BOONT": "BOONT",
+          "DAJNKO": "DAJNKO",
+          "EKAVSK": "EKAVSK",
+          "EMODENG": "EMODENG",
+          "FONIPA": "آوازیات",
+          "FONUPA": "یوٗ پی اے آوازِیات",
+          "FONXSAMP": "FONXSAMP",
+          "HEPBURN": "HEPBURN",
+          "HOGNORSK": "HOGNORSK",
+          "IJEKAVSK": "IJEKAVSK",
+          "ITIHASA": "ITIHASA",
+          "JAUER": "JAUER",
+          "JYUTPING": "JYUTPING",
+          "KKCOR": "KKCOR",
+          "KOCIEWIE": "KOCIEWIE",
+          "KSCOR": "KSCOR",
+          "LAUKIKA": "LAUKIKA",
+          "LIPAW": "روٗسی زَبانہِ ہِنٛز لِپوواز بوٗلۍ",
+          "LUNA1918": "LUNA1918",
+          "METELKO": "METELKO",
+          "MONOTON": "اَکٔے لہجہٕ واجٮ۪ن زَبان",
+          "NDYUKA": "NDYUKA",
+          "NEDIS": "نٮ۪ٹِسون بوٗلۍ",
+          "NJIVA": "نیجِوا بوٗلۍ",
+          "NULIK": "NULIK",
+          "OSOJS": "اُشیکو/اوسوجین بوٗلۍ",
+          "PAMAKA": "PAMAKA",
+          "PETR1708": "PETR1708",
+          "PINYIN": "PINYIN",
+          "POLYTON": "واریاہ لہجہٕ واجٮ۪ن زَبان",
+          "POSIX": "کَمپیوٗٹَر",
+          "PUTER": "PUTER",
+          "REVISED": "دُبارٕ دۄہراونہٕ آمُت عِلمہِ ہِجا",
+          "RIGIK": "RIGIK",
+          "ROZAJ": "روٗسی",
+          "RUMGR": "RUMGR",
+          "SAAHO": "سوہو",
+          "SCOTLAND": "سُکاٹِش مَیعٲری اَنٛگریٖزۍ",
+          "SCOUSE": "سِکوس",
+          "SOLBA": "ثٹولوِزا/سولبِکا بوٗلۍ",
+          "SOTAV": "SOTAV",
+          "SURMIRAN": "SURMIRAN",
+          "SURSILV": "SURSILV",
+          "SUTSILV": "SUTSILV",
+          "TARASK": "تاراسکیٖوِکا علمہ ہِجاِ",
+          "UCCOR": "UCCOR",
+          "UCRCOR": "UCRCOR",
+          "ULSTER": "ULSTER",
+          "UNIFON": "UNIFON",
+          "VAIDIKA": "VAIDIKA",
+          "VALENCIA": "VALENCIA",
+          "VALLADER": "VALLADER",
+          "WADEGILE": "WADEGILE"
+        }
+      }
+    }
+  }
+}

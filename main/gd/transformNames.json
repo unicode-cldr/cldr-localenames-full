@@ -1,0 +1,30 @@
+{
+  "main": {
+    "gd": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11294 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+        },
+        "language": "gd"
+      },
+      "localeDisplayNames": {
+        "transformNames": {
+          "BGN": "BGN",
+          "Numeric": "Àireamhach",
+          "Tone": "Tòna",
+          "UNGEGN": "UNGEGN",
+          "x-Accents": "Stràcan",
+          "x-Fullwidth": "Làn-Leud",
+          "x-Halfwidth": "Leth-Leud",
+          "x-Jamo": "Jamo",
+          "x-Pinyin": "Pinyin",
+          "x-Publishing": "Foillseachadh"
+        }
+      }
+    }
+  }
+}

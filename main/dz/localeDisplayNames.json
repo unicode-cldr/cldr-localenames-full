@@ -1,0 +1,133 @@
+{
+  "main": {
+    "dz": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 10669 $"
+        },
+        "generation": {
+          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+        },
+        "language": "dz"
+      },
+      "localeDisplayNames": {
+        "localeDisplayPattern": {
+          "localePattern": "{0}། ({1}།)",
+          "localeSeparator": "{0}་, {1}",
+          "localeKeyTypePattern": "{0}།: {1}"
+        },
+        "keys": {
+          "calendar": "ཟླ་ཐོ",
+          "collation": "གནས་སདུད་རིམ་ སགྲིག",
+          "currency": "ཤོག་དངུལ",
+          "numbers": "ཨང་ཡིག"
+        },
+        "types": {
+          "calendar": {
+            "buddhist": "buddhist",
+            "chinese": "chinese",
+            "coptic": "coptic",
+            "dangi": "dangi",
+            "ethiopic": "ethiopic",
+            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "gregorian": "གྲེག་གོ་རི་ཡཱན་ཟླ་ཐོ",
+            "hebrew": "hebrew",
+            "indian": "indian",
+            "islamic": "islamic",
+            "islamic-civil": "islamic-civil",
+            "islamic-rgsa": "islamic-rgsa",
+            "islamic-tbla": "islamic-tbla",
+            "islamic-umalqura": "islamic-umalqura",
+            "iso8601": "iso8601",
+            "japanese": "japanese",
+            "persian": "persian",
+            "roc": "roc"
+          },
+          "collation": {
+            "big5han": "big5han",
+            "dictionary": "dictionary",
+            "ducet": "སྔ་སྒྲིག་ཡུ་ནི་ཀོཊ་གི་གོ་རིམ",
+            "eor": "eor",
+            "gb2312han": "gb2312han",
+            "phonebook": "phonebook",
+            "pinyin": "pinyin",
+            "reformed": "reformed",
+            "search": "སྤྱི་དོན་འཚོལ་བ",
+            "searchjl": "searchjl",
+            "standard": "standard",
+            "stroke": "stroke",
+            "traditional": "traditional",
+            "unihan": "unihan",
+            "zhuyin": "zhuyin"
+          },
+          "numbers": {
+            "arab": "ཨེ་ར་བིཀ་-ཨིན་ཌིཀ་ཨང",
+            "arabext": "ཨེ་ར་བིཀ་-ཨིན་ཌིཀ་རྒྱ་སྐྱེད་ཨང",
+            "armn": "ཨར་མི་ནི་ཡཱན་ཨང",
+            "armnlow": "ཨར་མི་ནི་ཡཱན་གྱི་མགྱོགས་ཡིག་ཨང་རྟགས",
+            "bali": "bali",
+            "beng": "བངྒ་ལི་ཨང",
+            "brah": "brah",
+            "cakm": "cakm",
+            "cham": "cham",
+            "deva": "དེ་ཝ་ན་ག་རི་ཨང",
+            "ethi": "ཨི་ཐི་ཡོ་པིཀ་ཨང་རྟགཨ",
+            "fullwide": "རྒྱ་ཚད་གང་བའི་ཨང",
+            "geor": "ཇཽར་ཇཱི་ཡཱན་ཨང་རྟགས",
+            "grek": "གྲིཀ་ཨང་རྟགས",
+            "greklow": "གྲིཀ་གི་མགྱོགས་ཡིག་ཨང་རྟགས",
+            "gujr": "གུ་ཇ་ར་ཏི་ཨང",
+            "guru": "གུ་རུ་མུ་ཁི་ཨང",
+            "hanidec": "རྒྱ་མིའི་ཚག་ཅན་མའི་ཨང་རྟགས",
+            "hans": "འཇམ་སངམ་རྒྱ་མིའི་ཨང་རྟགས",
+            "hansfin": "འཇམ་སངམ་རྒྱ་མི་གི་དངུལ་འབྲེལ་ཨང་རྟགས",
+            "hant": "སྔ་དུས་རྒྱ་མིའི་ཨང་རྟགས",
+            "hantfin": "སྔ་དུས་རྒྱ་མིའི་གི་དངུལ་འབྲེལ་ཨང་རྟགས",
+            "hebr": "ཧེ་བྲུ་ཨང་རྟགས",
+            "java": "java",
+            "jpan": "ཇཱ་པཱན་ནིས་ཨང་རྟགས",
+            "jpanfin": "ཇཱ་པཱན་ནིས་དངུལ་འབྲེལ་ཨང་རྟགས",
+            "kali": "kali",
+            "khmr": "ཁེ་མར་ཨང",
+            "knda": "ཀ་ན་ཌ་ཨང",
+            "lana": "lana",
+            "lanatham": "lanatham",
+            "laoo": "ལཱ་འོས་ཨང་",
+            "latn": "ཕྱི་གླིང་པའི་ཨང",
+            "lepc": "lepc",
+            "limb": "limb",
+            "mlym": "མ་ལ་ཡ་ལམ་ཨང་",
+            "mong": "mong",
+            "mtei": "mtei",
+            "mymr": "མི་ཡཱན་མར་ཨང་",
+            "mymrshan": "mymrshan",
+            "nkoo": "nkoo",
+            "olck": "olck",
+            "orya": "ཨོ་རི་ཡ་ཨང་",
+            "osma": "osma",
+            "roman": "རོ་མཱན་ཨང་རྟགས",
+            "romanlow": "རོ་མཱན་གྱི་མགྱོགས་ཡིག་ཨང་རྟགས",
+            "saur": "saur",
+            "shrd": "shrd",
+            "sora": "sora",
+            "sund": "sund",
+            "takr": "takr",
+            "talu": "talu",
+            "taml": "སྔ་དུས་ཊ་མིལ་ཨང་རྟགས",
+            "tamldec": "ཊ་མིལ་ཨང",
+            "telu": "ཏེ་ལུ་གུ་ཨང",
+            "thai": "ཐཱའི་ཨང",
+            "tibt": "ང་བཅས་ཀྱི་ཨང་ཡིག",
+            "vaii": "vaii"
+          }
+        },
+        "codePatterns": {
+          "language": "ཁ་སྐད་: {0}",
+          "script": "ཡིག་གཟུགས་: {0}",
+          "territory": "{0}"
+        }
+      }
+    }
+  }
+}

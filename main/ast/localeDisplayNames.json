@@ -1,0 +1,133 @@
+{
+  "main": {
+    "ast": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11294 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+        },
+        "language": "ast"
+      },
+      "localeDisplayNames": {
+        "localeDisplayPattern": {
+          "localePattern": "{0} ({1})",
+          "localeSeparator": "{0}, {1}",
+          "localeKeyTypePattern": "{0}: {1}"
+        },
+        "keys": {
+          "calendar": "calendariu",
+          "collation": "orde de clasificación",
+          "currency": "moneda",
+          "numbers": "númberos"
+        },
+        "types": {
+          "calendar": {
+            "buddhist": "calendariu budista",
+            "chinese": "calendariu chinu",
+            "coptic": "coptic",
+            "dangi": "calendariu dangi",
+            "ethiopic": "calendariu etíope",
+            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "gregorian": "calendariu gregorianu",
+            "hebrew": "calendariu hebréu",
+            "indian": "indian",
+            "islamic": "calendariu islámicu",
+            "islamic-civil": "islamic-civil",
+            "islamic-rgsa": "islamic-rgsa",
+            "islamic-tbla": "islamic-tbla",
+            "islamic-umalqura": "islamic-umalqura",
+            "iso8601": "calendariu ISO-8601",
+            "japanese": "calendariu xaponés",
+            "persian": "calendariu persa",
+            "roc": "calendariu republicanu chinu"
+          },
+          "collation": {
+            "big5han": "big5han",
+            "dictionary": "dictionary",
+            "ducet": "orde de clasificación Unicode predetermináu",
+            "eor": "eor",
+            "gb2312han": "gb2312han",
+            "phonebook": "phonebook",
+            "pinyin": "pinyin",
+            "reformed": "reformed",
+            "search": "gueta xeneral",
+            "searchjl": "searchjl",
+            "standard": "orde de clasificación estándar",
+            "stroke": "stroke",
+            "traditional": "traditional",
+            "unihan": "unihan",
+            "zhuyin": "zhuyin"
+          },
+          "numbers": {
+            "arab": "númberos arábico-índicos",
+            "arabext": "númberos arábico-índicos estendíos",
+            "armn": "númberos armenios",
+            "armnlow": "númberos armenios en minúscules",
+            "bali": "bali",
+            "beng": "númberos bengalinos",
+            "brah": "brah",
+            "cakm": "cakm",
+            "cham": "cham",
+            "deva": "númberos devanagari",
+            "ethi": "númberos etíopes",
+            "fullwide": "númberos n’anchu completu",
+            "geor": "númberos xeorxanos",
+            "grek": "númberos griegos",
+            "greklow": "númberos griegos en minúscules",
+            "gujr": "númberos gujarati",
+            "guru": "númberos gurmukhi",
+            "hanidec": "númberos decimales chinos",
+            "hans": "númberos chinos simplificaos",
+            "hansfin": "númberos chinos financieros simplificaos",
+            "hant": "númberos chinos tradicionales",
+            "hantfin": "númberos chinos financieros tradicionales",
+            "hebr": "númberos hebreos",
+            "java": "java",
+            "jpan": "númberos xaponeses",
+            "jpanfin": "númberos financieros xaponeses",
+            "kali": "kali",
+            "khmr": "numberación khmer",
+            "knda": "numberación kannada",
+            "lana": "lana",
+            "lanatham": "lanatham",
+            "laoo": "númberos laosianos",
+            "latn": "númberos occidentales",
+            "lepc": "lepc",
+            "limb": "limb",
+            "mlym": "númberos malayalam",
+            "mong": "mong",
+            "mtei": "mtei",
+            "mymr": "númberos myanmar",
+            "mymrshan": "mymrshan",
+            "nkoo": "nkoo",
+            "olck": "olck",
+            "orya": "númberos oriya",
+            "osma": "osma",
+            "roman": "númberos romanos",
+            "romanlow": "númberos romanos en minúscules",
+            "saur": "saur",
+            "shrd": "shrd",
+            "sora": "sora",
+            "sund": "sund",
+            "takr": "takr",
+            "talu": "talu",
+            "taml": "númberos tamil tradicionales",
+            "tamldec": "númberos tamil",
+            "telu": "númberos telugu",
+            "thai": "númberos tailandeses",
+            "tibt": "númberos tibetanos",
+            "vaii": "vaii"
+          }
+        },
+        "codePatterns": {
+          "language": "Llingua: {0}",
+          "script": "Alfabetu: {0}",
+          "territory": "Rexón: {0}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "main": {
+    "br": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11093 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+        },
+        "language": "br"
+      },
+      "localeDisplayNames": {
+        "variants": {
+          "1606NICT": "krenncʼhalleg",
+          "1694ACAD": "galleg rakvodern",
+          "1901": "reizhskrivadur alamanek hengounel",
+          "1959ACAD": "belaruseg akademek",
+          "1994": "reizhskrivadur resianek skoueriekaet",
+          "1996": "reizhskrivadur alamanek 1996",
+          "ALALC97": "romanekadur ALA-LC 1997",
+          "ALUKU": "rannyezh aloukou",
+          "AREVELA": "armenianeg ar Reter",
+          "AREVMDA": "armenianeg ar Cʼhornôg",
+          "BAKU1926": "lizherenneg latin turkek unvan",
+          "BALANKA": "BALANKA",
+          "BARLA": "BARLA",
+          "BAUDDHA": "sanskriteg hiron boudaat",
+          "BISCAYAN": "rannyezh euskarek Bizkaia",
+          "BISKE": "rannyezh San Giorgio/Bila",
+          "BOHORIC": "BOHORIC",
+          "BOONT": "boontling",
+          "DAJNKO": "DAJNKO",
+          "EKAVSK": "EKAVSK",
+          "EMODENG": "EMODENG",
+          "FONIPA": "lizherenneg fonetek etrebroadel",
+          "FONUPA": "lizherenneg fonetek ouralek",
+          "FONXSAMP": "treuzskrivadur X-SAMPA",
+          "HEPBURN": "romanekadur Hepburn",
+          "HOGNORSK": "uhelnorvegeg",
+          "IJEKAVSK": "IJEKAVSK",
+          "ITIHASA": "sanskriteg itihâsa",
+          "JAUER": "rannyezh romañchek Jauer",
+          "JYUTPING": "romanekadur kantonek Jyutping",
+          "KKCOR": "kerneveureg kumun",
+          "KOCIEWIE": "KOCIEWIE",
+          "KSCOR": "KSCOR",
+          "LAUKIKA": "sanskriteg klasel",
+          "LIPAW": "rannyezh resianek Lipovaz",
+          "LUNA1918": "reizhskrivadur rusianek goude 1917",
+          "METELKO": "METELKO",
+          "MONOTON": "gresianeg untonel",
+          "NDYUKA": "rannyezh Ndyuka",
+          "NEDIS": "rannyezh Natisone",
+          "NJIVA": "rannyezh Gniva/Njiva",
+          "NULIK": "NULIK",
+          "OSOJS": "rannyezh Oseacco/Osojane",
+          "PAMAKA": "rannyezh Pamaka",
+          "PETR1708": "reizhskrivadur rusianek 1708 Pêr I",
+          "PINYIN": "romanekadur pinyin",
+          "POLYTON": "gresianeg liestonel",
+          "POSIX": "POSIX",
+          "PUTER": "rannyezh romañchek Puter",
+          "REVISED": "reizhskrivadur reizhet",
+          "RIGIK": "RIGIK",
+          "ROZAJ": "resianeg",
+          "RUMGR": "romañcheg Grischun",
+          "SAAHO": "saho",
+          "SCOTLAND": "saozneg standart skos",
+          "SCOUSE": "scouse",
+          "SOLBA": "rannyezh Stolvizza/Solbica",
+          "SOTAV": "SOTAV",
+          "SURMIRAN": "rannyezh romañchek surmiran",
+          "SURSILV": "rannyezh romañchek sursilvan",
+          "SUTSILV": "rannyezh romañchek sutsilvan",
+          "TARASK": "belaruseg Taraskievica",
+          "UCCOR": "kerneveureg unvan",
+          "UCRCOR": "kerneveureg unvan reizhet",
+          "ULSTER": "rannyezh skotek Ulad",
+          "UNIFON": "UNIFON",
+          "VAIDIKA": "sanskriteg vedek",
+          "VALENCIA": "valensianeg",
+          "VALLADER": "rannyezh romañchek Vallader",
+          "WADEGILE": "romanekadur Wade-Giles"
+        }
+      }
+    }
+  }
+}

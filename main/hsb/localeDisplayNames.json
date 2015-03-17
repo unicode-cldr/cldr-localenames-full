@@ -1,0 +1,133 @@
+{
+  "main": {
+    "hsb": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11294 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+        },
+        "language": "hsb"
+      },
+      "localeDisplayNames": {
+        "localeDisplayPattern": {
+          "localePattern": "{0} ({1})",
+          "localeSeparator": "{0}, {1}",
+          "localeKeyTypePattern": "{0}: {1}"
+        },
+        "keys": {
+          "calendar": "protyka",
+          "collation": "rjadowanski slěd",
+          "currency": "měna",
+          "numbers": "ličby"
+        },
+        "types": {
+          "calendar": {
+            "buddhist": "buddhistiska protyka",
+            "chinese": "chinska protyka",
+            "coptic": "coptic",
+            "dangi": "dangi-protyka",
+            "ethiopic": "etiopiska protyka",
+            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "gregorian": "gregorianska protyka",
+            "hebrew": "židowska protyka",
+            "indian": "indian",
+            "islamic": "islamska protyka",
+            "islamic-civil": "islamic-civil",
+            "islamic-rgsa": "islamic-rgsa",
+            "islamic-tbla": "islamic-tbla",
+            "islamic-umalqura": "islamic-umalqura",
+            "iso8601": "protyka po iso-8601",
+            "japanese": "japanska protyka",
+            "persian": "persiska protyka",
+            "roc": "protyka republiki China"
+          },
+          "collation": {
+            "big5han": "big5han",
+            "dictionary": "dictionary",
+            "ducet": "rjadowanski slěd po Unicode",
+            "eor": "eor",
+            "gb2312han": "gb2312han",
+            "phonebook": "phonebook",
+            "pinyin": "pinyin",
+            "reformed": "reformed",
+            "search": "powšitkowne pytanje",
+            "searchjl": "searchjl",
+            "standard": "standardowy rjadowanski slěd",
+            "stroke": "stroke",
+            "traditional": "traditional",
+            "unihan": "unihan",
+            "zhuyin": "zhuyin"
+          },
+          "numbers": {
+            "arab": "arabsko-indiske cyfry",
+            "arabext": "rozšěrjene arabsko-indiske cyfry",
+            "armn": "armenske cyfry",
+            "armnlow": "armenske cyfry, małe pisane",
+            "bali": "bali",
+            "beng": "bengalske cyfry",
+            "brah": "brah",
+            "cakm": "cakm",
+            "cham": "cham",
+            "deva": "devanagari-cyfry",
+            "ethi": "etiopiske cyfry",
+            "fullwide": "połnošěroke cyfry",
+            "geor": "georgiske cyfry",
+            "grek": "grjekske cyfry",
+            "greklow": "grjekske cyfry, małe pisane",
+            "gujr": "gujarati-cyfry",
+            "guru": "gurmukhi-cyfry",
+            "hanidec": "chinske decimalne ličby",
+            "hans": "zjednorjene chinske cyfry",
+            "hansfin": "zjednorjene chinske financne cyfry",
+            "hant": "tradicionalne chinske cyfry",
+            "hantfin": "tradicionalne chinske financne cyfry",
+            "hebr": "hebrejske cyfry",
+            "java": "java",
+            "jpan": "japanske cyfry",
+            "jpanfin": "japanske financne cyfry",
+            "kali": "kali",
+            "khmr": "khmerske cyfry",
+            "knda": "kannadske cyfry",
+            "lana": "lana",
+            "lanatham": "lanatham",
+            "laoo": "laoske cyfry",
+            "latn": "arabske cyfry",
+            "lepc": "lepc",
+            "limb": "limb",
+            "mlym": "malayalamske cyfry",
+            "mong": "mong",
+            "mtei": "mtei",
+            "mymr": "burmaske cyfry",
+            "mymrshan": "mymrshan",
+            "nkoo": "nkoo",
+            "olck": "olck",
+            "orya": "oriya-cyfry",
+            "osma": "osma",
+            "roman": "romske cyfry",
+            "romanlow": "romske cyfry, małe pisane",
+            "saur": "saur",
+            "shrd": "shrd",
+            "sora": "sora",
+            "sund": "sund",
+            "takr": "takr",
+            "talu": "talu",
+            "taml": "tradicionalne tamilske cyfry",
+            "tamldec": "tamilske cyfry",
+            "telu": "telugu-cyfry",
+            "thai": "thailandske cyfry",
+            "tibt": "tibetske cyfry",
+            "vaii": "vaii"
+          }
+        },
+        "codePatterns": {
+          "language": "rěč: {0}",
+          "script": "pismo: {0}",
+          "territory": "region: {0}"
+        }
+      }
+    }
+  }
+}

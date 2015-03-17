@@ -1,0 +1,91 @@
+{
+  "main": {
+    "gsw-LI": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 10669 $"
+        },
+        "generation": {
+          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+        },
+        "language": "gsw",
+        "territory": "LI"
+      },
+      "localeDisplayNames": {
+        "variants": {
+          "1606NICT": "Schpaats Mittelfranzösisch",
+          "1694ACAD": "1694ACAD",
+          "1901": "Alti tüütschi Rächtschriibig",
+          "1959ACAD": "1959ACAD",
+          "1994": "Schtandardisierti Resianischi Rächtschriibig",
+          "1996": "Nööi tüütschi Rächtschriibig",
+          "ALALC97": "ALALC97",
+          "ALUKU": "ALUKU",
+          "AREVELA": "Oschtarmeenisch",
+          "AREVMDA": "Weschtarmeenisch",
+          "BAKU1926": "Äinheitlichs Türggischs Alfabeet",
+          "BALANKA": "BALANKA",
+          "BARLA": "BARLA",
+          "BAUDDHA": "BAUDDHA",
+          "BISCAYAN": "BISCAYAN",
+          "BISKE": "Bela-Tialäkt",
+          "BOHORIC": "BOHORIC",
+          "BOONT": "Boontling",
+          "DAJNKO": "DAJNKO",
+          "EKAVSK": "EKAVSK",
+          "EMODENG": "EMODENG",
+          "FONIPA": "Foneetisch (IPA)",
+          "FONUPA": "Foneetisch (UPA)",
+          "FONXSAMP": "FONXSAMP",
+          "HEPBURN": "HEPBURN",
+          "HOGNORSK": "HOGNORSK",
+          "IJEKAVSK": "IJEKAVSK",
+          "ITIHASA": "ITIHASA",
+          "JAUER": "JAUER",
+          "JYUTPING": "JYUTPING",
+          "KKCOR": "KKCOR",
+          "KOCIEWIE": "KOCIEWIE",
+          "KSCOR": "KSCOR",
+          "LAUKIKA": "LAUKIKA",
+          "LIPAW": "Lipowaz-Mundart",
+          "LUNA1918": "LUNA1918",
+          "METELKO": "METELKO",
+          "MONOTON": "Monotonisch",
+          "NDYUKA": "NDYUKA",
+          "NEDIS": "Natisone-Mundart",
+          "NJIVA": "Njiva-Mundart",
+          "NULIK": "NULIK",
+          "OSOJS": "Osojane-Mundart",
+          "PAMAKA": "PAMAKA",
+          "PETR1708": "PETR1708",
+          "PINYIN": "PINYIN",
+          "POLYTON": "Politonisch",
+          "POSIX": "Posix",
+          "PUTER": "PUTER",
+          "REVISED": "Nööi Rächtschriibig",
+          "RIGIK": "RIGIK",
+          "ROZAJ": "Resianisch",
+          "RUMGR": "RUMGR",
+          "SAAHO": "Saho",
+          "SCOTLAND": "Schottischs Schtandardänglisch",
+          "SCOUSE": "Scouse-Mundart",
+          "SOLBA": "Solbica-Mundart",
+          "SOTAV": "SOTAV",
+          "SURMIRAN": "SURMIRAN",
+          "SURSILV": "SURSILV",
+          "SUTSILV": "SUTSILV",
+          "TARASK": "Taraskievica-Rächtschriibig",
+          "UCCOR": "UCCOR",
+          "UCRCOR": "UCRCOR",
+          "ULSTER": "ULSTER",
+          "UNIFON": "UNIFON",
+          "VAIDIKA": "VAIDIKA",
+          "VALENCIA": "VALENCIA",
+          "VALLADER": "VALLADER",
+          "WADEGILE": "WADEGILE"
+        }
+      }
+    }
+  }
+}

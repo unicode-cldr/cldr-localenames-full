@@ -1,0 +1,133 @@
+{
+  "main": {
+    "gd": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11294 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+        },
+        "language": "gd"
+      },
+      "localeDisplayNames": {
+        "localeDisplayPattern": {
+          "localePattern": "{0} ({1})",
+          "localeSeparator": "{0}, {1}",
+          "localeKeyTypePattern": "{0}: {1}"
+        },
+        "keys": {
+          "calendar": "Mìosachan",
+          "collation": "Òrdugh an t-seòrsachaidh",
+          "currency": "Airgeadra",
+          "numbers": "Àireamhan"
+        },
+        "types": {
+          "calendar": {
+            "buddhist": "Am Mìosachan Budach",
+            "chinese": "Am Mìosachan Sìneach",
+            "coptic": "Am Mìosachan Coptach",
+            "dangi": "Mìosachan Dangi",
+            "ethiopic": "Mìosachan na h-Itioipe",
+            "ethiopic-amete-alem": "Mìosachan Itiopach Amete Alem",
+            "gregorian": "Am Mìosachan Griogarach",
+            "hebrew": "Am Mìosachan Eabhrach",
+            "indian": "Mìosachan Nàiseanta nan Innseachan",
+            "islamic": "Am Mìosachan Ioslamach",
+            "islamic-civil": "Am Mìosachan Ioslamach (clàrach, linn sìobhalta)",
+            "islamic-rgsa": "Am Mìosachan Ioslamach (arabia nan Sabhd, sealladh)",
+            "islamic-tbla": "Am Mìosachan Ioslamach (clàrach, linn reul-eòlach)",
+            "islamic-umalqura": "Am Mìosachan Ioslamach (Umm al-Qura)",
+            "iso8601": "Mìosachan ISO-8601",
+            "japanese": "Am Mìosachan Seapanach",
+            "persian": "Am Mìosachan Pearsach",
+            "roc": "Mìosachan Poblachd na Sìne"
+          },
+          "collation": {
+            "big5han": "Òrdugh seòrsachaidh na Sìnise Tradaiseanta - Big5",
+            "dictionary": "Òrdugh seòrsachaidh an fhaclair",
+            "ducet": "Òrdugh seòrsachaidh Unicode bunaiteach",
+            "eor": "Òrdugh seòrsachaidh Eòrpach",
+            "gb2312han": "Òrdugh seòrsachaidh na Sìnise Simplichte - GB2312",
+            "phonebook": "Òrdugh seòrsachaidh nan leabhraichean-fòn",
+            "pinyin": "Òrdugh seòrsachaidh Pinyin",
+            "reformed": "Òrdugh seòrsachaidh ath-leasaichte",
+            "search": "Lorg coitcheann",
+            "searchjl": "Lorg leis a’ chiad chonnrag Hangul",
+            "standard": "Òrdugh seòrsachaidh stannardach",
+            "stroke": "Òrdugh nan stràcan",
+            "traditional": "Òrdugh seòrsachaidh tradaiseanta",
+            "unihan": "Òrdugh an fhreumha ‘s nan stràcan",
+            "zhuyin": "Òrdugh seòrsachaidh Zhuyin"
+          },
+          "numbers": {
+            "arab": "Àireamhan Arabach-Innseanach",
+            "arabext": "Àireamhan Arabach-Innseanach leudaichte",
+            "armn": "Àireamhan na h-Airmeinise",
+            "armnlow": "Àireamhan beaga na h-Airmeinise",
+            "bali": "Àireamhan Bali",
+            "beng": "Àireamhan na Beangailise",
+            "brah": "brah",
+            "cakm": "cakm",
+            "cham": "cham",
+            "deva": "Àireamhan Devanagari",
+            "ethi": "Àireamhan Itiopach",
+            "fullwide": "Àireamhan làn-leud",
+            "geor": "Àireamhan na Cairtbheilise",
+            "grek": "Àireamhan na Greugaise",
+            "greklow": "Àireamhan beaga na Greugaise",
+            "gujr": "Àireamhan Gujarati",
+            "guru": "Àireamhan Gurmukhi",
+            "hanidec": "Àireamhan deicheach na Sìnise",
+            "hans": "Àireamhan na Sìnise Shimplichte",
+            "hansfin": "Àireamhan ionmhasail na Sìnise Shimplichte",
+            "hant": "Àireamhan na Sìnise Thradaiseanta",
+            "hantfin": "Àireamhan ionmhasail na Sìnise Thradaiseanta",
+            "hebr": "Àireamhan na h-Eabhra",
+            "java": "Àireamhan na Deàbhanaise",
+            "jpan": "Àireamhan na Seapanaise",
+            "jpanfin": "Àireamhan ionmhasail na Seapanaise",
+            "kali": "kali",
+            "khmr": "Àireamhan Cmèar",
+            "knda": "Àireamhan Kannada",
+            "lana": "lana",
+            "lanatham": "lanatham",
+            "laoo": "Àireamhan Làtho",
+            "latn": "Àireamhan Siarach",
+            "lepc": "lepc",
+            "limb": "limb",
+            "mlym": "Aìreamhan Malayalam",
+            "mong": "Àireamhan na Mongolaise",
+            "mtei": "mtei",
+            "mymr": "Àireamhan Miànmar",
+            "mymrshan": "mymrshan",
+            "nkoo": "nkoo",
+            "olck": "olck",
+            "orya": "Àireamhan Oriya",
+            "osma": "osma",
+            "roman": "Àireamhan Ròmanach",
+            "romanlow": "Àireamhan beaga Ròmanach",
+            "saur": "saur",
+            "shrd": "shrd",
+            "sora": "sora",
+            "sund": "sund",
+            "takr": "takr",
+            "talu": "talu",
+            "taml": "Àireamhan na Taimilise Tradaiseanta",
+            "tamldec": "Àireamhan na Taimilise",
+            "telu": "Àireamhan Telugu",
+            "thai": "Àireamhan Tàidh",
+            "tibt": "Àireamhan na Tibeitise",
+            "vaii": "vaii"
+          }
+        },
+        "codePatterns": {
+          "language": "Cànan: {0}",
+          "script": "Litreadh: {0}",
+          "territory": "Roinn-dùthcha: {0}"
+        }
+      }
+    }
+  }
+}

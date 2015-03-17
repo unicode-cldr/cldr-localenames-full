@@ -1,0 +1,90 @@
+{
+  "main": {
+    "lb": {
+      "identity": {
+        "version": {
+          "_cldrVersion": "27",
+          "_number": "$Revision: 11294 $"
+        },
+        "generation": {
+          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+        },
+        "language": "lb"
+      },
+      "localeDisplayNames": {
+        "variants": {
+          "1606NICT": "Spéit Mëttelfranséisch",
+          "1694ACAD": "Klassescht Franséisch",
+          "1901": "Al Däitsch Rechtschreiwung",
+          "1959ACAD": "Akademesch",
+          "1994": "Standardiséiert Resianesch Rechtschreiwung",
+          "1996": "Nei Däitsch Rechtschreiwung",
+          "ALALC97": "ALA-LC-Romaniséierung, Editioun vun 1997",
+          "ALUKU": "Aluku-Dialekt",
+          "AREVELA": "Ostarmenesch",
+          "AREVMDA": "Westarmenesch",
+          "BAKU1926": "Eenheetlecht Tierkescht Alphabet",
+          "BALANKA": "Balanka-Dialekt vun Anii",
+          "BARLA": "Barlavento-Dialektgrupp vu Kabuverdianu",
+          "BAUDDHA": "BAUDDHA",
+          "BISCAYAN": "BISCAYAN",
+          "BISKE": "Bela-Dialekt",
+          "BOHORIC": "Bohorič-Alphabet",
+          "BOONT": "Boontling",
+          "DAJNKO": "Dajnko-Alphabet",
+          "EKAVSK": "Serbesch mat Ekavian-Aussprooch",
+          "EMODENG": "Fréit Modernt Englesch",
+          "FONIPA": "Phonetesch (IPA)",
+          "FONUPA": "Phonetesch (UPA)",
+          "FONXSAMP": "FONXSAMP",
+          "HEPBURN": "Hepburn-Romaniséierung",
+          "HOGNORSK": "HOGNORSK",
+          "IJEKAVSK": "Serbesch mat Ijekavian-Aussprooch",
+          "ITIHASA": "ITIHASA",
+          "JAUER": "JAUER",
+          "JYUTPING": "JYUTPING",
+          "KKCOR": "Allgemeng Rechtschreiwung",
+          "KOCIEWIE": "KOCIEWIE",
+          "KSCOR": "Standard-Rechtschreiwung",
+          "LAUKIKA": "LAUKIKA",
+          "LIPAW": "Lipovaz-Dialekt",
+          "LUNA1918": "LUNA1918",
+          "METELKO": "Metelko-Alphabet",
+          "MONOTON": "Monotonesch",
+          "NDYUKA": "Ndyuka-Dialekt",
+          "NEDIS": "Natisone-Dialekt",
+          "NJIVA": "Njiva-Dialekt",
+          "NULIK": "Modernt Volapük",
+          "OSOJS": "Osojane-Dialekt",
+          "PAMAKA": "Pamaka-Dialekt",
+          "PETR1708": "PETR1708",
+          "PINYIN": "Pinyin",
+          "POLYTON": "Polytonesch",
+          "POSIX": "Computer",
+          "PUTER": "PUTER",
+          "REVISED": "Revidéiert Rechtschreiwung",
+          "RIGIK": "RIGIK",
+          "ROZAJ": "Resianesch",
+          "RUMGR": "RUMGR",
+          "SAAHO": "Saho",
+          "SCOTLAND": "Schottescht Standardenglesch",
+          "SCOUSE": "Scouse-Dialekt",
+          "SOLBA": "Solbica-Dialekt",
+          "SOTAV": "Sotavento-Dialekt-Grupp vu Kabuverdianu",
+          "SURMIRAN": "SURMIRAN",
+          "SURSILV": "SURSILV",
+          "SUTSILV": "SUTSILV",
+          "TARASK": "Taraskievica-Orthographie",
+          "UCCOR": "Vereenheetlecht Rechtschreiwung",
+          "UCRCOR": "Vereenheetlecht iwwerschafft Rechtschreiwung",
+          "ULSTER": "ULSTER",
+          "UNIFON": "Phonetescht Unifon-Alphabet",
+          "VAIDIKA": "VAIDIKA",
+          "VALENCIA": "Valencianesch",
+          "VALLADER": "VALLADER",
+          "WADEGILE": "Wade-Giles"
+        }
+      }
+    }
+  }
+}
