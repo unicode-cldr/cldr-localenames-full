@@ -4,5 +4,9 @@
   "dependencies": {
     "cldr-localenames-modern": "27.0.0"
   },
-  "main": "main/**/*.json"
+  "main": "main/**/*.json",
+  "ignore": [
+    ".gitattributes",
+    "README.md"
+  ]
 }
