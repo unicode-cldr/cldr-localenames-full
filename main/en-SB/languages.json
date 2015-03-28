@@ -3,7 +3,7 @@
     "en-SB": {
       "identity": {
         "version": {
-          "_cldrVersion": "27",
+          "_cldrVersion": "27.0.1",
           "_number": "$Revision: 10669 $"
         },
         "generation": {
