@@ -3,24 +3,23 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11974 $"
         },
         "language": "brx"
       },
       "localeDisplayNames": {
         "variants": {
-          "1606NICT": "मध्य फ्रांसीसी 1606 तक",
-          "1694ACAD": "1694ACAD",
           "1901": "पारम्पारिक जर्मन वर्तनी 1901",
-          "1959ACAD": "1959ACAD",
           "1994": "पारम्पारिक रेसीयन वर्तनी 1994",
           "1996": "जर्मन वर्तनी 1996",
+          "1606NICT": "मध्य फ्रांसीसी 1606 तक",
+          "1694ACAD": "1694ACAD",
+          "1959ACAD": "1959ACAD",
+          "ABL1943": "ABL1943",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
+          "AO1990": "AO1990",
           "AREVELA": "पूर्वी अर्मेनियाई",
           "AREVMDA": "AREVMDA",
           "BAKU1926": "युनीफाईड तुर्की लैटीनी वर्तनी",
@@ -31,6 +30,7 @@
           "BISKE": "सान जीओर्जीओ / बीला डायलेक्ट",
           "BOHORIC": "BOHORIC",
           "BOONT": "बुन्तलींग",
+          "COLB1945": "COLB1945",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
@@ -56,6 +56,7 @@
           "NJIVA": "ग्नीवा या न्जीवा डायलेक्ट",
           "NULIK": "NULIK",
           "OSOJS": "ओसेआको ओसोजाने डायलेक्ट",
+          "OXENDICT": "OXENDICT",
           "PAMAKA": "PAMAKA",
           "PETR1708": "PETR1708",
           "PINYIN": "PINYIN",

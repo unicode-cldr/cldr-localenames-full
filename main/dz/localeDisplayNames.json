@@ -3,11 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "dz"
       },
@@ -19,8 +16,12 @@
         },
         "keys": {
           "calendar": "ཟླ་ཐོ",
+          "cf": "cf",
           "collation": "གནས་སདུད་རིམ་ སགྲིག",
           "currency": "ཤོག་དངུལ",
+          "hc": "hc",
+          "lb": "lb",
+          "ms": "ms",
           "numbers": "ཨང་ཡིག"
         },
         "types": {
@@ -44,10 +45,16 @@
             "persian": "persian",
             "roc": "roc"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "big5han",
+            "compat": "compat",
             "dictionary": "dictionary",
             "ducet": "སྔ་སྒྲིག་ཡུ་ནི་ཀོཊ་གི་གོ་རིམ",
+            "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "gb2312han",
             "phonebook": "phonebook",
@@ -61,7 +68,24 @@
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
+          "hc": {
+            "h11": "h11",
+            "h12": "h12",
+            "h23": "h23",
+            "h24": "h24"
+          },
+          "lb": {
+            "loose": "loose",
+            "normal": "normal",
+            "strict": "strict"
+          },
+          "ms": {
+            "metric": "metric",
+            "uksystem": "uksystem",
+            "ussystem": "ussystem"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "ཨེ་ར་བིཀ་-ཨིན་ཌིཀ་ཨང",
             "arabext": "ཨེ་ར་བིཀ་-ཨིན་ཌིཀ་རྒྱ་སྐྱེད་ཨང",
             "armn": "ཨར་མི་ནི་ཡཱན་ཨང",
@@ -71,6 +95,7 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
+            "cyrl": "cyrl",
             "deva": "དེ་ཝ་ན་ག་རི་ཨང",
             "ethi": "ཨི་ཐི་ཡོ་པིཀ་ཨང་རྟགཨ",
             "fullwide": "རྒྱ་ཚད་གང་བའི་ཨང",
@@ -85,6 +110,7 @@
             "hant": "སྔ་དུས་རྒྱ་མིའི་ཨང་རྟགས",
             "hantfin": "སྔ་དུས་རྒྱ་མིའི་གི་དངུལ་འབྲེལ་ཨང་རྟགས",
             "hebr": "ཧེ་བྲུ་ཨང་རྟགས",
+            "hmng": "hmng",
             "java": "java",
             "jpan": "ཇཱ་པཱན་ནིས་ཨང་རྟགས",
             "jpanfin": "ཇཱ་པཱན་ནིས་དངུལ་འབྲེལ་ཨང་རྟགས",
@@ -97,11 +123,19 @@
             "latn": "ཕྱི་གླིང་པའི་ཨང",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "མ་ལ་ཡ་ལམ་ཨང་",
+            "modi": "modi",
             "mong": "mong",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "མི་ཡཱན་མར་ཨང་",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "ཨོ་རི་ཡ་ཨང་",
@@ -110,6 +144,8 @@
             "romanlow": "རོ་མཱན་གྱི་མགྱོགས་ཡིག་ཨང་རྟགས",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
             "takr": "takr",
@@ -119,7 +155,9 @@
             "telu": "ཏེ་ལུ་གུ་ཨང",
             "thai": "ཐཱའི་ཨང",
             "tibt": "ང་བཅས་ཀྱི་ཨང་ཡིག",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

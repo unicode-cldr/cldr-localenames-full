@@ -3,18 +3,15 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11042 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-10-31 12:11:19 -0500 (Fri, 31 Oct 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "nn"
       },
       "localeDisplayNames": {
         "scripts": {
-          "Afak": "Afak",
           "Aghb": "Aghb",
+          "Ahom": "Ahom",
           "Arab": "arabisk",
           "Armi": "armisk",
           "Armn": "armensk",
@@ -63,6 +60,7 @@
           "Hans-alt-stand-alone": "Hans",
           "Hant": "tradisjonell kinesisk",
           "Hant-alt-stand-alone": "Hant",
+          "Hatr": "Hatr",
           "Hebr": "hebraisk",
           "Hira": "hiragana",
           "Hluw": "Hluw",
@@ -73,7 +71,6 @@
           "Ital": "gammalitalisk",
           "Java": "javanesisk",
           "Jpan": "japansk",
-          "Jurc": "Jurc",
           "Kali": "kayah li",
           "Kana": "katakana",
           "Khar": "kharoshthi",
@@ -81,7 +78,6 @@
           "Khoj": "Khoj",
           "Knda": "kannada",
           "Kore": "koreansk",
-          "Kpel": "Kpel",
           "Kthi": "kaithisk",
           "Lana": "lanna",
           "Laoo": "laotisk",
@@ -93,7 +89,6 @@
           "Lina": "lineær A",
           "Linb": "lineær B",
           "Lisu": "Lisu",
-          "Loma": "Loma",
           "Lyci": "lykisk",
           "Lydi": "lydisk",
           "Mahj": "Mahj",
@@ -109,12 +104,11 @@
           "Moon": "moon",
           "Mroo": "Mroo",
           "Mtei": "meitei-mayek",
+          "Mult": "Mult",
           "Mymr": "myanmar",
           "Narb": "Narb",
           "Nbat": "Nbat",
-          "Nkgb": "Nkgb",
           "Nkoo": "n’ko",
-          "Nshu": "Nshu",
           "Ogam": "ogham",
           "Olck": "ol-chiki",
           "Orkh": "orkhon",
@@ -204,7 +198,6 @@
           "Tale": "tai le",
           "Talu": "ny tai lue",
           "Taml": "tamilsk",
-          "Tang": "Tang",
           "Tavt": "tai viet",
           "Telu": "telugu",
           "Teng": "tengwar",
@@ -218,7 +211,6 @@
           "Vaii": "vai",
           "Visp": "synleg tale",
           "Wara": "Wara",
-          "Wole": "Wole",
           "Xpeo": "gammalpersisk",
           "Xsux": "sumero-akkadisk kileskrift",
           "Yiii": "yi",

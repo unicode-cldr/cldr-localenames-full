@@ -3,11 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 12004 $"
         },
         "language": "gd"
       },
@@ -19,8 +16,12 @@
         },
         "keys": {
           "calendar": "Mìosachan",
+          "cf": "cf",
           "collation": "Òrdugh an t-seòrsachaidh",
           "currency": "Airgeadra",
+          "hc": "Cearcall an ama (12 no 24 uair)",
+          "lb": "Stoidhle nam brisidhean-loidhe",
+          "ms": "Siostam tomhais",
           "numbers": "Àireamhan"
         },
         "types": {
@@ -36,7 +37,7 @@
             "indian": "Mìosachan Nàiseanta nan Innseachan",
             "islamic": "Am Mìosachan Ioslamach",
             "islamic-civil": "Am Mìosachan Ioslamach (clàrach, linn sìobhalta)",
-            "islamic-rgsa": "Am Mìosachan Ioslamach (arabia nan Sabhd, sealladh)",
+            "islamic-rgsa": "Am Mìosachan Ioslamach (Aràibia nan Sabhd, sealladh)",
             "islamic-tbla": "Am Mìosachan Ioslamach (clàrach, linn reul-eòlach)",
             "islamic-umalqura": "Am Mìosachan Ioslamach (Umm al-Qura)",
             "iso8601": "Mìosachan ISO-8601",
@@ -44,10 +45,16 @@
             "persian": "Am Mìosachan Pearsach",
             "roc": "Mìosachan Poblachd na Sìne"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "Òrdugh seòrsachaidh na Sìnise Tradaiseanta - Big5",
+            "compat": "Òrdugh seòrsachaidh roimhe a chum co-chòrdalachd",
             "dictionary": "Òrdugh seòrsachaidh an fhaclair",
             "ducet": "Òrdugh seòrsachaidh Unicode bunaiteach",
+            "emoji": "Òrdugh seòrsachaidh Emoji",
             "eor": "Òrdugh seòrsachaidh Eòrpach",
             "gb2312han": "Òrdugh seòrsachaidh na Sìnise Simplichte - GB2312",
             "phonebook": "Òrdugh seòrsachaidh nan leabhraichean-fòn",
@@ -58,19 +65,37 @@
             "standard": "Òrdugh seòrsachaidh stannardach",
             "stroke": "Òrdugh nan stràcan",
             "traditional": "Òrdugh seòrsachaidh tradaiseanta",
-            "unihan": "Òrdugh an fhreumha ‘s nan stràcan",
+            "unihan": "Òrdugh an fhreumha ’s nan stràcan",
             "zhuyin": "Òrdugh seòrsachaidh Zhuyin"
           },
+          "hc": {
+            "h11": "Cleoc 12 uair a thìde (0–11)",
+            "h12": "Cleoc 12 uair a thìde (1–12)",
+            "h23": "Cleoc 24 uair a thìde (0–23)",
+            "h24": "Cleoc 24 uair a thìde (1–24)"
+          },
+          "lb": {
+            "loose": "Brisidhean-loidhe fuasgailte",
+            "normal": "Brisidhean-loidhe àbhaisteach",
+            "strict": "Brisidhean-loidhe teanna"
+          },
+          "ms": {
+            "metric": "Tomhas meatrach",
+            "uksystem": "Tomhas impireil",
+            "ussystem": "Tomhas nan Stàitean Aonaichte"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "Àireamhan Arabach-Innseanach",
             "arabext": "Àireamhan Arabach-Innseanach leudaichte",
             "armn": "Àireamhan na h-Airmeinise",
             "armnlow": "Àireamhan beaga na h-Airmeinise",
             "bali": "Àireamhan Bali",
             "beng": "Àireamhan na Beangailise",
-            "brah": "brah",
-            "cakm": "cakm",
-            "cham": "cham",
+            "brah": "Àireamhan Brahmi",
+            "cakm": "Àireamhan Chakma",
+            "cham": "Àireamhan Cham",
+            "cyrl": "cyrl",
             "deva": "Àireamhan Devanagari",
             "ethi": "Àireamhan Itiopach",
             "fullwide": "Àireamhan làn-leud",
@@ -85,41 +110,54 @@
             "hant": "Àireamhan na Sìnise Thradaiseanta",
             "hantfin": "Àireamhan ionmhasail na Sìnise Thradaiseanta",
             "hebr": "Àireamhan na h-Eabhra",
+            "hmng": "hmng",
             "java": "Àireamhan na Deàbhanaise",
             "jpan": "Àireamhan na Seapanaise",
             "jpanfin": "Àireamhan ionmhasail na Seapanaise",
-            "kali": "kali",
+            "kali": "Àireamhan Kayah Li",
             "khmr": "Àireamhan Cmèar",
             "knda": "Àireamhan Kannada",
-            "lana": "lana",
-            "lanatham": "lanatham",
+            "lana": "Àireamhan Tai Tham Hora",
+            "lanatham": "Àireamhan Tai Tham Tham",
             "laoo": "Àireamhan Làtho",
             "latn": "Àireamhan Siarach",
-            "lepc": "lepc",
-            "limb": "limb",
-            "mlym": "Aìreamhan Malayalam",
+            "lepc": "Àireamhan Lepcha",
+            "limb": "Àireamhan Limbu",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
+            "mlym": "Àireamhan Malayalam",
+            "modi": "modi",
             "mong": "Àireamhan na Mongolaise",
-            "mtei": "mtei",
+            "mroo": "mroo",
+            "mtei": "Àireamhan Meetei Mayek",
             "mymr": "Àireamhan Miànmar",
-            "mymrshan": "mymrshan",
-            "nkoo": "nkoo",
-            "olck": "olck",
+            "mymrshan": "Àireamhan Shan Miànmar",
+            "mymrtlng": "mymrtlng",
+            "nkoo": "Àireamhan N’Ko",
+            "olck": "Àireamhan Ol Chiki",
             "orya": "Àireamhan Oriya",
-            "osma": "osma",
+            "osma": "Àireamhan Osmanya",
             "roman": "Àireamhan Ròmanach",
             "romanlow": "Àireamhan beaga Ròmanach",
-            "saur": "saur",
-            "shrd": "shrd",
-            "sora": "sora",
-            "sund": "sund",
-            "takr": "takr",
-            "talu": "talu",
+            "saur": "Àireamhan Saurashtra",
+            "shrd": "Àireamhan Sharada",
+            "sind": "sind",
+            "sinh": "sinh",
+            "sora": "Àireamhan Sora Sompeng",
+            "sund": "Àireamhan Sunda",
+            "takr": "Àireamhan Takri",
+            "talu": "Àireamhan Tai Lue Ùr",
             "taml": "Àireamhan na Taimilise Tradaiseanta",
             "tamldec": "Àireamhan na Taimilise",
             "telu": "Àireamhan Telugu",
             "thai": "Àireamhan Tàidh",
             "tibt": "Àireamhan na Tibeitise",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "Àireamhan Vai",
+            "wara": "wara"
           }
         },
         "codePatterns": {

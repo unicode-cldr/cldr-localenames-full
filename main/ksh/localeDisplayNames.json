@@ -3,11 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10753 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-11 11:10:03 -0500 (Mon, 11 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ksh"
       },
@@ -19,8 +16,12 @@
         },
         "keys": {
           "calendar": "dä Kalländer",
+          "cf": "cf",
           "collation": "de Reijefollsch zom Zotiere",
           "currency": "de Zoot Jeld",
+          "hc": "hc",
+          "lb": "lb",
+          "ms": "ms",
           "numbers": "de Nummere"
         },
         "types": {
@@ -44,10 +45,16 @@
             "persian": "pärsesche Kaländer",
             "roc": "rotschineesesche Kaländer"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "zoteert nohm tradizjonäll schineesesch Big5",
+            "compat": "compat",
             "dictionary": "zoteert wi em Wööterbooch",
             "ducet": "standattmääßesch zoteert nohm Unicode",
+            "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "zoteert nohm eijfacher schineesesch GB2312",
             "phonebook": "zoteert wi em Tollefoonbooch",
@@ -61,7 +68,24 @@
             "unihan": "zoteert noh de Radikaale un Stresche vum Schineesesch",
             "zhuyin": "zhuyin"
           },
+          "hc": {
+            "h11": "h11",
+            "h12": "h12",
+            "h23": "h23",
+            "h24": "h24"
+          },
+          "lb": {
+            "loose": "loose",
+            "normal": "normal",
+            "strict": "strict"
+          },
+          "ms": {
+            "metric": "metric",
+            "uksystem": "uksystem",
+            "ussystem": "ussystem"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "araabesche un indesche Zeffere",
             "arabext": "ußjedehnt araabesche un indesche Zeffere",
             "armn": "armeenesche Zahle",
@@ -71,6 +95,7 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
+            "cyrl": "cyrl",
             "deva": "Devanagari-Zeffere",
             "ethi": "ätejoopesche Zahle",
             "fullwide": "janz breede Zeffere",
@@ -85,6 +110,7 @@
             "hant": "tradizjonälle schineesesche Zahle",
             "hantfin": "tradizjonälle schineesesche Finanzzahle",
             "hebr": "hebräjesche Zahle",
+            "hmng": "hmng",
             "java": "java",
             "jpan": "japanesche Zahle",
             "jpanfin": "japaanesche Finazzahle",
@@ -97,11 +123,19 @@
             "latn": "wäßlejje Zeffere",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "Malayalam-Zeffere",
+            "modi": "modi",
             "mong": "mongjoolesche Zeffere",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "Myanmar-Zeffere",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "Oriya-Zeffere",
@@ -110,6 +144,8 @@
             "romanlow": "klein jeschrevve römesche Zahle",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
             "takr": "takr",
@@ -119,7 +155,9 @@
             "telu": "Teluju-Zeffere",
             "thai": "thailändesche Zeffere",
             "tibt": "tibetaanesche Zeffere",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

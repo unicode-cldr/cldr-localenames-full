@@ -3,18 +3,15 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "or"
       },
       "localeDisplayNames": {
         "scripts": {
-          "Afak": "Afak",
           "Aghb": "Aghb",
+          "Ahom": "Ahom",
           "Arab": "ଆରବିକ୍",
           "Armi": "ଇମ୍ପେରିଆଲ୍ ଆରମିକ୍",
           "Armn": "ଆର୍ମେନିଆନ୍",
@@ -63,6 +60,7 @@
           "Hans-alt-stand-alone": "Hans",
           "Hant": "ପାରମ୍ପରିକ୍ ହାନ୍",
           "Hant-alt-stand-alone": "Hant",
+          "Hatr": "Hatr",
           "Hebr": "ହେବ୍ର୍ୟୁ",
           "Hira": "ହିରାଗାନା",
           "Hluw": "Hluw",
@@ -73,7 +71,6 @@
           "Ital": "ପୁରୁଣା ଇଟାଲୀ",
           "Java": "ଜାଭାନୀଜ୍",
           "Jpan": "ଜାପାନୀଜ୍",
-          "Jurc": "Jurc",
           "Kali": "କାୟାହା ଲୀ",
           "Kana": "କାଟକାନ୍",
           "Khar": "ଖାରୋସ୍ଥି",
@@ -81,7 +78,6 @@
           "Khoj": "Khoj",
           "Knda": "କନ୍ନଡ",
           "Kore": "କୋରିଆନ୍",
-          "Kpel": "Kpel",
           "Kthi": "କୈଥି",
           "Lana": "ଲାନା",
           "Laoo": "ଲାଓ",
@@ -93,7 +89,6 @@
           "Lina": "ଲିନିୟର୍",
           "Linb": "ଲିନିୟର୍ ବି",
           "Lisu": "Lisu",
-          "Loma": "Loma",
           "Lyci": "ଲିଶିୟନ୍",
           "Lydi": "ଲିଡିୟନ୍",
           "Mahj": "Mahj",
@@ -109,12 +104,11 @@
           "Moon": "ଚନ୍ଦ୍ର",
           "Mroo": "Mroo",
           "Mtei": "ମାଏତି ମାୟେକ୍",
+          "Mult": "Mult",
           "Mymr": "ମିଆମାର୍",
           "Narb": "Narb",
           "Nbat": "Nbat",
-          "Nkgb": "Nkgb",
           "Nkoo": "ଏନ୍ କୋ",
-          "Nshu": "Nshu",
           "Ogam": "ଓଘାମା",
           "Olck": "ଓଲ୍ ଚିକି",
           "Orkh": "ଓରୋଖନ୍",
@@ -204,7 +198,6 @@
           "Tale": "ତାଇ ଲେ",
           "Talu": "ନୂତନ ତାଇ ଲୁଏ",
           "Taml": "ତାମିଲ୍",
-          "Tang": "Tang",
           "Tavt": "ତାଇ ଭିଏତ୍",
           "Telu": "ତେଲୁଗୁ",
           "Teng": "ତେଙ୍ଗୱାର୍",
@@ -218,7 +211,6 @@
           "Vaii": "ୱାଇ",
           "Visp": "ଭିଜିବଲ୍ ସ୍ପିଚ୍",
           "Wara": "Wara",
-          "Wole": "Wole",
           "Xpeo": "ପୁରୁଣା ଫରାସୀ",
           "Xsux": "ସୁମେରୋ-ଆକ୍କାଡିଆନ୍ ସୁନିଫର୍ମ",
           "Yiii": "ୟୀ",

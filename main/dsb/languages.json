@@ -3,11 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "dsb"
       },
@@ -55,7 +52,6 @@
           "ay": "aymaršćina",
           "az": "azerbajdžanšćina",
           "az-alt-short": "az",
-          "azb": "azb",
           "ba": "baškiršćina",
           "bal": "bal",
           "ban": "ban",
@@ -72,6 +68,7 @@
           "bfd": "bfd",
           "bfq": "bfq",
           "bg": "bulgaršćina",
+          "bgn": "bgn",
           "bho": "bho",
           "bi": "bislamšćina",
           "bik": "bik",
@@ -333,6 +330,7 @@
           "lo": "laošćina",
           "lol": "lol",
           "loz": "loz",
+          "lrc": "lrc",
           "lt": "litawšćina",
           "ltg": "ltg",
           "lu": "luba-katanga",
@@ -354,6 +352,7 @@
           "mas": "masaišćina",
           "mde": "mde",
           "mdf": "mdf",
+          "mdh": "mdh",
           "mdr": "mdr",
           "men": "men",
           "mer": "meru",
@@ -366,6 +365,7 @@
           "mi": "maorišćina",
           "mic": "mic",
           "min": "min",
+          "mis": "mis",
           "mk": "makedońšćina",
           "ml": "malajamšćina",
           "mn": "mongolšćina",
@@ -394,6 +394,7 @@
           "nb": "norwegske bokmål",
           "nd": "pódpołnocne ndebele",
           "nds": "dolnonimšćina",
+          "nds-NL": "dolnonimšćina (Nižozemska)",
           "ne": "nepalšćina",
           "new": "new",
           "ng": "ng",
@@ -487,6 +488,7 @@
           "sco": "sco",
           "sd": "sindšćina",
           "sdc": "sdc",
+          "sdh": "sdh",
           "se": "lapšćina",
           "see": "see",
           "seh": "sena",
@@ -597,6 +599,7 @@
           "wal": "wal",
           "war": "war",
           "was": "was",
+          "wbp": "wbp",
           "wo": "wolof",
           "wuu": "wuu",
           "xal": "xal",

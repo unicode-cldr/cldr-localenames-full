@@ -3,11 +3,8 @@
     "kln": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11139 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-19 23:55:17 -0600 (Mon, 19 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "kln"
       },

@@ -3,11 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "lb"
       },
@@ -89,8 +86,8 @@
           "CG": "Kongo-Brazzaville",
           "CG-alt-variant": "Kongo (Republik)",
           "CH": "Schwäiz",
-          "CI": "Elfebeeküst",
-          "CI-alt-variant": "Côte d’Ivoire",
+          "CI": "Côte d’Ivoire",
+          "CI-alt-variant": "Elfebeeküst",
           "CK": "Cookinselen",
           "CL": "Chile",
           "CM": "Kamerun",

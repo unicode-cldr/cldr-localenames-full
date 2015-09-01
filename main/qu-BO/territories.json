@@ -3,11 +3,8 @@
     "qu-BO": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10671 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 17:52:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "qu",
         "territory": "BO"
@@ -67,7 +64,7 @@
           "BE": "Bélgica",
           "BF": "BF",
           "BG": "Bulgaria",
-          "BH": "Bahréin",
+          "BH": "Baréin",
           "BI": "Burundi",
           "BJ": "Benín",
           "BL": "BL",
@@ -90,7 +87,7 @@
           "CG": "Congo",
           "CG-alt-variant": "CG",
           "CH": "Suiza",
-          "CI": "Côte dʼIvoire",
+          "CI": "Côte d’Ivoire",
           "CI-alt-variant": "CI",
           "CK": "CK",
           "CL": "Chile",
@@ -134,7 +131,7 @@
           "GD": "GD",
           "GE": "GE",
           "GF": "GF",
-          "GG": "Guernsey",
+          "GG": "Guernesey",
           "GH": "Ghana",
           "GI": "GI",
           "GL": "GL",
@@ -146,7 +143,7 @@
           "GS": "GS",
           "GT": "Guatemala",
           "GU": "Guam",
-          "GW": "Guinea-Bissau",
+          "GW": "Guinea-Bisáu",
           "GY": "Guyana",
           "HK": "Hong Kong (RAE)",
           "HK-alt-short": "HK",
@@ -162,7 +159,7 @@
           "IM": "IM",
           "IN": "India",
           "IO": "IO",
-          "IQ": "Iraq",
+          "IQ": "Irak",
           "IR": "Irán",
           "IS": "Islandia",
           "IT": "Italia",
@@ -180,7 +177,7 @@
           "KR": "Corea del Sur",
           "KW": "Kuwait",
           "KY": "KY",
-          "KZ": "Kazajistan",
+          "KZ": "Kazajistán",
           "LA": "Laos",
           "LB": "Líbano",
           "LC": "LC",
@@ -276,7 +273,7 @@
           "TA": "TA",
           "TC": "TC",
           "TD": "Chad",
-          "TF": "Tierras Australes y Antárticas Francesas",
+          "TF": "Territorios Australes Franceses",
           "TG": "Togo",
           "TH": "Tailandia",
           "TJ": "Tayikistán",
@@ -305,7 +302,7 @@
           "VI": "EE.UU. Islas Vírgenes",
           "VN": "Vietnam",
           "VU": "Vanuatu",
-          "WF": "Wallis, Futuna",
+          "WF": "Wallis y Futuna",
           "WS": "Samoa",
           "XK": "XK",
           "YE": "Yemen",

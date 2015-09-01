@@ -3,11 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ee"
       },
@@ -82,7 +79,7 @@
           "BW": "Botswana nutome",
           "BY": "Belarus nutome",
           "BZ": "Belize nutome",
-          "CA": "Kanada nutome",
+          "CA": "Canada nutome",
           "CC": "Kokos (Kiling) fudomekpo nutome",
           "CD": "Kongo Kinshasa nutome",
           "CD-alt-variant": "Kongo demokratik repɔblik nutome",
@@ -118,7 +115,7 @@
           "EG": "Egypte nutome",
           "EH": "Ɣetoɖoƒe Sahara nutome",
           "ER": "Eritrea nutome",
-          "ES": "Spania nutome",
+          "ES": "Spain nutome",
           "ET": "Etiopia nutome",
           "EU": "Europa Wɔɖeka nutome",
           "FI": "Finland nutome",
@@ -127,7 +124,7 @@
           "FK-alt-variant": "Falkland ƒudomekpowo (Islas Malvinas) nutome",
           "FM": "Mikronesia nutome",
           "FO": "Faroe ƒudomekpowo nutome",
-          "FR": "Frans nutome",
+          "FR": "France nutome",
           "GA": "Gabɔn nutome",
           "GB": "United Kingdom nutome",
           "GB-alt-short": "GB",
@@ -142,7 +139,7 @@
           "GN": "Guini nutome",
           "GP": "Guadelupe nutome",
           "GQ": "Ekuatorial Guini nutome",
-          "GR": "Grisi nutome",
+          "GR": "Greece nutome",
           "GS": "Anyiehe Georgia kple Anyiehe Sandwich ƒudomekpowo nutome",
           "GT": "Guatemala nutome",
           "GU": "Guam nutome",
@@ -214,7 +211,7 @@
           "MU": "mauritiusdukɔ",
           "MV": "maldivesdukɔ",
           "MW": "Malawi nutome",
-          "MX": "Meksico nutome",
+          "MX": "Mexico nutome",
           "MY": "Malaysia nutome",
           "MZ": "Mozambiki nutome",
           "NA": "Namibia nutome",
@@ -223,7 +220,7 @@
           "NF": "Norfolk ƒudomekpo nutome",
           "NG": "Nigeria nutome",
           "NI": "Nicaraguadukɔ",
-          "NL": "Nedalands nutome",
+          "NL": "Netherlands nutome",
           "NO": "Norway nutome",
           "NP": "Nepal nutome",
           "NR": "Nauru nutome",
@@ -278,7 +275,7 @@
           "TD": "Tsad nutome",
           "TF": "Anyiehe Franseme nutome",
           "TG": "Togo nutome",
-          "TH": "Tailand nutome",
+          "TH": "Thailand nutome",
           "TJ": "Tajikistan nutome",
           "TK": "Tokelau nutome",
           "TL": "Timor-Leste nutome",
@@ -310,7 +307,7 @@
           "XK": "XK",
           "YE": "Yemen nutome",
           "YT": "Mayotte nutome",
-          "ZA": "Anyiehe Afrika nutome",
+          "ZA": "Anyiehe Africa nutome",
           "ZM": "Zambia nutome",
           "ZW": "Zimbabwe nutome",
           "ZZ": "nutome manya"

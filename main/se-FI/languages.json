@@ -3,11 +3,8 @@
     "se-FI": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10819 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-14 22:53:08 -0500 (Thu, 14 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "se",
         "territory": "FI"
@@ -56,7 +53,6 @@
           "ay": "ay",
           "az": "az",
           "az-alt-short": "az",
-          "azb": "azb",
           "ba": "ba",
           "bal": "bal",
           "ban": "ban",
@@ -73,6 +69,7 @@
           "bfd": "bfd",
           "bfq": "bfq",
           "bg": "bulgáriagiella",
+          "bgn": "bgn",
           "bho": "bho",
           "bi": "bi",
           "bik": "bik",
@@ -334,6 +331,7 @@
           "lo": "laogiella",
           "lol": "lol",
           "loz": "loz",
+          "lrc": "lrc",
           "lt": "liettuvagiella",
           "ltg": "ltg",
           "lu": "lu",
@@ -355,6 +353,7 @@
           "mas": "mas",
           "mde": "mde",
           "mdf": "mokšagiella",
+          "mdh": "mdh",
           "mdr": "mdr",
           "men": "men",
           "mer": "mer",
@@ -367,6 +366,7 @@
           "mi": "maorigiella",
           "mic": "mic",
           "min": "min",
+          "mis": "mis",
           "mk": "makedoniagiella",
           "ml": "ml",
           "mn": "mongoliagiella",
@@ -395,6 +395,7 @@
           "nb": "girjedárogiella",
           "nd": "nd",
           "nds": "nds",
+          "nds-NL": "nds (Vuolleeatnamat)",
           "ne": "nepalagiella",
           "new": "new",
           "ng": "ng",
@@ -488,6 +489,7 @@
           "sco": "sco",
           "sd": "sd",
           "sdc": "sdc",
+          "sdh": "sdh",
           "se": "davvisámegiella",
           "see": "see",
           "seh": "seh",
@@ -598,6 +600,7 @@
           "wal": "wal",
           "war": "war",
           "was": "was",
+          "wbp": "wbp",
           "wo": "wo",
           "wuu": "wuu",
           "xal": "xal",

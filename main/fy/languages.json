@@ -3,11 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "fy"
       },
@@ -55,7 +52,6 @@
           "ay": "Aymara",
           "az": "Azerbeidzjaansk",
           "az-alt-short": "Azeri",
-          "azb": "azb",
           "ba": "Basjkiersk",
           "bal": "Baloetsjysk",
           "ban": "Balineesk",
@@ -72,6 +68,7 @@
           "bfd": "Bafut",
           "bfq": "bfq",
           "bg": "Bulgaarsk",
+          "bgn": "bgn",
           "bho": "Bhojpuri",
           "bi": "Bislama",
           "bik": "Bikol",
@@ -158,9 +155,9 @@
           "en-AU": "Australysk Ingelsk",
           "en-CA": "Kanadeesk Ingelsk",
           "en-GB": "Britsk Ingelsk",
-          "en-GB-alt-short": "en_GB",
+          "en-GB-alt-short": "Ingelsk (VK)",
           "en-US": "Amerikaansk Ingelsk",
-          "en-US-alt-short": "en_US",
+          "en-US-alt-short": "Ingelsk (VS)",
           "enm": "Middelingelsk",
           "eo": "Esperanto",
           "es": "Spaansk",
@@ -333,6 +330,7 @@
           "lo": "Laotiaansk",
           "lol": "Mongo",
           "loz": "Lozi",
+          "lrc": "lrc",
           "lt": "Litouws",
           "ltg": "ltg",
           "lu": "Luba-Katanga",
@@ -354,6 +352,7 @@
           "mas": "Masai",
           "mde": "Maba",
           "mdf": "Moksha",
+          "mdh": "mdh",
           "mdr": "Mandar",
           "men": "Mende",
           "mer": "Meru",
@@ -366,6 +365,7 @@
           "mi": "Maori",
           "mic": "Mi’kmaq",
           "min": "Minangkabau",
+          "mis": "mis",
           "mk": "Macedonysk",
           "ml": "Malayalam",
           "mn": "Mongools",
@@ -394,6 +394,7 @@
           "nb": "Noors - Bokmål",
           "nd": "Noard-Ndbele",
           "nds": "Laagduits",
+          "nds-NL": "Laagduits (Nederlân)",
           "ne": "Nepalees",
           "new": "Newari",
           "ng": "Ndonga",
@@ -488,6 +489,7 @@
           "sco": "Schots",
           "sd": "Sindhi",
           "sdc": "sdc",
+          "sdh": "sdh",
           "se": "Noard-Samysk",
           "see": "Seneca",
           "seh": "Sena",
@@ -598,6 +600,7 @@
           "wal": "Walamo",
           "war": "Waray",
           "was": "Washo",
+          "wbp": "wbp",
           "wo": "Wolof",
           "wuu": "wuu",
           "xal": "Kalmyk",

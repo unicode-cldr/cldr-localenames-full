@@ -3,11 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10753 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-11 11:10:03 -0500 (Mon, 11 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ksh"
       },
@@ -55,7 +52,7 @@
           "ay": "Aimahresch",
           "az": "Asserbaidschahnesch",
           "az-alt-short": "az",
-          "azb": "Södasserbaidschahnesch",
+          "az-Arab": "Södasserbaidschahnesch",
           "ba": "Baschkihresch",
           "bal": "Beluhtschesch",
           "ban": "Balinehsesch",
@@ -72,6 +69,7 @@
           "bfd": "bfd",
           "bfq": "bfq",
           "bg": "Bulljaaresch",
+          "bgn": "bgn",
           "bho": "bho",
           "bi": "bi",
           "bik": "bik",
@@ -333,6 +331,7 @@
           "lo": "Lahootesch",
           "lol": "lol",
           "loz": "loz",
+          "lrc": "lrc",
           "lt": "Littouesch",
           "ltg": "ltg",
           "lu": "lu",
@@ -354,6 +353,7 @@
           "mas": "mas",
           "mde": "mde",
           "mdf": "mdf",
+          "mdh": "mdh",
           "mdr": "mdr",
           "men": "men",
           "mer": "mer",
@@ -366,6 +366,7 @@
           "mi": "Maahori",
           "mic": "mic",
           "min": "min",
+          "mis": "mis",
           "mk": "Mazedoonesch",
           "ml": "Mallajalam",
           "mn": "Mongjolesch",
@@ -394,6 +395,7 @@
           "nb": "Norrweejesch Bokmål",
           "nd": "Nood-Ndebele",
           "nds": "nds",
+          "nds-NL": "nds en de Nederläng",
           "ne": "Nepallessesch",
           "new": "new",
           "ng": "ng",
@@ -461,7 +463,7 @@
           "rm": "Rätoromaanesch",
           "rn": "K-Rundesch",
           "ro": "Rumänesch",
-          "ro-MD": "ro_MD",
+          "ro-MD": "Rumänesch en Moldaavije",
           "rof": "Kirombo",
           "rom": "rom",
           "root": "root",
@@ -487,6 +489,7 @@
           "sco": "sco",
           "sd": "Sinndi",
           "sdc": "sdc",
+          "sdh": "sdh",
           "se": "Nood-Lappländesch",
           "see": "see",
           "seh": "seh",
@@ -597,6 +600,7 @@
           "wal": "wal",
           "war": "war",
           "was": "was",
+          "wbp": "wbp",
           "wo": "Woloff",
           "wuu": "wuu",
           "xal": "xal",

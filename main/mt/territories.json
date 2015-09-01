@@ -3,11 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11994 $"
         },
         "language": "mt"
       },
@@ -96,7 +93,7 @@
           "CL": "Ċili",
           "CM": "Kamerun",
           "CN": "Iċ-Ċina",
-          "CO": "Kolumbja",
+          "CO": "Kolombja",
           "CP": "CP",
           "CR": "Kosta Rika",
           "CU": "Kuba",
@@ -117,7 +114,7 @@
           "EE": "Estonja",
           "EG": "Eġittu",
           "EH": "Sahara tal-Punent",
-          "ER": "Eritreja",
+          "ER": "Eritrea",
           "ES": "Spanja",
           "ET": "Etijopja",
           "EU": "Unjoni Ewropea",
@@ -132,14 +129,14 @@
           "GB": "L-Ingilterra",
           "GB-alt-short": "GB",
           "GD": "Grenada",
-          "GE": "Ġorġja",
+          "GE": "Ġeorġja",
           "GF": "Gujana Franċiża",
           "GG": "GG",
           "GH": "Gana",
           "GI": "Gibraltar",
           "GL": "Grinlandja",
           "GM": "Gambja",
-          "GN": "Gineja",
+          "GN": "Ginea",
           "GP": "Gwadelupe",
           "GQ": "Ginea Ekwatorjali",
           "GR": "Greċja",
@@ -194,7 +191,7 @@
           "LY": "Libja",
           "MA": "Marokk",
           "MC": "Monako",
-          "MD": "Maldova",
+          "MD": "Moldova",
           "ME": "ME",
           "MF": "MF",
           "MG": "Madagaskar",

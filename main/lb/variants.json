@@ -3,24 +3,23 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "lb"
       },
       "localeDisplayNames": {
         "variants": {
-          "1606NICT": "Spéit Mëttelfranséisch",
-          "1694ACAD": "Klassescht Franséisch",
           "1901": "Al Däitsch Rechtschreiwung",
-          "1959ACAD": "Akademesch",
           "1994": "Standardiséiert Resianesch Rechtschreiwung",
           "1996": "Nei Däitsch Rechtschreiwung",
+          "1606NICT": "Spéit Mëttelfranséisch",
+          "1694ACAD": "Klassescht Franséisch",
+          "1959ACAD": "Akademesch",
+          "ABL1943": "ABL1943",
           "ALALC97": "ALA-LC-Romaniséierung, Editioun vun 1997",
           "ALUKU": "Aluku-Dialekt",
+          "AO1990": "AO1990",
           "AREVELA": "Ostarmenesch",
           "AREVMDA": "Westarmenesch",
           "BAKU1926": "Eenheetlecht Tierkescht Alphabet",
@@ -31,6 +30,7 @@
           "BISKE": "Bela-Dialekt",
           "BOHORIC": "Bohorič-Alphabet",
           "BOONT": "Boontling",
+          "COLB1945": "COLB1945",
           "DAJNKO": "Dajnko-Alphabet",
           "EKAVSK": "Serbesch mat Ekavian-Aussprooch",
           "EMODENG": "Fréit Modernt Englesch",
@@ -56,6 +56,7 @@
           "NJIVA": "Njiva-Dialekt",
           "NULIK": "Modernt Volapük",
           "OSOJS": "Osojane-Dialekt",
+          "OXENDICT": "OXENDICT",
           "PAMAKA": "Pamaka-Dialekt",
           "PETR1708": "PETR1708",
           "PINYIN": "Pinyin",

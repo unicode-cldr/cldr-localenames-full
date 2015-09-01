@@ -3,24 +3,23 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "fy"
       },
       "localeDisplayNames": {
         "variants": {
-          "1606NICT": "Let Middelfrânske oant 1606",
-          "1694ACAD": "Betiit modern Frâns",
           "1901": "Tradisjonele Dútske stavering",
-          "1959ACAD": "Akademysk",
           "1994": "Standerdisearre Resiaansk stavering",
           "1996": "Dútske stavering van 1996",
+          "1606NICT": "Let Middelfrânske oant 1606",
+          "1694ACAD": "Betiit modern Frâns",
+          "1959ACAD": "Akademysk",
+          "ABL1943": "ABL1943",
           "ALALC97": "Romanisering ALA-LC, editie 1997",
           "ALUKU": "Aloekoe dialekt",
+          "AO1990": "AO1990",
           "AREVELA": "East-Armeensk",
           "AREVMDA": "West-Armeensk",
           "BAKU1926": "Eenvormig Turkse Latynse alfabet",
@@ -31,6 +30,7 @@
           "BISKE": "San Giorgio/Bila-dialekt",
           "BOHORIC": "BOHORIC",
           "BOONT": "Boontling",
+          "COLB1945": "COLB1945",
           "DAJNKO": "Dajnko-alfabet",
           "EKAVSK": "EKAVSK",
           "EMODENG": "Vroegmodern Engels",
@@ -56,6 +56,7 @@
           "NJIVA": "Gniva/Njiva-dialekt",
           "NULIK": "Modern Volapük",
           "OSOJS": "Oseacco/Osojane-dialekt",
+          "OXENDICT": "OXENDICT",
           "PAMAKA": "Pamaka",
           "PETR1708": "Petr1708",
           "PINYIN": "Pinyin",

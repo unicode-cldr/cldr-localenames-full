@@ -3,11 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "lb"
       },
@@ -38,7 +35,7 @@
           "ar": "Arabesch",
           "ar-001": "Modernt Héicharabesch",
           "arc": "Aramäesch",
-          "arn": "Araukanesch",
+          "arn": "Mapudungun",
           "aro": "Araona",
           "arp": "Arapaho-Sprooch",
           "arq": "Algerescht Arabesch",
@@ -55,7 +52,6 @@
           "ay": "Aymara",
           "az": "Aserbaidschanesch",
           "az-alt-short": "az",
-          "azb": "Süd-Aserbaidschanesch",
           "ba": "Baschkiresch",
           "bal": "Belutschesch",
           "ban": "Balinesesch",
@@ -72,6 +68,7 @@
           "bfd": "Bafut",
           "bfq": "Badaga",
           "bg": "Bulgaresch",
+          "bgn": "bgn",
           "bho": "Bhodschpuri",
           "bi": "Bislama",
           "bik": "Bikol-Sprooch",
@@ -333,6 +330,7 @@
           "lo": "Laotesch",
           "lol": "Mongo",
           "loz": "Rotse-Sprooch",
+          "lrc": "lrc",
           "lt": "Litauesch",
           "ltg": "Lettgallesch",
           "lu": "Luba-Katanga",
@@ -354,6 +352,7 @@
           "mas": "Massai-Sprooch",
           "mde": "Maba",
           "mdf": "Moksha",
+          "mdh": "mdh",
           "mdr": "Mandaresesch",
           "men": "Mende-Sprooch",
           "mer": "Meru-Sprooch",
@@ -366,6 +365,7 @@
           "mi": "Maori",
           "mic": "Micmac-Sprooch",
           "min": "Minangkabau-Sprooch",
+          "mis": "mis",
           "mk": "Mazedonesch",
           "ml": "Malayalam",
           "mn": "Mongolesch",
@@ -394,6 +394,7 @@
           "nb": "Norwegesch Bokmål",
           "nd": "Nord-Ndebele-Sprooch",
           "nds": "Nidderdäitsch",
+          "nds-NL": "Nidderdäitsch (Holland)",
           "ne": "Nepalesesch",
           "new": "Newari",
           "ng": "Ndonga",
@@ -487,6 +488,7 @@
           "sco": "Schottesch",
           "sd": "Sindhi",
           "sdc": "Sassaresesch",
+          "sdh": "sdh",
           "se": "Nordsamesch",
           "see": "Seneca",
           "seh": "Sena",
@@ -597,6 +599,7 @@
           "wal": "Walamo-Sprooch",
           "war": "Waray",
           "was": "Washo-Sprooch",
+          "wbp": "wbp",
           "wo": "Wolof",
           "wuu": "Wu-Chinesesch",
           "xal": "Kalmückesch",

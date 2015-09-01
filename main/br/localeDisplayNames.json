@@ -3,11 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11994 $"
         },
         "language": "br"
       },
@@ -15,12 +12,16 @@
         "localeDisplayPattern": {
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
-          "localeKeyTypePattern": "{0}: {1}"
+          "localeKeyTypePattern": "{0} : {1}"
         },
         "keys": {
           "calendar": "deiziadur",
+          "cf": "cf",
           "collation": "doare rummañ",
           "currency": "moneiz",
+          "hc": "kelcʼhiad eurioù",
+          "lb": "lb",
+          "ms": "reizhiad vuzuliañ",
           "numbers": "niveroù"
         },
         "types": {
@@ -44,10 +45,16 @@
             "persian": "deiziadur persek",
             "roc": "deiziadur Republik Sina"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "urzh rummañ sinaek hengounel - Big5",
+            "compat": "compat",
             "dictionary": "urzh rummañ ar geriadur",
             "ducet": "urzh rummañ Unicode dre ziouer",
+            "emoji": "emoji",
             "eor": "reolennoù urzhiañ europat",
             "gb2312han": "urzh rummañ sinaek eeunaet - GB2312",
             "phonebook": "urzh rummañ al levr-pellgomz",
@@ -61,7 +68,24 @@
             "unihan": "urzh rummañ UniHan",
             "zhuyin": "urzh rummañ Zhuyin"
           },
+          "hc": {
+            "h11": "reizhiad 12 eurvezh (0–11)",
+            "h12": "reizhiad 12 eurvezh (1–12)",
+            "h23": "reizhiad 24 eurvezh (0–23)",
+            "h24": "reizhiad 24 eurvezh (1–24)"
+          },
+          "lb": {
+            "loose": "loose",
+            "normal": "normal",
+            "strict": "strict"
+          },
+          "ms": {
+            "metric": "reizhiad vetrek",
+            "uksystem": "reizhiad vuzuliañ RU",
+            "ussystem": "reizhiad vuzuliañ SU"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "sifroù arabek indian",
             "arabext": "sifroù arabek indian astennet",
             "armn": "niveroù armenianek",
@@ -69,8 +93,9 @@
             "bali": "sifroù balinek",
             "beng": "sifroù bengali",
             "brah": "sifroù brahmi",
-            "cakm": "cakm",
-            "cham": "cham",
+            "cakm": "sifroù chakma",
+            "cham": "sifroù cham",
+            "cyrl": "cyrl",
             "deva": "sifroù devanagari",
             "ethi": "niveroù etiopiat",
             "fullwide": "sifroù led plaen",
@@ -85,6 +110,7 @@
             "hant": "niveroù sinaek hengounel",
             "hantfin": "niveroù sinaek hengounel an arcʼhant",
             "hebr": "niveroù hebraek",
+            "hmng": "hmng",
             "java": "sifroù javanek",
             "jpan": "niveroù japanek",
             "jpanfin": "niveroù japanek an arcʼhant",
@@ -95,31 +121,43 @@
             "lanatham": "sifroù Tai Tham Tham",
             "laoo": "sifroù laosek",
             "latn": "sifroù arabek ar Cʼhornôg",
-            "lepc": "lepc",
-            "limb": "limb",
+            "lepc": "sifroù lepcha",
+            "limb": "sifroù limbu",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "sifroù malayalam",
+            "modi": "modi",
             "mong": "sifroù mongolek",
-            "mtei": "mtei",
+            "mroo": "mroo",
+            "mtei": "sifroù meitei mayek",
             "mymr": "sifroù myanmar",
             "mymrshan": "sifroù shan Myanmar",
-            "nkoo": "nkoo",
-            "olck": "olck",
+            "mymrtlng": "mymrtlng",
+            "nkoo": "sifroù nʼko",
+            "olck": "sifroù ol chiki",
             "orya": "sifroù oriya",
-            "osma": "osma",
+            "osma": "sifroù osmanya",
             "roman": "niveroù roman",
             "romanlow": "niveroù roman bihan",
             "saur": "saur",
             "shrd": "shrd",
-            "sora": "sora",
+            "sind": "sind",
+            "sinh": "sinh",
+            "sora": "sifroù Sora Sompeng",
             "sund": "sifroù sundanek",
-            "takr": "takr",
+            "takr": "sifroù takri",
             "talu": "talu",
             "taml": "niveroù tamilek hengounel",
             "tamldec": "sifroù tamilek",
             "telu": "sifroù telougou",
             "thai": "sifroù thai",
             "tibt": "sifroù tibetan",
-            "vaii": "sifroù vai"
+            "tirh": "tirh",
+            "vaii": "sifroù vai",
+            "wara": "wara"
           }
         },
         "codePatterns": {

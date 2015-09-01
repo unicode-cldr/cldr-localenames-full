@@ -3,18 +3,15 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11974 $"
         },
         "language": "ks"
       },
       "localeDisplayNames": {
         "scripts": {
-          "Afak": "Afak",
           "Aghb": "Aghb",
+          "Ahom": "Ahom",
           "Arab": "اَربی",
           "Armi": "Armi",
           "Armn": "اَرمانیَن",
@@ -63,6 +60,7 @@
           "Hans-alt-stand-alone": "Hans",
           "Hant": "ٹریڑِشَنَل",
           "Hant-alt-stand-alone": "Hant",
+          "Hatr": "Hatr",
           "Hebr": "ہِبرِو",
           "Hira": "ہیٖراگانا",
           "Hluw": "Hluw",
@@ -73,7 +71,6 @@
           "Ital": "اولڈ اِٹیلِک",
           "Java": "جاوَنیٖز",
           "Jpan": "جیٚپَنیٖز",
-          "Jurc": "Jurc",
           "Kali": "کایا لی",
           "Kana": "کَتاکانا",
           "Khar": "خَروشتھی",
@@ -81,7 +78,6 @@
           "Khoj": "Khoj",
           "Knda": "کَنَڑا",
           "Kore": "کوریَن",
-          "Kpel": "Kpel",
           "Kthi": "Kthi",
           "Lana": "لانا",
           "Laoo": "لاو",
@@ -93,7 +89,6 @@
           "Lina": "لیٖنیَر اے",
           "Linb": "لیٖنیَر بی",
           "Lisu": "Lisu",
-          "Loma": "Loma",
           "Lyci": "لیسِیَن",
           "Lydi": "لیدِیَن",
           "Mahj": "Mahj",
@@ -109,12 +104,11 @@
           "Moon": "موٗن",
           "Mroo": "Mroo",
           "Mtei": "میتی مایَک",
+          "Mult": "Mult",
           "Mymr": "مَیَنمار",
           "Narb": "Narb",
           "Nbat": "Nbat",
-          "Nkgb": "Nkgb",
           "Nkoo": "ایٚن کو",
-          "Nshu": "Nshu",
           "Ogam": "اوگہام",
           "Olck": "اول چِکی",
           "Orkh": "اورکھون",
@@ -204,7 +198,6 @@
           "Tale": "تَیلیے",
           "Talu": "نوٚو تیلو",
           "Taml": "تَمِل",
-          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "تیلگوٗ",
           "Teng": "تیٚنگوار",
@@ -218,7 +211,6 @@
           "Vaii": "واے",
           "Visp": "وِزِبٕل سپیٖچ",
           "Wara": "Wara",
-          "Wole": "Wole",
           "Xpeo": "پرون فارسی",
           "Xsux": "سُمیرو اکادیَن کوٗنِفام",
           "Yiii": "یٖی",

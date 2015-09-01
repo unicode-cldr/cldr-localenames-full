@@ -3,11 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11994 $"
         },
         "language": "br"
       },
@@ -74,7 +71,7 @@
           "BM": "Bermuda",
           "BN": "Brunei",
           "BO": "Bolivia",
-          "BQ": "Nederlandat Karib",
+          "BQ": "Karib Nederlandat",
           "BR": "Brazil",
           "BS": "Bahamas",
           "BT": "Bhoutan",
@@ -100,7 +97,7 @@
           "CP": "Enez Clipperton",
           "CR": "Costa Rica",
           "CU": "Kuba",
-          "CV": "Kab Glas",
+          "CV": "Kab-Glas",
           "CW": "Curaçao",
           "CX": "Enez Christmas",
           "CY": "Kiprenez",
@@ -130,7 +127,7 @@
           "FR": "Frañs",
           "GA": "Gabon",
           "GB": "Rouantelezh-Unanet",
-          "GB-alt-short": "R.U.",
+          "GB-alt-short": "RU",
           "GD": "Grenada",
           "GE": "Jorjia",
           "GF": "Gwiana cʼhall",
@@ -247,13 +244,13 @@
           "PY": "Paraguay",
           "QA": "Qatar",
           "QO": "Oseania diabell",
-          "RE": "Reünion",
+          "RE": "Ar Reünion",
           "RO": "Roumania",
           "RS": "Serbia",
           "RU": "Rusia",
           "RW": "Rwanda",
           "SA": "Arabia Saoudat",
-          "SB": "Salomon",
+          "SB": "Inizi Salomon",
           "SC": "Sechelez",
           "SD": "Soudan",
           "SE": "Sveden",
@@ -295,7 +292,7 @@
           "UG": "Ouganda",
           "UM": "Inizi diabell ar Stadoù-Unanet",
           "US": "Stadoù-Unanet",
-          "US-alt-short": "S.U.",
+          "US-alt-short": "SU",
           "UY": "Uruguay",
           "UZ": "Ouzbekistan",
           "VA": "Vatikan",

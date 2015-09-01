@@ -3,24 +3,23 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11042 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-10-31 12:11:19 -0500 (Fri, 31 Oct 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "nn"
       },
       "localeDisplayNames": {
         "variants": {
-          "1606NICT": "nyare mellomfransk til 1606",
-          "1694ACAD": "eldre nyfransk",
           "1901": "tradisjonell tysk ortografi",
-          "1959ACAD": "1959ACAD",
           "1994": "standardisert resisk ortografi",
           "1996": "tysk ortografi frå 1996",
+          "1606NICT": "nyare mellomfransk til 1606",
+          "1694ACAD": "eldre nyfransk",
+          "1959ACAD": "1959ACAD",
+          "ABL1943": "ABL1943",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
+          "AO1990": "AO1990",
           "AREVELA": "austarmensk",
           "AREVMDA": "vestarmensk",
           "BAKU1926": "samla tyrkisk-latinsk alfabet",
@@ -31,6 +30,7 @@
           "BISKE": "san giorgio- og biladialekt",
           "BOHORIC": "BOHORIC",
           "BOONT": "boontling",
+          "COLB1945": "COLB1945",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
@@ -56,6 +56,7 @@
           "NJIVA": "gniva- og njivadialekt",
           "NULIK": "NULIK",
           "OSOJS": "oseacco- og osojanedialekt",
+          "OXENDICT": "OXENDICT",
           "PAMAKA": "PAMAKA",
           "PETR1708": "PETR1708",
           "PINYIN": "PINYIN",

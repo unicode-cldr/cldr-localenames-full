@@ -3,11 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11093 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-01-02 21:36:02 -0600 (Fri, 02 Jan 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 12004 $"
         },
         "language": "cy"
       },
@@ -19,8 +16,12 @@
         },
         "keys": {
           "calendar": "Calendr",
+          "cf": "cf",
           "collation": "Trefn",
           "currency": "Arian Breiniol",
+          "hc": "Cylched Awr (12 vs 24)",
+          "lb": "Arddull Torriad Llinell",
+          "ms": "System Fesur",
           "numbers": "Rhifau"
         },
         "types": {
@@ -42,12 +43,18 @@
             "iso8601": "Calendr ISO-8601",
             "japanese": "Calendr Japan",
             "persian": "Calendr Persia",
-            "roc": "roc"
+            "roc": "Calendr Gweriniaeth Tseina"
+          },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
           },
           "collation": {
             "big5han": "Trefn Traddodiadol Tsieina - Big5",
+            "compat": "compat",
             "dictionary": "Trefn Geiriadur",
             "ducet": "Trefn Rhagosodedig Unicode",
+            "emoji": "emoji",
             "eor": "Rheolau trefnu Ewropeaidd",
             "gb2312han": "Trefn Symledig Tsieina - GB2312",
             "phonebook": "Trefn Llyfr Ffôn",
@@ -61,7 +68,24 @@
             "unihan": "unihan",
             "zhuyin": "Trefn Zhuyin"
           },
+          "hc": {
+            "h11": "System 12 Awr (0–11)",
+            "h12": "System 12 Awr (1–12)",
+            "h23": "System 24 Awr (0–23)",
+            "h24": "System 24 Awr (1–24)"
+          },
+          "lb": {
+            "loose": "Arddull Torriad Llinell Rhydd",
+            "normal": "Arddull Torriad Llinell Arferol",
+            "strict": "Arddull Torriad Llinell Caeth"
+          },
+          "ms": {
+            "metric": "System Fetrig",
+            "uksystem": "System Fesur Imperialaidd",
+            "ussystem": "System Fesur UDA"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "Digidau Arabig-Indig",
             "arabext": "Digidau Arabig-Indig Estynedig",
             "armn": "Rhifolion Armenaidd",
@@ -71,13 +95,14 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
-            "deva": "Digidau Devanāgarīg",
+            "cyrl": "cyrl",
+            "deva": "Digidau Devanagarig",
             "ethi": "Rhifolion Ethiopig",
             "fullwide": "Digidau Lled Llawn",
             "geor": "Rhifolion Georgaidd",
             "grek": "Rhifolion Groegaidd",
             "greklow": "Rhifolion Groegaidd mewn Llythrennau Bychain",
-            "gujr": "Digidau Gujarataidd",
+            "gujr": "Digidau Gwjarataidd",
             "guru": "Digidau Gwrmwcaidd",
             "hanidec": "Rhifolion Degol Tsieineaidd",
             "hans": "Rhifolion Tsieineaidd Symledig",
@@ -85,23 +110,32 @@
             "hant": "Rhifolion Tsieineaidd Traddodiadol",
             "hantfin": "Rhifolion Ariannol Tsieineaidd Traddodiadol",
             "hebr": "Rhifolion Hebreig",
+            "hmng": "hmng",
             "java": "java",
             "jpan": "Rhifolion Japaneaidd",
             "jpanfin": "Rhifolion Ariannol Japaneaidd",
             "kali": "kali",
             "khmr": "Digidau Chmeraidd",
-            "knda": "Digidau Canaraidd",
+            "knda": "Digidau Kannaraidd",
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "Digidau Laoaidd",
             "latn": "Digidau Gorllewinol",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "Digidau Malayalamaidd",
+            "modi": "modi",
             "mong": "Digidau Mongolia",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "Digidau Myanmar",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "Digidau Orïaidd",
@@ -110,16 +144,20 @@
             "romanlow": "Rhifolion Rhufeinig mewn Llythrennau Bychain",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
-            "takr": "takr",
+            "takr": "Digidau Takri",
             "talu": "talu",
             "taml": "Rhifolion Tamilaidd Traddodiadol",
             "tamldec": "Digidau Tamilaidd",
             "telu": "Digidau Telugu",
             "thai": "Digidau Thai",
             "tibt": "Digidau Tibetaidd",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

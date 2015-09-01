@@ -3,11 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11917 $"
         },
         "language": "ga"
       },
@@ -19,8 +16,12 @@
         },
         "keys": {
           "calendar": "Féilire",
+          "cf": "cf",
           "collation": "Ord Sórtála",
           "currency": "Airgeadra",
+          "hc": "Timthriall Uaire (12 vs 24)",
+          "lb": "Stíl Briseadh Líne",
+          "ms": "Córas Tomhais",
           "numbers": "Uimhreacha"
         },
         "types": {
@@ -28,7 +29,7 @@
             "buddhist": "Féilire Búdaíoch",
             "chinese": "Féilire Síneach",
             "coptic": "Féilire Coptach",
-            "dangi": "dangi",
+            "dangi": "Féilire Dangi",
             "ethiopic": "Féilire Aetóipice",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
             "gregorian": "Féilire Ghréagóra",
@@ -44,10 +45,16 @@
             "persian": "Féilire Peirseach",
             "roc": "Féilire Téavánach"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "big5han",
+            "compat": "compat",
             "dictionary": "dictionary",
             "ducet": "Ord Réamhshocraithe Sórtála Unicode",
+            "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "gb2312han",
             "phonebook": "phonebook",
@@ -61,7 +68,24 @@
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
+          "hc": {
+            "h11": "Córas 12 Uair (0–11)",
+            "h12": "Córas 12 Uair (1–12)",
+            "h23": "Córas 24 Uair (0–23)",
+            "h24": "Córas 24 Uair (1–24)"
+          },
+          "lb": {
+            "loose": "Stíl Briseadh Líne Scaoilte",
+            "normal": "Stíl Gnáthbhriseadh Líne",
+            "strict": "Stíl Briseadh Líne Docht"
+          },
+          "ms": {
+            "metric": "Córas Méadrach",
+            "uksystem": "Córas Impiriúil Tomhais",
+            "ussystem": "Córas SAM Tomhais"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "Digití Ind-Arabacha",
             "arabext": "Digití Ind-Arabacha Breisithe",
             "armn": "Uimhreacha Airméanacha",
@@ -71,6 +95,7 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
+            "cyrl": "cyrl",
             "deva": "Digití Déiveanágracha",
             "ethi": "Uimhreacha Aetóipice",
             "fullwide": "Digití Lánleithid",
@@ -85,6 +110,7 @@
             "hant": "hant",
             "hantfin": "hantfin",
             "hebr": "Uimhreacha Eabhracha",
+            "hmng": "hmng",
             "java": "Digití Iávacha",
             "jpan": "Uimhreacha Seapánacha",
             "jpanfin": "jpanfin",
@@ -97,11 +123,19 @@
             "latn": "Digití Iartharacha",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "Digití Mailéalamacha",
+            "modi": "modi",
             "mong": "mong",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "Digití Maenmaracha",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "Digití Oiríseacha",
@@ -110,6 +144,8 @@
             "romanlow": "romanlow",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
             "takr": "takr",
@@ -119,7 +155,9 @@
             "telu": "Digití Teileagúcha",
             "thai": "Digití Téalannacha",
             "tibt": "Digití Tibéadacha",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

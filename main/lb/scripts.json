@@ -3,18 +3,15 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "lb"
       },
       "localeDisplayNames": {
         "scripts": {
-          "Afak": "Afak",
           "Aghb": "Aghb",
+          "Ahom": "Ahom",
           "Arab": "Arabesch",
           "Armi": "Armi",
           "Armn": "Armenesch",
@@ -63,6 +60,7 @@
           "Hans-alt-stand-alone": "Vereinfacht Chinesesch",
           "Hant": "Traditionell",
           "Hant-alt-stand-alone": "Traditionellt Chinesesch",
+          "Hatr": "Hatr",
           "Hebr": "Hebräesch",
           "Hira": "Hiragana",
           "Hluw": "Hluw",
@@ -73,7 +71,6 @@
           "Ital": "Alitalesch",
           "Java": "Javanesesch",
           "Jpan": "Japanesch",
-          "Jurc": "Jurc",
           "Kali": "Kayah Li",
           "Kana": "Katakana",
           "Khar": "Kharoshthi",
@@ -81,7 +78,6 @@
           "Khoj": "Khoj",
           "Knda": "Kannada",
           "Kore": "Koreanesch",
-          "Kpel": "Kpel",
           "Kthi": "Kthi",
           "Lana": "Lanna",
           "Laoo": "Laotesch",
@@ -93,7 +89,6 @@
           "Lina": "Linear A",
           "Linb": "Linear B",
           "Lisu": "Lisu",
-          "Loma": "Loma",
           "Lyci": "Lykesch",
           "Lydi": "Lydesch",
           "Mahj": "Mahj",
@@ -109,12 +104,11 @@
           "Moon": "Moon",
           "Mroo": "Mroo",
           "Mtei": "Meitei Mayek",
+          "Mult": "Mult",
           "Mymr": "Birmanesch",
           "Narb": "Narb",
           "Nbat": "Nbat",
-          "Nkgb": "Nkgb",
           "Nkoo": "N’Ko",
-          "Nshu": "Nshu",
           "Ogam": "Ogham",
           "Olck": "Ol Chiki",
           "Orkh": "Orchon-Runen",
@@ -204,7 +198,6 @@
           "Tale": "Tai Le",
           "Talu": "Tai Lue",
           "Taml": "Tamilesch",
-          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "Telugu",
           "Teng": "Tengwar",
@@ -218,7 +211,6 @@
           "Vaii": "Vai",
           "Visp": "Siichtbar Sprooch",
           "Wara": "Wara",
-          "Wole": "Wole",
           "Xpeo": "Alpersesch",
           "Xsux": "Sumeresch-akkadesch Keilschrëft",
           "Yiii": "Yi",

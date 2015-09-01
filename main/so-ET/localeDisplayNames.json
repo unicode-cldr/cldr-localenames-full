@@ -3,11 +3,8 @@
     "so-ET": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "so",
         "territory": "ET"
@@ -20,8 +17,12 @@
         },
         "keys": {
           "calendar": "calendar",
+          "cf": "cf",
           "collation": "collation",
           "currency": "currency",
+          "hc": "hc",
+          "lb": "lb",
+          "ms": "ms",
           "numbers": "numbers"
         },
         "types": {
@@ -45,10 +46,16 @@
             "persian": "persian",
             "roc": "roc"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "big5han",
+            "compat": "compat",
             "dictionary": "dictionary",
             "ducet": "ducet",
+            "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "gb2312han",
             "phonebook": "phonebook",
@@ -62,7 +69,24 @@
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
+          "hc": {
+            "h11": "h11",
+            "h12": "h12",
+            "h23": "h23",
+            "h24": "h24"
+          },
+          "lb": {
+            "loose": "loose",
+            "normal": "normal",
+            "strict": "strict"
+          },
+          "ms": {
+            "metric": "metric",
+            "uksystem": "uksystem",
+            "ussystem": "ussystem"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "arab",
             "arabext": "arabext",
             "armn": "armn",
@@ -72,6 +96,7 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
+            "cyrl": "cyrl",
             "deva": "deva",
             "ethi": "ethi",
             "fullwide": "fullwide",
@@ -86,6 +111,7 @@
             "hant": "hant",
             "hantfin": "hantfin",
             "hebr": "hebr",
+            "hmng": "hmng",
             "java": "java",
             "jpan": "jpan",
             "jpanfin": "jpanfin",
@@ -98,11 +124,19 @@
             "latn": "latn",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "mlym",
+            "modi": "modi",
             "mong": "mong",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "mymr",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "orya",
@@ -111,6 +145,8 @@
             "romanlow": "romanlow",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
             "takr": "takr",
@@ -120,7 +156,9 @@
             "telu": "telu",
             "thai": "thai",
             "tibt": "tibt",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

@@ -3,11 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ee"
       },
@@ -19,8 +16,12 @@
         },
         "keys": {
           "calendar": "kalenda",
+          "cf": "cf",
           "collation": "tutuɖo",
           "currency": "gaɖuɖu",
+          "hc": "hc",
+          "lb": "lb",
+          "ms": "ms",
           "numbers": "nɔmbawo"
         },
         "types": {
@@ -31,7 +32,7 @@
             "dangi": "dangi",
             "ethiopic": "ethiopiatɔwo ƒe kalenda",
             "ethiopic-amete-alem": "ethiopia amate alemtɔwo ƒe kalenda",
-            "gregorian": "gregoria kalenda",
+            "gregorian": "Gregorian kalenda",
             "hebrew": "hebritɔwo ƒe kalenda",
             "indian": "india dukɔ ƒe kalenda",
             "islamic": "islam subɔlawo ƒe kalenda",
@@ -44,10 +45,16 @@
             "persian": "persiatɔwo ƒe kalenda",
             "roc": "china repɔbliktɔwo ƒe kalenda tso 1912"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "blema chinatɔwo ƒe ɖoɖomɔ nu",
+            "compat": "compat",
             "dictionary": "nuɖoɖo ɖe nyagɔmeɖegbalẽ ƒe ɖoɖomɔ nu",
             "ducet": "nuɖoɖo ɖe unicode ƒe ɖoɖo nu",
+            "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "chinagbe yeye ƒe ɖoɖomɔ nu",
             "phonebook": "fonegbalẽ me ɖoɖomɔ nu",
@@ -61,7 +68,24 @@
             "unihan": "ɖoɖomɔnutɔxɛ manɔŋu stroke ƒe ɖoɖo nu",
             "zhuyin": "zhuyin"
           },
+          "hc": {
+            "h11": "h11",
+            "h12": "h12",
+            "h23": "h23",
+            "h24": "h24"
+          },
+          "lb": {
+            "loose": "loose",
+            "normal": "normal",
+            "strict": "strict"
+          },
+          "ms": {
+            "metric": "metric",
+            "uksystem": "uksystem",
+            "ussystem": "ussystem"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "india ƒe arabia digitwo",
             "arabext": "india ƒe arabia digitwo dzi yiyi",
             "armn": "armeniatɔwo ƒe numeralwo",
@@ -71,6 +95,7 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
+            "cyrl": "cyrl",
             "deva": "devanagari digitwo",
             "ethi": "ethiopia numeralwo",
             "fullwide": "digit kekeme blibotɔwo",
@@ -85,6 +110,7 @@
             "hant": "blema chinatɔwo ƒe numeralwo",
             "hantfin": "blema chinatɔwo ƒe gadzikpɔ numeralwo",
             "hebr": "hebritɔwo ƒe numeralwo",
+            "hmng": "hmng",
             "java": "java",
             "jpan": "japantɔwo ƒe numeralwo",
             "jpanfin": "japantɔwo ƒe gadzikpɔnumeralwo",
@@ -94,14 +120,22 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laotɔwo ƒe digitwo",
-            "latn": "nɔmbawo le latingbe ƒe ɖoɖo nu",
+            "latn": "Nɔmbawo le Latingbe ƒe ɖoɖo nu",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "malaya digitwo",
+            "modi": "modi",
             "mong": "mongolia digitwo",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "myanmar digitwo",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "oriya digitwo",
@@ -110,6 +144,8 @@
             "romanlow": "romatɔwo ƒe numeral suetɔwo",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
             "takr": "takr",
@@ -119,7 +155,9 @@
             "telu": "telegu digitwo",
             "thai": "thai digitwo",
             "tibt": "tibet digitwo",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

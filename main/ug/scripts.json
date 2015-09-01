@@ -3,11 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10739 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-07 12:54:13 -0500 (Thu, 07 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ug"
       },
@@ -15,6 +12,7 @@
         "scripts": {
           "Afak": "ئافاكا",
           "Aghb": "Aghb",
+          "Ahom": "Ahom",
           "Arab": "ئەرەب",
           "Armi": "خان جەمەتى ئارامۇ",
           "Armn": "ئەرمەن",
@@ -63,6 +61,7 @@
           "Hans-alt-stand-alone": "ئاددىي خەنچە",
           "Hant": "مۇرەككەپ خەنچە",
           "Hant-alt-stand-alone": "مۇرەككەپ خەنچە",
+          "Hatr": "Hatr",
           "Hebr": "ئىبرانىچە",
           "Hira": "خىراگانا",
           "Hluw": "ئاناتولىيە تەسۋىرىي يېزىق",
@@ -109,6 +108,7 @@
           "Moon": "كورىيە",
           "Mroo": "مروچە",
           "Mtei": "مانىپۇرىچە",
+          "Mult": "Mult",
           "Mymr": "بىرماچە",
           "Narb": "قەدىمكى شىمالىي ئەرەبچە",
           "Nbat": "ئانباتچە",

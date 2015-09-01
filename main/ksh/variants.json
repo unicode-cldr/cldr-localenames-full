@@ -3,24 +3,23 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10753 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-08-11 11:10:03 -0500 (Mon, 11 Aug 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ksh"
       },
       "localeDisplayNames": {
         "variants": {
-          "1606NICT": "späätmeddelfranzüüsesch vör 1606",
-          "1694ACAD": "fröhneufranzüüsesch aff 1694",
           "1901": "Schriefwiiß vun 1901 aff",
-          "1959ACAD": "akademesche Schriefwiiß vun 1959",
           "1994": "resijanesch schtandatt Schriefwiiß vun 1994",
           "1996": "Schriefwiiß vun 1996 aff",
+          "1606NICT": "späätmeddelfranzüüsesch vör 1606",
+          "1694ACAD": "fröhneufranzüüsesch aff 1694",
+          "1959ACAD": "akademesche Schriefwiiß vun 1959",
+          "ABL1943": "ABL1943",
           "ALALC97": "de lateinesche Ömschreff ALA-LC vun 1997",
           "ALUKU": "ALUKU",
+          "AO1990": "AO1990",
           "AREVELA": "oß-armeensch",
           "AREVMDA": "wäß-armeenesch",
           "BAKU1926": "eijheijtlesch törkesch lateijnesch Allfabeet",
@@ -31,6 +30,7 @@
           "BISKE": "zint jorjo’sche uder bila’sche reijanesche Dijaläk",
           "BOHORIC": "BOHORIC",
           "BOONT": "boontlingsche Dijaläk",
+          "COLB1945": "COLB1945",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
@@ -56,6 +56,7 @@
           "NJIVA": "gniva’sche uder njiva’sche reijanesche Dijaläk",
           "NULIK": "NULIK",
           "OSOJS": "oseacco’sche uder osojanesche reijanesche Dijaläk",
+          "OXENDICT": "OXENDICT",
           "PAMAKA": "pamakanesche Dijaläk",
           "PETR1708": "PETR1708",
           "PINYIN": "Pinjin-Ömschreff",

@@ -3,11 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11990 $"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -20,8 +17,12 @@
         },
         "keys": {
           "calendar": "Календар",
+          "cf": "cf",
           "collation": "Сортирање",
           "currency": "Валута",
+          "hc": "hc",
+          "lb": "lb",
+          "ms": "ms",
           "numbers": "Бројеви",
           "x": "Приватна употреба"
         },
@@ -46,10 +47,16 @@
             "persian": "персијски календар",
             "roc": "Календар Републике Кине"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "Традиционално кинеско сортирање",
+            "compat": "compat",
             "dictionary": "Редослед сортирања у речнику",
             "ducet": "Подразумевани Unicode редослед сортирања",
+            "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "Поједностављено кинеско сортирање",
             "phonebook": "Сортирање као телефонски именик",
@@ -63,7 +70,24 @@
             "unihan": "Редослед сортирања радикалним цртицама",
             "zhuyin": "zhuyin"
           },
+          "hc": {
+            "h11": "h11",
+            "h12": "h12",
+            "h23": "h23",
+            "h24": "h24"
+          },
+          "lb": {
+            "loose": "loose",
+            "normal": "normal",
+            "strict": "strict"
+          },
+          "ms": {
+            "metric": "metric",
+            "uksystem": "uksystem",
+            "ussystem": "ussystem"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "арапско-индијске цифре",
             "arabext": "продужене арапско-индијске цифре",
             "armn": "јерменски бројеви",
@@ -73,6 +97,7 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
+            "cyrl": "cyrl",
             "deva": "девангари цифре",
             "ethi": "етиопски бројеви",
             "fullwide": "цифре пуне ширине",
@@ -87,6 +112,7 @@
             "hant": "традиционални кинески бројеви",
             "hantfin": "традиционални кинески финансијски бројеви",
             "hebr": "хебрејски бројеви",
+            "hmng": "hmng",
             "java": "java",
             "jpan": "јапански бројеви",
             "jpanfin": "јапански финансијски бројеви",
@@ -99,11 +125,19 @@
             "latn": "западне цифре",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "малајалам цифре",
+            "modi": "modi",
             "mong": "монголске цифре",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "мијанмарске цифре",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "орија цифре",
@@ -112,6 +146,8 @@
             "romanlow": "мали римски бројеви",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
             "takr": "takr",
@@ -121,7 +157,9 @@
             "telu": "телугу цифре",
             "thai": "тајске цифре",
             "tibt": "тибетанске цифре",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

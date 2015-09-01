@@ -3,11 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11917 $"
         },
         "language": "ga"
       },
@@ -54,8 +51,7 @@
           "awa": "awa",
           "ay": "Aidhmiris",
           "az": "Asarbaiseáinis",
-          "az-alt-short": "az",
-          "azb": "azb",
+          "az-alt-short": "Asairis",
           "ba": "Baiscíris",
           "bal": "bal",
           "ban": "Bailís",
@@ -72,6 +68,7 @@
           "bfd": "bfd",
           "bfq": "bfq",
           "bg": "Bulgáiris",
+          "bgn": "bgn",
           "bho": "bho",
           "bi": "Bioslaimis",
           "bik": "bik",
@@ -100,7 +97,7 @@
           "car": "car",
           "cay": "cay",
           "cch": "cch",
-          "ce": "Sisinis",
+          "ce": "Seisnis",
           "ceb": "Seabúáinis",
           "cgg": "cgg",
           "ch": "Seamóiris",
@@ -333,6 +330,7 @@
           "lo": "Laoisis",
           "lol": "lol",
           "loz": "loz",
+          "lrc": "lrc",
           "lt": "Liotuáinis",
           "ltg": "ltg",
           "lu": "Lúba-Cataingis",
@@ -354,6 +352,7 @@
           "mas": "mas",
           "mde": "mde",
           "mdf": "mdf",
+          "mdh": "mdh",
           "mdr": "mdr",
           "men": "Meindis",
           "mer": "mer",
@@ -366,6 +365,7 @@
           "mi": "Maorais",
           "mic": "mic",
           "min": "min",
+          "mis": "mis",
           "mk": "Macadóinis",
           "ml": "Mailéalaimis",
           "mn": "Mongóilis",
@@ -394,6 +394,7 @@
           "nb": "Ioruais Bokmål",
           "nd": "Ndeibéilis an Tuaiscirt",
           "nds": "Gearmáinis Íochtarach",
+          "nds-NL": "Sacsainis Íochtarach",
           "ne": "Neipeailis",
           "new": "new",
           "ng": "Ndongais",
@@ -487,6 +488,7 @@
           "sco": "Albainis",
           "sd": "Sindis",
           "sdc": "sdc",
+          "sdh": "sdh",
           "se": "Sáimis Thuaidh",
           "see": "see",
           "seh": "seh",
@@ -597,6 +599,7 @@
           "wal": "wal",
           "war": "war",
           "was": "was",
+          "wbp": "wbp",
           "wo": "Volaifis",
           "wuu": "wuu",
           "xal": "Cailmícis",

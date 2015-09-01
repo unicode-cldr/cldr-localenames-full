@@ -3,11 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11042 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-10-31 12:11:19 -0500 (Fri, 31 Oct 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -20,8 +17,12 @@
         },
         "keys": {
           "calendar": "Календарь",
+          "cf": "cf",
           "collation": "Саралаш тартиби",
           "currency": "Валюта",
+          "hc": "hc",
+          "lb": "lb",
+          "ms": "ms",
           "numbers": "Рақамлар"
         },
         "types": {
@@ -45,10 +46,16 @@
             "persian": "persian",
             "roc": "roc"
           },
+          "cf": {
+            "account": "account",
+            "standard": "standard"
+          },
           "collation": {
             "big5han": "big5han",
+            "compat": "compat",
             "dictionary": "dictionary",
             "ducet": "Сукут бўйича саралаш тартиби",
+            "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "gb2312han",
             "phonebook": "phonebook",
@@ -62,7 +69,24 @@
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
+          "hc": {
+            "h11": "h11",
+            "h12": "h12",
+            "h23": "h23",
+            "h24": "h24"
+          },
+          "lb": {
+            "loose": "loose",
+            "normal": "normal",
+            "strict": "strict"
+          },
+          "ms": {
+            "metric": "metric",
+            "uksystem": "uksystem",
+            "ussystem": "ussystem"
+          },
           "numbers": {
+            "ahom": "ahom",
             "arab": "Араб-ҳинд рақамлари",
             "arabext": "Кенгайтирилган араб-ҳинд рақамлари",
             "armn": "Арман сонлари",
@@ -72,6 +96,7 @@
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
+            "cyrl": "cyrl",
             "deva": "Деванагари рақамлари",
             "ethi": "Ҳабаш сонлари",
             "fullwide": "Тўлиқ кенгликдаги рақамлар",
@@ -86,6 +111,7 @@
             "hant": "Анъанавий Хитой сонлари",
             "hantfin": "Анъанавий Хитой молия сонлари",
             "hebr": "Иброний сонлари",
+            "hmng": "hmng",
             "java": "java",
             "jpan": "Япония сонлари",
             "jpanfin": "Япония молия сонлари",
@@ -98,11 +124,19 @@
             "latn": "Ғарб рақамлари",
             "lepc": "lepc",
             "limb": "limb",
+            "mathbold": "mathbold",
+            "mathdbl": "mathdbl",
+            "mathmono": "mathmono",
+            "mathsanb": "mathsanb",
+            "mathsans": "mathsans",
             "mlym": "Малайалам рақамлари",
+            "modi": "modi",
             "mong": "mong",
+            "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "Мьянма рақамлари",
             "mymrshan": "mymrshan",
+            "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
             "orya": "Ория рақамлари",
@@ -111,6 +145,8 @@
             "romanlow": "Рим кичик сонлари",
             "saur": "saur",
             "shrd": "shrd",
+            "sind": "sind",
+            "sinh": "sinh",
             "sora": "sora",
             "sund": "sund",
             "takr": "takr",
@@ -120,7 +156,9 @@
             "telu": "Телугу рақамлари",
             "thai": "Тай рақамлари",
             "tibt": "Тибет рақамлари",
-            "vaii": "vaii"
+            "tirh": "tirh",
+            "vaii": "vaii",
+            "wara": "wara"
           }
         },
         "codePatterns": {

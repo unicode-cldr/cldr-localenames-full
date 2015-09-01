@@ -3,18 +3,15 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "rm"
       },
       "localeDisplayNames": {
         "scripts": {
-          "Afak": "Afak",
           "Aghb": "Aghb",
+          "Ahom": "Ahom",
           "Arab": "arab",
           "Armi": "arameic imperial",
           "Armn": "armen",
@@ -63,6 +60,7 @@
           "Hans-alt-stand-alone": "Hans",
           "Hant": "scrittira chinaisa tradiziunala",
           "Hant-alt-stand-alone": "Hant",
+          "Hatr": "Hatr",
           "Hebr": "ebraic",
           "Hira": "hiragana",
           "Hluw": "Hluw",
@@ -73,7 +71,6 @@
           "Ital": "italic vegl",
           "Java": "javanais",
           "Jpan": "giapunais",
-          "Jurc": "Jurc",
           "Kali": "kayah li",
           "Kana": "katakana",
           "Khar": "kharoshthi",
@@ -81,7 +78,6 @@
           "Khoj": "Khoj",
           "Knda": "kannada",
           "Kore": "corean",
-          "Kpel": "Kpel",
           "Kthi": "kaithi",
           "Lana": "lanna",
           "Laoo": "laot",
@@ -93,7 +89,6 @@
           "Lina": "linear A",
           "Linb": "linear B",
           "Lisu": "Lisu",
-          "Loma": "Loma",
           "Lyci": "lichic",
           "Lydi": "lidic",
           "Mahj": "Mahj",
@@ -109,12 +104,11 @@
           "Moon": "moon",
           "Mroo": "Mroo",
           "Mtei": "meetei mayek",
+          "Mult": "Mult",
           "Mymr": "burmais",
           "Narb": "Narb",
           "Nbat": "Nbat",
-          "Nkgb": "Nkgb",
           "Nkoo": "n’ko",
-          "Nshu": "Nshu",
           "Ogam": "ogham",
           "Olck": "ol chiki",
           "Orkh": "orkhon",
@@ -204,7 +198,6 @@
           "Tale": "tai le",
           "Talu": "tai lue",
           "Taml": "tamil",
-          "Tang": "Tang",
           "Tavt": "tai viet",
           "Telu": "telugu",
           "Teng": "tengwar",
@@ -218,7 +211,6 @@
           "Vaii": "vaii",
           "Visp": "alfabet visibel",
           "Wara": "Wara",
-          "Wole": "Wole",
           "Xpeo": "persian vegl",
           "Xsux": "scrittira a cugn sumeric-accadica",
           "Yiii": "yi",

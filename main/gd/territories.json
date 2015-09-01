@@ -3,11 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 11294 $"
-        },
-        "generation": {
-          "_date": "$Date: 2015-02-23 16:50:24 -0600 (Mon, 23 Feb 2015) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 12004 $"
         },
         "language": "gd"
       },
@@ -85,7 +82,7 @@
           "CA": "Canada",
           "CC": "Na h-Eileanan Cocos (Keeling)",
           "CD": "Congo - Kinshasa",
-          "CD-alt-variant": "A’ Chongo (Poblachd Dheamocratach)",
+          "CD-alt-variant": "A’ Chongo (PDC)",
           "CF": "Poblachd Meadhan Afraga",
           "CG": "A’ Chongo - Brazzaville",
           "CG-alt-variant": "A’ Chongo (Poblachd)",
@@ -202,7 +199,7 @@
           "MK": "A’ Mhasadon",
           "MK-alt-variant": "A’ Mhasadon (FYROM)",
           "ML": "Màili",
-          "MM": "Miànmar (Burma)",
+          "MM": "Miànmar",
           "MN": "Dùthaich nam Mongol",
           "MO": "Macàthu SAR na Sìne",
           "MO-alt-short": "Macàthu",
@@ -293,7 +290,7 @@
           "TZ": "An Tansan",
           "UA": "An Ucràin",
           "UG": "Uganda",
-          "UM": "Meanbh-Eileanan Iomallach nan Stàitean Aonaichte",
+          "UM": "Meanbh-Eileanan Iomallach nan SA",
           "US": "Na Stàitean Aonaichte",
           "US-alt-short": "SA",
           "UY": "Uruguaidh",
