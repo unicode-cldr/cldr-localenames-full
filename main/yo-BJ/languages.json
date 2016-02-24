@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11980 $"
+          "_number": "$Revision: 12417 $",
+          "_cldrVersion": "29"
         },
         "language": "yo",
         "territory": "BJ"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "Èdè Suwidiisi",
           "sw": "Èdè Swahili",
+          "sw-CD": "Èdè Swahili (Orilɛ́ède Kóngò)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

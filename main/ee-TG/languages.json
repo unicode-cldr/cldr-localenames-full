@@ -3,8 +3,8 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "ee",
         "territory": "TG"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "swedengbe",
           "sw": "swahili",
+          "sw-CD": "swahili (Kongo Kinshasa nutome)",
           "swb": "komorogbe",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

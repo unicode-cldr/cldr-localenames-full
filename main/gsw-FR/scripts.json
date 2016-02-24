@@ -3,14 +3,15 @@
     "gsw-FR": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "gsw",
         "territory": "FR"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "Arabisch",
@@ -22,6 +23,7 @@
           "Bass": "Bass",
           "Batk": "Battakisch",
           "Beng": "Bengalisch",
+          "Bhks": "Bhks",
           "Blis": "Bliss-Symbool",
           "Bopo": "Bopomofo",
           "Brah": "Brahmi",
@@ -54,6 +56,7 @@
           "Grek": "Griechisch",
           "Gujr": "Guscharati",
           "Guru": "Gurmukhi",
+          "Hanb": "Hanb",
           "Hang": "Hangul",
           "Hani": "Chineesisch",
           "Hano": "Hanunoo",
@@ -70,6 +73,7 @@
           "Hung": "Altungarisch",
           "Inds": "Indus-Schrift",
           "Ital": "Altitalisch",
+          "Jamo": "Jamo",
           "Java": "Javanesisch",
           "Jpan": "Japanisch",
           "Kali": "Kayah Li",
@@ -95,6 +99,7 @@
           "Mahj": "Mahj",
           "Mand": "Mandäisch",
           "Mani": "Manichäisch",
+          "Marc": "Marc",
           "Maya": "Maya-Hieroglyphä",
           "Mend": "Mend",
           "Merc": "Merc",
@@ -109,11 +114,13 @@
           "Mymr": "Burmesisch",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "N’Ko",
           "Ogam": "Ogham",
           "Olck": "Ol Chiki",
           "Orkh": "Orchon-Runä",
           "Orya": "Oriya",
+          "Osge": "Osge",
           "Osma": "Osmanisch",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -199,6 +206,7 @@
           "Tale": "Tai Le",
           "Talu": "Tai Lue",
           "Taml": "Tamilisch",
+          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "Telugu",
           "Teng": "Tengwar",
@@ -217,6 +225,7 @@
           "Yiii": "Yi",
           "Zinh": "G’eerbtä Schriftwärt",
           "Zmth": "Zmth",
+          "Zsye": "Zsye",
           "Zsym": "Zsym",
           "Zxxx": "Schriftlosi Schpraach",
           "Zyyy": "Unbeschtimmt",

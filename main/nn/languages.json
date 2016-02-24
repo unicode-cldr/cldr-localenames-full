@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12366 $",
+          "_cldrVersion": "29"
         },
         "language": "nn"
       },
@@ -531,8 +531,8 @@
           "sux": "sumerisk",
           "sv": "svensk",
           "sw": "swahili",
+          "sw-CD": "swahili (Kongo-Kinshasa)",
           "swb": "shimaore",
-          "swc": "swc",
           "syc": "klassisk syrisk",
           "syr": "syrisk",
           "szl": "szl",

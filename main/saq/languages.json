@@ -3,8 +3,8 @@
     "saq": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "saq"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Kiswidi",
           "sw": "sw",
+          "sw-CD": "sw (Jamhuri ya Kidemokrasia ya Kongo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

@@ -3,8 +3,8 @@
     "lg": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "lg"
       },
@@ -48,7 +48,6 @@
           "AI": "Angwila",
           "AL": "Alibaniya",
           "AM": "Arameniya",
-          "AN": "Bizinga bya Antile eby’abaHolandi",
           "AO": "Angola",
           "AQ": "AQ",
           "AR": "Arigentina",

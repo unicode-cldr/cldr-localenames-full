@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "dsb"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "šwedšćina",
           "sw": "swahilišćina",
+          "sw-CD": "kongojska swahilišćina",
           "swb": "swb",
-          "swc": "kongojska swahilišćina",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

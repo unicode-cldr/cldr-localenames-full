@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11917 $"
+          "_number": "$Revision: 12411 $",
+          "_cldrVersion": "29"
         },
         "language": "ast"
       },
@@ -25,12 +25,14 @@
           "BAKU1926": "alfabetu turcu llatino unificáu",
           "BALANKA": "dialectu balanka del anii",
           "BARLA": "grupu dialectal barlavento del cabuverdianu",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "BAUDDHA",
           "BISCAYAN": "BISCAYAN",
           "BISKE": "dialectu San Giorgio/Bila",
           "BOHORIC": "alfabetu bohorič",
           "BOONT": "boontling",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "alfabetu dajnko",
           "EKAVSK": "serbiu con pronunciación ekaviana",
           "EMODENG": "inglés modernu primitivu",
@@ -53,6 +55,7 @@
           "MONOTON": "monotónicu",
           "NDYUKA": "dialectu ndyuka",
           "NEDIS": "dialectu natisone",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "dialectu gniva/njiva",
           "NULIK": "volapük modernu",
           "OSOJS": "dialectu oseacco/osojane",
@@ -70,6 +73,7 @@
           "SAAHO": "saho",
           "SCOTLAND": "inglés estándar escocés",
           "SCOUSE": "scouse",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "dialectu stolvizza/solbica",
           "SOTAV": "grupu dialectal sotavento del cabuverdianu",
           "SURMIRAN": "SURMIRAN",

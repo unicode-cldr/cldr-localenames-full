@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11980 $"
+          "_number": "$Revision: 12417 $",
+          "_cldrVersion": "29"
         },
         "language": "yo",
         "territory": "BJ"
@@ -49,7 +49,6 @@
           "AI": "Orílɛ́ède Ààngúlílà",
           "AL": "Orílɛ́ède Àlùbàníánì",
           "AM": "Orílɛ́ède Améníà",
-          "AN": "Orílɛ́ède Nedalandi ti Antelisi",
           "AO": "Orílɛ́ède Ààngólà",
           "AQ": "AQ",
           "AR": "Orílɛ́ède Agentínà",

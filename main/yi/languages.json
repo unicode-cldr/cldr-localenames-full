@@ -3,8 +3,8 @@
     "yi": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11994 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "yi"
       },
@@ -531,8 +531,8 @@
           "sux": "סומעריש",
           "sv": "שוועדיש",
           "sw": "סוואַהיליש",
+          "sw-CD": "קאנגא־סוואַהיליש",
           "swb": "קאמאריש",
-          "swc": "קאנגא־סוואַהיליש",
           "syc": "syc",
           "syr": "syr",
           "szl": "שלעזיש",

@@ -3,13 +3,14 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11917 $"
+          "_number": "$Revision: 12411 $",
+          "_cldrVersion": "29"
         },
         "language": "ast"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Afak": "afaka",
           "Aghb": "cáucaso-albanés",
           "Ahom": "ahom",
@@ -22,6 +23,7 @@
           "Bass": "bassa vah",
           "Batk": "batak",
           "Beng": "bengalín",
+          "Bhks": "Bhks",
           "Blis": "símbolos de Bliss",
           "Bopo": "bopomofo",
           "Brah": "brahmi",
@@ -54,6 +56,7 @@
           "Grek": "griegu",
           "Gujr": "guyarati",
           "Guru": "gurmukhi",
+          "Hanb": "Hanb",
           "Hang": "hangul",
           "Hani": "han",
           "Hano": "hanunó’o",
@@ -70,6 +73,7 @@
           "Hung": "húngaru antiguu",
           "Inds": "indus",
           "Ital": "itálicu antiguu",
+          "Jamo": "Jamo",
           "Java": "xavanés",
           "Jpan": "xaponés",
           "Jurc": "jurchen",
@@ -98,6 +102,7 @@
           "Mahj": "mahajani",
           "Mand": "mandéu",
           "Mani": "maniquéu",
+          "Marc": "Marc",
           "Maya": "xeroglíficos mayes",
           "Mend": "mende",
           "Merc": "meroíticu en cursiva",
@@ -112,6 +117,7 @@
           "Mymr": "birmanu",
           "Narb": "árabe del norte antiguu",
           "Nbat": "nabatéu",
+          "Newa": "Newa",
           "Nkgb": "geba del naxi",
           "Nkoo": "n’ko",
           "Nshu": "nüshu",
@@ -119,6 +125,7 @@
           "Olck": "ol chiki",
           "Orkh": "orkhon",
           "Orya": "oriya",
+          "Osge": "Osge",
           "Osma": "osmanya",
           "Palm": "palmirenu",
           "Pauc": "Pau Cin Hau",
@@ -138,7 +145,7 @@
           "Qaaf": "qaaf",
           "Qaag": "qaag",
           "Qaah": "qaah",
-          "Qaaj": "qaaj",
+          "Qaaj": "Qaaj",
           "Qaak": "qaak",
           "Qaal": "qaal",
           "Qaam": "qaam",
@@ -224,6 +231,7 @@
           "Yiii": "yi",
           "Zinh": "heredáu",
           "Zmth": "escritura matemática",
+          "Zsye": "Zsye",
           "Zsym": "símbolos",
           "Zxxx": "non escritu",
           "Zyyy": "común",

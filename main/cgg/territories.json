@@ -3,8 +3,8 @@
     "cgg": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "cgg"
       },
@@ -48,7 +48,6 @@
           "AI": "Angwira",
           "AL": "Arubania",
           "AM": "Arimeniya",
-          "AN": "Antiri za Hoorandi",
           "AO": "Angora",
           "AQ": "AQ",
           "AR": "Arigentina",

@@ -3,8 +3,8 @@
     "xog": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "xog"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Oluswideni",
           "sw": "sw",
+          "sw-CD": "sw (Kongo - Zayire)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

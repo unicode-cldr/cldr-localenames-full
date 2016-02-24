@@ -3,13 +3,14 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "or"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "ଆରବିକ୍",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "ବାଟାକ୍",
           "Beng": "ବଙ୍ଗାଳୀ",
+          "Bhks": "Bhks",
           "Blis": "ବ୍ଲିସିମ୍ବଲସ୍",
           "Bopo": "ବୋପୋମୋଫୋ",
           "Brah": "ବ୍ରାହ୍ମୀ",
@@ -53,6 +55,7 @@
           "Grek": "ଗ୍ରୀକ୍",
           "Gujr": "ଗୁଜୁରାଟୀ",
           "Guru": "ଗୁରୁମୁଖୀ",
+          "Hanb": "Hanb",
           "Hang": "ହାଙ୍ଗୁଲ୍",
           "Hani": "ହାନ୍",
           "Hano": "ହାନୁନ୍",
@@ -69,6 +72,7 @@
           "Hung": "ପୁରୁଣା ହଙ୍ଗେରିଆନ୍",
           "Inds": "ସିନ୍ଧୁ",
           "Ital": "ପୁରୁଣା ଇଟାଲୀ",
+          "Jamo": "Jamo",
           "Java": "ଜାଭାନୀଜ୍",
           "Jpan": "ଜାପାନୀଜ୍",
           "Kali": "କାୟାହା ଲୀ",
@@ -94,6 +98,7 @@
           "Mahj": "Mahj",
           "Mand": "ମାନଡେନ୍",
           "Mani": "ମନଶୀନ୍",
+          "Marc": "Marc",
           "Maya": "ମୟାନ୍ ହାୟରଲଜିକସ୍",
           "Mend": "Mend",
           "Merc": "Merc",
@@ -108,11 +113,13 @@
           "Mymr": "ମିଆମାର୍",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "ଏନ୍ କୋ",
           "Ogam": "ଓଘାମା",
           "Olck": "ଓଲ୍ ଚିକି",
           "Orkh": "ଓରୋଖନ୍",
           "Orya": "ଓଡିଆ",
+          "Osge": "Osge",
           "Osma": "ଓସୋମାନିୟା",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -198,6 +205,7 @@
           "Tale": "ତାଇ ଲେ",
           "Talu": "ନୂତନ ତାଇ ଲୁଏ",
           "Taml": "ତାମିଲ୍",
+          "Tang": "Tang",
           "Tavt": "ତାଇ ଭିଏତ୍",
           "Telu": "ତେଲୁଗୁ",
           "Teng": "ତେଙ୍ଗୱାର୍",
@@ -216,6 +224,7 @@
           "Yiii": "ୟୀ",
           "Zinh": "ବଂଶଗତ",
           "Zmth": "ଗାଣିତିକ ନୋଟେସନ୍",
+          "Zsye": "Zsye",
           "Zsym": "ସିମ୍ବଲ୍",
           "Zxxx": "ଅଲିଖିତ",
           "Zyyy": "ସାଧାରଣ",

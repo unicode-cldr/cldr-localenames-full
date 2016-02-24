@@ -3,8 +3,8 @@
     "ewo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ewo"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "ǹkɔ́bɔ suwɛ́d",
           "sw": "sw",
+          "sw-CD": "sw (ǹnam Kongó Demokəlatíg)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

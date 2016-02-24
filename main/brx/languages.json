@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11974 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "brx"
       },
@@ -531,8 +531,8 @@
           "sux": "सुमेरिअन",
           "sv": "स्वीडिश",
           "sw": "स्वाहिली",
+          "sw-CD": "स्वाहिली (कॉंगो किनशासा)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "पारंपरीक सिरिआक",
           "syr": "सिरिआक",
           "szl": "szl",

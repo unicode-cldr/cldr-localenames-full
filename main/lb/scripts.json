@@ -3,13 +3,14 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "lb"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "Arabesch",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "Battakesch",
           "Beng": "Bengalesch",
+          "Bhks": "Bhks",
           "Blis": "Bliss-Symboler",
           "Bopo": "Bopomofo",
           "Brah": "Brahmi",
@@ -53,6 +55,7 @@
           "Grek": "Griichesch",
           "Gujr": "Gujarati",
           "Guru": "Gurmukhi",
+          "Hanb": "Hanb",
           "Hang": "Hangul",
           "Hani": "Chinesesch",
           "Hano": "Hanunoo",
@@ -69,6 +72,7 @@
           "Hung": "Alungaresch",
           "Inds": "Indus-Schrëft",
           "Ital": "Alitalesch",
+          "Jamo": "Jamo",
           "Java": "Javanesesch",
           "Jpan": "Japanesch",
           "Kali": "Kayah Li",
@@ -94,6 +98,7 @@
           "Mahj": "Mahj",
           "Mand": "Mandäesch",
           "Mani": "Manichäesch",
+          "Marc": "Marc",
           "Maya": "Maya-Hieroglyphen",
           "Mend": "Mend",
           "Merc": "Merc",
@@ -108,11 +113,13 @@
           "Mymr": "Birmanesch",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "N’Ko",
           "Ogam": "Ogham",
           "Olck": "Ol Chiki",
           "Orkh": "Orchon-Runen",
           "Orya": "Oriya",
+          "Osge": "Osge",
           "Osma": "Osmanesch",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -198,6 +205,7 @@
           "Tale": "Tai Le",
           "Talu": "Tai Lue",
           "Taml": "Tamilesch",
+          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "Telugu",
           "Teng": "Tengwar",
@@ -216,6 +224,7 @@
           "Yiii": "Yi",
           "Zinh": "Geierfte Schrëftwäert",
           "Zmth": "Zmth",
+          "Zsye": "Zsye",
           "Zsym": "Symboler",
           "Zxxx": "Ouni Schrëft",
           "Zyyy": "Onbestëmmt",

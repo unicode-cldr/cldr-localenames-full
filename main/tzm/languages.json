@@ -3,8 +3,8 @@
     "tzm": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "tzm"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Taswidit",
           "sw": "sw",
+          "sw-CD": "sw (Tagduda Tadimuqraṭit n Kungu)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

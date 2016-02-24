@@ -3,8 +3,8 @@
     "vai-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "vai",
         "script": "Latn"
@@ -49,7 +49,6 @@
           "AI": "Aŋgíla",
           "AL": "Abhaniya",
           "AM": "Améniya",
-          "AN": "Nidɔlɛŋ Aŋtili",
           "AO": "Aŋgóla",
           "AQ": "AQ",
           "AR": "Ajɛŋtína",

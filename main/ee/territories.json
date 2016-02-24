@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ee"
       },
@@ -48,7 +48,6 @@
           "AI": "Anguilla nutome",
           "AL": "Albania nutome",
           "AM": "Armenia nutome",
-          "AN": "Nedalands Antilis nutome",
           "AO": "Angola nutome",
           "AQ": "Antartica nutome",
           "AR": "Argentina nutome",

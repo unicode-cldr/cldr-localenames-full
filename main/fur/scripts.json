@@ -3,13 +3,14 @@
     "fur": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "fur"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "arap",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "Batk",
           "Beng": "bengalês",
+          "Bhks": "Bhks",
           "Bopo": "Bopo",
           "Brah": "Brah",
           "Brai": "Braille",
@@ -50,6 +52,7 @@
           "Grek": "grêc",
           "Gujr": "gujarati",
           "Guru": "Guru",
+          "Hanb": "Hanb",
           "Hang": "Hang",
           "Hani": "han",
           "Hano": "Hano",
@@ -65,6 +68,7 @@
           "Hrkt": "katakana o hiragana",
           "Hung": "vieri ongjarês",
           "Ital": "vieri italic",
+          "Jamo": "Jamo",
           "Java": "gjavanês",
           "Jpan": "gjaponês",
           "Kali": "Kali",
@@ -90,6 +94,7 @@
           "Mahj": "Mahj",
           "Mand": "Mand",
           "Mani": "Mani",
+          "Marc": "Marc",
           "Maya": "jeroglifics Maya",
           "Mend": "Mend",
           "Merc": "Merc",
@@ -103,11 +108,13 @@
           "Mymr": "myanmar",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "Nkoo",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
           "Orya": "oriya",
+          "Osge": "Osge",
           "Osma": "Osma",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -190,6 +197,7 @@
           "Tale": "Tale",
           "Talu": "Talu",
           "Taml": "tamil",
+          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "telegu",
           "Tfng": "Tfng",
@@ -206,6 +214,7 @@
           "Yiii": "Yiii",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
+          "Zsye": "Zsye",
           "Zsym": "Zsym",
           "Zxxx": "codiç pes lenghis no scritis",
           "Zyyy": "comun",

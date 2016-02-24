@@ -3,13 +3,14 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12366 $",
+          "_cldrVersion": "29"
         },
         "language": "nn"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "arabisk",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "batak",
           "Beng": "bengali",
+          "Bhks": "Bhks",
           "Blis": "blissymbol",
           "Bopo": "bopomofo",
           "Brah": "brahmi",
@@ -53,6 +55,7 @@
           "Grek": "gresk",
           "Gujr": "gujarati",
           "Guru": "gurmukhi",
+          "Hanb": "Hanb",
           "Hang": "hangul",
           "Hani": "han",
           "Hano": "hanunoo",
@@ -69,6 +72,7 @@
           "Hung": "gammalungarsk",
           "Inds": "indus",
           "Ital": "gammalitalisk",
+          "Jamo": "Jamo",
           "Java": "javanesisk",
           "Jpan": "japansk",
           "Kali": "kayah li",
@@ -94,6 +98,7 @@
           "Mahj": "Mahj",
           "Mand": "mandaisk",
           "Mani": "manikeisk",
+          "Marc": "Marc",
           "Maya": "maya-hieroglyfar",
           "Mend": "Mend",
           "Merc": "Merc",
@@ -108,11 +113,13 @@
           "Mymr": "myanmar",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "n’ko",
           "Ogam": "ogham",
           "Olck": "ol-chiki",
           "Orkh": "orkhon",
           "Orya": "oriya",
+          "Osge": "Osge",
           "Osma": "osmanya",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -198,6 +205,7 @@
           "Tale": "tai le",
           "Talu": "ny tai lue",
           "Taml": "tamilsk",
+          "Tang": "Tang",
           "Tavt": "tai viet",
           "Telu": "telugu",
           "Teng": "tengwar",
@@ -216,6 +224,7 @@
           "Yiii": "yi",
           "Zinh": "nedarva",
           "Zmth": "matematisk notasjon",
+          "Zsye": "Zsye",
           "Zsym": "symbol",
           "Zxxx": "kode for språk utan skrift",
           "Zyyy": "felles",

@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "or"
       },
@@ -531,8 +531,8 @@
           "sux": "ସୁମେରିଆନ୍",
           "sv": "ସ୍ୱେଡିସ୍",
           "sw": "ସ୍ୱାହିଲ୍",
+          "sw-CD": "ସ୍ୱାହିଲ୍ (କଙ୍ଗୋ-କିନସାସା)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "କ୍ଲାସିକାଲ୍ ସିରିକ୍",
           "syr": "ସିରିକ୍",
           "szl": "szl",

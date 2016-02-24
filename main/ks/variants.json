@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11974 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "ks"
       },
@@ -25,12 +25,14 @@
           "BAKU1926": "جٔمع کٔرِتھ تُرکی لاطیٖنی اَچھر",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "BAUDDHA",
           "BISCAYAN": "BISCAYAN",
           "BISKE": "سین جارجِیو/بِلا بوٗلۍ",
           "BOHORIC": "BOHORIC",
           "BOONT": "BOONT",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
@@ -53,6 +55,7 @@
           "MONOTON": "اَکٔے لہجہٕ واجٮ۪ن زَبان",
           "NDYUKA": "NDYUKA",
           "NEDIS": "نٮ۪ٹِسون بوٗلۍ",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "نیجِوا بوٗلۍ",
           "NULIK": "NULIK",
           "OSOJS": "اُشیکو/اوسوجین بوٗلۍ",
@@ -70,6 +73,7 @@
           "SAAHO": "سوہو",
           "SCOTLAND": "سُکاٹِش مَیعٲری اَنٛگریٖزۍ",
           "SCOUSE": "سِکوس",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "ثٹولوِزا/سولبِکا بوٗلۍ",
           "SOTAV": "SOTAV",
           "SURMIRAN": "SURMIRAN",

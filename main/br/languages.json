@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11994 $"
+          "_number": "$Revision: 12293 $",
+          "_cldrVersion": "29"
         },
         "language": "br"
       },
@@ -531,8 +531,8 @@
           "sux": "sumereg",
           "sv": "svedeg",
           "sw": "swahili",
+          "sw-CD": "swahili Kongo",
           "swb": "komoreg",
-          "swc": "swahili Kongo",
           "syc": "sirieg klasel",
           "syr": "sirieg",
           "szl": "silezieg",

@@ -3,8 +3,8 @@
     "seh": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "seh"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "sueco",
           "sw": "sw",
+          "sw-CD": "sw (Congo-Kinshasa)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

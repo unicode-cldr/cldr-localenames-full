@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "fy"
       },
@@ -48,7 +48,6 @@
           "AI": "Anguilla",
           "AL": "Albanië",
           "AM": "Armenië",
-          "AN": "Nederlânske Antillen",
           "AO": "Angola",
           "AQ": "Antarctica",
           "AR": "Argentinië",

@@ -3,8 +3,8 @@
     "shi-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "shi",
         "script": "Latn"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "Taswidit",
           "sw": "sw",
+          "sw-CD": "sw (tagdudant tadimukratit n Kongo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

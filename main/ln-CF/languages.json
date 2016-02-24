@@ -3,8 +3,8 @@
     "ln-CF": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "ln",
         "territory": "CF"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "lisuwedɛ",
           "sw": "sw",
+          "sw-CD": "sw (Repibiki demokratiki ya Kongó)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

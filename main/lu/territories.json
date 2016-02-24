@@ -3,8 +3,8 @@
     "lu": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "lu"
       },
@@ -48,7 +48,6 @@
           "AI": "Angiye",
           "AL": "Alubani",
           "AM": "Ameni",
-          "AN": "Antiye wa Olande",
           "AO": "Angola",
           "AQ": "AQ",
           "AR": "Alijantine",

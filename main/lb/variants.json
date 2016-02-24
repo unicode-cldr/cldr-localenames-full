@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "lb"
       },
@@ -25,12 +25,14 @@
           "BAKU1926": "Eenheetlecht Tierkescht Alphabet",
           "BALANKA": "Balanka-Dialekt vun Anii",
           "BARLA": "Barlavento-Dialektgrupp vu Kabuverdianu",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "BAUDDHA",
           "BISCAYAN": "BISCAYAN",
           "BISKE": "Bela-Dialekt",
           "BOHORIC": "Bohorič-Alphabet",
           "BOONT": "Boontling",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "Dajnko-Alphabet",
           "EKAVSK": "Serbesch mat Ekavian-Aussprooch",
           "EMODENG": "Fréit Modernt Englesch",
@@ -53,6 +55,7 @@
           "MONOTON": "Monotonesch",
           "NDYUKA": "Ndyuka-Dialekt",
           "NEDIS": "Natisone-Dialekt",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "Njiva-Dialekt",
           "NULIK": "Modernt Volapük",
           "OSOJS": "Osojane-Dialekt",
@@ -70,6 +73,7 @@
           "SAAHO": "Saho",
           "SCOTLAND": "Schottescht Standardenglesch",
           "SCOUSE": "Scouse-Dialekt",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "Solbica-Dialekt",
           "SOTAV": "Sotavento-Dialekt-Grupp vu Kabuverdianu",
           "SURMIRAN": "SURMIRAN",

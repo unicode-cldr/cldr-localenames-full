@@ -3,8 +3,8 @@
     "agq": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "agq"
       },
@@ -48,7 +48,6 @@
           "AI": "Àŋgwilà",
           "AL": "Àabɛnìa",
           "AM": "Àmɛnyìa",
-          "AN": "Nedàlân Antàe",
           "AO": "Àŋgolà",
           "AQ": "AQ",
           "AR": "Àdzɛ̀ntinà",

@@ -3,8 +3,8 @@
     "mer": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "mer"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Kĩswideni",
           "sw": "sw",
+          "sw-CD": "sw (Nthĩ ya Kidemokrasĩ ya Kongo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

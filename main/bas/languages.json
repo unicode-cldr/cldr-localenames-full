@@ -3,8 +3,8 @@
     "bas": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bas"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Hɔp u suɛ᷆d",
           "sw": "sw",
+          "sw-CD": "sw (Kòŋgo ìkɛŋi)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

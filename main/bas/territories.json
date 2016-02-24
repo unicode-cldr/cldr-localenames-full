@@ -3,8 +3,8 @@
     "bas": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bas"
       },
@@ -48,7 +48,6 @@
           "AI": "Àŋgiyà",
           "AL": "Àlbanìà",
           "AM": "Àrmenìà",
-          "AN": "Àŋtîy ǹlɛ̀ndi",
           "AO": "Àŋgolà",
           "AQ": "AQ",
           "AR": "Àrgàŋtinà",

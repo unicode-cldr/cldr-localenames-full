@@ -3,8 +3,8 @@
     "ti-ER": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "ti",
         "territory": "ER"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "ስዊድንኛ",
           "sw": "ሰዋሂሊኛ",
+          "sw-CD": "ሰዋሂሊኛ (CD)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

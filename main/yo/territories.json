@@ -3,8 +3,8 @@
     "yo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11980 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "yo"
       },
@@ -48,7 +48,6 @@
           "AI": "Orílẹ́ède Ààngúlílà",
           "AL": "Orílẹ́ède Àlùbàníánì",
           "AM": "Orílẹ́ède Améníà",
-          "AN": "Orílẹ́ède Nedalandi ti Antelisi",
           "AO": "Orílẹ́ède Ààngólà",
           "AQ": "AQ",
           "AR": "Orílẹ́ède Agentínà",

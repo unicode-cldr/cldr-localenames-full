@@ -3,8 +3,8 @@
     "mer": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "mer"
       },
@@ -48,7 +48,6 @@
           "AI": "Anguilla",
           "AL": "Alubania",
           "AM": "Armenia",
-          "AN": "Antili cia Holandi",
           "AO": "Angola",
           "AQ": "AQ",
           "AR": "Ajentina",

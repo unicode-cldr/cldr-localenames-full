@@ -3,8 +3,8 @@
     "tzm": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "tzm"
       },
@@ -48,7 +48,6 @@
           "AI": "Angwilla",
           "AL": "Albanya",
           "AM": "Arminya",
-          "AN": "Antil Tihulanḍiyyin",
           "AO": "Angula",
           "AQ": "AQ",
           "AR": "Arjuntin",

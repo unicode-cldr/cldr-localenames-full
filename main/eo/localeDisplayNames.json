@@ -3,8 +3,8 @@
     "eo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12354 $",
+          "_cldrVersion": "29"
         },
         "language": "eo"
       },

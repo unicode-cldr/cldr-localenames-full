@@ -3,8 +3,8 @@
     "sn": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "sn"
       },
@@ -48,7 +48,6 @@
           "AI": "Anguila",
           "AL": "Albania",
           "AM": "Armenia",
-          "AN": "Netherlands Antilles",
           "AO": "Angola",
           "AQ": "AQ",
           "AR": "Ajentina",

@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 12004 $"
+          "_number": "$Revision: 12293 $",
+          "_cldrVersion": "29"
         },
         "language": "gd"
       },
@@ -531,8 +531,8 @@
           "sux": "Cànan Sumer",
           "sv": "Suainis",
           "sw": "Kiswahili",
+          "sw-CD": "Kiswahili na Congo",
           "swb": "Comorais",
-          "swc": "Kiswahili na Congo",
           "syc": "Suraidheac Chlasaigeach",
           "syr": "Suraidheac",
           "szl": "szl",

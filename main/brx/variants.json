@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11974 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "brx"
       },
@@ -25,12 +25,14 @@
           "BAKU1926": "युनीफाईड तुर्की लैटीनी वर्तनी",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "BAUDDHA",
           "BISCAYAN": "BISCAYAN",
           "BISKE": "सान जीओर्जीओ / बीला डायलेक्ट",
           "BOHORIC": "BOHORIC",
           "BOONT": "बुन्तलींग",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
@@ -53,6 +55,7 @@
           "MONOTON": "एकस्वरीय",
           "NDYUKA": "NDYUKA",
           "NEDIS": "नाटीसोन डायलेक्ट",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "ग्नीवा या न्जीवा डायलेक्ट",
           "NULIK": "NULIK",
           "OSOJS": "ओसेआको ओसोजाने डायलेक्ट",
@@ -70,6 +73,7 @@
           "SAAHO": "साहो",
           "SCOTLAND": "मानक स्कॉट अंग्रेज़ी",
           "SCOUSE": "स्काउज़",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "श्टोलविज़्ज़ा या सोलबीका डायलेक्ट",
           "SOTAV": "SOTAV",
           "SURMIRAN": "SURMIRAN",

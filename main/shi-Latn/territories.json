@@ -3,8 +3,8 @@
     "shi-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "shi",
         "script": "Latn"
@@ -49,7 +49,6 @@
           "AI": "angila",
           "AL": "albanya",
           "AM": "arminya",
-          "AN": "antiy n hulanda",
           "AO": "angula",
           "AQ": "AQ",
           "AR": "arjantin",

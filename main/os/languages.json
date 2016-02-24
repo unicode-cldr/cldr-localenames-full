@@ -3,8 +3,8 @@
     "os": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12313 $",
+          "_cldrVersion": "29"
         },
         "language": "os"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "sv",
           "sw": "sw",
+          "sw-CD": "sw (CD)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

@@ -3,8 +3,8 @@
     "ses": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ses"
       },
@@ -48,7 +48,6 @@
           "AI": "Angiiya",
           "AL": "Albaani",
           "AM": "Armeeni",
-          "AN": "Hollandu Antiiyey Laboo",
           "AO": "Angoola",
           "AQ": "AQ",
           "AR": "Argentine",

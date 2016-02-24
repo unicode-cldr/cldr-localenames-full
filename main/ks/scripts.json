@@ -3,13 +3,14 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11974 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "ks"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "اَربی",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "باتَک",
           "Beng": "بیٚنگٲلۍ",
+          "Bhks": "Bhks",
           "Blis": "بِلِس سِمبلز",
           "Bopo": "بوپوموفو",
           "Brah": "برٛاہمی",
@@ -53,6 +55,7 @@
           "Grek": "گرَنتھا",
           "Gujr": "گریٖک",
           "Guru": "گُجرٲتۍ",
+          "Hanb": "Hanb",
           "Hang": "ہانٛگُل",
           "Hani": "ہان",
           "Hano": "ہانُنوٗ",
@@ -69,6 +72,7 @@
           "Hung": "پرون ہَنگیریَن",
           "Inds": "اِنڈَس",
           "Ital": "اولڈ اِٹیلِک",
+          "Jamo": "Jamo",
           "Java": "جاوَنیٖز",
           "Jpan": "جیٚپَنیٖز",
           "Kali": "کایا لی",
@@ -94,6 +98,7 @@
           "Mahj": "Mahj",
           "Mand": "مَندییَن",
           "Mani": "مانیشییَن",
+          "Marc": "Marc",
           "Maya": "مایَن ہیٖروگلِپھ",
           "Mend": "Mend",
           "Merc": "Merc",
@@ -108,11 +113,13 @@
           "Mymr": "مَیَنمار",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "ایٚن کو",
           "Ogam": "اوگہام",
           "Olck": "اول چِکی",
           "Orkh": "اورکھون",
           "Orya": "اورِیا",
+          "Osge": "Osge",
           "Osma": "اوسمانیا",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -198,6 +205,7 @@
           "Tale": "تَیلیے",
           "Talu": "نوٚو تیلو",
           "Taml": "تَمِل",
+          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "تیلگوٗ",
           "Teng": "تیٚنگوار",
@@ -216,6 +224,7 @@
           "Yiii": "یٖی",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
+          "Zsye": "Zsye",
           "Zsym": "Zsym",
           "Zxxx": "لیٚکھنَے",
           "Zyyy": "عام",

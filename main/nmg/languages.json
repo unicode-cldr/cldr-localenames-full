@@ -3,8 +3,8 @@
     "nmg": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "nmg"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Kiɛl bó suedois",
           "sw": "sw",
+          "sw-CD": "sw (Kongó Zaïre)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

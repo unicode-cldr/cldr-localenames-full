@@ -3,8 +3,8 @@
     "bez": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bez"
       },
@@ -48,7 +48,6 @@
           "AI": "Huanguila",
           "AL": "Hualbania",
           "AM": "Huamenia",
-          "AN": "Huantili dza Huuholanzi",
           "AO": "Huangola",
           "AQ": "AQ",
           "AR": "Huajendina",

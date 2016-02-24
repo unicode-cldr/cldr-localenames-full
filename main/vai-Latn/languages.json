@@ -3,8 +3,8 @@
     "vai-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "vai",
         "script": "Latn"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "Súwídɛŋ",
           "sw": "sw",
+          "sw-CD": "sw (Avorekoo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

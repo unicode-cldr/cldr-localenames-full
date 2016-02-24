@@ -3,8 +3,8 @@
     "lrc": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11997 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "lrc"
       },
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "سوٙئدی",
           "sw": "سأڤاحیلی",
+          "sw-CD": "سأڤاحیلی کونگو",
           "swb": "swb",
-          "swc": "سأڤاحیلی کونگو",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

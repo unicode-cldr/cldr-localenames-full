@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "rm"
       },
@@ -25,12 +25,14 @@
           "BAKU1926": "alfabet tirc unifitgà",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "BAUDDHA",
           "BISCAYAN": "BISCAYAN",
           "BISKE": "dialect da San Giorgio",
           "BOHORIC": "BOHORIC",
           "BOONT": "dialect boontling",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
@@ -53,6 +55,7 @@
           "MONOTON": "monotonic",
           "NDYUKA": "NDYUKA",
           "NEDIS": "dialect da Natisone",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "dialect da Gniva",
           "NULIK": "NULIK",
           "OSOJS": "dialect da Oscacco",
@@ -70,6 +73,7 @@
           "SAAHO": "Saho",
           "SCOTLAND": "englais da standard scot",
           "SCOUSE": "dialect scouse",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "dialect da Stolvizza",
           "SOTAV": "SOTAV",
           "SURMIRAN": "SURMIRAN",

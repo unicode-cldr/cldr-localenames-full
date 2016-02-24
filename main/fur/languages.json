@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "fur"
       },
@@ -531,8 +531,8 @@
           "sux": "sumeric",
           "sv": "svedês",
           "sw": "swahili",
+          "sw-CD": "swahili (Republiche Democratiche dal Congo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

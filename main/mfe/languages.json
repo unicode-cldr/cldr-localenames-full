@@ -3,8 +3,8 @@
     "mfe": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "mfe"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "swedwa",
           "sw": "sw",
+          "sw-CD": "sw (Repiblik demokratik Kongo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

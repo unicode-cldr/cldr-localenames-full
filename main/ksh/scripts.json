@@ -3,13 +3,14 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "ksh"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "arraabesche Schreff",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "Batk",
           "Beng": "bängjaalesche Schreff",
+          "Bhks": "Bhks",
           "Bopo": "schineeseche Ömschreff Bopomofo",
           "Brah": "Brah",
           "Brai": "Blindeschreff",
@@ -47,6 +49,7 @@
           "Grek": "jriischesche Schreff",
           "Gujr": "jujaraatesche Schreff",
           "Guru": "indesche Gurmukhi-Schreff",
+          "Hanb": "Hanb",
           "Hang": "korrejaanesche Schreff",
           "Hani": "en schineesesche Schreff",
           "Hano": "Hano",
@@ -62,6 +65,7 @@
           "Hrkt": "Hrkt",
           "Hung": "Hung",
           "Ital": "Ital",
+          "Jamo": "Jamo",
           "Java": "Java",
           "Jpan": "en japaanesche Schreff",
           "Kali": "Kali",
@@ -85,6 +89,7 @@
           "Mahj": "Mahj",
           "Mand": "Mand",
           "Mani": "Mani",
+          "Marc": "Marc",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
@@ -97,11 +102,13 @@
           "Mymr": "birmaanesche Schreff",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "Nkoo",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
           "Orya": "indesche Orija-Schreff",
+          "Osge": "Osge",
           "Osma": "Osma",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -181,6 +188,7 @@
           "Tale": "Tale",
           "Talu": "Talu",
           "Taml": "tamiilesche Schreff",
+          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "indesche Telugu-Schreff",
           "Tfng": "Tfng",
@@ -197,6 +205,7 @@
           "Yiii": "Yiii",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
+          "Zsye": "Zsye",
           "Zsym": "-Zeiche ävver kein Schreff-",
           "Zxxx": "-jaa keij Schreff-",
           "Zyyy": "-öhnß en Schreff-",

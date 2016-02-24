@@ -3,8 +3,8 @@
     "so-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "so",
         "territory": "KE"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "Swiidhis",
           "sw": "sw",
+          "sw-CD": "sw (Jamhuuriyadda Dimuquraadiga Kongo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

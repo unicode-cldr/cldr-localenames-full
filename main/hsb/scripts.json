@@ -3,13 +3,14 @@
     "hsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "hsb"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "arabsce",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "Batk",
           "Beng": "bengalsce",
+          "Bhks": "Bhks",
           "Bopo": "bopomofo",
           "Brah": "Brah",
           "Brai": "Braillowe pismo",
@@ -47,6 +49,7 @@
           "Grek": "grjeksce",
           "Gujr": "gujarati",
           "Guru": "gurmukhi",
+          "Hanb": "Hanb",
           "Hang": "hangul",
           "Hani": "chinsce",
           "Hano": "Hano",
@@ -62,6 +65,7 @@
           "Hrkt": "Hrkt",
           "Hung": "Hung",
           "Ital": "Ital",
+          "Jamo": "Jamo",
           "Java": "Java",
           "Jpan": "japansce",
           "Kali": "Kali",
@@ -85,6 +89,7 @@
           "Mahj": "Mahj",
           "Mand": "Mand",
           "Mani": "Mani",
+          "Marc": "Marc",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
@@ -97,11 +102,13 @@
           "Mymr": "burmasce",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "Nkoo",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
           "Orya": "oriya",
+          "Osge": "Osge",
           "Osma": "Osma",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -181,6 +188,7 @@
           "Tale": "Tale",
           "Talu": "Talu",
           "Taml": "tamilsce",
+          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "telugu",
           "Tfng": "Tfng",
@@ -197,6 +205,7 @@
           "Yiii": "Yiii",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
+          "Zsye": "Zsye",
           "Zsym": "symbole",
           "Zxxx": "bjez pisma",
           "Zyyy": "powšitkowne",

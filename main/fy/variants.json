@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "fy"
       },
@@ -25,12 +25,14 @@
           "BAKU1926": "Eenvormig Turkse Latynse alfabet",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "Bauddha",
           "BISCAYAN": "Biskajaansk",
           "BISKE": "San Giorgio/Bila-dialekt",
           "BOHORIC": "BOHORIC",
           "BOONT": "Boontling",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "Dajnko-alfabet",
           "EKAVSK": "EKAVSK",
           "EMODENG": "Vroegmodern Engels",
@@ -53,6 +55,7 @@
           "MONOTON": "Monotonaal",
           "NDYUKA": "Ndyuka",
           "NEDIS": "Natisone-dialekt",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "Gniva/Njiva-dialekt",
           "NULIK": "Modern Volapük",
           "OSOJS": "Oseacco/Osojane-dialekt",
@@ -70,6 +73,7 @@
           "SAAHO": "Saho",
           "SCOTLAND": "Schots standert-Engels",
           "SCOUSE": "Liverpools (Scouse)",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "Stolvizza/Solbica-dialekt",
           "SOTAV": "SOTAV",
           "SURMIRAN": "Surmiran",

@@ -3,8 +3,8 @@
     "gsw-LI": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "gsw",
         "territory": "LI"
@@ -26,12 +26,14 @@
           "BAKU1926": "Äinheitlichs Türggischs Alfabeet",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "BAUDDHA",
           "BISCAYAN": "BISCAYAN",
           "BISKE": "Bela-Tialäkt",
           "BOHORIC": "BOHORIC",
           "BOONT": "Boontling",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
@@ -54,6 +56,7 @@
           "MONOTON": "Monotonisch",
           "NDYUKA": "NDYUKA",
           "NEDIS": "Natisone-Mundart",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "Njiva-Mundart",
           "NULIK": "NULIK",
           "OSOJS": "Osojane-Mundart",
@@ -71,6 +74,7 @@
           "SAAHO": "Saho",
           "SCOTLAND": "Schottischs Schtandardänglisch",
           "SCOUSE": "Scouse-Mundart",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "Solbica-Mundart",
           "SOTAV": "SOTAV",
           "SURMIRAN": "SURMIRAN",

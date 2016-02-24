@@ -3,8 +3,8 @@
     "nus": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11938 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "nus"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Thok i̱thwidicni",
           "sw": "sw",
+          "sw-CD": "sw (CD)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

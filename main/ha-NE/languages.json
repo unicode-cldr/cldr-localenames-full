@@ -3,8 +3,8 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "ha",
         "territory": "NE"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "Harshen Suwedan",
           "sw": "sw",
+          "sw-CD": "sw (Jamhuriyar Dimokuraɗiyyar Kongo)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

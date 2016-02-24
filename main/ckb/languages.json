@@ -3,8 +3,8 @@
     "ckb": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11994 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "ckb"
       },
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "سویدی",
           "sw": "sw",
+          "sw-CD": "sw (CD)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

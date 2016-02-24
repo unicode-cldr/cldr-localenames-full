@@ -3,13 +3,14 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "fy"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Afak": "Defaka",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
@@ -23,6 +24,7 @@
           "Bass": "Bassa Vah",
           "Batk": "Batak",
           "Beng": "Bengalees",
+          "Bhks": "Bhks",
           "Blis": "Blissymbolen",
           "Bopo": "Bopomofo",
           "Brah": "Brahmi",
@@ -55,6 +57,7 @@
           "Grek": "Grieks",
           "Gujr": "Gujarati",
           "Guru": "Gurmukhi",
+          "Hanb": "Hanb",
           "Hang": "Hangul",
           "Hani": "Han",
           "Hano": "Hanunoo",
@@ -71,6 +74,7 @@
           "Hung": "Aldhongaars",
           "Inds": "Indus",
           "Ital": "Ald-italysk",
+          "Jamo": "Jamo",
           "Java": "Javaansk",
           "Jpan": "Japans",
           "Jurc": "Jurchen",
@@ -99,6 +103,7 @@
           "Mahj": "Mahj",
           "Mand": "Mandaeans",
           "Mani": "Manicheaansk",
+          "Marc": "Marc",
           "Maya": "Mayahiërogliefen",
           "Mend": "Mende",
           "Merc": "Meroitysk cursief",
@@ -113,6 +118,7 @@
           "Mymr": "Myanmar",
           "Narb": "Ald Noard-Arabysk",
           "Nbat": "Nabateaansk",
+          "Newa": "Newa",
           "Nkgb": "Naxi Geba",
           "Nkoo": "N’Ko",
           "Nshu": "Nüshu",
@@ -120,6 +126,7 @@
           "Olck": "Ol Chiki",
           "Orkh": "Orkhon",
           "Orya": "Odia",
+          "Osge": "Osge",
           "Osma": "Osmanya",
           "Palm": "Palmyreens",
           "Pauc": "Pauc",
@@ -225,6 +232,7 @@
           "Yiii": "Yi",
           "Zinh": "Oergeërfd",
           "Zmth": "Wiskundige notatie",
+          "Zsye": "Zsye",
           "Zsym": "Symbolen",
           "Zxxx": "Ongeschreven",
           "Zyyy": "Algemeen",

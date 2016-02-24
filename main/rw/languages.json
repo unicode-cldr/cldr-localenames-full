@@ -3,8 +3,8 @@
     "rw": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "rw"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Igisuweduwa",
           "sw": "Igiswahili",
+          "sw-CD": "Igiswahili (CD)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

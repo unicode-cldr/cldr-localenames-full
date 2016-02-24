@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11990 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -533,8 +533,8 @@
           "sux": "сумерски",
           "sv": "шведски",
           "sw": "свахили",
+          "sw-CD": "свахили (Конго - Киншаса)",
           "swb": "коморски",
-          "swc": "swc",
           "syc": "класични сиријски",
           "syr": "сиријски",
           "szl": "szl",

@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11974 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "ks"
       },
@@ -531,8 +531,8 @@
           "sux": "سُمیریَن",
           "sv": "سویٖڈِش",
           "sw": "سواہِلی",
+          "sw-CD": "سواہِلی (کونٛگو کِنشاسا)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "سیٖریٲیی",
           "szl": "szl",

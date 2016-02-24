@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12128 $",
+          "_cldrVersion": "29"
         },
         "language": "ksh"
       },
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "Schweedesch",
           "sw": "Suaheelesch",
+          "sw-CD": "Suaheelesch en dä Konggo [Kinschasa]",
           "swb": "Kommooresch",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

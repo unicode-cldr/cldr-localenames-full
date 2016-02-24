@@ -3,8 +3,8 @@
     "lu": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "lu"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "Lisuwidi",
           "sw": "sw",
+          "sw-CD": "sw (Ditunga wa Kongu)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

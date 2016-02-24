@@ -3,8 +3,8 @@
     "eo": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12354 $",
+          "_cldrVersion": "29"
         },
         "language": "eo"
       },
@@ -42,13 +42,12 @@
           "419": "419",
           "AC": "AC",
           "AD": "Andoro",
-          "AE": "Unuiĝintaj Arabaj Emirlandos",
+          "AE": "Unuiĝintaj Arabaj Emirlandoj",
           "AF": "Afganujo",
           "AG": "Antigvo-Barbudo",
           "AI": "Angvilo",
           "AL": "Albanujo",
           "AM": "Armenujo",
-          "AN": "Nederlandaj Antiloj",
           "AO": "Angolo",
           "AQ": "Antarkto",
           "AR": "Argentino",

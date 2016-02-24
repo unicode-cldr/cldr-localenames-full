@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "fur"
       },
@@ -48,7 +48,6 @@
           "AI": "Anguilla",
           "AL": "Albanie",
           "AM": "Armenie",
-          "AN": "Antilis olandesis",
           "AO": "Angola",
           "AQ": "Antartic",
           "AR": "Argjentine",

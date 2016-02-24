@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12197 $",
+          "_cldrVersion": "29"
         },
         "language": "ce"
       },
@@ -531,8 +531,8 @@
           "sux": "sux",
           "sv": "шведийн",
           "sw": "суахили",
+          "sw-CD": "суахили (Конго)",
           "swb": "swb",
-          "swc": "суахили (Конго)",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

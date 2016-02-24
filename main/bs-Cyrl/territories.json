@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11990 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -49,7 +49,6 @@
           "AI": "Ангвила",
           "AL": "Албанија",
           "AM": "Арменија",
-          "AN": "Холандски Антили",
           "AO": "Ангола",
           "AQ": "Антарктик",
           "AR": "Аргентина",

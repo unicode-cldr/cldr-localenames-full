@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12313 $",
+          "_cldrVersion": "29"
         },
         "language": "ug"
       },
@@ -25,12 +25,14 @@
           "BAKU1926": "بىرلىككە كەلگەن تۈرك لاتىن ئېلىپبەسى",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
+          "BASICENG": "BASICENG",
           "BAUDDHA": "BAUDDHA",
           "BISCAYAN": "BISCAYAN",
           "BISKE": "سان گىيورگىيو/بىلا شىۋەسى",
           "BOHORIC": "بوخورىچ ئېلىپبەسى",
           "BOONT": "بۇنتلىڭچە",
           "COLB1945": "COLB1945",
+          "CORNU": "CORNU",
           "DAJNKO": "داژىنكو ئېلىپبەسى",
           "EKAVSK": "EKAVSK",
           "EMODENG": "دەسلەپكى مەزگىلدىكى زامانىۋى ئىنگلىزچە",
@@ -53,6 +55,7 @@
           "MONOTON": "ئاددىي",
           "NDYUKA": "نىديۇكا شىۋەسى",
           "NEDIS": "ناتىسون شىۋەسى",
+          "NEWFOUND": "NEWFOUND",
           "NJIVA": "گىنىۋا/نىجىۋا شىۋەسى",
           "NULIK": "زامانىۋى ۋولاپۇكچە",
           "OSOJS": "ئوسېئاككو/ئوسوجەن شىۋەسى",
@@ -70,6 +73,7 @@
           "SAAHO": "ساخوچە",
           "SCOTLAND": "شوتلاندىيە ئۆلچەملىك ئىنگلىزچە",
           "SCOUSE": "سىكاۋۇز",
+          "SIMPLE": "SIMPLE",
           "SOLBA": "سىتولۋىززا/سولبىكا شىۋەسى",
           "SOTAV": "SOTAV",
           "SURMIRAN": "SURMIRAN",

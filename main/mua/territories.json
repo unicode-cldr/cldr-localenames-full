@@ -3,8 +3,8 @@
     "mua": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "mua"
       },
@@ -48,7 +48,6 @@
           "AI": "anguiya",
           "AL": "albaniya",
           "AM": "armeniya",
-          "AN": "Sǝr ma kasǝŋ ma laŋne",
           "AO": "angola",
           "AQ": "AQ",
           "AR": "argentiniya",

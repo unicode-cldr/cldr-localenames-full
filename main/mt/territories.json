@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11994 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "mt"
       },
@@ -48,7 +48,6 @@
           "AI": "Angwilla",
           "AL": "Albanija",
           "AM": "Armenja",
-          "AN": "Antilles Olandiżi",
           "AO": "Angola",
           "AQ": "Antartika",
           "AR": "Arġentina",

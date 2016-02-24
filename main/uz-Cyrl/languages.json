@@ -3,8 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 11914 $",
+          "_cldrVersion": "29"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -532,8 +532,8 @@
           "sux": "sux",
           "sv": "Шведча",
           "sw": "Суахили",
+          "sw-CD": "Суахили (Конго-Киншаса)",
           "swb": "swb",
-          "swc": "swc",
           "syc": "syc",
           "syr": "syr",
           "szl": "szl",

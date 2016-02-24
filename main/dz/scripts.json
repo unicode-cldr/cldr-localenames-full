@@ -3,13 +3,14 @@
     "dz": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "dz"
       },
       "localeDisplayNames": {
         "scripts": {
+          "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "ཨེ་ར་བིཀ་ཡིག་གུ",
@@ -21,6 +22,7 @@
           "Bass": "Bass",
           "Batk": "Batk",
           "Beng": "བངྒ་ལ་ཡིག་གུ",
+          "Bhks": "Bhks",
           "Bopo": "བོ་པོ་མོ་ཕཱོ་ཡིག་གུ",
           "Brah": "Brah",
           "Brai": "འབུར་ཡིག",
@@ -47,6 +49,7 @@
           "Grek": "གྲིཀ་ཡིག་གུ",
           "Gujr": "གུ་ཇ་ར་ཏི་ཡིག་གུ",
           "Guru": "གུ་རུ་མུ་ཁ་ཡིག་གུ",
+          "Hanb": "Hanb",
           "Hang": "ཧཱན་གུལ་ཡིག་གུ",
           "Hani": "རྒྱ་ནག་ཡིག་གུ",
           "Hano": "Hano",
@@ -62,6 +65,7 @@
           "Hrkt": "Hrkt",
           "Hung": "Hung",
           "Ital": "Ital",
+          "Jamo": "Jamo",
           "Java": "Java",
           "Jpan": "ཇ་པཱན་ཡིག་གུ",
           "Kali": "Kali",
@@ -85,6 +89,7 @@
           "Mahj": "Mahj",
           "Mand": "Mand",
           "Mani": "Mani",
+          "Marc": "Marc",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
@@ -97,11 +102,13 @@
           "Mymr": "བར་མིས་ཡིག་གུ",
           "Narb": "Narb",
           "Nbat": "Nbat",
+          "Newa": "Newa",
           "Nkoo": "Nkoo",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
           "Orya": "ཨོ་རི་ཡ་ཡིག་གུ",
+          "Osge": "Osge",
           "Osma": "Osma",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -181,6 +188,7 @@
           "Tale": "Tale",
           "Talu": "Talu",
           "Taml": "ཏ་མིལ་ཡིག་གུ",
+          "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "ཏེ་ལུ་གུ་ཡིག་གུ",
           "Tfng": "Tfng",
@@ -197,6 +205,7 @@
           "Yiii": "Yiii",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
+          "Zsye": "Zsye",
           "Zsym": "མཚན་རྟགས",
           "Zxxx": "ཡིག་ཐོག་མ་བཀོདཔ",
           "Zyyy": "སྤྱིཡིག",
