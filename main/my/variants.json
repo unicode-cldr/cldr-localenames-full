@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30"
+          "_number": "$Revision: 13050 $",
+          "_cldrVersion": "30.0.2"
         },
         "language": "my"
       },
