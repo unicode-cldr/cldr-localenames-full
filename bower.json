@@ -1,8 +1,8 @@
 {
   "name": "cldr-localenames-full",
-  "version": "30.0.3",
+  "version": "31.0.0",
   "dependencies": {
-    "cldr-core": "30.0.3"
+    "cldr-core": "31.0.0"
   },
   "main": "main/**/*.json",
   "ignore": [
