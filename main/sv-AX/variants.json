@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sv",
         "territory": "AX"
@@ -17,12 +17,14 @@
           "1606NICT": "1606 års stavning",
           "1694ACAD": "1694 års stavning",
           "1959ACAD": "1959 års stavning",
-          "ABL1943": "ABL1943",
+          "ABL1943": "1943 års stavning",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "1997 års ALA-LC",
           "ALUKU": "Aluku-dialekt",
           "AO1990": "stavning enligt 1990 års överenskommelse",
           "AREVELA": "östarmeniska",
           "AREVMDA": "västarmeniska",
+          "ASANTE": "ASANTE",
           "BAKU1926": "1926 års stavning",
           "BALANKA": "balanka-dialekt",
           "BARLA": "barlavento-dialekt",
@@ -43,6 +45,7 @@
           "FONXSAMP": "X-SAMPA fonetisk notation",
           "HEPBURN": "Hepburn",
           "HOGNORSK": "högnorsk dialekt",
+          "HSISTEMO": "h-system",
           "IJEKAVSK": "ijekavisk dialekt",
           "ITIHASA": "itihasa-dialekt",
           "JAUER": "jauer-dialekt",
@@ -62,9 +65,9 @@
           "NULIK": "nulik-stavning",
           "OSOJS": "Osojane-dialekt",
           "OXENDICT": "Oxford-stavning",
-          "PAHAWH2": "PAHAWH2",
-          "PAHAWH3": "PAHAWH3",
-          "PAHAWH4": "PAHAWH4",
+          "PAHAWH2": "pahawh hmong andra steget reducerad stavning",
+          "PAHAWH3": "pahawh hmong tredje steget reducerad stavning",
+          "PAHAWH4": "pahawh hmong sista steget reducerad stavning",
           "PAMAKA": "Pamaka-dialekt",
           "PETR1708": "1708 års stavning",
           "PINYIN": "pinyin",
@@ -72,15 +75,16 @@
           "POSIX": "Posix",
           "PUTER": "puter-dialekt",
           "REVISED": "reformerad stavning",
-          "RIGIK": "rigik-stavning",
+          "RIGIK": "klassisk volapük",
           "ROZAJ": "resisk dialekt",
           "RUMGR": "grischun-dialekt",
           "SAAHO": "saho-dialekt",
-          "SCOTLAND": "skotska",
+          "SCOTLAND": "skotsk engelska",
           "SCOUSE": "scouse",
-          "SIMPLE": "SIMPLE",
+          "SIMPLE": "lätt",
           "SOLBA": "Solbica-dialekt",
           "SOTAV": "sotavento-dialekt",
+          "SPANGLIS": "spangelska",
           "SURMIRAN": "surmiran-dialekt",
           "SURSILV": "sursilvan-dialekt",
           "SUTSILV": "sutsilvan-dialekt",
@@ -92,7 +96,8 @@
           "VAIDIKA": "vedisk dialekt",
           "VALENCIA": "valensisk dialekt",
           "VALLADER": "vallader-dialekt",
-          "WADEGILE": "Wade-Giles"
+          "WADEGILE": "Wade-Giles",
+          "XSISTEMO": "x-system"
         }
       }
     }

@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "br"
       },
@@ -100,6 +100,7 @@
             "ethi": "niveroù etiopiat",
             "fullwide": "sifroù led plaen",
             "geor": "niveroù jorjianek",
+            "gonm": "gonm",
             "grek": "niveroù gresianek",
             "greklow": "niveroù gresianek bihan",
             "gujr": "sifroù gujarati",

@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hsb"
       },
@@ -119,6 +119,7 @@
           "fr": "francošćina",
           "fr-CA": "kanadiska francošćina",
           "fr-CH": "šwicarska francošćina",
+          "frc": "frc",
           "fur": "fur",
           "fy": "frizišćina",
           "ga": "iršćina",
@@ -218,6 +219,7 @@
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laošćina",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "litawšćina",

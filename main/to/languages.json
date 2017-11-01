@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "to"
       },
@@ -77,7 +77,7 @@
           "bkm": "lea fakakome",
           "bla": "lea fakasikesikā",
           "bm": "lea fakapamipala",
-          "bn": "lea fakapengikali",
+          "bn": "lea fakapāngilā",
           "bo": "lea fakatipeti",
           "bpy": "lea fakapisinupilia",
           "bqi": "lea fakapakitiāli",
@@ -330,6 +330,7 @@
           "ln": "lea lingikala",
           "lo": "lea fakalau",
           "lol": "lea fakamongikō",
+          "lou": "lou",
           "loz": "lea fakalosi",
           "lrc": "lea fakaluli-tokelau",
           "lt": "lea fakalituania",

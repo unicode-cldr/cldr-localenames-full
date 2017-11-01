@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fy"
       },
@@ -39,6 +39,7 @@
           "151": "East-Europa",
           "154": "Noard-Europa",
           "155": "West-Europa",
+          "202": "202",
           "419": "Latynsk-Amearika",
           "AC": "Ascension",
           "AD": "Andorra",

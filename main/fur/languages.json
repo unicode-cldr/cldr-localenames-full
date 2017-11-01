@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fur"
       },
@@ -124,6 +124,7 @@
           "fr": "francês",
           "fr-CA": "francês dal Canade",
           "fr-CH": "francês de Svuizare",
+          "frc": "frc",
           "fro": "vieri francês",
           "fur": "furlan",
           "fy": "frisian",
@@ -223,6 +224,7 @@
           "lkt": "lkt",
           "ln": "lingala",
           "lo": "lao",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "lituan",

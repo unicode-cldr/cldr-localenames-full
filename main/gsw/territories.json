@@ -3,8 +3,8 @@
     "gsw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gsw"
       },
@@ -39,6 +39,7 @@
           "151": "Oschteuroopa",
           "154": "Nordeuroopa",
           "155": "Weschteuroopa",
+          "202": "202",
           "419": "Latiinameerika",
           "AC": "AC",
           "AD": "Andorra",

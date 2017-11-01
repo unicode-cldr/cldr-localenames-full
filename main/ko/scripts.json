@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ko"
       },
@@ -52,6 +52,7 @@
           "Geok": "그루지야 쿠츠리 문자",
           "Geor": "조지아 문자",
           "Glag": "글라골 문자",
+          "Gonm": "Gonm",
           "Goth": "고트 문자",
           "Gran": "그란타 문자",
           "Grek": "그리스 문자",
@@ -152,6 +153,7 @@
           "Sind": "쿠다와디 문자",
           "Sinh": "신할라 문자",
           "Sora": "소라 솜펭 문자",
+          "Soyo": "Soyo",
           "Sund": "순다 문자",
           "Sylo": "실헤티 나가리",
           "Syrc": "시리아 문자",
@@ -181,6 +183,7 @@
           "Xpeo": "고대 페르시아 문자",
           "Xsux": "수메르-아카드어 설형문자",
           "Yiii": "이 문자",
+          "Zanb": "Zanb",
           "Zinh": "구전 문자",
           "Zmth": "수학 기호",
           "Zsye": "이모티콘",

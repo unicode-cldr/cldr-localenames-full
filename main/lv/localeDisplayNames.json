@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "lv"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "islāma pilsoņu kalendārs",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "islāma kalendārs (Umm al-kura)",
             "iso8601": "ISO 8601 kalendārs",
             "japanese": "japāņu kalendārs",
             "persian": "persiešu kalendārs",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "tradicionālās ķīniešu valodas kārtošanas secība - Big5",
-            "compat": "compat",
+            "compat": "saderīgā kārtošanas secība",
             "dictionary": "Vārdnīcas kārtošanas secība",
             "ducet": "noklusējuma unikoda kārtošanas secība",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "Eiropas rakstību kārtošanas secīa",
             "gb2312han": "vienkāršotās ķīniešu valodas kārtošanas secība - GB2312",
             "phonebook": "tālruņu grāmatas kārtošanas secība",
             "phonetic": "Fonētiskā kārtošanas secība",
@@ -128,8 +128,8 @@
             "strict": "Stingrais rindiņas pārtraukuma stils"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliterācijas sistēma US BGN",
+            "ungegn": "transliterācijas sistēma UN GEGN"
           },
           "ms": {
             "metric": "metriskā sistēma",
@@ -153,6 +153,7 @@
             "finance": "Finanšu cipari",
             "fullwide": "Pilna platuma cipari",
             "geor": "Gruzīnu cipari",
+            "gonm": "gonm",
             "grek": "Grieķu cipari",
             "greklow": "Mazie grieķu cipari",
             "gujr": "Gudžaratu cipari",

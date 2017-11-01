@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "pt"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "francês da idade moderna",
           "1959ACAD": "acadêmico",
           "ABL1943": "Formulário Ortográfico de 1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "Acordo Ortográfico da Língua Portuguesa de 1990",
           "AREVELA": "armênio oriental",
           "AREVMDA": "armênio ocidental",
+          "ASANTE": "ASANTE",
           "BAKU1926": "alfabeto latino turco unificado",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "romanização hepburn",
           "HOGNORSK": "alto noruego",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "dialeto stolvizza/solbica",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "valenciano",
           "VALLADER": "VALLADER",
-          "WADEGILE": "romanização Wade-Giles"
+          "WADEGILE": "romanização Wade-Giles",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

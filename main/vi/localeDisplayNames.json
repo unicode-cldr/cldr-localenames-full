@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "vi"
       },
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "Thứ tự sắp xếp theo tiếng Trung phồn thể - Big5",
-            "compat": "compat",
+            "compat": "Thứ tự sắp xếp trước đây, để tương thích",
             "dictionary": "Thứ tự sắp xếp theo từ điển",
             "ducet": "Thứ tự sắp xếp unicode mặc định",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "Quy tắc sắp xếp Châu Âu",
             "gb2312han": "Thứ tự sắp xếp theo tiếng Trung giản thể - GB2312",
             "phonebook": "Thứ tự sắp xếp theo danh bạ điện thoại",
             "phonetic": "Thứ tự sắp xếp theo ngữ âm",
@@ -153,6 +153,7 @@
             "finance": "Chữ số dùng trong tài chính",
             "fullwide": "Chữ số có độ rộng đầy đủ",
             "geor": "Chữ số Gruzia",
+            "gonm": "gonm",
             "grek": "Chữ số Hy Lạp",
             "greklow": "Chữ số Hy Lạp viết thường",
             "gujr": "Chữ số Gujarati",

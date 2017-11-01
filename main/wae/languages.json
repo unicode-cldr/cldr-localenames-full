@@ -3,8 +3,8 @@
     "wae": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "wae"
       },
@@ -117,6 +117,7 @@
           "fr": "Wälš",
           "fr-CA": "Kanadišes Wälš",
           "fr-CH": "Schwizer Wälš",
+          "frc": "frc",
           "fur": "fur",
           "fy": "fy",
           "ga": "Iriš",
@@ -212,6 +213,7 @@
           "lkt": "lkt",
           "ln": "Lingala",
           "lo": "Laotiš",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "Litauiš",

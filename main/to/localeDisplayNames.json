@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "to"
       },
@@ -16,7 +16,7 @@
         },
         "keys": {
           "calendar": "tohi māhina",
-          "cf": "cf",
+          "cf": "anga paʻanga",
           "collation": "tohi hokohoko",
           "currency": "paʻanga",
           "hc": "takai houa",
@@ -43,11 +43,11 @@
             "iso8601": "faka-iso8601",
             "japanese": "fakasiapani",
             "persian": "fakapēsia",
-            "roc": "fakalēpupelika siaina"
+            "roc": "fakalepupelika siaina"
           },
           "cf": {
-            "account": "account",
-            "standard": "standard"
+            "account": "anga paʻanga-kalake",
+            "standard": "anga paʻanga-sīpinga"
           },
           "collation": {
             "big5han": "big5han",
@@ -91,7 +91,7 @@
             "armn": "fika fakaʻāmenia",
             "armnlow": "fika fakaʻāmenia fakalalo",
             "bali": "bali",
-            "beng": "fika fakapengikali",
+            "beng": "faka fakapāngilā",
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
@@ -100,6 +100,7 @@
             "ethi": "fika fakaʻītiōpia",
             "fullwide": "fika laulahi",
             "geor": "fika fakaseōsia",
+            "gonm": "gonm",
             "grek": "fika fakakalisi",
             "greklow": "fika fakakalisi fakalalo",
             "gujr": "fika fakakutalati",

@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "tr"
       },
@@ -52,6 +52,7 @@
           "Geok": "Hutsuri Gürcü",
           "Geor": "Gürcü",
           "Glag": "Glagolit",
+          "Gonm": "Gonm",
           "Goth": "Gotik",
           "Gran": "Grantha",
           "Grek": "Yunan",
@@ -152,6 +153,7 @@
           "Sind": "Khudabadi",
           "Sinh": "Seylan",
           "Sora": "Sora Sompeng",
+          "Soyo": "Soyo",
           "Sund": "Sunda",
           "Sylo": "Syloti Nagri",
           "Syrc": "Süryani",
@@ -181,6 +183,7 @@
           "Xpeo": "Eski Fars",
           "Xsux": "Sümer-Akad Çivi Yazısı",
           "Yiii": "Yi",
+          "Zanb": "Zanb",
           "Zinh": "Kalıtsal",
           "Zmth": "Matematiksel Gösterim",
           "Zsye": "Emoji",

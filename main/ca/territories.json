@@ -3,8 +3,8 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "ca"
       },
@@ -39,6 +39,7 @@
           "151": "Europa oriental",
           "154": "Europa septentrional",
           "155": "Europa occidental",
+          "202": "202",
           "419": "Amèrica Llatina",
           "AC": "Illa de l’Ascensió",
           "AD": "Andorra",
@@ -118,7 +119,7 @@
           "ES": "Espanya",
           "ET": "Etiòpia",
           "EU": "Unió Europea",
-          "EZ": "EZ",
+          "EZ": "zona euro",
           "FI": "Finlàndia",
           "FJ": "Fiji",
           "FK": "Illes Malvines",
@@ -274,7 +275,7 @@
           "TA": "Tristão da Cunha",
           "TC": "Illes Turks i Caicos",
           "TD": "Txad",
-          "TF": "Territoris Francesos del Sud",
+          "TF": "Territoris Australs Francesos",
           "TG": "Togo",
           "TH": "Tailàndia",
           "TJ": "Tadjikistan",

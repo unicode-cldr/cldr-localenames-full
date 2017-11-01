@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ee"
       },
@@ -39,6 +39,7 @@
           "151": "Ɣedzeƒe Europa nutome",
           "154": "Dziehelɔƒo Europa nutome",
           "155": "Ɣetoɖoƒelɔƒo Europa nutome",
+          "202": "202",
           "419": "Latin Amerika nutome",
           "AC": "Ascension ƒudomekpo nutome",
           "AD": "Andorra nutome",

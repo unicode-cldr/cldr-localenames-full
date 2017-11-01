@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "nb",
         "territory": "SJ"
@@ -113,8 +113,8 @@
             "tertiary": "Sortér aksenttegn / små og store bokstaver / bredde"
           },
           "d0": {
-            "fwidth": "Full bredde",
-            "hwidth": "Halv bredde",
+            "fwidth": "full bredde",
+            "hwidth": "halv bredde",
             "npinyin": "Numerisk"
           },
           "hc": {
@@ -129,8 +129,8 @@
             "strict": "streng linjeskiftstil"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "USBGN-translitterasjon",
+            "ungegn": "UNGEGN-translitterasjon"
           },
           "ms": {
             "metric": "metrisk system",
@@ -154,6 +154,7 @@
             "finance": "Finansielle tall",
             "fullwide": "sifre med full bredde",
             "geor": "georgiske tall",
+            "gonm": "gonm",
             "grek": "greske tall",
             "greklow": "små greske tall",
             "gujr": "gujarati-sifre",
@@ -187,13 +188,13 @@
             "mong": "mongolske tall",
             "mroo": "mroo",
             "mtei": "meetei mayek-tall",
-            "mymr": "myanmarske sifre",
+            "mymr": "burmesiske sifre",
             "mymrshan": "myanmar shan-tall",
             "mymrtlng": "mymrtlng",
             "native": "Språkspesifikke sifre",
             "nkoo": "n’ko-tall",
             "olck": "ol chiki-tall",
-            "orya": "oriya-sifre",
+            "orya": "odia-sifre",
             "osma": "osmanya-tall",
             "roman": "romertall",
             "romanlow": "små romertall",

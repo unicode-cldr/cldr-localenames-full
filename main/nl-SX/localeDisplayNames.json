@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "nl",
         "territory": "SX"
@@ -138,7 +138,7 @@
             "ussystem": "Amerikaans imperiaal stelsel"
           },
           "numbers": {
-            "ahom": "ahom",
+            "ahom": "Ahom cijfers",
             "arab": "Arabisch-Indische cijfers",
             "arabext": "uitgebreide Arabisch-Indische cijfers",
             "armn": "Armeense cijfers",
@@ -148,12 +148,13 @@
             "brah": "Brahmi cijfers",
             "cakm": "Chakma cijfers",
             "cham": "Cham cijfers",
-            "cyrl": "cyrl",
+            "cyrl": "Cyrillische cijfers",
             "deva": "Devanagari cijfers",
             "ethi": "Ethiopische cijfers",
             "finance": "Financiële cijfers",
             "fullwide": "cijfers met volledige breedte",
             "geor": "Georgische cijfers",
+            "gonm": "Masaram Gondi cijfers",
             "grek": "Griekse cijfers",
             "greklow": "kleine Griekse cijfers",
             "gujr": "Gujarati cijfers",
@@ -164,7 +165,7 @@
             "hant": "traditioneel Chinese cijfers",
             "hantfin": "traditioneel Chinese financiële cijfers",
             "hebr": "Hebreeuwse cijfers",
-            "hmng": "hmng",
+            "hmng": "Pahawh Hmong cijfers",
             "java": "Javaanse cijfers",
             "jpan": "Japanse cijfers",
             "jpanfin": "Japanse financiële cijfers",
@@ -177,19 +178,19 @@
             "latn": "Westerse cijfers",
             "lepc": "Lepcha cijfers",
             "limb": "Limbu cijfers",
-            "mathbold": "mathbold",
-            "mathdbl": "mathdbl",
-            "mathmono": "mathmono",
-            "mathsanb": "mathsanb",
-            "mathsans": "mathsans",
+            "mathbold": "vette wiskundige cijfers",
+            "mathdbl": "wiskundige cijfers met dubbele lijn",
+            "mathmono": "niet-proportionele wiskundige cijfers",
+            "mathsanb": "schreefloze vette wiskundige cijfers",
+            "mathsans": "schreefloze wiskundige cijfers",
             "mlym": "Malayalam cijfers",
-            "modi": "modi",
+            "modi": "Modi cijfers",
             "mong": "Mongoolse cijfers",
-            "mroo": "mroo",
+            "mroo": "Mro cijfers",
             "mtei": "Meetei Mayek cijfers",
             "mymr": "Myanmarese cijfers",
             "mymrshan": "Myanmarese Shan cijfers",
-            "mymrtlng": "mymrtlng",
+            "mymrtlng": "Myanmar Tai Laing cijfers",
             "native": "Binnenlandse cijfers",
             "nkoo": "N’Ko cijfers",
             "olck": "Ol Chiki cijfers",
@@ -199,8 +200,8 @@
             "romanlow": "kleine Romeinse cijfers",
             "saur": "Saurashtra cijfers",
             "shrd": "Sharada cijfers",
-            "sind": "sind",
-            "sinh": "sinh",
+            "sind": "Khudawadi cijfers",
+            "sinh": "Sinhala Lith cijfers",
             "sora": "Sora Sompeng cijfers",
             "sund": "Sundanese cijfers",
             "takr": "Takri cijfers",
@@ -210,10 +211,10 @@
             "telu": "Telugu cijfers",
             "thai": "Thaise cijfers",
             "tibt": "Tibetaanse cijfers",
-            "tirh": "tirh",
+            "tirh": "Tirhuta cijfers",
             "traditional": "Traditionele cijfers",
             "vaii": "Vai-cijfers",
-            "wara": "wara"
+            "wara": "Warang Citi cijfers"
           }
         },
         "codePatterns": {

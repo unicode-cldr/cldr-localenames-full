@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "he"
       },
@@ -46,6 +46,7 @@
           "Ethi": "אתיופי",
           "Geor": "גאורגי",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "גותי",
           "Gran": "Gran",
           "Grek": "יווני",
@@ -109,6 +110,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -136,6 +138,7 @@
           "Sind": "Sind",
           "Sinh": "סינהלה",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "סורי",
@@ -161,6 +164,7 @@
           "Xpeo": "פרסי עתיק",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "מורש",
           "Zmth": "סימון מתמטי",
           "Zsye": "אמוג׳י",

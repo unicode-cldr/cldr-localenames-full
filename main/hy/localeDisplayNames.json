@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hy"
       },
@@ -15,7 +15,7 @@
           "localeKeyTypePattern": "{0}՝ {1}"
         },
         "keys": {
-          "calendar": "տոմար",
+          "calendar": "օրացույց",
           "cf": "արժույթի ձևաչափ",
           "collation": "տեսակավորման կարգ",
           "currency": "արժույթ",
@@ -26,34 +26,34 @@
         },
         "types": {
           "calendar": {
-            "buddhist": "բուդդայական տոմար",
-            "chinese": "չինական տոմար",
+            "buddhist": "բուդդայական օրացույց",
+            "chinese": "չինական օրացույց",
             "coptic": "coptic",
-            "dangi": "դանգի տոմար",
-            "ethiopic": "եթովպական տոմար",
+            "dangi": "դանգի օրացույց",
+            "ethiopic": "եթովպական օրացույց",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "գրիգորյան տոմար",
-            "hebrew": "հրեական տոմար",
+            "gregorian": "գրիգորյան օրացույց",
+            "hebrew": "հրեական օրացույց",
             "indian": "indian",
-            "islamic": "իսլամական տոմար",
+            "islamic": "իսլամական օրացույց",
             "islamic-civil": "islamic-civil",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "ISO-8601 տոմար",
-            "japanese": "ճապոնական տոմար",
-            "persian": "պարսկական տոմար",
-            "roc": "մինգուո տոմար"
+            "iso8601": "ISO-8601 օրացույց",
+            "japanese": "ճապոնական օրացույց",
+            "persian": "պարսկական օրացույց",
+            "roc": "մինգուո օրացույց"
           },
           "cf": {
-            "account": "ֆինանսական ձևաչափ",
-            "standard": "ստանդարտ ձևաչափ"
+            "account": "արժույթի հաշվապահական ձևաչափ",
+            "standard": "արժույթի ստանդարտ ձևաչափ"
           },
           "collation": {
             "big5han": "big5han",
             "compat": "compat",
             "dictionary": "dictionary",
-            "ducet": "Unicode-ի ստանդարտ տեսակավորում",
+            "ducet": "Յունիկոդ լռելյայն տեսակավորում",
             "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "gb2312han",
@@ -100,6 +100,7 @@
             "ethi": "եթովպական թվանշաններ",
             "fullwide": "ամբողջ լայնքով թվանշաններ",
             "geor": "վրացական թվեր",
+            "gonm": "gonm",
             "grek": "հունական թվեր",
             "greklow": "հունական թվեր (փոքրատառ)",
             "gujr": "գուջարաթի թվանշաններ",

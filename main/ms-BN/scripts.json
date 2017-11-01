@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "ms",
         "territory": "BN"
@@ -46,12 +46,13 @@
           "Ethi": "Ethiopia",
           "Geor": "Georgia",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "Greek",
           "Gujr": "Gujarat",
           "Guru": "Gurmukhi",
-          "Hanb": "Hanb",
+          "Hanb": "Han dengan Bopomofo",
           "Hang": "Hangul",
           "Hani": "Han",
           "Hano": "Hano",
@@ -106,6 +107,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -133,6 +135,7 @@
           "Sind": "Sind",
           "Sinh": "Sinhala",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -156,6 +159,7 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Tatatanda matematik",
           "Zsye": "Emoji",

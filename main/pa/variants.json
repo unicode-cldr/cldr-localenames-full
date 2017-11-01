@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "pa"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "1694ACAD",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "AREVELA",
           "AREVMDA": "AREVMDA",
+          "ASANTE": "ASANTE",
           "BAKU1926": "BAKU1926",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "SOLBA",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "VALENCIA",
           "VALLADER": "VALLADER",
-          "WADEGILE": "WADEGILE"
+          "WADEGILE": "WADEGILE",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

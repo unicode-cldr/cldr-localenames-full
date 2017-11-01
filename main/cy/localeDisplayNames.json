@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13717 $",
+          "_cldrVersion": "32"
         },
         "language": "cy"
       },
@@ -20,7 +20,7 @@
           "collation": "Trefn",
           "currency": "Arian Breiniol",
           "hc": "Cylched Awr (12 vs 24)",
-          "lb": "Arddull Torriad Llinell",
+          "lb": "Arddull Toriad Llinell",
           "ms": "System Fesur",
           "numbers": "Rhifau"
         },
@@ -75,8 +75,8 @@
             "h24": "System 24 Awr (1–24)"
           },
           "lb": {
-            "loose": "Arddull Torriad Llinell Rhydd",
-            "normal": "Arddull Torriad Llinell Arferol",
+            "loose": "Arddull Toriad Llinell Rhydd",
+            "normal": "Arddull Toriad Llinell Arferol",
             "strict": "Arddull Torriad Llinell Caeth"
           },
           "ms": {
@@ -100,6 +100,7 @@
             "ethi": "Rhifolion Ethiopig",
             "fullwide": "Digidau Lled Llawn",
             "geor": "Rhifolion Georgaidd",
+            "gonm": "gonm",
             "grek": "Rhifolion Groegaidd",
             "greklow": "Rhifolion Groegaidd mewn Llythrennau Bychain",
             "gujr": "Digidau Gwjarataidd",

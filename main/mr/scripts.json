@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "mr"
       },
@@ -51,6 +51,7 @@
           "Geok": "जॉर्जियन खुत्सुरी",
           "Geor": "जॉर्जियन",
           "Glag": "ग्लॅगोलिटिक",
+          "Gonm": "Gonm",
           "Goth": "गोथिक",
           "Gran": "Gran",
           "Grek": "ग्रीक",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "एन्‘को",
+          "Nshu": "Nshu",
           "Ogam": "ओघाम",
           "Olck": "ओल चिकि",
           "Orkh": "ओर्खोन",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "सिंहला",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "सूदानी",
           "Sylo": "सिलोती नागरी",
           "Syrc": "सिरीयाक",
@@ -174,6 +177,7 @@
           "Xpeo": "पुरातन फारसी",
           "Xsux": "दृश्यमान भाषा",
           "Yiii": "यी",
+          "Zanb": "Zanb",
           "Zinh": "वंशपरंपरागत",
           "Zmth": "गणितीय संकेतलिपी",
           "Zsye": "इमोजी",

@@ -3,8 +3,8 @@
     "uz-Arab": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "uz",
         "script": "Arab"
@@ -118,6 +118,7 @@
           "fr": "fr",
           "fr-CA": "fr (CA)",
           "fr-CH": "fr (CH)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "fy",
           "ga": "ga",
@@ -213,6 +214,7 @@
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "lt",

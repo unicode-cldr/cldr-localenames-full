@@ -3,8 +3,8 @@
     "el": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "el"
       },
@@ -51,6 +51,7 @@
           "Geok": "Γεωργιανό Κχουτσούρι",
           "Geor": "Γεωργιανό",
           "Glag": "Γκλαγκολιτικό",
+          "Gonm": "Gonm",
           "Goth": "Γοτθικό",
           "Gran": "Gran",
           "Grek": "Ελληνικό",
@@ -116,10 +117,11 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Ν’Κο",
+          "Nshu": "Nshu",
           "Ogam": "Όγκχαμ",
           "Olck": "Ολ Τσίκι",
           "Orkh": "Όρκχον",
-          "Orya": "Ορίγια",
+          "Orya": "Όντια",
           "Osge": "Osge",
           "Osma": "Οσμάνγια",
           "Palm": "Palm",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "Σινχάλα",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Σουνδανικό",
           "Sylo": "Συλότι Νάγκρι",
           "Syrc": "Συριακό",
@@ -174,9 +177,10 @@
           "Xpeo": "Παλαιό Περσικό",
           "Xsux": "Σούμερο-Ακάντιαν Κουνεϊφόρμ",
           "Yiii": "Γι",
+          "Zanb": "Zanb",
           "Zinh": "Κληρονομημένο",
           "Zmth": "Μαθηματική σημειογραφία",
-          "Zsye": "Zsye",
+          "Zsye": "Emoji",
           "Zsym": "Σύμβολα",
           "Zxxx": "Άγραφο",
           "Zyyy": "Κοινό",

@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "br"
       },
@@ -45,6 +45,7 @@
           "Ethi": "etiopek",
           "Geor": "jorjianek",
           "Glag": "glagolitek",
+          "Gonm": "Gonm",
           "Goth": "gotek",
           "Gran": "Gran",
           "Grek": "gresianek",
@@ -107,6 +108,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -134,6 +136,7 @@
           "Sind": "Sind",
           "Sinh": "singhalek",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "sundanek",
           "Sylo": "Sylo",
           "Syrc": "siriek",
@@ -160,6 +163,7 @@
           "Xpeo": "persek kozh",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "notadur jedoniel",
           "Zsye": "Zsye",

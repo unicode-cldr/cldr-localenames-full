@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "br"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "galleg rakvodern",
           "1959ACAD": "belaruseg akademek",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "romanekadur ALA-LC 1997",
           "ALUKU": "rannyezh aloukou",
           "AO1990": "AO1990",
           "AREVELA": "armenianeg ar Reter",
           "AREVMDA": "armenianeg ar Cʼhornôg",
+          "ASANTE": "ASANTE",
           "BAKU1926": "lizherenneg latin turkek unvan",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "treuzskrivadur X-SAMPA",
           "HEPBURN": "romanekadur Hepburn",
           "HOGNORSK": "uhelnorvegeg",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "sanskriteg itihâsa",
           "JAUER": "rannyezh romañchek Jauer",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "rannyezh Stolvizza/Solbica",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "rannyezh romañchek surmiran",
           "SURSILV": "rannyezh romañchek sursilvan",
           "SUTSILV": "rannyezh romañchek sutsilvan",
@@ -91,7 +95,8 @@
           "VAIDIKA": "sanskriteg vedek",
           "VALENCIA": "valensianeg",
           "VALLADER": "rannyezh romañchek Vallader",
-          "WADEGILE": "romanekadur Wade-Giles"
+          "WADEGILE": "romanekadur Wade-Giles",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

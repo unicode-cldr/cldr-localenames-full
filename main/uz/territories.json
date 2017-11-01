@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "uz"
       },
@@ -39,6 +39,7 @@
           "151": "Sharqiy Yevropa",
           "154": "Shimoliy Yevropa",
           "155": "G‘arbiy Yevropa",
+          "202": "202",
           "419": "Lotin Amerikasi",
           "AC": "Me’roj oroli",
           "AD": "Andorra",
@@ -118,7 +119,7 @@
           "ES": "Ispaniya",
           "ET": "Efiopiya",
           "EU": "Yevropa Ittifoqi",
-          "EZ": "EZ",
+          "EZ": "yevrozona",
           "FI": "Finlandiya",
           "FJ": "Fiji",
           "FK": "Folklend orollari",
@@ -238,7 +239,7 @@
           "PM": "Sen-Pyer va Mikelon",
           "PN": "Pitkern orollari",
           "PR": "Puerto-Riko",
-          "PS": "Falastin hududi",
+          "PS": "Falastin hududlari",
           "PS-alt-short": "Falastin",
           "PT": "Portugaliya",
           "PW": "Palau",
@@ -258,7 +259,7 @@
           "SG": "Singapur",
           "SH": "Muqaddas Yelena oroli",
           "SI": "Sloveniya",
-          "SJ": "Svalbard va Yan-Mayen",
+          "SJ": "Shpitsbergen va Yan-Mayen",
           "SK": "Slovakiya",
           "SL": "Syerra-Leone",
           "SM": "San-Marino",

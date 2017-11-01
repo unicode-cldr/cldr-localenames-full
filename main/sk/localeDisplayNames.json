@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sk"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "Islamský občiansky kalendár",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "islamský kalendár (Umm al-Qura)",
             "iso8601": "kalendár ISO 8601",
             "japanese": "japonský kalendár",
             "persian": "perzský kalendár",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "Tradičný čínsky Big5",
-            "compat": "compat",
+            "compat": "predchádzajúce zoradenie, kompatibilita",
             "dictionary": "Usporiadanie slovníka",
             "ducet": "predvolené zoradenie unicode",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "európske zoradenie",
             "gb2312han": "Zjednodušený čínsky GB2312",
             "phonebook": "Lexikografické triedenie",
             "phonetic": "Fonetické radenie",
@@ -112,8 +112,8 @@
             "tertiary": "Radiť akcenty/veľké a malé písmená/šírku"
           },
           "d0": {
-            "fwidth": "Celá šírka",
-            "hwidth": "Polovičná šírka",
+            "fwidth": "celá šírka",
+            "hwidth": "polovičná šírka",
             "npinyin": "Číslice"
           },
           "hc": {
@@ -128,8 +128,8 @@
             "strict": "presný štýl koncov riadka"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "americká transliterácia BGN",
+            "ungegn": "medzinárodná transliterácia GEGN"
           },
           "ms": {
             "metric": "metrická sústava",
@@ -153,6 +153,7 @@
             "finance": "Finančnícky zápis čísiel",
             "fullwide": "číslice s celou šírkou",
             "geor": "gruzínske číslice",
+            "gonm": "gonm",
             "grek": "grécke číslice",
             "greklow": "malé grécke číslice",
             "gujr": "gudžarátske číslice",

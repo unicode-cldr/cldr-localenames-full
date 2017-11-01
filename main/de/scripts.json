@@ -3,8 +3,8 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "de"
       },
@@ -52,6 +52,7 @@
           "Geok": "Khutsuri",
           "Geor": "Georgisch",
           "Glag": "Glagolitisch",
+          "Gonm": "Gonm",
           "Goth": "Gotisch",
           "Gran": "Grantha",
           "Grek": "Griechisch",
@@ -152,6 +153,7 @@
           "Sind": "Khudawadi",
           "Sinh": "Singhalesisch",
           "Sora": "Sora Sompeng",
+          "Soyo": "Soyo",
           "Sund": "Sundanesisch",
           "Sylo": "Syloti Nagri",
           "Syrc": "Syrisch",
@@ -181,6 +183,7 @@
           "Xpeo": "Altpersisch",
           "Xsux": "Sumerisch-akkadische Keilschrift",
           "Yiii": "Yi",
+          "Zanb": "Zanb",
           "Zinh": "Geerbter Schriftwert",
           "Zmth": "Mathematische Notation",
           "Zsye": "Emoji",

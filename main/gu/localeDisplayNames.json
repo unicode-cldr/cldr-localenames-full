@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "gu"
       },
@@ -47,9 +47,9 @@
             "indian": "ભારતીય રાષ્ટ્રીય કેલેન્ડર",
             "islamic": "ઇસ્લામિક કેલેન્ડર",
             "islamic-civil": "ઇસ્લામિક-નાગરિક કેલેન્ડર",
-            "islamic-rgsa": "islamic-rgsa",
-            "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-rgsa": "ઇસ્લામિક કેલેન્ડર (સાઉદી અરેબિયા, નિરીક્ષણ)",
+            "islamic-tbla": "ઇસ્લામિક કેલેન્ડર (ટેબ્યુલર, ખગોળશાસ્ત્રીય યુગ)",
+            "islamic-umalqura": "ઇસ્લામિક કેલેન્ડર (ઉમમ અલ-કુરા)",
             "iso8601": "ISO-8601 કેલેન્ડર",
             "japanese": "જાપાનિઝ કેલેન્ડર",
             "persian": "પર્શિયન કેલેન્ડર",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "પરંપરાગત ચાઇનિઝ સોર્ટ ક્રમબદ્ધ",
-            "compat": "compat",
+            "compat": "અગાઉનો સોર્ટ ક્રમ, સુસંગતતા માટે",
             "dictionary": "શબ્દકોશ અનુક્મ",
             "ducet": "ડિફોલ્ટ યુનિકોડ સૉર્ટ ક્રમ",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "યુરોપીયન ક્રમ આપવાના નિયમો",
             "gb2312han": "સરળીકૃત ચાઇનીઝ સૉર્ટ ક્રમ - GB2312",
             "phonebook": "ફોનબુક અનુક્મ",
             "phonetic": "ધ્વન્યાત્મક સૉર્ટ ક્રમ",
@@ -153,6 +153,7 @@
             "finance": "નાણાકીય સંખ્યાઓ",
             "fullwide": "પૂર્ણ પહોળાઈ અંકો",
             "geor": "જ્યોર્જિઅન સંખ્યાઓ",
+            "gonm": "gonm",
             "grek": "ગ્રીક સંખ્યાઓ",
             "greklow": "ગ્રીક નાના અક્ષરની સંખ્યાઓ",
             "gujr": "ગુજરાતી અંકો",

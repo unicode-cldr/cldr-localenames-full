@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "he"
       },
@@ -47,9 +47,9 @@
             "indian": "לוח השנה ההודי הלאומי",
             "islamic": "לוח השנה המוסלמי",
             "islamic-civil": "לוח השנה המוסלמי האזרחי",
-            "islamic-rgsa": "islamic-rgsa",
+            "islamic-rgsa": "לוח השנה המוסלמי (ערב הסעודית)",
             "islamic-tbla": "לוח השנה המוסלמי האסטרולוגי",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "לוח השנה המוסלמי אום אל-קורא",
             "iso8601": "לוח שנה ISO-8601",
             "japanese": "לוח השנה היפני",
             "persian": "לוח השנה הפרסי",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "מיון סינית מסורתית",
-            "compat": "compat",
+            "compat": "סדר מיון קודם, עבור תאימות",
             "dictionary": "סדר מיון במילון",
             "ducet": "סדר מיון Unicode המוגדר כברירת מחדל",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "חוקי סדר אירופיים",
             "gb2312han": "מיון סינית מודרנית",
             "phonebook": "מיון ספר טלפונים",
             "phonetic": "סדר מיון פונטי",
@@ -153,6 +153,7 @@
             "finance": "ספרות פיננסיות",
             "fullwide": "ספרות ברוחב מלא",
             "geor": "ספרות גאורגיות",
+            "gonm": "gonm",
             "grek": "ספרות יווניות",
             "greklow": "ספרות יווניות קטנות",
             "gujr": "ספרות גוג׳רטיות",

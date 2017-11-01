@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13767 $",
+          "_cldrVersion": "32"
         },
         "language": "fi"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "varhaisnykyranska",
           "1959ACAD": "valkovenäjän virallinen oikeinkirjoitus",
           "ABL1943": "portugalin oikeinkirjoitus 1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "amerikkalainen kirjastolatinaistus 1997",
           "ALUKU": "alukun kreolimurre",
           "AO1990": "portugalin oikeinkirjoitussopimus 1990",
           "AREVELA": "itäarmenialainen",
           "AREVMDA": "länsiarmenialainen",
+          "ASANTE": "ASANTE",
           "BAKU1926": "yhtenäistetty turkkilainen latinalainen aakkosto",
           "BALANKA": "aniin balankalaismurre",
           "BARLA": "kapverdenkreolin barlaventolainen murreryhmä",
@@ -37,12 +39,13 @@
           "EKAVSK": "serbian ekavialainen ääntämys",
           "EMODENG": "varhaisnykyenglanti",
           "FONIPA": "kansainvälinen foneettinen aakkosto IPA",
-          "FONNAPA": "FONNAPA",
+          "FONNAPA": "pohjoisamerikkalainen foneettinen aakkosto NAPA",
           "FONUPA": "uralilainen foneettinen aakkosto UPA",
           "FONUPA-alt-secondary": "suomalais-ugrilainen tarkekirjoitus",
           "FONXSAMP": "foneettinen X-SAMPA-merkistö",
           "HEPBURN": "japanin Hepburn-latinaistus",
           "HOGNORSK": "norjan högnorsk",
+          "HSISTEMO": "esperanton h-kirjoitus",
           "IJEKAVSK": "serbian ijekavialainen ääntämys",
           "ITIHASA": "sanskriitin eeppinen muoto",
           "JAUER": "retoromaanin jauer-murre",
@@ -62,9 +65,9 @@
           "NULIK": "nykyvolapük",
           "OSOJS": "sloveenin resian Oseaccon/Osojanen alamurre",
           "OXENDICT": "englannin Oxfordin sanakirjan oikeinkirjoitus",
-          "PAHAWH2": "PAHAWH2",
-          "PAHAWH3": "PAHAWH3",
-          "PAHAWH4": "PAHAWH4",
+          "PAHAWH2": "pahawh-hmongin tavukirjoituksen toinen vaihe",
+          "PAHAWH3": "pahawh-hmongin tavukirjoituksen kolmas vaihe",
+          "PAHAWH4": "pahawh-hmongin tavukirjoituksen viimeinen vaihe",
           "PAMAKA": "pamakan kreolimurre",
           "PETR1708": "venäjän Pietarin siviiliaakkosto 1708",
           "PINYIN": "kiinan pinyin-latinaistus",
@@ -81,6 +84,7 @@
           "SIMPLE": "yksinkertaistettu kielimuoto",
           "SOLBA": "sloveenin resian Stolvizzan/Solbican alamurre",
           "SOTAV": "kapverdenkreolin sotaventolainen murreryhmä",
+          "SPANGLIS": "spanglish",
           "SURMIRAN": "retoromaanin surmiran-muoto",
           "SURSILV": "retoromaanin sursilvan-muoto",
           "SUTSILV": "retoromaanin sutsilvan-muoto",
@@ -92,7 +96,8 @@
           "VAIDIKA": "sanskriitin veda-murre",
           "VALENCIA": "katalaanin valencian murre",
           "VALLADER": "reoromaanin vallader-muoto",
-          "WADEGILE": "kiinan Wade-Giles-latinaistus"
+          "WADEGILE": "kiinan Wade-Giles-latinaistus",
+          "XSISTEMO": "esperanton x-kirjoitus"
         }
       }
     }

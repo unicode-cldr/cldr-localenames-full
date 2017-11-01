@@ -3,8 +3,8 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "af"
       },
@@ -45,6 +45,7 @@
           "Ethi": "Etiopies",
           "Geor": "Georgies",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "Grieks",
@@ -105,6 +106,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -132,6 +134,7 @@
           "Sind": "Sind",
           "Sinh": "Sinhala",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -155,6 +158,7 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Wiskundige notasie",
           "Zsye": "Emoji",

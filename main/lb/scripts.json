@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "lb"
       },
@@ -50,6 +50,7 @@
           "Geok": "Khutsuri",
           "Geor": "Georgesch",
           "Glag": "Glagolitesch",
+          "Gonm": "Gonm",
           "Goth": "Gotesch",
           "Gran": "Gran",
           "Grek": "Griichesch",
@@ -115,6 +116,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "N’Ko",
+          "Nshu": "Nshu",
           "Ogam": "Ogham",
           "Olck": "Ol Chiki",
           "Orkh": "Orchon-Runen",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "Singhalesesch",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sundanesesch",
           "Sylo": "Syloti Nagri",
           "Syrc": "Syresch",
@@ -173,6 +176,7 @@
           "Xpeo": "Alpersesch",
           "Xsux": "Sumeresch-akkadesch Keilschrëft",
           "Yiii": "Yi",
+          "Zanb": "Zanb",
           "Zinh": "Geierfte Schrëftwäert",
           "Zmth": "Zmth",
           "Zsye": "Zsye",

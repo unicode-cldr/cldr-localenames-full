@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13717 $",
+          "_cldrVersion": "32"
         },
         "language": "cy"
       },
@@ -79,7 +79,7 @@
           "bs": "Bosnieg",
           "bss": "Acwseg",
           "bua": "Bwriateg",
-          "bug": "Buginese",
+          "bug": "Bwginaeg",
           "bum": "Bwlw",
           "byn": "Blin",
           "ca": "Catalaneg",
@@ -90,7 +90,7 @@
           "ceb": "Cebuano",
           "cgg": "Tsiga",
           "ch": "Tsiamorro",
-          "chk": "Chuukese",
+          "chk": "Chuukaeg",
           "chm": "Marieg",
           "cho": "Siocto",
           "chr": "Tsierocî",
@@ -114,7 +114,7 @@
           "de-CH": "Almaeneg Safonol y Swistir",
           "dgr": "Dogrib",
           "din": "Dinca",
-          "dje": "Zarmaeg",
+          "dje": "Sarmaeg",
           "doi": "Dogri",
           "dsb": "Sorbeg Isaf",
           "dua": "Diwaleg",
@@ -233,7 +233,7 @@
           "kac": "Kachin",
           "kaj": "Jju",
           "kam": "Camba",
-          "kbd": "Circaseg Dwyreiniol",
+          "kbd": "Cabardieg",
           "kcg": "Tyapeg",
           "kde": "Macondeg",
           "kea": "Caboferdianeg",
@@ -282,6 +282,7 @@
           "ln": "Lingala",
           "lo": "Laoeg",
           "lol": "Mongo",
+          "lou": "lou",
           "loz": "Lozi",
           "lrc": "Luri Gogleddol",
           "lt": "Lithwaneg",
@@ -367,7 +368,7 @@
           "oc": "Ocsitaneg",
           "oj": "Ojibwa",
           "om": "Oromo",
-          "or": "Oriya",
+          "or": "Odia",
           "os": "Oseteg",
           "osa": "Osageg",
           "ota": "Tyrceg Otoman",
@@ -512,7 +513,7 @@
           "uga": "Wgariteg",
           "uk": "Wcreineg",
           "umb": "Umbundu",
-          "und": "Iaith Anhysbys",
+          "und": "Iaith anhysbys",
           "ur": "Wrdw",
           "uz": "Wsbeceg",
           "vai": "Faieg",
@@ -548,9 +549,9 @@
           "zh-Hans": "Tsieineeg Symledig",
           "zh-Hant": "Tsieineeg Traddodiadol",
           "zu": "Swlw",
-          "zun": "Zuni",
+          "zun": "Swni",
           "zxx": "Dim cynnwys ieithyddol",
-          "zza": "Zazäeg"
+          "zza": "Sasäeg"
         }
       }
     }

@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13769 $",
+          "_cldrVersion": "32"
         },
         "language": "ur"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "اسلامی شہری کیلنڈر",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "اسلامی کیلنڈر (ام القراہ)",
             "iso8601": "ISO-8601 کیلنڈر",
             "japanese": "جاپانی کیلنڈر",
             "persian": "فارسی کیلنڈر",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "روایتی چینی کی چھٹائی کی ترتیب - Big5",
-            "compat": "compat",
+            "compat": "سابقہ چھٹائی کی ترتیب، مطابقت کیلئے",
             "dictionary": "لغت کی چھٹنی کی ترتیب",
             "ducet": "ڈیفالٹ یونیکوڈ کی چھٹنی کی ترتیب",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "یورپی ترتیبی قوانین",
             "gb2312han": "آسان چینی کی چھٹائی کی ترتیب - GB2312",
             "phonebook": "فون بک کی چھٹنی کی ترتیب",
             "phonetic": "صوتی چھٹائی کی ترتیب",
@@ -128,13 +128,13 @@
             "strict": "سخت لائن بریک انداز"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "US BGN",
+            "ungegn": "UN GEGN"
           },
           "ms": {
             "metric": "میٹرک نظام",
             "uksystem": "پیمائش کا امپیریل نظام",
-            "ussystem": "پیمائش کا برطانوی نظام"
+            "ussystem": "پیمائش کا امریکی نظام"
           },
           "numbers": {
             "ahom": "ahom",
@@ -153,6 +153,7 @@
             "finance": "مالیاتی ہندسے",
             "fullwide": "پورے عرض والے ہندسے",
             "geor": "جارجیائی اعداد",
+            "gonm": "gonm",
             "grek": "یونانی اعداد",
             "greklow": "یونانی زیریں اعداد",
             "gujr": "گجراتی ہندسے",

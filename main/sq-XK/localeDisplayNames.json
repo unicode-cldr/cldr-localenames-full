@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sq",
         "territory": "XK"
@@ -31,7 +31,7 @@
             "chinese": "kalendar kinez",
             "coptic": "Kalendari Koptik",
             "dangi": "kalendar dangi",
-            "ethiopic": "kalendar etiop",
+            "ethiopic": "kalendar etiopik",
             "ethiopic-amete-alem": "Kalendari Etiopas Amete Alem",
             "gregorian": "kalendar gregorian",
             "hebrew": "kalendar hebraik",
@@ -101,6 +101,7 @@
             "ethi": "numra etiopë",
             "fullwide": "shifra me largësi të brendshme",
             "geor": "numra gjeorgjianë",
+            "gonm": "gonm",
             "grek": "numra grekë",
             "greklow": "numra grekë të vegjël",
             "gujr": "shifra guxharati",
@@ -163,7 +164,7 @@
         },
         "codePatterns": {
           "language": "Gjuha: {0}",
-          "script": "Shkrimi: {0}",
+          "script": "Skripti: {0}",
           "territory": "Rajoni: {0}"
         }
       }

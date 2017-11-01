@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "be"
       },
@@ -44,6 +44,7 @@
           "Ethi": "эфіопскае",
           "Geor": "грузінскае",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "грэчаскае",
@@ -104,6 +105,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -131,6 +133,7 @@
           "Sind": "Sind",
           "Sinh": "сінгальскае",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -154,6 +157,7 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "матэматычныя знакі",
           "Zsye": "эмодзі",

@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "dsb"
       },
@@ -119,6 +119,7 @@
           "fr": "francojšćina",
           "fr-CA": "kanadiska francojšćina",
           "fr-CH": "šwicarska francojšćina",
+          "frc": "frc",
           "fur": "fur",
           "fy": "frizišćina",
           "ga": "iršćina",
@@ -218,6 +219,7 @@
           "lkt": "lakotšćina",
           "ln": "lingala",
           "lo": "laošćina",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "litawšćina",

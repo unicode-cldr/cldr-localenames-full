@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ky"
       },
@@ -82,7 +82,7 @@
           "ms": {
             "metric": "Метрикалык тутум",
             "uksystem": "Британ империясынын өлчөө тутуму",
-            "ussystem": "АКШнын өлчөө тутуму"
+            "ussystem": "АКШ өлчөө тутуму"
           },
           "numbers": {
             "ahom": "ahom",
@@ -100,6 +100,7 @@
             "ethi": "Эфиоп сандары",
             "fullwide": "Толук эндүү сандар",
             "geor": "Грузин сандары",
+            "gonm": "gonm",
             "grek": "Грек сандары",
             "greklow": "Грек сандары (кичинекей арип менен)",
             "gujr": "Гужарати сандары",

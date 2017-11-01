@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "is"
       },
@@ -39,6 +39,7 @@
           "151": "Austur-Evrópa",
           "154": "Norður-Evrópa",
           "155": "Vestur-Evrópa",
+          "202": "202",
           "419": "Rómanska Ameríka",
           "AC": "Ascension-eyja",
           "AD": "Andorra",
@@ -118,7 +119,7 @@
           "ES": "Spánn",
           "ET": "Eþíópía",
           "EU": "Evrópusambandið",
-          "EZ": "EZ",
+          "EZ": "Evrusvæðið",
           "FI": "Finnland",
           "FJ": "Fídjíeyjar",
           "FK": "Falklandseyjar",
@@ -146,7 +147,7 @@
           "GU": "Gvam",
           "GW": "Gínea-Bissá",
           "GY": "Gvæjana",
-          "HK": "Sjálfstjórnarsvæðið Hong Kong",
+          "HK": "sérstjórnarsvæðið Hong Kong",
           "HK-alt-short": "Hong Kong",
           "HM": "Heard og McDonaldseyjar",
           "HN": "Hondúras",
@@ -202,7 +203,7 @@
           "ML": "Malí",
           "MM": "Mjanmar (Búrma)",
           "MN": "Mongólía",
-          "MO": "Sjálfstjórnarsvæðið Makaó",
+          "MO": "sérstjórnarsvæðið Makaó",
           "MO-alt-short": "Makaó",
           "MP": "Norður-Maríanaeyjar",
           "MQ": "Martiník",
@@ -293,7 +294,7 @@
           "UG": "Úganda",
           "UM": "Smáeyjar Bandaríkjanna",
           "UN": "Sameinuðu þjóðirnar",
-          "UN-alt-short": "Sameinuðu þjóðirnar",
+          "UN-alt-short": "SÞ",
           "US": "Bandaríkin",
           "US-alt-short": "BNA",
           "UY": "Úrúgvæ",

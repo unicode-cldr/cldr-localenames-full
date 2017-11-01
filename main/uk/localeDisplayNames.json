@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13712 $",
+          "_cldrVersion": "32"
         },
         "language": "uk"
       },
@@ -47,9 +47,9 @@
             "indian": "індійський світський календар",
             "islamic": "ісламський календар",
             "islamic-civil": "мусульманський світський календар",
-            "islamic-rgsa": "islamic-rgsa",
+            "islamic-rgsa": "ісламський календар Саудівської Аравії",
             "islamic-tbla": "ісламський астрономічний календар",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "ісламський календар (Умм аль-Кура)",
             "iso8601": "календар ISO-8601",
             "japanese": "японський календар",
             "persian": "перський календар",
@@ -143,7 +143,7 @@
             "armn": "вірменські цифри",
             "armnlow": "вірменські малі цифри",
             "bali": "bali",
-            "beng": "бенгальські цифри",
+            "beng": "бенґальські",
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
@@ -153,6 +153,7 @@
             "finance": "фінансові символи чисел",
             "fullwide": "цифри повної ширини",
             "geor": "грузинські цифри",
+            "gonm": "gonm",
             "grek": "грецькі цифри",
             "greklow": "грецькі малі цифри",
             "gujr": "цифри гуджараті",

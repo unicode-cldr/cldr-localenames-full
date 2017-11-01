@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "brx"
       },
@@ -50,6 +50,7 @@
           "Geok": "जोर्जीयन खुतसुरी",
           "Geor": "जोर्जीयन",
           "Glag": "ग्लैगोलिटीक",
+          "Gonm": "Gonm",
           "Goth": "गौथीक",
           "Gran": "Gran",
           "Grek": "ग्रीक",
@@ -115,6 +116,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "न्गको",
+          "Nshu": "Nshu",
           "Ogam": "ओगहैम",
           "Olck": "ओल चीकी",
           "Orkh": "ओरखोन",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "सिंहाली",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "सूडानी",
           "Sylo": "सील्होटी नागरी",
           "Syrc": "सीरीआक",
@@ -173,6 +176,7 @@
           "Xpeo": "पुरानी फारसी",
           "Xsux": "सुमेरो अक्काड़ी कुनेईफॉर्म",
           "Yiii": "यी",
+          "Zanb": "Zanb",
           "Zinh": "विरासत",
           "Zmth": "Zmth",
           "Zsye": "Zsye",

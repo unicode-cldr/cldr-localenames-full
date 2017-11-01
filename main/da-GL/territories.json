@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "da",
         "territory": "GL"
@@ -31,7 +31,7 @@
           "039": "Sydeuropa",
           "053": "Australasien",
           "054": "Melanesien",
-          "057": "Mikronesien",
+          "057": "Mikronesiske område",
           "061": "Polynesien",
           "142": "Asien",
           "143": "Centralasien",
@@ -40,6 +40,7 @@
           "151": "Østeuropa",
           "154": "Nordeuropa",
           "155": "Vesteuropa",
+          "202": "202",
           "419": "Latinamerika",
           "AC": "Ascensionøen",
           "AD": "Andorra",
@@ -102,7 +103,7 @@
           "CX": "Juleøen",
           "CY": "Cypern",
           "CZ": "Tjekkiet",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Den Tjekkiske Republik",
           "DE": "Tyskland",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -119,12 +120,12 @@
           "ES": "Spanien",
           "ET": "Etiopien",
           "EU": "Den Europæiske Union",
-          "EZ": "EZ",
+          "EZ": "eurozonen",
           "FI": "Finland",
           "FJ": "Fiji",
           "FK": "Falklandsøerne",
           "FK-alt-variant": "Falklandsøerne (Islas Malvinas)",
-          "FM": "Mikronesiens Forenede Stater",
+          "FM": "Mikronesien",
           "FO": "Færøerne",
           "FR": "Frankrig",
           "GA": "Gabon",
@@ -293,7 +294,7 @@
           "UA": "Ukraine",
           "UG": "Uganda",
           "UM": "Amerikanske oversøiske øer",
-          "UN": "Forenede Nationer",
+          "UN": "De Forenede Nationer",
           "UN-alt-short": "FN",
           "US": "USA",
           "US-alt-short": "USA",

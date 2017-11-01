@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "km"
       },
@@ -100,6 +100,7 @@
             "ethi": "លេខ​អេត្យូពី",
             "fullwide": "លេខ​ទទឹង​ពេញ",
             "geor": "លេខ​ហ្សកហ្សី",
+            "gonm": "gonm",
             "grek": "លេខ​ក្រិក",
             "greklow": "លេខ​តូច​ក្រិក",
             "gujr": "លេខ​ហ្កុយ៉ារាទី",

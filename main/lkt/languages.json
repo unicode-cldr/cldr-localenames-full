@@ -3,8 +3,8 @@
     "lkt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "lkt"
       },
@@ -126,6 +126,7 @@
           "fr": "Wašíču Ikčéka Iyápi",
           "fr-CA": "Wašíču Ikčéka Iyápi (Uŋčíyapi Makȟóčhe)",
           "fr-CH": "Wašíču Ikčéka Iyápi (CH)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "fy",
           "ga": "Irish Iyápi",
@@ -224,6 +225,7 @@
           "lkt": "Lakȟólʼiyapi",
           "ln": "ln",
           "lo": "Lao Iyápi",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "Lithuania Iyápilt",

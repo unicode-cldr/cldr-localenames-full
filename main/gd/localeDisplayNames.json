@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gd"
       },
@@ -16,7 +16,7 @@
         },
         "keys": {
           "calendar": "Mìosachan",
-          "cf": "cf",
+          "cf": "Fòrmat an airgeadra",
           "collation": "Òrdugh an t-seòrsachaidh",
           "currency": "Airgeadra",
           "hc": "Cearcall an ama (12 no 24 uair)",
@@ -46,8 +46,8 @@
             "roc": "Mìosachan Poblachd na Sìne"
           },
           "cf": {
-            "account": "account",
-            "standard": "standard"
+            "account": "Fòrmat airgeadra na cunntasachd",
+            "standard": "Fòrmat stannardach an airgeadra"
           },
           "collation": {
             "big5han": "Òrdugh seòrsachaidh na Sìnise Tradaiseanta - Big5",
@@ -85,8 +85,8 @@
             "strict": "Brisidhean-loidhe teanna"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "Tar-litreachadh BGN nan Stàitean Aonaichte",
+            "ungegn": "Tar-litreachadh GEGN nan Dùthchannan Aonaichte"
           },
           "ms": {
             "metric": "Tomhas meatrach",
@@ -109,6 +109,7 @@
             "ethi": "Àireamhan Itiopach",
             "fullwide": "Àireamhan làn-leud",
             "geor": "Àireamhan na Cairtbheilise",
+            "gonm": "gonm",
             "grek": "Àireamhan na Greugaise",
             "greklow": "Àireamhan beaga na Greugaise",
             "gujr": "Àireamhan Gujarati",
@@ -147,7 +148,7 @@
             "mymrtlng": "mymrtlng",
             "nkoo": "Àireamhan N’Ko",
             "olck": "Àireamhan Ol Chiki",
-            "orya": "Àireamhan Oriya",
+            "orya": "Àireamhan Odia",
             "osma": "Àireamhan Osmanya",
             "roman": "Àireamhan Ròmanach",
             "romanlow": "Àireamhan beaga Ròmanach",

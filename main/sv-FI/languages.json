@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sv",
         "territory": "FI"
@@ -331,6 +331,7 @@
           "ln": "lingala",
           "lo": "laotiska",
           "lol": "mongo",
+          "lou": "louisiana-kreol",
           "loz": "lozi",
           "lrc": "nordluri",
           "lt": "litauiska",
@@ -387,11 +388,11 @@
           "mye": "myene",
           "myv": "erjya",
           "mzn": "mazanderani",
-          "na": "nauru",
+          "na": "nauriska",
           "nan": "min nan",
           "nap": "napolitanska",
           "naq": "nama",
-          "nb": "bokmål",
+          "nb": "norskt bokmål",
           "nd": "nordndebele",
           "nds": "lågtyska",
           "nds-NL": "lågsaxiska",

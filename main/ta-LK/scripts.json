@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ta",
         "territory": "LK"
@@ -52,6 +52,7 @@
           "Geok": "ஜியார்ஜியன் குட்சுரி",
           "Geor": "ஜார்ஜியன்",
           "Glag": "க்லாகோலிடிக்",
+          "Gonm": "Gonm",
           "Goth": "கோதிக்",
           "Gran": "Gran",
           "Grek": "கிரேக்கம்",
@@ -117,6 +118,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "என்‘கோ",
+          "Nshu": "Nshu",
           "Ogam": "ஒகாம்",
           "Olck": "ஒல் சிக்கி",
           "Orkh": "ஆர்கான்",
@@ -147,6 +149,7 @@
           "Sind": "Sind",
           "Sinh": "சிங்களம்",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "சுந்தானீஸ்",
           "Sylo": "சிலோடி நக்ரி",
           "Syrc": "சிரியாக்",
@@ -175,6 +178,7 @@
           "Xpeo": "பழைய பெர்ஷியன்",
           "Xsux": "சுமெரோ-அக்கடியன் க்யூனிஃபார்ம்",
           "Yiii": "யீ",
+          "Zanb": "Zanb",
           "Zinh": "பாரம்பரியமான",
           "Zmth": "கணிதக்குறியீடு",
           "Zsye": "எமோஜி",

@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ast"
       },
@@ -51,6 +51,7 @@
           "Geok": "khutsuri xeorxanu",
           "Geor": "xeorxanu",
           "Glag": "glagolíticu",
+          "Gonm": "Gonm",
           "Goth": "góticu",
           "Gran": "grantha",
           "Grek": "griegu",
@@ -199,6 +200,7 @@
           "Sind": "khudabadi",
           "Sinh": "cingalés",
           "Sora": "sora sompeng",
+          "Soyo": "Soyo",
           "Sund": "sondanés",
           "Sylo": "syloti nagri",
           "Syrc": "siriacu",
@@ -228,6 +230,7 @@
           "Xpeo": "persa antiguu",
           "Xsux": "cuneiforme sumeriu acadiu",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "heredáu",
           "Zmth": "escritura matemática",
           "Zsye": "emoji",

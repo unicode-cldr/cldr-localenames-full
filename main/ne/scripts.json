@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ne"
       },
@@ -49,6 +49,7 @@
           "Geok": "ग्रुजियाली खुट्सुरी",
           "Geor": "जर्जियाली",
           "Glag": "ग्लागोलिटिक",
+          "Gonm": "Gonm",
           "Goth": "गोथिक",
           "Gran": "Gran",
           "Grek": "ग्रीक",
@@ -58,10 +59,10 @@
           "Hang": "हान्गुल",
           "Hani": "हान",
           "Hano": "हानुनु",
-          "Hans": "सरलिकृत चिनी",
-          "Hans-alt-stand-alone": "सरलिकृत चिनी",
-          "Hant": "परम्परागत चिनी",
-          "Hant-alt-stand-alone": "परम्परागत चिनी",
+          "Hans": "सरलिकृत चिनियाँ",
+          "Hans-alt-stand-alone": "सरलिकृत चिनियाँ",
+          "Hant": "परम्परागत चिनियाँ",
+          "Hant-alt-stand-alone": "परम्परागत चिनियाँ",
           "Hatr": "Hatr",
           "Hebr": "हिब्रु",
           "Hira": "हिरागना",
@@ -114,6 +115,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "एन्को",
+          "Nshu": "Nshu",
           "Ogam": "ओघाम",
           "Olck": "ओलचिकी",
           "Orkh": "ओर्खोन",
@@ -144,6 +146,7 @@
           "Sind": "Sind",
           "Sinh": "सिन्हाला",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "स्ल्योटी नाग्री",
           "Syrc": "सिरियाक",
@@ -172,6 +175,7 @@
           "Xpeo": "पुरानो पर्सियन",
           "Xsux": "Xsux",
           "Yiii": "यी",
+          "Zanb": "Zanb",
           "Zinh": "इन्हेरिटेड",
           "Zmth": "Zmth",
           "Zsye": "Zsye",

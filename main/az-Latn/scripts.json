@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "az",
         "script": "Latn"
@@ -51,6 +51,7 @@
           "Geok": "gürcü xutsuri",
           "Geor": "gürcü",
           "Glag": "qlaqolitik",
+          "Gonm": "Gonm",
           "Goth": "qotik",
           "Gran": "Gran",
           "Grek": "yunan",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "nko",
+          "Nshu": "Nshu",
           "Ogam": "oğam",
           "Olck": "ol çiki",
           "Orkh": "orxon",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "sinhal",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "sundan",
           "Sylo": "siloti nəqri",
           "Syrc": "siryak",
@@ -172,6 +175,7 @@
           "Xpeo": "qədimi fars",
           "Xsux": "sumer-akadyan kuneyform",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "riyazi notasiya",
           "Zsye": "emoji",

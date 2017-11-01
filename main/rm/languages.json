@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "rm"
       },
@@ -151,6 +151,7 @@
           "fr": "franzos",
           "fr-CA": "franzos canadais",
           "fr-CH": "franzos svizzer",
+          "frc": "frc",
           "frm": "franzos mesaun",
           "fro": "franzos vegl",
           "frr": "fris dal nord",
@@ -274,6 +275,7 @@
           "ln": "lingala",
           "lo": "laot",
           "lol": "lomongo",
+          "lou": "lou",
           "loz": "lozi",
           "lrc": "lrc",
           "lt": "lituan",

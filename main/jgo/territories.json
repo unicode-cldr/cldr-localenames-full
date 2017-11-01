@@ -3,8 +3,8 @@
     "jgo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "jgo"
       },
@@ -39,6 +39,7 @@
           "151": "151",
           "154": "154",
           "155": "155",
+          "202": "202",
           "419": "419",
           "AC": "AC",
           "AD": "AD",

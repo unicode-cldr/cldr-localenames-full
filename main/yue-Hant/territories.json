@@ -1,12 +1,13 @@
 {
   "main": {
-    "yue": {
+    "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13680 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hant"
       },
       "localeDisplayNames": {
         "territories": {
@@ -39,6 +40,7 @@
           "151": "東歐",
           "154": "北歐",
           "155": "西歐",
+          "202": "202",
           "419": "拉丁美洲",
           "AC": "阿森松島",
           "AD": "安道爾",
@@ -118,7 +120,7 @@
           "ES": "西班牙",
           "ET": "衣索比亞",
           "EU": "歐盟",
-          "EZ": "EZ",
+          "EZ": "歐元區",
           "FI": "芬蘭",
           "FJ": "斐濟",
           "FK": "福克蘭群島",
@@ -292,7 +294,7 @@
           "UA": "烏克蘭",
           "UG": "烏干達",
           "UM": "美國本土外小島嶼",
-          "UN": "UN",
+          "UN": "聯合國",
           "US": "美國",
           "US-alt-short": "美國",
           "UY": "烏拉圭",

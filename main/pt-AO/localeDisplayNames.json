@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "pt",
         "territory": "AO"
@@ -45,12 +45,12 @@
             "ethiopic-amete-alem": "Calendário Etíope Amete Alem",
             "gregorian": "Calendário gregoriano",
             "hebrew": "Calendário hebraico",
-            "indian": "Calendário Nacional Indiano",
+            "indian": "Calendário nacional indiano",
             "islamic": "Calendário islâmico",
-            "islamic-civil": "Calendário Civil Islâmico",
+            "islamic-civil": "Calendário islâmico (civil)",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "Calendário islâmico (Umm al-Qura)",
             "iso8601": "Calendário ISO-8601",
             "japanese": "Calendário japonês",
             "persian": "Calendário persa",
@@ -79,11 +79,11 @@
           },
           "collation": {
             "big5han": "Ordem do Chinês Tradicional - Big5",
-            "compat": "compat",
+            "compat": "Ordem anterior, para compatibilidade",
             "dictionary": "Ordenação do dicionário",
             "ducet": "Ordenação unicode predefinida",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "Regras de ordenação europeias",
             "gb2312han": "Ordem do Chinês Simplificado - GB2312",
             "phonebook": "Ordem da lista telefónica",
             "phonetic": "Sequência de ordenação fonética",
@@ -129,8 +129,8 @@
             "strict": "Estilo estrito de quebra de linha"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "Transliteração BGN",
+            "ungegn": "Transliteração UNGEGN"
           },
           "ms": {
             "metric": "Sistema métrico",
@@ -140,7 +140,7 @@
           "numbers": {
             "ahom": "ahom",
             "arab": "Algarismos indo-arábicos",
-            "arabext": "Algarismos indo-arábicos por extenso",
+            "arabext": "Algarismos indo-arábicos expandidos",
             "armn": "Numeração arménia",
             "armnlow": "Numeração arménia minúscula",
             "bali": "bali",
@@ -154,6 +154,7 @@
             "finance": "Algarismos financeiros",
             "fullwide": "Algarismos de largura completa",
             "geor": "Numeração georgiana",
+            "gonm": "gonm",
             "grek": "Numeração grega",
             "greklow": "Numeração grega minúscula",
             "gujr": "Algarismos de guzerate",

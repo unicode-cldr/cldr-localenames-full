@@ -3,8 +3,8 @@
     "wae": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "wae"
       },
@@ -39,6 +39,7 @@
           "151": "Ošteuropa",
           "154": "Nordeuropa",
           "155": "Wešteuropa",
+          "202": "202",
           "419": "Latíamerika",
           "AC": "Himmelfártsinsla",
           "AD": "Andorra",

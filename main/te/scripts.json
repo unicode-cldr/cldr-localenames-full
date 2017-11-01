@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "te"
       },
@@ -51,6 +51,7 @@
           "Geok": "జార్జియన్ ఖట్సూరి",
           "Geor": "జార్జియన్",
           "Glag": "గ్లాగో లిటిక్",
+          "Gonm": "Gonm",
           "Goth": "గోతిక్",
           "Gran": "Gran",
           "Grek": "గ్రీక్",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "న్కో",
+          "Nshu": "Nshu",
           "Ogam": "ఒఘమ్",
           "Olck": "ఓల్ చికి",
           "Orkh": "ఓర్ఖోన్",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "సింహళం",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "సుడానీస్",
           "Sylo": "స్లోటి నాగ్రి",
           "Syrc": "సిరియాక్",
@@ -174,6 +177,7 @@
           "Xpeo": "ప్రాచీన పర్షియన్",
           "Xsux": "సుమేరో- అక్కడియన్ క్యునిఫార్మ్",
           "Yiii": "యి",
+          "Zanb": "Zanb",
           "Zinh": "వారసత్వం",
           "Zmth": "గణిత సంకేతలిపి",
           "Zsye": "ఎమోజి",

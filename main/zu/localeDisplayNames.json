@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "zu"
       },
@@ -153,6 +153,7 @@
             "finance": "Izinombolo Zezomnotho",
             "fullwide": "ububanzi obugcwele bamadijithi",
             "geor": "izinombolo zesi-Georgian",
+            "gonm": "gonm",
             "grek": "izinombolo zesi-Greek",
             "greklow": "izinombolo ezincane zesi-Greek",
             "gujr": "amadijithi esi-Gujarati",
@@ -216,9 +217,9 @@
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "Ulimi: {0}",
+          "script": "Umbhalo: {0}",
+          "territory": "Isiyingi: {0}"
         }
       }
     }

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "IC"
@@ -40,6 +40,7 @@
           "151": "Europa oriental",
           "154": "Europa septentrional",
           "155": "Europa occidental",
+          "202": "202",
           "419": "Latinoamérica",
           "AC": "Isla de la Ascensión",
           "AD": "Andorra",
@@ -58,7 +59,7 @@
           "AW": "Aruba",
           "AX": "Islas Åland",
           "AZ": "Azerbaiyán",
-          "BA": "Bosnia-Herzegovina",
+          "BA": "Bosnia y Herzegovina",
           "BB": "Barbados",
           "BD": "Bangladés",
           "BE": "Bélgica",
@@ -119,7 +120,7 @@
           "ES": "España",
           "ET": "Etiopía",
           "EU": "Unión Europea",
-          "EZ": "EZ",
+          "EZ": "zona euro",
           "FI": "Finlandia",
           "FJ": "Fiyi",
           "FK": "Islas Malvinas",
@@ -133,7 +134,7 @@
           "GD": "Granada",
           "GE": "Georgia",
           "GF": "Guayana Francesa",
-          "GG": "Guernesey",
+          "GG": "Guernsey",
           "GH": "Ghana",
           "GI": "Gibraltar",
           "GL": "Groenlandia",
@@ -293,7 +294,7 @@
           "UA": "Ucrania",
           "UG": "Uganda",
           "UM": "Islas menores alejadas de EE. UU.",
-          "UN": "UN",
+          "UN": "Naciones Unidas",
           "US": "Estados Unidos",
           "US-alt-short": "EE. UU.",
           "UY": "Uruguay",

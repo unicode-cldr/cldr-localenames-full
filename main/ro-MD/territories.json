@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ro",
         "territory": "MD"
@@ -40,6 +40,7 @@
           "151": "Europa Orientală",
           "154": "Europa Septentrională",
           "155": "Europa Occidentală",
+          "202": "202",
           "419": "America Latină",
           "AC": "Insula Ascension",
           "AD": "Andorra",
@@ -67,7 +68,7 @@
           "BH": "Bahrain",
           "BI": "Burundi",
           "BJ": "Benin",
-          "BL": "Sfântul Bartolomeu",
+          "BL": "Saint-Barthélemy",
           "BM": "Bermuda",
           "BN": "Brunei",
           "BO": "Bolivia",
@@ -119,7 +120,7 @@
           "ES": "Spania",
           "ET": "Etiopia",
           "EU": "Uniunea Europeană",
-          "EZ": "EZ",
+          "EZ": "Zona euro",
           "FI": "Finlanda",
           "FJ": "Fiji",
           "FK": "Insulele Falkland",
@@ -267,7 +268,7 @@
           "SO": "Somalia",
           "SR": "Suriname",
           "SS": "Sudanul de Sud",
-          "ST": "Sao Tomé și Príncipe",
+          "ST": "Sao Tome și Principe",
           "SV": "El Salvador",
           "SX": "Sint-Maarten",
           "SY": "Siria",
@@ -294,7 +295,7 @@
           "UG": "Uganda",
           "UM": "Insulele Îndepărtate ale S.U.A.",
           "UN": "Națiunile Unite",
-          "UN-alt-short": "NU",
+          "UN-alt-short": "ONU",
           "US": "Statele Unite ale Americii",
           "US-alt-short": "S.U.A.",
           "UY": "Uruguay",

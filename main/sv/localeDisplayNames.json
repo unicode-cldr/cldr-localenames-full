@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sv"
       },
@@ -112,8 +112,8 @@
             "tertiary": "Sortera accenter/skiftläge/bredd"
           },
           "d0": {
-            "fwidth": "Helbreda",
-            "hwidth": "Halvbreda",
+            "fwidth": "till helbreda",
+            "hwidth": "till halvbreda",
             "npinyin": "Numerisk"
           },
           "hc": {
@@ -128,8 +128,8 @@
             "strict": "strikt radbrytning"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "enligt USA:s geografiska namnkommitté",
+            "ungegn": "enligt FN:s geografiska namnkommitté"
           },
           "ms": {
             "metric": "SI-enheter",
@@ -141,18 +141,19 @@
             "arab": "indo-arabiska siffror",
             "arabext": "utökade indo-arabiska siffror",
             "armn": "armeniska taltecken",
-            "armnlow": "gemena armeniska numeraler",
+            "armnlow": "gemena armeniska taltecken",
             "bali": "balinesiska siffror",
             "beng": "bengaliska siffror",
             "brah": "brahmiska siffror",
             "cakm": "chakma-siffror",
             "cham": "chamiska siffror",
-            "cyrl": "cyrl",
+            "cyrl": "kyrilliska taltecken",
             "deva": "devanagariska siffror",
             "ethi": "etiopiska taltecken",
-            "finance": "Finansiella siffror",
+            "finance": "finansiella siffror",
             "fullwide": "fullbreddssiffror",
             "geor": "georgiska taltecken",
+            "gonm": "gonm",
             "grek": "grekiska taltecken",
             "greklow": "små grekiska taltecken",
             "gujr": "gujaratiska siffror",

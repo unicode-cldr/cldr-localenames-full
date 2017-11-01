@@ -3,8 +3,8 @@
     "gsw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gsw"
       },
@@ -151,6 +151,7 @@
           "fr": "Französisch",
           "fr-CA": "Kanadischs Französisch",
           "fr-CH": "Schwiizer Französisch",
+          "frc": "frc",
           "frm": "Mittelfranzösisch",
           "fro": "Altfranzösisch",
           "frr": "Nordfriesisch",
@@ -274,6 +275,7 @@
           "ln": "Lingala",
           "lo": "Laozisch",
           "lol": "Mongo",
+          "lou": "lou",
           "loz": "Rotse-Schpraach",
           "lrc": "lrc",
           "lt": "Litauisch",

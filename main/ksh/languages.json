@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ksh"
       },
@@ -140,6 +140,7 @@
           "fr": "Franzühsesch",
           "fr-CA": "Franzühsesch uß Kanada",
           "fr-CH": "Franzühsesch uß de Schweijz",
+          "frc": "frc",
           "fur": "Frijauhlesch",
           "fy": "Wäßfrihsesch",
           "ga": "Ihresch",
@@ -240,6 +241,7 @@
           "lkt": "Lakota",
           "ln": "Lingjalla",
           "lo": "Lahootesch",
+          "lou": "lou",
           "loz": "Silohzi",
           "lrc": "Nood-Luhresch",
           "lt": "Littouesch",

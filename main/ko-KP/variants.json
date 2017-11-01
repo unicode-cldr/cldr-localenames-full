@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ko",
         "territory": "KP"
@@ -18,11 +18,13 @@
           "1694ACAD": "1694ACAD",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALA-LC 로마자 표기법(1997년 개정)",
           "ALUKU": "알루꾸 방언",
           "AO1990": "AO1990",
           "AREVELA": "AREVELA",
           "AREVMDA": "AREVMDA",
+          "ASANTE": "ASANTE",
           "BAKU1926": "BAKU1926",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -43,6 +45,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "헵번식 로마자 표기법",
           "HOGNORSK": "호그노르스크",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "이띠아사",
           "JAUER": "야우어",
@@ -81,6 +84,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "SOLBA",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "서미안",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -92,7 +96,8 @@
           "VAIDIKA": "바이디카",
           "VALENCIA": "VALENCIA",
           "VALLADER": "발라더",
-          "WADEGILE": "WADEGILE"
+          "WADEGILE": "WADEGILE",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

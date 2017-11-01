@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "qu",
         "territory": "EC"
@@ -118,6 +118,7 @@
           "fr": "Frances Simi",
           "fr-CA": "Frances Simi (CA)",
           "fr-CH": "Frances Simi (Suiza)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "Frison Simi",
           "ga": "Irlandes Simi",
@@ -213,6 +214,7 @@
           "lkt": "lkt",
           "ln": "ln",
           "lo": "Lao Simi",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "Lituano Simi",

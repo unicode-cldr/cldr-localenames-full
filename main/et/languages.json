@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "et"
       },
@@ -55,7 +55,7 @@
           "bal": "belutši",
           "ban": "bali",
           "bar": "baieri",
-          "bas": "basa",
+          "bas": "basaa",
           "bax": "bamuni",
           "bbc": "bataki",
           "bbj": "ghomala",
@@ -95,7 +95,7 @@
           "cad": "kado",
           "car": "kariibi",
           "cay": "kajuka",
-          "cch": "atsami",
+          "cch": "aitšami",
           "ce": "tšetšeeni",
           "ceb": "sebu",
           "cgg": "tšiga",
@@ -325,6 +325,7 @@
           "ln": "lingala",
           "lo": "lao",
           "lol": "mongo",
+          "lou": "Louisiana kreoolkeel",
           "loz": "lozi",
           "lrc": "põhjaluri",
           "lt": "leedu",
@@ -614,8 +615,8 @@
           "zen": "zenaga",
           "zgh": "tamasikti (Maroko)",
           "zh": "hiina",
-          "zh-Hans": "hiina (lihtsustatud)",
-          "zh-Hant": "hiina (traditsiooniline)",
+          "zh-Hans": "lihtsustatud hiina",
+          "zh-Hant": "traditsiooniline hiina",
           "zu": "suulu",
           "zun": "sunji",
           "zxx": "mittekeeleline",

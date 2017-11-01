@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "lt"
       },
@@ -52,6 +52,7 @@
           "Geok": "gruzinų kutsuri",
           "Geor": "gruzinų",
           "Glag": "glagolitik",
+          "Gonm": "Gonm",
           "Goth": "gotų",
           "Gran": "Granta",
           "Grek": "graikų",
@@ -152,6 +153,7 @@
           "Sind": "Khudawadi",
           "Sinh": "sinhalų",
           "Sora": "Sora Sompeng",
+          "Soyo": "Soyo",
           "Sund": "sundų",
           "Sylo": "syloti nagri",
           "Syrc": "sirų",
@@ -181,6 +183,7 @@
           "Xpeo": "senieji persų",
           "Xsux": "Šumero Akado dantiraštis",
           "Yiii": "ji",
+          "Zanb": "Zanb",
           "Zinh": "paveldėtas",
           "Zmth": "matematiniai simboliai",
           "Zsye": "jaustukai",

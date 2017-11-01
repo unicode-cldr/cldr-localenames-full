@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ja"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "初期現代フランス語",
           "1959ACAD": "標準ベラルーシ語 (1959)",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALA-LCラテン文字化(1997)",
           "ALUKU": "アロコ方言",
           "AO1990": "AO1990",
           "AREVELA": "東アルメニア文語",
           "AREVMDA": "西アルメニア文語",
+          "ASANTE": "ASANTE",
           "BAKU1926": "統一トルコラテン文字",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "フォンクサンプ",
           "HEPBURN": "ヘボン式ローマ字",
           "HOGNORSK": "ヘグノシュク",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "イティハーサ",
           "JAUER": "ヤウエル",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "ストルヴィッツァ/ソルビツァ方言",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "スルミラン",
           "SURSILV": "スルシルヴァン",
           "SUTSILV": "ストシルヴァン",
@@ -91,7 +95,8 @@
           "VAIDIKA": "ヴァイディカ",
           "VALENCIA": "バレンシア方言",
           "VALLADER": "ヴァラダー",
-          "WADEGILE": "ウェード式ローマ字表記法"
+          "WADEGILE": "ウェード式ローマ字表記法",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

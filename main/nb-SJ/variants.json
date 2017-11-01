@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "nb",
         "territory": "SJ"
@@ -18,11 +18,13 @@
           "1694ACAD": "eldre nyfransk",
           "1959ACAD": "akademisk",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALA-LC-romanisering, 1997-utgaven",
           "ALUKU": "Aluku-dialekt",
           "AO1990": "AO1990",
           "AREVELA": "øst-armensk",
           "AREVMDA": "vest-armensk",
+          "ASANTE": "ASANTE",
           "BAKU1926": "samlet tyrkisk-latinsk alfabet",
           "BALANKA": "balankadialekten av anii",
           "BARLA": "barlaventa-dialektgruppen av kappverdiansk",
@@ -43,6 +45,7 @@
           "FONXSAMP": "fonxsamp",
           "HEPBURN": "Hepburn-romanisering",
           "HOGNORSK": "høgnorsk",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "serbisk med ijekavisk uttale",
           "ITIHASA": "itihasa",
           "JAUER": "jauer",
@@ -81,6 +84,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "stolvizza- og solbicadialekt",
           "SOTAV": "sotavento-dialektgruppen av kappverdiansk",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "surmiransk",
           "SURSILV": "sursilvan",
           "SUTSILV": "sutsilvan",
@@ -92,7 +96,8 @@
           "VAIDIKA": "vaidika",
           "VALENCIA": "valensiansk",
           "VALLADER": "vallader",
-          "WADEGILE": "Wade-Giles-romanisering"
+          "WADEGILE": "Wade-Giles-romanisering",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

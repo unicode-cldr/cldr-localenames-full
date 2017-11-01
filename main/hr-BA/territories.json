@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "hr",
         "territory": "BA"
@@ -40,6 +40,7 @@
           "151": "Istočna Europa",
           "154": "Sjeverna Europa",
           "155": "Zapadna Europa",
+          "202": "202",
           "419": "Latinska Amerika",
           "AC": "Otok Ascension",
           "AD": "Andora",
@@ -119,7 +120,7 @@
           "ES": "Španjolska",
           "ET": "Etiopija",
           "EU": "Europska unija",
-          "EZ": "EZ",
+          "EZ": "eurozona",
           "FI": "Finska",
           "FJ": "Fidži",
           "FK": "Falklandski otoci",
@@ -236,7 +237,7 @@
           "PH": "Filipini",
           "PK": "Pakistan",
           "PL": "Poljska",
-          "PM": "Saint-Pierre-et-Miquelon",
+          "PM": "Sveti Petar i Mikelon",
           "PN": "Otoci Pitcairn",
           "PR": "Portoriko",
           "PS": "Palestinsko Područje",

@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ps"
       },
@@ -15,10 +15,10 @@
           "localeKeyTypePattern": "{0}: {1}"
         },
         "keys": {
-          "calendar": "calendar",
-          "cf": "cf",
-          "collation": "collation",
-          "currency": "currency",
+          "calendar": "جنتري",
+          "cf": "اسعارو بڼه",
+          "collation": "ترتيب",
+          "currency": "اسعارو",
           "hc": "hc",
           "lb": "lb",
           "ms": "ms",
@@ -26,43 +26,43 @@
         },
         "types": {
           "calendar": {
-            "buddhist": "buddhist",
-            "chinese": "chinese",
+            "buddhist": "بودايي جنتري",
+            "chinese": "د چين جنتري",
             "coptic": "coptic",
-            "dangi": "dangi",
-            "ethiopic": "ethiopic",
+            "dangi": "ډانګي جنتري",
+            "ethiopic": "ایتوپيک جنتري",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "gregorian",
-            "hebrew": "hebrew",
+            "gregorian": "د ګریګوریا کښته",
+            "hebrew": "جورجویان جنتري",
             "indian": "indian",
-            "islamic": "islamic",
-            "islamic-civil": "islamic-civil",
+            "islamic": "د اسلامي جنتري",
+            "islamic-civil": "د اسلامي جنتري (جدولي، د مدني عصر)",
             "islamic-rgsa": "islamic-rgsa",
-            "islamic-tbla": "islamic-tbla",
+            "islamic-tbla": "د اسلامي جنتري (جدولي، ستورپوهنيزه برخه)",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "iso8601",
-            "japanese": "japanese",
-            "persian": "persian",
-            "roc": "roc"
+            "iso8601": "ISO-8601 Calendar",
+            "japanese": "د جاپاني جنتري",
+            "persian": "د فارسي جنتري",
+            "roc": "منگوو جنتري"
           },
           "cf": {
-            "account": "account",
-            "standard": "standard"
+            "account": "محاسبه اسعارو بڼه",
+            "standard": "معياري اسعارو بڼه"
           },
           "collation": {
             "big5han": "big5han",
             "compat": "compat",
             "dictionary": "dictionary",
-            "ducet": "ducet",
+            "ducet": "ڊفالٽ یونیکوډ ترتیب",
             "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "gb2312han",
             "phonebook": "phonebook",
             "pinyin": "pinyin",
             "reformed": "reformed",
-            "search": "search",
+            "search": "عمومي موخو د لټون",
             "searchjl": "searchjl",
-            "standard": "standard",
+            "standard": "معیاري ترتیب ترتیب",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -86,8 +86,8 @@
           },
           "numbers": {
             "ahom": "ahom",
-            "arab": "arab",
-            "arabext": "arabext",
+            "arab": "عربي - انډیک ډایټونه",
+            "arabext": "پراخ شوی عربي - هندیک ډایټونه",
             "armn": "armn",
             "armnlow": "armnlow",
             "bali": "bali",
@@ -100,6 +100,7 @@
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",
+            "gonm": "gonm",
             "grek": "grek",
             "greklow": "greklow",
             "gujr": "gujr",
@@ -120,7 +121,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "latn",
+            "latn": "لویدیځ ډایټونه",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -161,9 +162,9 @@
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "ژبه: {0}",
+          "script": "سکرېپټ: {0}",
+          "territory": "سيمه: {0}"
         }
       }
     }

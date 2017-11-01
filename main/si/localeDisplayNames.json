@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "si"
       },
@@ -100,6 +100,7 @@
             "ethi": "ඉතියෝපියානු සංඛ්‍යාංකන",
             "fullwide": "සම්පූර්ණ පළල ඉලක්කම්",
             "geor": "ජෝජියානු සංඛ්‍යාංකන",
+            "gonm": "gonm",
             "grek": "ග්‍රීක සංඛ්‍යාංකන",
             "greklow": "ග්‍රීක කුඩා සංඛ්‍යාංකන",
             "gujr": "ගුජරාටි ඉලක්කම්",

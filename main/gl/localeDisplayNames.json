@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gl"
       },
@@ -112,8 +112,8 @@
             "tertiary": "Clasificar acentos/maiúsculas e minúsculas/ancho"
           },
           "d0": {
-            "fwidth": "Ancho completo",
-            "hwidth": "Ancho medio",
+            "fwidth": "ancho completo",
+            "hwidth": "ancho medio",
             "npinyin": "Numérico"
           },
           "hc": {
@@ -128,8 +128,8 @@
             "strict": "estilo de quebra de liña estrita"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliteración do BGN",
+            "ungegn": "transliteración do UNGEGN"
           },
           "ms": {
             "metric": "sistema métrico decimal",
@@ -153,6 +153,7 @@
             "finance": "Números financeiros",
             "fullwide": "díxitos de ancho completo",
             "geor": "numeración xeorxiana",
+            "gonm": "gonm",
             "grek": "numeración grega",
             "greklow": "numeración grega en minúscula",
             "gujr": "díxitos guxaratís",
@@ -206,7 +207,7 @@
             "talu": "talu",
             "taml": "numeración támil tradicional",
             "tamldec": "díxitos do támil",
-            "telu": "díxitos do telugú",
+            "telu": "díxitos de telugu",
             "thai": "díxitos tailandeses",
             "tibt": "díxitos tibetanos",
             "tirh": "tirh",

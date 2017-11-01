@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ks"
       },
@@ -50,6 +50,7 @@
           "Geok": "جارجِیَن کھتسوری",
           "Geor": "جارجِیَن",
           "Glag": "گلیگولِٹِک",
+          "Gonm": "Gonm",
           "Goth": "گوتھِک",
           "Gran": "Gran",
           "Grek": "گرَنتھا",
@@ -115,6 +116,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "ایٚن کو",
+          "Nshu": "Nshu",
           "Ogam": "اوگہام",
           "Olck": "اول چِکی",
           "Orkh": "اورکھون",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "سِنہالا",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "سَنڈَنیٖز",
           "Sylo": "سیلوتی ناگری",
           "Syrc": "سیٖرِیَک",
@@ -173,6 +176,7 @@
           "Xpeo": "پرون فارسی",
           "Xsux": "سُمیرو اکادیَن کوٗنِفام",
           "Yiii": "یٖی",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
           "Zsye": "Zsye",

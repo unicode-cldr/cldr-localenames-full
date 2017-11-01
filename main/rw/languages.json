@@ -3,8 +3,8 @@
     "rw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "rw"
       },
@@ -117,6 +117,7 @@
           "fr": "Igifaransa",
           "fr-CA": "Igifaransa (CA)",
           "fr-CH": "Igifaransa (CH)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "Igifiriziyani",
           "ga": "Ikirilandi",
@@ -213,6 +214,7 @@
           "lkt": "lkt",
           "ln": "Ilingala",
           "lo": "Ikilawotiyani",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "Ikilituwaniya",
@@ -239,7 +241,7 @@
           "mi": "mi",
           "mic": "mic",
           "min": "min",
-          "mk": "Ikimasedoniyani",
+          "mk": "Ikimasedoniya",
           "ml": "Ikimalayalami",
           "mn": "Ikimongoli",
           "mni": "mni",

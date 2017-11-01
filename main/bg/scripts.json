@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13375 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13759 $",
+          "_cldrVersion": "32"
         },
         "language": "bg"
       },
@@ -50,6 +50,7 @@
           "Geok": "Грузинска хуцури",
           "Geor": "грузинска",
           "Glag": "Глаголическа",
+          "Gonm": "Gonm",
           "Goth": "Готическа",
           "Gran": "Gran",
           "Grek": "гръцка",
@@ -115,6 +116,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Н’Ко",
+          "Nshu": "Nshu",
           "Ogam": "Огамическа",
           "Olck": "Ол Чики",
           "Orkh": "Орхоно-енисейска",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "синхалска",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Сунданска",
           "Sylo": "Силоти Нагри",
           "Syrc": "Сирийска",
@@ -172,6 +175,7 @@
           "Xpeo": "Староперсийска",
           "Xsux": "Шумеро-акадски клинопис",
           "Yiii": "Йи",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Математически символи",
           "Zsye": "емотикони",

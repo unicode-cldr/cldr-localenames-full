@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "mt"
       },
@@ -151,6 +151,7 @@
           "fr": "Franċiż",
           "fr-CA": "Franċiż Kanadiż",
           "fr-CH": "Franċiż Żvizzeru",
+          "frc": "frc",
           "frm": "Franċiż Medjevali",
           "fro": "Franċiż Antik",
           "fur": "Frijuljan",
@@ -272,6 +273,7 @@
           "ln": "Lingaljan",
           "lo": "Laosjan",
           "lol": "Mongo",
+          "lou": "lou",
           "loz": "Lożi",
           "lrc": "Luri tat-Tramuntana",
           "lt": "Litwan",
@@ -439,7 +441,7 @@
           "suk": "Sukuma",
           "sus": "Susu",
           "sux": "Sumerjan",
-          "sv": "Żvezja",
+          "sv": "Żvediż",
           "sw": "Swahili",
           "sw-CD": "Swahili tar-Repubblika Demokratika tal-Kongo",
           "swb": "Komorjan",

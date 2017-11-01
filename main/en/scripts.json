@@ -3,8 +3,8 @@
     "en": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13744 $",
+          "_cldrVersion": "32"
         },
         "language": "en"
       },
@@ -53,6 +53,7 @@
           "Geok": "Georgian Khutsuri",
           "Geor": "Georgian",
           "Glag": "Glagolitic",
+          "Gonm": "Masaram Gondi",
           "Goth": "Gothic",
           "Gran": "Grantha",
           "Grek": "Greek",
@@ -153,6 +154,7 @@
           "Sind": "Khudawadi",
           "Sinh": "Sinhala",
           "Sora": "Sora Sompeng",
+          "Soyo": "Soyombo",
           "Sund": "Sundanese",
           "Sylo": "Syloti Nagri",
           "Syrc": "Syriac",
@@ -183,6 +185,7 @@
           "Xsux": "Sumero-Akkadian Cuneiform",
           "Xsux-alt-short": "S-A Cuneiform",
           "Yiii": "Yi",
+          "Zanb": "Zanabazar Square",
           "Zinh": "Inherited",
           "Zmth": "Mathematical Notation",
           "Zsye": "Emoji",

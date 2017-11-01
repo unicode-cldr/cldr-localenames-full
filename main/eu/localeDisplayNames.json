@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "eu"
       },
@@ -143,7 +143,7 @@
             "armn": "Zenbaki armeniarrak",
             "armnlow": "Zenbaki armeniarrak minuskulaz",
             "bali": "bali",
-            "beng": "Digitu bengalarrak",
+            "beng": "digitu bengalarrak",
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
@@ -153,6 +153,7 @@
             "finance": "Finantza-zenbakiak",
             "fullwide": "Zabalera osoko digituak",
             "geor": "Zenbaki georgiarrak",
+            "gonm": "gonm",
             "grek": "Zenbaki grekoak",
             "greklow": "Zenbaki grekoak minuskulaz",
             "gujr": "Digitu gujaratarrak",

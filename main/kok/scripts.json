@@ -3,8 +3,8 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "kok"
       },
@@ -13,7 +13,7 @@
           "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
-          "Arab": "Arab",
+          "Arab": "अरेबिक",
           "Armi": "Armi",
           "Armn": "Armn",
           "Avst": "Avst",
@@ -35,8 +35,8 @@
           "Cher": "Cher",
           "Copt": "Copt",
           "Cprt": "Cprt",
-          "Cyrl": "Cyrl",
-          "Deva": "Deva",
+          "Cyrl": "सिरिलिक",
+          "Deva": "देवनागरी",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
           "Egyp": "Egyp",
@@ -44,6 +44,7 @@
           "Ethi": "Ethi",
           "Geor": "Geor",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "Grek",
@@ -53,10 +54,10 @@
           "Hang": "Hang",
           "Hani": "Hani",
           "Hano": "Hano",
-          "Hans": "Hans",
-          "Hans-alt-stand-alone": "Hans",
-          "Hant": "Hant",
-          "Hant-alt-stand-alone": "Hant",
+          "Hans": "सोंपी",
+          "Hans-alt-stand-alone": "सोंपी हॅन",
+          "Hant": "पारंपारीक",
+          "Hant-alt-stand-alone": "पारंपारीक हॅन",
           "Hatr": "Hatr",
           "Hebr": "Hebr",
           "Hira": "Hira",
@@ -78,7 +79,7 @@
           "Kthi": "Kthi",
           "Lana": "Lana",
           "Laoo": "Laoo",
-          "Latn": "Latn",
+          "Latn": "लॅटीन",
           "Lepc": "Lepc",
           "Limb": "Limb",
           "Lina": "Lina",
@@ -104,6 +105,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -131,6 +133,7 @@
           "Sind": "Sind",
           "Sinh": "Sinh",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -154,13 +157,14 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
           "Zsye": "Zsye",
           "Zsym": "Zsym",
-          "Zxxx": "Zxxx",
+          "Zxxx": "अलिखीत",
           "Zyyy": "Zyyy",
-          "Zzzz": "Zzzz"
+          "Zzzz": "अज्ञात लिपी"
         }
       }
     }

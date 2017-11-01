@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "my"
       },
@@ -100,6 +100,7 @@
             "ethi": "အီသီယိုပီးယား ဂဏန်းခြေ",
             "fullwide": "ဗြက်ပြည့် ဂဏန်းခြေ",
             "geor": "နိုင်ငံတကာသုံးဂဏန်းခြေ",
+            "gonm": "gonm",
             "grek": "ဂရိ ဂဏန်းခြေ",
             "greklow": "ဂရိ ဂဏန်းခြေ စာလုံးသေး",
             "gujr": "ဂုဂျာရတီ ဂဏန်းခြေ",
@@ -128,7 +129,7 @@
             "mathmono": "mathmono",
             "mathsanb": "mathsanb",
             "mathsans": "mathsans",
-            "mlym": "မာလာယာလမ် ဂဏန်းခြေ",
+            "mlym": "မလေယာလမ် ဂဏန်းခြေ",
             "modi": "modi",
             "mong": "mong",
             "mroo": "mroo",

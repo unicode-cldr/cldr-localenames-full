@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "cs"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "Muslimský občanský kalendář",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "Muslimský kalendář (Umm al-Qura)",
             "iso8601": "Kalendář ISO-8601",
             "japanese": "Japonský kalendář",
             "persian": "Perský kalendář",
@@ -78,13 +78,13 @@
           },
           "collation": {
             "big5han": "Řazení pro tradiční čínštinu – Big5",
-            "compat": "compat",
+            "compat": "Předchozí řazení, kompatibilita",
             "dictionary": "Slovníkové řazení",
             "ducet": "Výchozí řazení Unicode",
             "emoji": "emoji",
             "eor": "Evropské řazení",
             "gb2312han": "Řazení pro zjednodušenou čínštinu – GB2312",
-            "phonebook": "Řazení jako v telefonním seznamu",
+            "phonebook": "Řazení telefonního seznamu",
             "phonetic": "Fonetické řazení",
             "pinyin": "Řazení podle pchin-jinu",
             "reformed": "Reformované řazení",
@@ -128,8 +128,8 @@
             "strict": "Striktní styl zalamování řádků"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "Transliterace podle BGN",
+            "ungegn": "Transliterace podle UNGEGN"
           },
           "ms": {
             "metric": "Metrická soustava",
@@ -153,6 +153,7 @@
             "finance": "Finanční zápis čísel",
             "fullwide": "Číslice – plná šířka",
             "geor": "Gruzínské číslice",
+            "gonm": "gonm",
             "grek": "Řecké číslice",
             "greklow": "Malé řecké číslice",
             "gujr": "Gudžarátské číslice",

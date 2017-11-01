@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "pl"
       },
@@ -78,7 +78,7 @@
           },
           "collation": {
             "big5han": "chiński tradycyjny porządek sortowania - Big5",
-            "compat": "compat",
+            "compat": "poprzedni porządek sortowania, dla zgodności",
             "dictionary": "sortowanie słownikowe",
             "ducet": "domyślne sortowanie Unicode",
             "emoji": "emoji",
@@ -112,8 +112,8 @@
             "tertiary": "Sortowanie znaków akcentowanych/wielkości liter/szerokości"
           },
           "d0": {
-            "fwidth": "Pełna szerokość",
-            "hwidth": "Połowa szerokości",
+            "fwidth": "pełna szerokość",
+            "hwidth": "połowa szerokości",
             "npinyin": "Liczbowe"
           },
           "hc": {
@@ -153,6 +153,7 @@
             "finance": "Liczebniki księgowe",
             "fullwide": "cyfry o pełnej szerokości",
             "geor": "cyfry gruzińskie",
+            "gonm": "gonm",
             "grek": "cyfry greckie",
             "greklow": "cyfry greckie (małe litery)",
             "gujr": "cyfry gudżarati",

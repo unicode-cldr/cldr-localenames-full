@@ -3,8 +3,8 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13373 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13734 $",
+          "_cldrVersion": "32"
         },
         "language": "sw"
       },
@@ -45,6 +45,7 @@
           "Ethi": "Kiethiopia",
           "Geor": "Kijojia",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "Kigiriki",
@@ -105,6 +106,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -132,6 +134,7 @@
           "Sind": "Sind",
           "Sinh": "Kisinhala",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -155,6 +158,7 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Hati za kihisabati",
           "Zsye": "Emoji",

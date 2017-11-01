@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "is"
       },
@@ -45,6 +45,7 @@
           "Ethi": "eþíópískt",
           "Geor": "georgískt",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "grískt",
@@ -63,7 +64,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
-          "Hrkt": "katakana eða hiragana",
+          "Hrkt": "japönsk samstöfuletur",
           "Hung": "Hung",
           "Ital": "Ital",
           "Jamo": "jamo",
@@ -105,6 +106,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -132,6 +134,7 @@
           "Sind": "Sind",
           "Sinh": "sinhala",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -155,6 +158,7 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "stærðfræðitákn",
           "Zsye": "emoji-tákn",

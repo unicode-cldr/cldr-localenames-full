@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gd"
       },
@@ -39,6 +39,7 @@
           "151": "An Roinn-Eòrpa an Ear",
           "154": "An Roinn-Eòrpa a Tuath",
           "155": "An Roinn-Eòrpa an Iar",
+          "202": "202",
           "419": "Aimeireaga Laidinneach",
           "AC": "Eilean na Deasgabhalach",
           "AD": "Andorra",
@@ -57,7 +58,7 @@
           "AW": "Arùba",
           "AX": "Na h-Eileanan Åland",
           "AZ": "Asarbaideàn",
-          "BA": "Bosna agus Hearsagobhana",
+          "BA": "Bosna is Hearsagobhana",
           "BB": "Barbados",
           "BD": "Bangladais",
           "BE": "A’ Bheilg",
@@ -118,7 +119,7 @@
           "ES": "An Spàinnt",
           "ET": "An Itiop",
           "EU": "An t-Aonadh Eòrpach",
-          "EZ": "EZ",
+          "EZ": "Raon an Eòro",
           "FI": "An Fhionnlann",
           "FJ": "Fìdi",
           "FK": "Na h-Eileanan Fàclannach",
@@ -236,7 +237,7 @@
           "PK": "Pagastàn",
           "PL": "A’ Phòlainn",
           "PM": "Saint Pierre agus Miquelon",
-          "PN": "Eileanan Peit a’ Chàirn",
+          "PN": "Eileanan Pheit a’ Chàirn",
           "PR": "Porto Rìceo",
           "PS": "Na Ranntairean Palastaineach",
           "PS-alt-short": "Palastain",
@@ -292,7 +293,7 @@
           "UA": "An Ucràin",
           "UG": "Uganda",
           "UM": "Meanbh-Eileanan Iomallach nan SA",
-          "UN": "UN",
+          "UN": "Na Dùthchannan Aonaichte",
           "US": "Na Stàitean Aonaichte",
           "US-alt-short": "SA",
           "UY": "Uruguaidh",

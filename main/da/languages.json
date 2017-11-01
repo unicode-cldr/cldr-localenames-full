@@ -3,8 +3,8 @@
     "da": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "da"
       },
@@ -160,6 +160,7 @@
           "fr": "fransk",
           "fr-CA": "canadisk fransk",
           "fr-CH": "schweizisk fransk",
+          "frc": "cajunfransk",
           "frm": "middelfransk",
           "fro": "oldfransk",
           "frr": "nordfrisisk",
@@ -286,6 +287,7 @@
           "ln": "lingala",
           "lo": "lao",
           "lol": "mongo",
+          "lou": "Louisiana-kreolsk",
           "loz": "lozi",
           "lrc": "nordluri",
           "lt": "litauisk",
@@ -339,7 +341,7 @@
           "mzn": "mazenisk",
           "na": "nauru",
           "nan": "min-kinesisk",
-          "nap": "neapolitansk",
+          "nap": "napolitansk",
           "naq": "nama",
           "nb": "norsk bokmål",
           "nd": "nordndebele",
@@ -447,7 +449,7 @@
           "sms": "skoltesamisk",
           "sn": "shona",
           "snk": "soninke",
-          "so": "somalisk",
+          "so": "somali",
           "sog": "sogdiansk",
           "sq": "albansk",
           "sr": "serbisk",
@@ -466,7 +468,7 @@
           "swb": "shimaore",
           "syc": "klassisk syrisk",
           "syr": "syrisk",
-          "ta": "tamilsk",
+          "ta": "tamil",
           "te": "telugu",
           "tem": "temne",
           "teo": "teso",
@@ -493,7 +495,7 @@
           "tsi": "tsimshisk",
           "tt": "tatarisk",
           "tum": "tumbuka",
-          "tvl": "tuvalu",
+          "tvl": "tuvaluansk",
           "tw": "twi",
           "twq": "tasawaq",
           "ty": "tahitiansk",

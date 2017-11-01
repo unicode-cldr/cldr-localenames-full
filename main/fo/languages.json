@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "fo"
       },
@@ -119,6 +119,7 @@
           "fr": "franskt",
           "fr-CA": "franskt (Kanada)",
           "fr-CH": "franskt (Sveis)",
+          "frc": "frc",
           "fur": "friuliskt",
           "fy": "vestur frísiskt",
           "ga": "írskt",
@@ -218,6 +219,7 @@
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laoskt",
+          "lou": "lou",
           "loz": "lozi",
           "lrc": "norður luri",
           "lt": "litaviskt",

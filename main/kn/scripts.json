@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "kn"
       },
@@ -51,6 +51,7 @@
           "Geok": "ಜಾರ್ಜಿಯನ್ ಖುಸ್ತುರಿ",
           "Geor": "ಜಾರ್ಜಿಯನ್",
           "Glag": "ಗ್ಲಾಗೋಲಿಟಿಕ್",
+          "Gonm": "Gonm",
           "Goth": "ಗೋತಿಕ್",
           "Gran": "Gran",
           "Grek": "ಗ್ರೀಕ್",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "ಎನ್‍ಕೋ",
+          "Nshu": "Nshu",
           "Ogam": "ಓಘಮ್",
           "Olck": "ಓಲ್ ಚಿಕಿ",
           "Orkh": "ಓರ್ಖೋನ್",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "ಸಿಂಹಳ",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "ಸುಂಡಾನೀಸ್",
           "Sylo": "ಸೈಲೋಟಿ ನಗ್ರಿ",
           "Syrc": "ಸಿರಿಯಾಕ್",
@@ -174,6 +177,7 @@
           "Xpeo": "ಪ್ರಾಚೀನ ಪರ್ಶಿಯನ್",
           "Xsux": "ಸುಮೇರೋ-ಅಕ್ಕಾಡಿಯನ್ ಕ್ಯೂನಿಫಾರ್ಮ್",
           "Yiii": "ಯಿ",
+          "Zanb": "Zanb",
           "Zinh": "ಇನ್‍ಹೆರಿಟೆಡ್",
           "Zmth": "ಗಣೀತ ಸಂಕೇತಲಿಪಿ",
           "Zsye": "ಎಮೋಜಿ",

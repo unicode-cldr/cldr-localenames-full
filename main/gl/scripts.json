@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gl"
       },
@@ -45,6 +45,7 @@
           "Ethi": "etíope",
           "Geor": "xeorxiano",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "grego",
@@ -105,6 +106,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -132,6 +134,7 @@
           "Sind": "Sind",
           "Sinh": "cingalés",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -142,7 +145,7 @@
           "Taml": "támil",
           "Tang": "Tang",
           "Tavt": "Tavt",
-          "Telu": "telugú",
+          "Telu": "telugu",
           "Tfng": "Tfng",
           "Tglg": "Tglg",
           "Thaa": "thaana",
@@ -155,6 +158,7 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "notación matemática",
           "Zsye": "emojis",

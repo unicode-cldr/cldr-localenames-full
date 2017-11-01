@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13375 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13759 $",
+          "_cldrVersion": "32"
         },
         "language": "bg"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "Ранен съвременен френски",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "Източно арменски",
           "AREVMDA": "Западно арменски",
+          "ASANTE": "ASANTE",
           "BAKU1926": "Унифицирана тюркска азбука",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "Диалект Столвиза",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Валенсиански",
           "VALLADER": "VALLADER",
-          "WADEGILE": "Уейд-Джайлс романизация"
+          "WADEGILE": "Уейд-Джайлс романизация",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

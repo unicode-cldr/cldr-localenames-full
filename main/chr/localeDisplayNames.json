@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "chr"
       },
@@ -100,6 +100,7 @@
             "ethi": "ᎢᏗᏯᏈᎩ ᏗᏎᏍᏗ",
             "fullwide": "ᎧᎵᎢ-ᎾᏯᏛᏒ ᏗᏎᏍᏗ",
             "geor": "ᎩᎴᎪᎵᎠᏂ ᏗᏎᏍᏗ",
+            "gonm": "gonm",
             "grek": "ᎠᏂᎪᎢ ᏗᏎᏍᏗ",
             "greklow": "ᎠᏂᎪᎢ ᏧᏍᏗ ᏗᎪᏪᎵ ᏗᏎᏍᏗ",
             "gujr": "ᎫᏣᎳᏘ ᏗᏎᏍᏗ",

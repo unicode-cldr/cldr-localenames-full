@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ga"
       },
@@ -14,14 +14,16 @@
           "1994": "1994",
           "1996": "1996",
           "1606NICT": "1606NICT",
-          "1694ACAD": "1694ACAD",
+          "1694ACAD": "Nua-Fhraincis Mhoch",
           "1959ACAD": "Acadúil",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "Rómhánú ALA-LC, eagrán 1997",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "Airméinis an Oirthir",
           "AREVMDA": "Airméinis an Iarthair",
+          "ASANTE": "ASANTE",
           "BAKU1926": "BAKU1926",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -35,13 +37,14 @@
           "CORNU": "Béarla an Choirn",
           "DAJNKO": "Aibítir Dajnko",
           "EKAVSK": "EKAVSK",
-          "EMODENG": "EMODENG",
+          "EMODENG": "Nua-Bhéarla Moch",
           "FONIPA": "Fogharscríobh IPA",
           "FONNAPA": "FONNAPA",
           "FONUPA": "Fogharscríobh UPA",
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "Rómhánú Hepburn",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "Simplí",
           "SOLBA": "SOLBA",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "Véideach",
           "VALENCIA": "Vaileinsis",
           "VALLADER": "VALLADER",
-          "WADEGILE": "Rómhánú Wade-Giles"
+          "WADEGILE": "Rómhánú Wade-Giles",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fy"
       },
@@ -159,12 +159,13 @@
           "fr": "Frânsk",
           "fr-CA": "Kanadeesk Frânsk",
           "fr-CH": "Switserse Frânsk",
+          "frc": "frc",
           "frm": "Middelfrânsk",
           "fro": "Aldfrânsk",
           "frr": "Noard-Frysk",
           "frs": "East-Frysk",
           "fur": "Friulysk",
-          "fy": "West-Frysk",
+          "fy": "Frysk",
           "ga": "Iersk",
           "gaa": "Ga",
           "gan": "gan",
@@ -283,6 +284,7 @@
           "ln": "Lingala",
           "lo": "Laotiaansk",
           "lol": "Mongo",
+          "lou": "lou",
           "loz": "Lozi",
           "lrc": "lrc",
           "lt": "Litouws",

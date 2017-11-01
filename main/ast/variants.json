@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ast"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "francés modernu primitivu",
           "1959ACAD": "académicu",
           "ABL1943": "formulación ortográfica de 1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "romanizacion ALA-LC, edicion de 1997",
           "ALUKU": "dialectu aluku",
           "AO1990": "alcuerdu ortográficu de 1990 pa la llingua portuguesa",
           "AREVELA": "armeniu oriental",
           "AREVMDA": "armeniu occidental",
+          "ASANTE": "ASANTE",
           "BAKU1926": "alfabetu turcu llatino unificáu",
           "BALANKA": "dialectu balanka del anii",
           "BARLA": "grupu dialectal barlavento del cabuverdianu",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "romanización de Hepburn",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "serbiu con pronunciación Ijekaviana",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "dialectu stolvizza/solbica",
           "SOTAV": "grupu dialectal sotavento del cabuverdianu",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "valencianu",
           "VALLADER": "VALLADER",
-          "WADEGILE": "romanización de Wade-Giles"
+          "WADEGILE": "romanización de Wade-Giles",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

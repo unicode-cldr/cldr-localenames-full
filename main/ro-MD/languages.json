@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ro",
         "territory": "MD"
@@ -33,7 +33,7 @@
           "ar": "arabă",
           "ar-001": "arabă standard modernă",
           "arc": "aramaică",
-          "arn": "araucaniană",
+          "arn": "mapuche",
           "arp": "arapaho",
           "arw": "arawak",
           "as": "asameză",
@@ -161,6 +161,7 @@
           "fr": "franceză",
           "fr-CA": "franceză (Canada)",
           "fr-CH": "franceză (Elveția)",
+          "frc": "franceză cajun",
           "frm": "franceză medie",
           "fro": "franceză veche",
           "frr": "frizonă nordică",
@@ -287,6 +288,7 @@
           "ln": "lingala",
           "lo": "laoțiană",
           "lol": "mongo",
+          "lou": "creolă louisianeză",
           "loz": "lozi",
           "lrc": "luri de nord",
           "lt": "lituaniană",
@@ -373,7 +375,7 @@
           "oc": "occitană",
           "oj": "ojibwa",
           "om": "oromo",
-          "or": "oriya",
+          "or": "odia",
           "os": "osetă",
           "osa": "osage",
           "ota": "turcă otomană",
@@ -404,7 +406,7 @@
           "rm": "romanșă",
           "rn": "kirundi",
           "ro": "română",
-          "ro-MD": "moldovenească",
+          "ro-MD": "română (Republica Moldova)",
           "rof": "rombo",
           "rom": "romani",
           "root": "root",
@@ -437,7 +439,7 @@
           "shi": "tachelhit",
           "shn": "shan",
           "shu": "arabă ciadiană",
-          "si": "singaleză",
+          "si": "singhaleză",
           "sid": "sidamo",
           "sk": "slovacă",
           "sl": "slovenă",

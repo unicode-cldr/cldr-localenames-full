@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "da",
         "territory": "GL"
@@ -18,11 +18,13 @@
           "1694ACAD": "tidlig moderne fransk",
           "1959ACAD": "akademisk",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALA-LC-romanisering fra 1997",
           "ALUKU": "aluku-dialekt",
           "AO1990": "AO1990",
           "AREVELA": "østarmensk",
           "AREVMDA": "vestarmensk",
+          "ASANTE": "ASANTE",
           "BAKU1926": "forenet tyrkisk-latinsk alfabet",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -43,6 +45,7 @@
           "FONXSAMP": "fonxsamp",
           "HEPBURN": "Hepburn-romanisering",
           "HOGNORSK": "høgnorsk",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "itihasa",
           "JAUER": "jauer",
@@ -81,6 +84,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "SOLBA",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "surmiran",
           "SURSILV": "sursilv",
           "SUTSILV": "sutsilv",
@@ -92,7 +96,8 @@
           "VAIDIKA": "vaidika",
           "VALENCIA": "valenciansk",
           "VALLADER": "vallader",
-          "WADEGILE": "Wade-Giles"
+          "WADEGILE": "Wade-Giles",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

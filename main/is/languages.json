@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "is"
       },
@@ -32,7 +32,7 @@
           "ar": "arabíska",
           "ar-001": "stöðluð nútímaarabíska",
           "arc": "arameíska",
-          "arn": "arákaníska",
+          "arn": "mapuche",
           "arp": "arapahó",
           "arw": "aravakska",
           "as": "assamska",
@@ -155,6 +155,7 @@
           "fr": "franska",
           "fr-CA": "kanadísk franska",
           "fr-CH": "svissnesk franska",
+          "frc": "cajun-franska",
           "frm": "miðfranska",
           "fro": "fornfranska",
           "frr": "norðurfrísneska",
@@ -280,6 +281,7 @@
           "ln": "lingala",
           "lo": "laó",
           "lol": "mongó",
+          "lou": "kreólska (Louisiana)",
           "loz": "lozi",
           "lrc": "norðurlúrí",
           "lt": "litháíska",
@@ -503,7 +505,7 @@
           "vun": "vunjó",
           "wa": "vallónska",
           "wae": "valser",
-          "wal": "valamó",
+          "wal": "volayatta",
           "war": "varaí",
           "was": "vasjó",
           "wbp": "varlpiri",

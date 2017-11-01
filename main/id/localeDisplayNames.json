@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "id"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "Kalender Sipil Islam",
             "islamic-rgsa": "Kalender Islam (Arab Saudi, penglihatan)",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "Kalender Islam (Umm al-Qura)",
             "iso8601": "Kalender ISO-8601",
             "japanese": "Kalender Jepang",
             "persian": "Kalender Persia",
@@ -78,7 +78,7 @@
           },
           "collation": {
             "big5han": "Urutan Sortir Tionghoa Tradisional - Big5",
-            "compat": "compat",
+            "compat": "Aturan Pengurutan Sebelumnya, untuk kompatibilitas",
             "dictionary": "Urutan Sortir Kamus",
             "ducet": "Aturan Pengurutan Unicode Default",
             "emoji": "emoji",
@@ -153,6 +153,7 @@
             "finance": "Angka Finansial",
             "fullwide": "Angka Lebar Penuh",
             "geor": "Angka Georgia",
+            "gonm": "gonm",
             "grek": "Angka Yunani",
             "greklow": "Angka Yunani Huruf Kecil",
             "gujr": "Angka Gujarat",

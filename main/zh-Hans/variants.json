@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "zh",
         "script": "Hans"
@@ -17,16 +17,18 @@
           "1606NICT": "1606 年前中后期法文",
           "1694ACAD": "早期现代法文",
           "1959ACAD": "学术",
-          "ABL1943": "ABL1943",
+          "ABL1943": "1943年正写法构想",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "1997 版 ALA-LC 罗马字",
           "ALUKU": "阿鲁库方言",
-          "AO1990": "AO1990",
+          "AO1990": "1990年葡萄牙语正写法协议",
           "AREVELA": "东亚美尼亚文",
           "AREVMDA": "西亚美尼亚文",
+          "ASANTE": "ASANTE",
           "BAKU1926": "统一土耳其拉丁字母",
-          "BALANKA": "BALANKA",
+          "BALANKA": "阿尼语Balanka方言",
           "BARLA": "BARLA",
-          "BASICENG": "BASICENG",
+          "BASICENG": "基本英语",
           "BAUDDHA": "佛陀梵文",
           "BISCAYAN": "比斯开方言",
           "BISKE": "圣乔治/比拉方言",
@@ -43,6 +45,7 @@
           "FONXSAMP": "X-SAMPA 音标",
           "HEPBURN": "赫伯恩罗马字",
           "HOGNORSK": "高地挪威文",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "史诗梵文",
           "JAUER": "米施泰尔方言",
@@ -81,6 +84,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "Stolvizza/Solbica 方言",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "瑞士苏迈拉方言",
           "SURSILV": "瑞士苏瑟瓦方言",
           "SUTSILV": "瑞士苏希瓦方言",
@@ -92,7 +96,8 @@
           "VAIDIKA": "吠陀梵文",
           "VALENCIA": "瓦伦西亚文",
           "VALLADER": "瑞士瓦勒德方言",
-          "WADEGILE": "WG 威氏拼音法"
+          "WADEGILE": "WG 威氏拼音法",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

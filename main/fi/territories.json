@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13767 $",
+          "_cldrVersion": "32"
         },
         "language": "fi"
       },
@@ -39,6 +39,7 @@
           "151": "Itä-Eurooppa",
           "154": "Pohjois-Eurooppa",
           "155": "Länsi-Eurooppa",
+          "202": "202",
           "419": "Latinalainen Amerikka",
           "AC": "Ascension-saari",
           "AD": "Andorra",
@@ -100,8 +101,8 @@
           "CW": "Curaçao",
           "CX": "Joulusaari",
           "CY": "Kypros",
-          "CZ": "Tšekinmaa",
-          "CZ-alt-variant": "Tšekki",
+          "CZ": "Tšekki",
+          "CZ-alt-variant": "Tšekin tasavalta",
           "DE": "Saksa",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -118,7 +119,7 @@
           "ES": "Espanja",
           "ET": "Etiopia",
           "EU": "Euroopan unioni",
-          "EZ": "EZ",
+          "EZ": "euroalue",
           "FI": "Suomi",
           "FJ": "Fidži",
           "FK": "Falklandinsaaret",

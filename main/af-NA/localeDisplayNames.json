@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "af",
         "territory": "NA"
@@ -154,6 +154,7 @@
             "finance": "Finansiële syfers",
             "fullwide": "Vollewydte-syfers",
             "geor": "Georgiese syfers",
+            "gonm": "gonm",
             "grek": "Griekse syfers",
             "greklow": "Griekse kleinletter-syfers",
             "gujr": "Goedjarati-syfers",

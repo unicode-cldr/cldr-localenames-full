@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "kea"
       },
@@ -39,6 +39,7 @@
           "151": "Europa Oriental",
           "154": "Europa di Norti",
           "155": "Europa Osidental",
+          "202": "202",
           "419": "Merka Latinu",
           "AC": "Ilha di Asensãu",
           "AD": "Andora",

@@ -3,8 +3,8 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "nb"
       },
@@ -28,7 +28,7 @@
           "Blis": "blissymbol",
           "Bopo": "bopomofo",
           "Brah": "brahmi",
-          "Brai": "braille",
+          "Brai": "punktskrift",
           "Bugi": "buginesisk",
           "Buhd": "buhid",
           "Cakm": "chakma",
@@ -52,6 +52,7 @@
           "Geok": "georgisk khutsuri",
           "Geor": "georgisk",
           "Glag": "glagolittisk",
+          "Gonm": "Gonm",
           "Goth": "gotisk",
           "Gran": "gammeltamilsk",
           "Grek": "gresk",
@@ -115,7 +116,7 @@
           "Mroo": "mro",
           "Mtei": "meitei-mayek",
           "Mult": "multani",
-          "Mymr": "myanmar",
+          "Mymr": "burmesisk",
           "Narb": "gammelnordarabisk",
           "Nbat": "nabataeansk",
           "Newa": "Newa",
@@ -200,6 +201,7 @@
           "Sind": "khudawadi",
           "Sinh": "sinhala",
           "Sora": "sora sompeng",
+          "Soyo": "Soyo",
           "Sund": "sundanesisk",
           "Sylo": "syloti nagri",
           "Syrc": "syrisk",
@@ -217,7 +219,7 @@
           "Teng": "tengwar",
           "Tfng": "tifinagh",
           "Tglg": "tagalog",
-          "Thaa": "thaana",
+          "Thaa": "taana",
           "Thai": "thai",
           "Tibt": "tibetansk",
           "Tirh": "tirhuta",
@@ -229,9 +231,10 @@
           "Xpeo": "gammelpersisk",
           "Xsux": "sumersk-akkadisk kileskrift",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "nedarvet",
           "Zmth": "matematisk notasjon",
-          "Zsye": "zsye",
+          "Zsye": "emoji",
           "Zsym": "symboler",
           "Zxxx": "språk uten skrift",
           "Zyyy": "felles",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sv",
         "territory": "AX"
@@ -40,6 +40,7 @@
           "151": "Östeuropa",
           "154": "Nordeuropa",
           "155": "Västeuropa",
+          "202": "202",
           "419": "Latinamerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -119,7 +120,7 @@
           "ES": "Spanien",
           "ET": "Etiopien",
           "EU": "Europeiska unionen",
-          "EZ": "EZ",
+          "EZ": "eurozonen",
           "FI": "Finland",
           "FJ": "Fiji",
           "FK": "Falklandsöarna",
@@ -147,7 +148,7 @@
           "GU": "Guam",
           "GW": "Guinea-Bissau",
           "GY": "Guyana",
-          "HK": "Hongkong, S.A.R. Kina",
+          "HK": "Hongkong",
           "HK-alt-short": "Hongkong",
           "HM": "Heardön och McDonaldöarna",
           "HN": "Honduras",
@@ -203,7 +204,7 @@
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongoliet",
-          "MO": "Macao, S.A.R. Kina",
+          "MO": "Macao",
           "MO-alt-short": "Macao",
           "MP": "Nordmarianerna",
           "MQ": "Martinique",

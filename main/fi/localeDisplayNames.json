@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13767 $",
+          "_cldrVersion": "32"
         },
         "language": "fi"
       },
@@ -153,6 +153,7 @@
             "finance": "talousnumerot",
             "fullwide": "ideografin levyiset numerot",
             "geor": "georgialaiset numerot",
+            "gonm": "gonm",
             "grek": "kreikkalaiset numerot",
             "greklow": "kreikkalaiset piennumerot",
             "gujr": "gudžaratilaiset numerot",

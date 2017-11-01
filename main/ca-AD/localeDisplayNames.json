@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ca",
         "territory": "AD"
@@ -46,11 +46,11 @@
             "gregorian": "calendari gregorià",
             "hebrew": "calendari hebreu",
             "indian": "calendari hindú",
-            "islamic": "calendari musulmà",
+            "islamic": "calendari islàmic",
             "islamic-civil": "calendari civil islàmic",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "calendari islàmic (Umm al-Qura)",
             "iso8601": "calendari ISO-8601",
             "japanese": "calendari japonès",
             "persian": "calendari persa",
@@ -79,7 +79,7 @@
           },
           "collation": {
             "big5han": "ordre del xinès tradicional - Big5",
-            "compat": "compat",
+            "compat": "ordenació anterior, per a compatibilitat",
             "dictionary": "ordenació de diccionari",
             "ducet": "ordenació Unicode predeterminada",
             "emoji": "emoji",
@@ -113,8 +113,8 @@
             "tertiary": "Ordena per accent/majúscules/amplada"
           },
           "d0": {
-            "fwidth": "Amplada completa",
-            "hwidth": "Amplada mitjana",
+            "fwidth": "amplada completa",
+            "hwidth": "amplada mitjana",
             "npinyin": "Numèric"
           },
           "hc": {
@@ -154,6 +154,7 @@
             "finance": "Numerals financers",
             "fullwide": "dígits d’amplada completa",
             "geor": "nombres georgians",
+            "gonm": "gonm",
             "grek": "nombres grecs",
             "greklow": "nombres grecs en minúscula",
             "gujr": "dígits gujarati",

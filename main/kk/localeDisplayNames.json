@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "kk"
       },
@@ -100,6 +100,7 @@
             "ethi": "Эфиопия сандары",
             "fullwide": "Сандардың толық пішімі",
             "geor": "Грузин сандары",
+            "gonm": "gonm",
             "grek": "Грек сандары",
             "greklow": "Кіші әріппен берілген грек сандары",
             "gujr": "Гуджарати сандары",

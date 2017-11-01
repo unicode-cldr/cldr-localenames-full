@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "sl"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "zgodnja sodobna francoščina",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "vzhodna armenščina",
           "AREVMDA": "zahodna armenščina",
+          "ASANTE": "ASANTE",
           "BAKU1926": "modernizirana turška latinica",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "rezijansko narečje iz Solbice (Stolvizza)",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "valencijski pravopis",
           "VALLADER": "VALLADER",
-          "WADEGILE": "romanizacija Wade-Giles"
+          "WADEGILE": "romanizacija Wade-Giles",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

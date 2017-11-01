@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "az",
         "script": "Latn"
@@ -40,6 +40,7 @@
           "151": "Şərqi Avropa",
           "154": "Şimali Avropa",
           "155": "Qərbi Avropa",
+          "202": "202",
           "419": "Latın Amerikası",
           "AC": "Askenson adası",
           "AD": "Andorra",
@@ -119,7 +120,7 @@
           "ES": "İspaniya",
           "ET": "Efiopiya",
           "EU": "Avropa Birliyi",
-          "EZ": "EZ",
+          "EZ": "Avrozona",
           "FI": "Finlandiya",
           "FJ": "Fici",
           "FK": "Folklend adaları",

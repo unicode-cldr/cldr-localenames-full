@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ro"
       },
@@ -49,6 +49,7 @@
           "Geok": "georgiană bisericească",
           "Geor": "georgiană",
           "Glag": "glagolitică",
+          "Gonm": "Gonm",
           "Goth": "gotică",
           "Gran": "Gran",
           "Grek": "greacă",
@@ -67,7 +68,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
-          "Hrkt": "katakana sau hiragana",
+          "Hrkt": "silabică japoneză",
           "Hung": "maghiară veche",
           "Inds": "indus",
           "Ital": "italică veche",
@@ -113,6 +114,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -140,6 +142,7 @@
           "Sind": "Sind",
           "Sinh": "singaleză",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "siriacă",
@@ -165,6 +168,7 @@
           "Xpeo": "persană veche",
           "Xsux": "cuneiformă sumero-akkadiană",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "moștenită",
           "Zmth": "notație matematică",
           "Zsye": "emoji",

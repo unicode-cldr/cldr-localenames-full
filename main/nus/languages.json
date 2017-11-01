@@ -3,8 +3,8 @@
     "nus": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "nus"
       },
@@ -117,6 +117,7 @@
           "fr": "Thok pɔrɔthani",
           "fr-CA": "Thok pɔrɔthani (Känɛda)",
           "fr-CH": "Thok pɔrɔthani (CH)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "fy",
           "ga": "ga",
@@ -212,6 +213,7 @@
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "lt",

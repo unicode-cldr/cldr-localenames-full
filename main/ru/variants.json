@@ -3,8 +3,8 @@
     "ru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13758 $",
+          "_cldrVersion": "32"
         },
         "language": "ru"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "1694ACAD",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "Восточно-армянский",
           "AREVMDA": "Западно-армянский",
+          "ASANTE": "ASANTE",
           "BAKU1926": "Унифицированный тюрско-латинский алфавит",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "SOLBA",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Валенсийский",
           "VALLADER": "VALLADER",
-          "WADEGILE": "Система Уэйда – Джайлза"
+          "WADEGILE": "Система Уэйда – Джайлза",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "pl"
       },
@@ -39,6 +39,7 @@
           "151": "Europa Wschodnia",
           "154": "Europa Północna",
           "155": "Europa Zachodnia",
+          "202": "202",
           "419": "Ameryka Łacińska",
           "AC": "Wyspa Wniebowstąpienia",
           "AD": "Andora",
@@ -49,7 +50,7 @@
           "AL": "Albania",
           "AM": "Armenia",
           "AO": "Angola",
-          "AQ": "Antarktyka",
+          "AQ": "Antarktyda",
           "AR": "Argentyna",
           "AS": "Samoa Amerykańskie",
           "AT": "Austria",
@@ -118,7 +119,7 @@
           "ES": "Hiszpania",
           "ET": "Etiopia",
           "EU": "Unia Europejska",
-          "EZ": "EZ",
+          "EZ": "strefa euro",
           "FI": "Finlandia",
           "FJ": "Fidżi",
           "FK": "Falklandy",
@@ -244,7 +245,7 @@
           "PW": "Palau",
           "PY": "Paragwaj",
           "QA": "Katar",
-          "QO": "Oceania inne",
+          "QO": "Oceania — wyspy dalekie",
           "RE": "Reunion",
           "RO": "Rumunia",
           "RS": "Serbia",

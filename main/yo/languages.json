@@ -3,8 +3,8 @@
     "yo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "yo"
       },
@@ -110,13 +110,14 @@
           "fa": "Èdè Pasia",
           "ff": "ff",
           "fi": "Èdè Finisi",
-          "fil": "Èdè Tagalogi",
+          "fil": "Èdè Filipino",
           "fj": "fj",
           "fo": "Èdè Faroesi",
           "fon": "fon",
           "fr": "Èdè Faransé",
           "fr-CA": "Èdè Faransé (Orílẹ́ède Kánádà)",
           "fr-CH": "Èdè Faransé (Orílẹ́ède switiṣilandi)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "Èdè Frisia",
           "ga": "Èdè Ireland",
@@ -213,6 +214,7 @@
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "Èdè Lithuania",

@@ -3,8 +3,8 @@
     "ar": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13286 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ar"
       },
@@ -78,7 +78,7 @@
           },
           "collation": {
             "big5han": "ترتيب فرز الصينية التقليدية (Big5)",
-            "compat": "compat",
+            "compat": "ترتيب الفرز السابق: للتوافق",
             "dictionary": "ترتيب فرز القاموس",
             "ducet": "ترتيب فرز Unicode الافتراضي",
             "emoji": "emoji",
@@ -153,6 +153,7 @@
             "finance": "الأرقام المالية",
             "fullwide": "أرقام كاملة العرض",
             "geor": "الأرقام الجورجية",
+            "gonm": "gonm",
             "grek": "الأرقام اليونانية",
             "greklow": "الأرقام اليونانية الصغيرة",
             "gujr": "الأرقام الغوجاراتية",

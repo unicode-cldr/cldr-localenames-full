@@ -3,8 +3,8 @@
     "se-FI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "se",
         "territory": "FI"
@@ -119,6 +119,7 @@
           "fr": "fránskkagiella",
           "fr-CA": "kanádalaš fránskkagiella",
           "fr-CH": "šveicalaš fránskkagiella",
+          "frc": "frc",
           "fur": "fur",
           "fy": "oarjifriisagiella",
           "ga": "iirragiella",
@@ -214,6 +215,7 @@
           "lkt": "lkt",
           "ln": "ln",
           "lo": "laogiella",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "liettuvagiella",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ee",
         "territory": "TG"
@@ -101,6 +101,7 @@
             "ethi": "ethiopia numeralwo",
             "fullwide": "digit kekeme blibotɔwo",
             "geor": "georgiatɔwo ƒe numeralwo",
+            "gonm": "gonm",
             "grek": "greecetɔwo ƒe nemeralwo",
             "greklow": "greecetɔwo ƒe numeral suetɔwo",
             "gujr": "gujarati digitwo",

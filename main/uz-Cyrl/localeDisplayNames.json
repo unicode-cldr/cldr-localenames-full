@@ -3,8 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -101,6 +101,7 @@
             "ethi": "Ҳабаш сонлари",
             "fullwide": "Тўлиқ кенгликдаги рақамлар",
             "geor": "Грузин сонлари",
+            "gonm": "gonm",
             "grek": "Грек сонлари",
             "greklow": "Грек кичик сонлари",
             "gujr": "Гужарати рақамлари",

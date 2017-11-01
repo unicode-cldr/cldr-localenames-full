@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "bn"
       },
@@ -51,6 +51,7 @@
           "Geok": "জর্জিয় খুৎসুরি",
           "Geor": "জর্জিয়ান",
           "Glag": "গ্লাগোলিটিক",
+          "Gonm": "Gonm",
           "Goth": "গোথিক",
           "Gran": "Gran",
           "Grek": "গ্রিক",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "এনকো",
+          "Nshu": "Nshu",
           "Ogam": "ওঘাম",
           "Olck": "ওল চিকি",
           "Orkh": "অর্খোন",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "সিংহলি",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "সান্দানিজ",
           "Sylo": "সিলেটি নাগরি",
           "Syrc": "সিরিয়াক",
@@ -174,8 +177,9 @@
           "Xpeo": "প্রাচীন ফার্সি",
           "Xsux": "সুমের-আক্কাদীয় কীলকরূপ",
           "Yiii": "উই",
+          "Zanb": "Zanb",
           "Zinh": "কাই",
-          "Zmth": "গানিতিক চিহ্ন",
+          "Zmth": "গাণিতিক চিহ্ন",
           "Zsye": "ইমোজি",
           "Zsym": "প্রতিকগুলি",
           "Zxxx": "অলিখিত",

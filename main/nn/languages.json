@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "nn"
       },
@@ -153,6 +153,7 @@
           "fr": "fransk",
           "fr-CA": "fransk (Canada)",
           "fr-CH": "fransk (Sveits)",
+          "frc": "frc",
           "frm": "mellomfransk",
           "fro": "gammalfransk",
           "frr": "nordfrisisk",
@@ -212,7 +213,7 @@
           "io": "ido",
           "is": "islandsk",
           "it": "italiensk",
-          "iu": "inuittisk",
+          "iu": "inuktitut",
           "ja": "japansk",
           "jbo": "lojban",
           "jgo": "ngomba",
@@ -276,6 +277,7 @@
           "ln": "lingala",
           "lo": "laotisk",
           "lol": "mongo",
+          "lou": "lou",
           "loz": "lozi",
           "lrc": "nord-lurisk",
           "lt": "litauisk",

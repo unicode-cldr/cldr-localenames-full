@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hr"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "islamski civilni kalendar",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "islamski kalendar (Umm al-Qura)",
             "iso8601": "ISO-8601 kalendar",
             "japanese": "japanski kalendar",
             "persian": "perzijski kalendar",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "razvrstavanje prema tradicionalnom kineskom - Big5",
-            "compat": "compat",
+            "compat": "Prethodni redoslijed razvrstavanja, radi kompatibilnosti",
             "dictionary": "rječničko razvrstavanje",
             "ducet": "Standardno Unicode razvrstavanje",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "Europska pravila razvrstavanja",
             "gb2312han": "razvrstavanje prema pojednostavljenom kineskom - GB2312",
             "phonebook": "razvrstavanje po abecedi",
             "phonetic": "Fonetski poredak",
@@ -90,7 +90,7 @@
             "reformed": "reformirano razvrstavanje",
             "search": "Općenito pretraživanje",
             "searchjl": "Pretraživanje po početnom suglasniku hangula",
-            "standard": "standardno razvrstavanje",
+            "standard": "Standardno razvrstavanje",
             "stroke": "razvrstavanje po redoslijedu poteza za kineski",
             "traditional": "tradicionalno razvrstavanje",
             "unihan": "razvrstavanje prema korijenu i potezu",
@@ -128,8 +128,8 @@
             "strict": "strogi stil prijeloma retka"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliteracija prema BGN-u",
+            "ungegn": "transliteracija prema UNGEGN-u"
           },
           "ms": {
             "metric": "metrički sustav",
@@ -153,6 +153,7 @@
             "finance": "Financijski brojevi",
             "fullwide": "široke znamenke",
             "geor": "gruzijski brojevi",
+            "gonm": "gonm",
             "grek": "grčki brojevi",
             "greklow": "mali grčki brojevi",
             "gujr": "gudžaratske znamenke",

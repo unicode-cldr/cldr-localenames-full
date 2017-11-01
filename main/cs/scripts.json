@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "cs"
       },
@@ -41,7 +41,7 @@
           "Cprt": "kyperské",
           "Cyrl": "cyrilice",
           "Cyrs": "cyrilce - staroslověnská",
-          "Deva": "dévanágárí",
+          "Deva": "dévanágarí",
           "Dsrt": "deseret",
           "Dupl": "Duployého těsnopis",
           "Egyd": "egyptské démotické",
@@ -52,6 +52,7 @@
           "Geok": "gruzínské chutsuri",
           "Geor": "gruzínské",
           "Glag": "hlaholice",
+          "Gonm": "Gonm",
           "Goth": "gotické",
           "Gran": "grantha",
           "Grek": "řecké",
@@ -111,7 +112,7 @@
           "Mlym": "malajlámské",
           "Modi": "modí",
           "Mong": "mongolské",
-          "Moon": "Moonovo",
+          "Moon": "Moonovo písmo",
           "Mroo": "mro",
           "Mtei": "mejtej majek (manipurské)",
           "Mult": "Mult",
@@ -152,6 +153,7 @@
           "Sind": "chudábádí",
           "Sinh": "sinhálské",
           "Sora": "sora sompeng",
+          "Soyo": "Soyo",
           "Sund": "sundské",
           "Sylo": "sylhetské",
           "Syrc": "syrské",
@@ -181,6 +183,7 @@
           "Xpeo": "staroperské klínové písmo",
           "Xsux": "sumero-akkadské klínové písmo",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "matematický zápis",
           "Zsye": "emodži",

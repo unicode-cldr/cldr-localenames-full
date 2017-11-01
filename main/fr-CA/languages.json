@@ -3,8 +3,8 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "fr",
         "territory": "CA"
@@ -36,7 +36,7 @@
           "ar": "arabe",
           "ar-001": "arabe standard moderne",
           "arc": "araméen",
-          "arn": "araukan",
+          "arn": "mapuche",
           "aro": "araona",
           "arp": "arapaho",
           "arq": "arabe algérien",
@@ -245,7 +245,7 @@
           "id": "indonésien",
           "ie": "interlingue",
           "ig": "igbo",
-          "ii": "yi du Sichuan",
+          "ii": "yi de Sichuan",
           "ik": "inupiaq",
           "ilo": "ilocano",
           "inh": "ingouche",
@@ -285,7 +285,7 @@
           "khw": "khowar",
           "ki": "kikuyu",
           "kiu": "kirmanjki",
-          "kj": "kouanyama",
+          "kj": "kuanyama",
           "kk": "kazakh",
           "kkj": "kako",
           "kl": "kalaallisut",
@@ -331,6 +331,7 @@
           "ln": "lingala",
           "lo": "lao",
           "lol": "mongo",
+          "lou": "créole louisianais",
           "loz": "lozi",
           "lrc": "lori du Nord",
           "lt": "lituanien",
@@ -382,7 +383,7 @@
           "mus": "creek",
           "mwl": "mirandais",
           "mwr": "marwari",
-          "mwv": "mentawaï",
+          "mwv": "mentawai",
           "my": "birman",
           "mye": "myènè",
           "myv": "erzya",
@@ -575,7 +576,7 @@
           "tw": "twi",
           "twq": "tasawaq",
           "ty": "tahitien",
-          "tyv": "touva",
+          "tyv": "touvain",
           "tzm": "tamazight",
           "udm": "oudmourte",
           "ug": "ouïghour",

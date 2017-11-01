@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "et"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "varajane moodne prantsuse",
           "1959ACAD": "akadeemiline",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALA-LC latinisatsioon (1997)",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "idaarmeenia",
           "AREVMDA": "läänearmeenia",
+          "ASANTE": "ASANTE",
           "BAKU1926": "ühtlustatud türgi-ladina tähestik",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "Hepburni latinisatsioon",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "štokavi ije-line murrak",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "Stolvizza/Solbica murre",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "valentsia",
           "VALLADER": "VALLADER",
-          "WADEGILE": "Wade’i-Gilesi latinisatsioon"
+          "WADEGILE": "Wade’i-Gilesi latinisatsioon",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

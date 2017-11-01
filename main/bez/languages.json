@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "bez"
       },
@@ -117,6 +117,7 @@
           "fr": "Hifaransa",
           "fr-CA": "Hifaransa (Hukanada)",
           "fr-CH": "Hifaransa (Huuswisi)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "fy",
           "ga": "ga",
@@ -212,6 +213,7 @@
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "lt",

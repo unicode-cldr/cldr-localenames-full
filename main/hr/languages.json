@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hr"
       },
@@ -161,6 +161,7 @@
           "fr": "francuski",
           "fr-CA": "kanadski francuski",
           "fr-CH": "švicarski francuski",
+          "frc": "kajunski francuski",
           "frm": "srednjofrancuski",
           "fro": "starofrancuski",
           "frr": "sjevernofrizijski",
@@ -214,7 +215,7 @@
           "id": "indonezijski",
           "ie": "interligua",
           "ig": "igbo",
-          "ii": "sichuan yi",
+          "ii": "sichuan ji",
           "ik": "inupiaq",
           "ilo": "iloko",
           "inh": "ingušetski",
@@ -287,6 +288,7 @@
           "ln": "lingala",
           "lo": "laoski",
           "lol": "mongo",
+          "lou": "lujzijanski kreolski",
           "loz": "lozi",
           "lrc": "sjevernolurski",
           "lt": "litavski",

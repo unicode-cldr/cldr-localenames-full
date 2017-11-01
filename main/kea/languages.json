@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "kea"
       },
@@ -117,6 +117,7 @@
           "fr": "franses",
           "fr-CA": "franses kanadianu",
           "fr-CH": "franses suisu",
+          "frc": "frc",
           "fur": "fur",
           "fy": "fríziu osidental",
           "ga": "irlandes",
@@ -214,6 +215,7 @@
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lausianu",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "lituanes",

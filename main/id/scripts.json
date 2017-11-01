@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "id"
       },
@@ -52,6 +52,7 @@
           "Geok": "Georgian Khutsuri",
           "Geor": "Georgia",
           "Glag": "Glagolitic",
+          "Gonm": "Gonm",
           "Goth": "Gothic",
           "Gran": "Grantha",
           "Grek": "Yunani",
@@ -152,6 +153,7 @@
           "Sind": "Khudawadi",
           "Sinh": "Sinhala",
           "Sora": "Sora Sompeng",
+          "Soyo": "Soyo",
           "Sund": "Sunda",
           "Sylo": "Syloti Nagri",
           "Syrc": "Suriah",
@@ -181,6 +183,7 @@
           "Xpeo": "Persia Kuno",
           "Xsux": "Cuneiform Sumero-Akkadia",
           "Yiii": "Yi",
+          "Zanb": "Zanb",
           "Zinh": "Warisan",
           "Zmth": "Notasi Matematika",
           "Zsye": "Emoji",

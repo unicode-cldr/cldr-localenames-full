@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "hi"
       },
@@ -16,7 +16,7 @@
         },
         "keys": {
           "calendar": "कैलेंडर",
-          "cf": "cf",
+          "cf": "मुद्रा प्रारूप",
           "colAlternate": "चिह्न वर्गीकरण पर ध्यान न दें",
           "colBackwards": "विपरीत उच्‍चारण वर्गीकरण",
           "colCaseFirst": "अपरकेस/लोअरकेस क्रमांकन",
@@ -49,15 +49,15 @@
             "islamic-civil": "इस्लामी नागरिक पंचांग",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "इस्लामी कैलेंडर (उम्म अल-क़ुरा)",
             "iso8601": "आईएसओ-8601 कैलेंडर",
             "japanese": "जापानी पंचांग",
             "persian": "फ़ारसी कैलेंडर",
             "roc": "चीनी गणतंत्र पंचांग"
           },
           "cf": {
-            "account": "account",
-            "standard": "standard"
+            "account": "लेखांकन मुद्रा प्रारूप",
+            "standard": "मानक मुद्रा प्रारूप"
           },
           "colAlternate": {
             "non-ignorable": "प्रतीकों को क्रमित करें",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "पारम्पारिक चीनी वर्गीकरण",
-            "compat": "compat",
+            "compat": "संगतता के लिए पिछला क्रमण",
             "dictionary": "शब्दकोश क्रम विन्यास",
             "ducet": "डिफ़ॉल्ट यूनिकोड सॉर्ट क्रम",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "यूरोपीय क्रमण नियम",
             "gb2312han": "सरलीकृत चीनी वर्गीकरण",
             "phonebook": "दूरभाष निर्देशिका वर्गीकरण",
             "phonetic": "ध्‍वन्यात्मक क्रमित करने का क्रम",
@@ -128,11 +128,11 @@
             "strict": "सख्त पंक्ति विच्छेद शैली"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "BGN लिप्यंतरण",
+            "ungegn": "UNGEGN लिप्यंतरण"
           },
           "ms": {
-            "metric": "मीट्रिक",
+            "metric": "मेट्रिक प्रणाली",
             "uksystem": "इम्पीरियल मापन प्रणाली",
             "ussystem": "अमेरिकी मापन प्रणाली"
           },
@@ -149,10 +149,11 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "देवनागरी अंक",
-            "ethi": "इथियोपिक संख्याएँ",
+            "ethi": "इथियोपियाई संख्याएँ",
             "finance": "वित्तीय अंक",
             "fullwide": "पूर्ण चौड़ाई अंक",
             "geor": "जॉर्जियन संख्याएँ",
+            "gonm": "gonm",
             "grek": "यूनानी संख्याएँ",
             "greklow": "यूनानी लोअरकेस संख्याएँ",
             "gujr": "गुजराती अंक",

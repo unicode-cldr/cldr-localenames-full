@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "am"
       },
@@ -153,6 +153,7 @@
             "finance": "የፋይናንስ ቁጥሮች",
             "fullwide": "የሙሉ ወርድ አሃዞች",
             "geor": "የጆርጂያን ቁጥሮች",
+            "gonm": "gonm",
             "grek": "የግሪክ ቁጥሮች",
             "greklow": "የግሪክ ንዑስ ሆሄ ቁጥሮች",
             "gujr": "የጉጃራቲ አሃዞች",

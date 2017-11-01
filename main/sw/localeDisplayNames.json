@@ -3,8 +3,8 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13373 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13734 $",
+          "_cldrVersion": "32"
         },
         "language": "sw"
       },
@@ -27,7 +27,7 @@
           "colStrength": "Nguvu ya Upangaji",
           "currency": "Sarafu",
           "hc": "Kipindi cha saa (12 au 24)",
-          "lb": "lb",
+          "lb": "Mtindo wa Kukata Mstari",
           "ms": "Mfumo wa Vipimo",
           "numbers": "Nambari",
           "timezone": "Ukanda Saa",
@@ -123,17 +123,17 @@
             "h24": "Kipindi cha saa 24 (1–24)"
           },
           "lb": {
-            "loose": "loose",
-            "normal": "normal",
-            "strict": "strict"
+            "loose": "Mtindo Pana wa Kukata Mstari",
+            "normal": "Mtindo wa Kawaida wa Kukata Mstari",
+            "strict": "Mtindo Finyu wa Kukata Mstari"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "Mtindo wa kunukuu wa US BGN",
+            "ungegn": "Mtindo wa kunukuu wa UN GEGN"
           },
           "ms": {
             "metric": "Mfumo wa Metriki",
-            "uksystem": "mfumo wa UK",
+            "uksystem": "Mfumo wa UK",
             "ussystem": "Mfumo wa US"
           },
           "numbers": {
@@ -152,7 +152,8 @@
             "ethi": "Nambari za Kiethiopia",
             "finance": "Tarakimu za Kifedha",
             "fullwide": "Nambari za Upana Kamili",
-            "geor": "Nambari za Kijojia",
+            "geor": "Nambari za Kigeorgia",
+            "gonm": "gonm",
             "grek": "Nambari za Kigiriki",
             "greklow": "Nambari Ndogo za Kigiriki",
             "gujr": "Nambari za Kigujarati",

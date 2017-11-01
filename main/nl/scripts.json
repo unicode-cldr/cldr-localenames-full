@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "nl"
       },
@@ -52,6 +52,7 @@
           "Geok": "Georgisch Khutsuri",
           "Geor": "Georgisch",
           "Glag": "Glagolitisch",
+          "Gonm": "Masaram Gondi",
           "Goth": "Gothisch",
           "Gran": "Grantha",
           "Grek": "Grieks",
@@ -200,6 +201,7 @@
           "Sind": "Sindhi",
           "Sinh": "Singalees",
           "Sora": "Sora Sompeng",
+          "Soyo": "Soyombo",
           "Sund": "Soendanees",
           "Sylo": "Syloti Nagri",
           "Syrc": "Syriac",
@@ -229,6 +231,7 @@
           "Xpeo": "Oudperzisch",
           "Xsux": "Sumero-Akkadian Cuneiform",
           "Yiii": "Yi",
+          "Zanb": "vierkant Zanabazar",
           "Zinh": "Overgeërfd",
           "Zmth": "Wiskundige notatie",
           "Zsye": "emoji",

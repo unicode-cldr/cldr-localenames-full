@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "et"
       },
@@ -39,6 +39,7 @@
           "151": "Ida-Euroopa",
           "154": "Põhja-Euroopa",
           "155": "Lääne-Euroopa",
+          "202": "202",
           "419": "Ladina-Ameerika",
           "AC": "Ascensioni saar",
           "AD": "Andorra",
@@ -66,7 +67,7 @@
           "BH": "Bahrein",
           "BI": "Burundi",
           "BJ": "Benin",
-          "BL": "Saint Barthélemy",
+          "BL": "Saint-Barthélemy",
           "BM": "Bermuda",
           "BN": "Brunei",
           "BO": "Boliivia",
@@ -100,8 +101,8 @@
           "CW": "Curaçao",
           "CX": "Jõulusaar",
           "CY": "Küpros",
-          "CZ": "Tšehhia",
-          "CZ-alt-variant": "Tšehhi",
+          "CZ": "Tšehhi",
+          "CZ-alt-variant": "Tšehhia",
           "DE": "Saksamaa",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -118,7 +119,7 @@
           "ES": "Hispaania",
           "ET": "Etioopia",
           "EU": "Euroopa Liit",
-          "EZ": "EZ",
+          "EZ": "euroala",
           "FI": "Soome",
           "FJ": "Fidži",
           "FK": "Falklandi saared",
@@ -235,7 +236,7 @@
           "PH": "Filipiinid",
           "PK": "Pakistan",
           "PL": "Poola",
-          "PM": "Saint Pierre ja Miquelon",
+          "PM": "Saint-Pierre ja Miquelon",
           "PN": "Pitcairni saared",
           "PR": "Puerto Rico",
           "PS": "Palestiina alad",

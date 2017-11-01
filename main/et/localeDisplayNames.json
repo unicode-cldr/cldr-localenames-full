@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "et"
       },
@@ -47,9 +47,9 @@
             "indian": "India rahvuslik kalender",
             "islamic": "islamikalender",
             "islamic-civil": "islami ilmalik kalender",
-            "islamic-rgsa": "islamic-rgsa",
-            "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-rgsa": "islamikalender (Saudi Araabia, vaatluspõhine)",
+            "islamic-tbla": "islamikalender (tabulaarne, astronoomiline ajastu)",
+            "islamic-umalqura": "islamikalender (Umm al-Qura)",
             "iso8601": "ISO-8601 kalender",
             "japanese": "Jaapani kalender",
             "persian": "Pärsia kalender",
@@ -112,8 +112,8 @@
             "tertiary": "järjesta diakriitikud, algustähed ja laius"
           },
           "d0": {
-            "fwidth": "Täislaius",
-            "hwidth": "Poolaius",
+            "fwidth": "täislaius",
+            "hwidth": "poollaius",
             "npinyin": "Numbriline"
           },
           "hc": {
@@ -128,8 +128,8 @@
             "strict": "jäik reavahetuse laad"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transkriptsioon (BGN)",
+            "ungegn": "transkriptsioon (UNGEGN)"
           },
           "ms": {
             "metric": "meetermõõdustik",
@@ -137,7 +137,7 @@
             "ussystem": "USA mõõdustik"
           },
           "numbers": {
-            "ahom": "ahom",
+            "ahom": "ahomi numbrid",
             "arab": "idaaraabia numbrid",
             "arabext": "laiendatud idaaraabia numbrid",
             "armn": "armeenia numbrid",
@@ -147,12 +147,13 @@
             "brah": "braahmi numbrid",
             "cakm": "tšaakma numbrid",
             "cham": "tšaami numbrid",
-            "cyrl": "cyrl",
+            "cyrl": "kirillitsa numbrid",
             "deva": "devanaagari numbrid",
             "ethi": "etioopia numbrid",
             "finance": "finantsnumbrid",
             "fullwide": "täislaiusega numbrid",
             "geor": "gruusia numbrid",
+            "gonm": "masaram gondi numbrid",
             "grek": "kreeka numbrid",
             "greklow": "väiketähelised kreeka numbrid",
             "gujr": "gudžarati numbrid",
@@ -163,15 +164,15 @@
             "hant": "traditsioonilise hiina keele numbrid",
             "hantfin": "traditsioonilise hiina keele finantsnumbrid",
             "hebr": "heebrea numbrid",
-            "hmng": "hmng",
+            "hmng": "phahau-hmongi numbrid",
             "java": "jaava numbrid",
             "jpan": "jaapani numbrid",
             "jpanfin": "jaapani finantsnumbrid",
             "kali": "kaja-lii numbrid",
             "khmr": "khmeeri numbrid",
             "knda": "kannada numbrid",
-            "lana": "lana",
-            "lanatham": "lanatham",
+            "lana": "tai tham hora numbrid",
+            "lanatham": "tai tham tham numbrid",
             "laoo": "lao numbrid",
             "latn": "araabia numbrid",
             "lepc": "leptša numbrid",
@@ -182,13 +183,13 @@
             "mathsanb": "mathsanb",
             "mathsans": "mathsans",
             "mlym": "malajalami numbrid",
-            "modi": "modi",
+            "modi": "modi numbrid",
             "mong": "mongoli numbrid",
-            "mroo": "mroo",
+            "mroo": "mruu numbrid",
             "mtei": "meitei numbrid",
             "mymr": "birma numbrid",
-            "mymrshan": "mymrshan",
-            "mymrtlng": "mymrtlng",
+            "mymrshan": "myanmari shan numbrid",
+            "mymrtlng": "myanmari tai laing numbrid",
             "native": "kohalikud numbrid",
             "nkoo": "nkoo numbrid",
             "olck": "santali numbrid",
@@ -198,8 +199,8 @@
             "romanlow": "väiketähelised Rooma numbrid",
             "saur": "sauraštra numbrid",
             "shrd": "šaarada numbrid",
-            "sind": "sind",
-            "sinh": "sinh",
+            "sind": "hudavadi numbrid",
+            "sinh": "sinhala lithi numbrid",
             "sora": "sora numbrid",
             "sund": "sunda numbrid",
             "takr": "taakri numbrid",
@@ -209,10 +210,10 @@
             "telu": "telugu numbrid",
             "thai": "tai numbrid",
             "tibt": "tiibeti numbrid",
-            "tirh": "tirh",
+            "tirh": "tirhuta numbrid",
             "traditional": "traditsioonilised numbrid",
             "vaii": "vai numbrid",
-            "wara": "wara"
+            "wara": "hoo numbrid"
           }
         },
         "codePatterns": {

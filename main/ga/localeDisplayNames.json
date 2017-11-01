@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ga"
       },
@@ -50,21 +50,21 @@
             "standard": "Formáid Airgeadra Caighdeánach"
           },
           "collation": {
-            "big5han": "big5han",
+            "big5han": "Ord sórtála Síneach traidisiúnta - Big5",
             "compat": "compat",
             "dictionary": "dictionary",
             "ducet": "Ord Sórtála Réamhshocraithe Unicode",
             "emoji": "emoji",
             "eor": "eor",
-            "gb2312han": "gb2312han",
-            "phonebook": "phonebook",
-            "pinyin": "pinyin",
+            "gb2312han": "Ord sórtála Síneach simplithe - GB 2312",
+            "phonebook": "Ord sórtála an eolaire teileafóin",
+            "pinyin": "Ord sórtála pinyin",
             "reformed": "reformed",
             "search": "Cuardach Ilfhóinteach",
             "searchjl": "searchjl",
             "standard": "Ord Sórtála Caighdeánach",
-            "stroke": "stroke",
-            "traditional": "traditional",
+            "stroke": "Ord sórtála stríce",
+            "traditional": "Ord sórtála traidisiúnta",
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
@@ -100,6 +100,7 @@
             "ethi": "Uimhreacha Aetóipice",
             "fullwide": "Digití Lánleithid",
             "geor": "Uimhreacha Seoirseacha",
+            "gonm": "gonm",
             "grek": "Uimhreacha Gréagacha",
             "greklow": "Uimhreacha Cás Íochtair Gréagacha",
             "gujr": "Digití Gúisearátacha",

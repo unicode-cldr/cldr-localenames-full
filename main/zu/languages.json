@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "zu"
       },
@@ -119,6 +119,7 @@
           "fr": "isi-French",
           "fr-CA": "i-Canadian French",
           "fr-CH": "i-Swiss French",
+          "frc": "frc",
           "fur": "isi-Friulian",
           "fy": "isi-Western Frisian",
           "ga": "isi-Irish",
@@ -218,6 +219,7 @@
           "lkt": "isi-Lakota",
           "ln": "isi-Lingala",
           "lo": "i-Lao",
+          "lou": "lou",
           "loz": "isi-Lozi",
           "lrc": "isi-Northern Luri",
           "lt": "isi-Lithuanian",

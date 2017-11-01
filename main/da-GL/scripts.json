@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "da",
         "territory": "GL"
@@ -29,7 +29,7 @@
           "Blis": "blissymboler",
           "Bopo": "bopomofo",
           "Brah": "bramisk",
-          "Brai": "brailleskrift",
+          "Brai": "punktskrift",
           "Bugi": "buginesisk",
           "Buhd": "buhid",
           "Cakm": "cakm",
@@ -53,6 +53,7 @@
           "Geok": "georgisk kutsuri",
           "Geor": "georgisk",
           "Glag": "glagolitisk",
+          "Gonm": "Gonm",
           "Goth": "gotisk",
           "Gran": "grantha",
           "Grek": "græsk",
@@ -153,6 +154,7 @@
           "Sind": "khudawadi",
           "Sinh": "singalesisk",
           "Sora": "sora",
+          "Soyo": "Soyo",
           "Sund": "sundanesisk",
           "Sylo": "syloti nagri",
           "Syrc": "syrisk",
@@ -182,6 +184,7 @@
           "Xpeo": "oldpersisk",
           "Xsux": "sumero-akkadisk cuneiform",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "arvet",
           "Zmth": "matematisk notation",
           "Zsye": "emoji",

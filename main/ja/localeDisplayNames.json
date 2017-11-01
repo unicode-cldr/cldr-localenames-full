@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ja"
       },
@@ -78,7 +78,7 @@
           },
           "collation": {
             "big5han": "繁体字中国語順(Big5)",
-            "compat": "compat",
+            "compat": "以前の順序（互換性）",
             "dictionary": "辞書順",
             "ducet": "ユニコード照合順",
             "emoji": "emoji",
@@ -153,6 +153,7 @@
             "finance": "財務用漢数字",
             "fullwide": "全角数字",
             "geor": "ジョージア数字",
+            "gonm": "gonm",
             "grek": "ギリシャ数字",
             "greklow": "ギリシャ数字(小文字)",
             "gujr": "グジャラート数字",

@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "br"
       },
@@ -39,6 +39,7 @@
           "151": "Europa ar Reter",
           "154": "Europa an Norzh",
           "155": "Europa ar Cʼhornôg",
+          "202": "202",
           "419": "Amerika Latin",
           "AC": "Enez Ascension",
           "AD": "Andorra",

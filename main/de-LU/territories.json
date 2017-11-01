@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "de",
         "territory": "LU"
@@ -40,6 +40,7 @@
           "151": "Osteuropa",
           "154": "Nordeuropa",
           "155": "Westeuropa",
+          "202": "202",
           "419": "Lateinamerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -119,7 +120,7 @@
           "ES": "Spanien",
           "ET": "Äthiopien",
           "EU": "Europäische Union",
-          "EZ": "EZ",
+          "EZ": "Eurozone",
           "FI": "Finnland",
           "FJ": "Fidschi",
           "FK": "Falklandinseln",
@@ -147,7 +148,7 @@
           "GU": "Guam",
           "GW": "Guinea-Bissau",
           "GY": "Guyana",
-          "HK": "Sonderverwaltungszone Hongkong",
+          "HK": "Sonderverwaltungsregion Hongkong",
           "HK-alt-short": "Hongkong",
           "HM": "Heard und McDonaldinseln",
           "HN": "Honduras",
@@ -259,7 +260,7 @@
           "SG": "Singapur",
           "SH": "St. Helena",
           "SI": "Slowenien",
-          "SJ": "Spitzbergen",
+          "SJ": "Spitzbergen und Jan Mayen",
           "SK": "Slowakei",
           "SL": "Sierra Leone",
           "SM": "San Marino",
@@ -280,8 +281,8 @@
           "TH": "Thailand",
           "TJ": "Tadschikistan",
           "TK": "Tokelau",
-          "TL": "Osttimor",
-          "TL-alt-variant": "TL",
+          "TL": "Timor-Leste",
+          "TL-alt-variant": "Osttimor",
           "TM": "Turkmenistan",
           "TN": "Tunesien",
           "TO": "Tonga",

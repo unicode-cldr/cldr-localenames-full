@@ -3,8 +3,8 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "ca"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "francès modern primerenc",
           "1959ACAD": "acadèmica",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "romanització ALA/LC, edició de 1997",
           "ALUKU": "dialecte aluku",
           "AO1990": "AO1990",
           "AREVELA": "armeni oriental",
           "AREVMDA": "armeni occidental",
+          "ASANTE": "ASANTE",
           "BAKU1926": "alfabet llatí turc unificat",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "sistema X-SAMPA",
           "HEPBURN": "romanització Hepburn",
           "HOGNORSK": "høgnorsk",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "itihasa",
           "JAUER": "jauer",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "dialecte de Stolvizza/Solbica",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "surmiran",
           "SURSILV": "sobreselvà",
           "SUTSILV": "sotaselvà",
@@ -91,7 +95,8 @@
           "VAIDIKA": "vèdic",
           "VALENCIA": "valencià",
           "VALLADER": "baix engiadinès",
-          "WADEGILE": "romanització Wade-Giles"
+          "WADEGILE": "romanització Wade-Giles",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

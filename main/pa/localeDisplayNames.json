@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "pa"
       },
@@ -28,18 +28,18 @@
           "calendar": {
             "buddhist": "ਬੋਧੀ ਕੈਲੰਡਰ",
             "chinese": "ਚੀਨੀ ਕੈਲੰਡਰ",
-            "coptic": "coptic",
+            "coptic": "ਕੋਪਟਿਕ ਕੈਲੰਡਰ",
             "dangi": "ਡਾਂਗੀ ਕੈਲੰਡਰ",
             "ethiopic": "ਇਥੀਓਪਿਕ ਕੈਲੰਡਰ",
-            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "ethiopic-amete-alem": "ਇਥੀਓਪਿਕ-ਅਮੀਟ-ਆਲਮ",
             "gregorian": "ਗਰੇਗੋਰੀਅਨ ਕੈਲੰਡਰ",
             "hebrew": "ਹਿਬਰੂ ਕੈਲੰਡਰ",
             "indian": "ਭਾਰਤੀ ਕੌਮੀ ਕੈਲੰਡਰ",
             "islamic": "ਇਸਲਾਮੀ ਕੈਲੰਡਰ",
-            "islamic-civil": "islamic-civil",
-            "islamic-rgsa": "islamic-rgsa",
-            "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-civil": "ਇਸਲਾਮੀ ਕੈਲੰਡਰ (ਸਾਰਨੀਬੱਧ, ਸਮਾਜਿਕ ਯੁੱਗ)",
+            "islamic-rgsa": "ਇਸਲਾਮੀ ਕੈਲੰਡਰ (ਸਾਊਦੀ ਅਰਬ, ਚੰਨ ਦਿਖਣਾ)",
+            "islamic-tbla": "ਇਸਲਾਮੀ ਕੈਲੰਡਰ (ਟੇਬਲਰ, ਖਗੋਲੀ ਯੁੱਗ)",
+            "islamic-umalqura": "ਇਸਲਾਮੀ ਕੈਲੰਡਰ (ਅਮ ਅਲ-ਕੁਰਾ)",
             "iso8601": "(ISO-8601) ਕੈਲੰਡਰ",
             "japanese": "ਜਪਾਨੀ ਕੈਲੰਡਰ",
             "persian": "ਫ਼ਾਰਸੀ ਕੈਲੰਡਰ",
@@ -51,7 +51,7 @@
           },
           "collation": {
             "big5han": "big5han",
-            "compat": "compat",
+            "compat": "ਪਿਛਲਾ ਤਰਤੀਬ ਵਾਰ ਕ੍ਰਮ, ਅਨੁਰੂਪਤਾ ਲਈ",
             "dictionary": "ਸ਼ਬਦ-ਕੋਸ਼ ਲੜੀਬੱਧ ਕ੍ਰਮ",
             "ducet": "ਮੂਲ ਯੂਨੀਕੋਡ ਲੜੀਬੱਧ ਕ੍ਰਮ",
             "emoji": "emoji",
@@ -100,6 +100,7 @@
             "ethi": "ਐਥਿਓਪਿਕ ਸੰਖਿਆਵਾਂ",
             "fullwide": "ਪੂਰਨ ਵਿਸਤਾਰ ਅੰਕ",
             "geor": "ਜਾਰਜੀਅਨ ਸੰਖਿਆਵਾਂ",
+            "gonm": "gonm",
             "grek": "ਯੂਨਾਨੀ ਸੰਖਿਆਵਾਂ",
             "greklow": "ਯੂਨਾਨੀ ਲੋਅਰਕੇਸ ਸੰਖਿਆਵਾਂ",
             "gujr": "ਗੁਜਰਾਤੀ ਅੰਕ",

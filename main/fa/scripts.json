@@ -3,8 +3,8 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "fa"
       },
@@ -49,6 +49,7 @@
           "Geok": "گرجی خوتسوری",
           "Geor": "گرجی",
           "Glag": "گلاگولیتی",
+          "Gonm": "Gonm",
           "Goth": "گوتی",
           "Gran": "Gran",
           "Grek": "یونانی",
@@ -114,6 +115,7 @@
           "Nbat": "نبطی",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "اوگامی",
           "Olck": "Olck",
           "Orkh": "اورخونی",
@@ -143,6 +145,7 @@
           "Sind": "Sind",
           "Sinh": "سینهالی",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "سیلوتی نگاری",
           "Syrc": "سریانی",
@@ -171,6 +174,7 @@
           "Xpeo": "فارسی باستان",
           "Xsux": "میخی سومری‐اکدی",
           "Yiii": "یی",
+          "Zanb": "Zanb",
           "Zinh": "موروثی",
           "Zmth": "علائم ریاضی",
           "Zsye": "اموجی",

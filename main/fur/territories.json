@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fur"
       },
@@ -39,6 +39,7 @@
           "151": "Europe orientâl",
           "154": "Europe setentrionâl",
           "155": "Europe ocidentâl",
+          "202": "202",
           "419": "Americhe latine",
           "AC": "AC",
           "AD": "Andorra",

@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13712 $",
+          "_cldrVersion": "32"
         },
         "language": "uk"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "1694ACAD",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "Східновірменський",
           "AREVMDA": "Західновірменський",
+          "ASANTE": "ASANTE",
           "BAKU1926": "Уніфікований турецький латинський алфавіт",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "Діалект Столвіца/Солбіка",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -91,7 +95,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Валенсійська",
           "VALLADER": "VALLADER",
-          "WADEGILE": "Романізація Вейда-Джайлза"
+          "WADEGILE": "Романізація Вейда-Джайлза",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

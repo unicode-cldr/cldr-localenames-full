@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "cs"
       },
@@ -35,7 +35,7 @@
           "ar": "arabština",
           "ar-001": "arabština (moderní standardní)",
           "arc": "aramejština",
-          "arn": "mapudungun",
+          "arn": "mapudungunština",
           "aro": "araonština",
           "arp": "arapažština",
           "arq": "arabština (alžírská)",
@@ -69,7 +69,7 @@
           "bfq": "badagština",
           "bg": "bulharština",
           "bgn": "balúčština (západní)",
-          "bho": "bhojpurština",
+          "bho": "bhódžpurština",
           "bi": "bislamština",
           "bik": "bikolština",
           "bin": "bini",
@@ -183,7 +183,7 @@
           "fr": "francouzština",
           "fr-CA": "francouzština (Kanada)",
           "fr-CH": "francouzština (Švýcarsko)",
-          "frc": "francouzština (kajunská)",
+          "frc": "francouzština (cajunská)",
           "frm": "francouzština (středověká)",
           "fro": "francouzština (stará)",
           "frp": "franko-provensálština",
@@ -330,6 +330,7 @@
           "ln": "lingalština",
           "lo": "laoština",
           "lol": "mongština",
+          "lou": "kreolština (Louisiana)",
           "loz": "lozština",
           "lrc": "lúrština (severní)",
           "lt": "litevština",
@@ -377,7 +378,7 @@
           "ms": "malajština",
           "mt": "maltština",
           "mua": "mundang",
-          "mul": "složené (víceřádkové) jazyky",
+          "mul": "více jazyků",
           "mus": "kríkština",
           "mwl": "mirandština",
           "mwr": "márvárština",

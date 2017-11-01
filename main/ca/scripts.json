@@ -3,8 +3,8 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "ca"
       },
@@ -52,6 +52,7 @@
           "Geok": "georgià hucuri",
           "Geor": "georgià",
           "Glag": "glagolític",
+          "Gonm": "Gonm",
           "Goth": "gòtic",
           "Gran": "grantha",
           "Grek": "grec",
@@ -152,6 +153,7 @@
           "Sind": "devangari",
           "Sinh": "singalès",
           "Sora": "sora sompeng",
+          "Soyo": "Soyo",
           "Sund": "sundanès",
           "Sylo": "syloti nagri",
           "Syrc": "siríac",
@@ -181,6 +183,7 @@
           "Xpeo": "persa antic",
           "Xsux": "cuneïforme sumeri-accadi",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "heretat",
           "Zmth": "notació matemàtica",
           "Zsye": "emoji",

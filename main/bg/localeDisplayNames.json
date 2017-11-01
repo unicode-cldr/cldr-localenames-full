@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13375 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13759 $",
+          "_cldrVersion": "32"
         },
         "language": "bg"
       },
@@ -129,7 +129,7 @@
           },
           "m0": {
             "bgn": "АКГН (BGN)",
-            "ungegn": "ГЕСГИООН (UNGEGN)"
+            "ungegn": "ГЕСГИ ООН (UNGEGN)"
           },
           "ms": {
             "metric": "Метрична система",
@@ -153,6 +153,7 @@
             "finance": "Финансови цифри",
             "fullwide": "цифри с пълна ширина",
             "geor": "грузински цифри",
+            "gonm": "gonm",
             "grek": "гръцки цифри",
             "greklow": "гръцки цифри в долен регистър",
             "gujr": "цифри в гуджарати",

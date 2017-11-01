@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "hu"
       },
@@ -160,6 +160,7 @@
           "fr": "francia",
           "fr-CA": "kanadai francia",
           "fr-CH": "svájci francia",
+          "frc": "cajun francia",
           "frm": "közép francia",
           "fro": "ófrancia",
           "frr": "északi fríz",
@@ -286,6 +287,7 @@
           "ln": "lingala",
           "lo": "lao",
           "lol": "mongó",
+          "lou": "louisianai kreol",
           "loz": "lozi",
           "lrc": "északi luri",
           "lt": "litván",

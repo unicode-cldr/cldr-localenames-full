@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fil"
       },
@@ -119,13 +119,14 @@
           "fr": "French",
           "fr-CA": "French sa Canada",
           "fr-CH": "Swiss na French",
+          "frc": "Cajun French",
           "fur": "Friulian",
           "fy": "Kanlurang Frisian",
           "ga": "Irish",
           "gaa": "Ga",
           "gag": "Gagauz",
           "gan": "gan",
-          "gd": "Scots Gaelic",
+          "gd": "Scottish Gaelic",
           "gez": "Geez",
           "gil": "Gilbertese",
           "gl": "Galician",
@@ -218,6 +219,7 @@
           "lkt": "Lakota",
           "ln": "Lingala",
           "lo": "Lao",
+          "lou": "Louisiana Creole",
           "loz": "Lozi",
           "lrc": "Hilagang Luri",
           "lt": "Lithuanian",

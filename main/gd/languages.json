@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gd"
       },
@@ -324,6 +324,7 @@
           "ln": "Lingala",
           "lo": "Làtho",
           "lol": "Mongo",
+          "lou": "lou",
           "loz": "Lozi",
           "lrc": "Luri Thuathach",
           "lt": "Liotuainis",

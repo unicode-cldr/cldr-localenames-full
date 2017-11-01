@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "lt"
       },
@@ -330,6 +330,7 @@
           "ln": "ngalų",
           "lo": "laosiečių",
           "lol": "mongų",
+          "lou": "Luizianos kreolų",
           "loz": "lozių",
           "lrc": "šiaurės luri",
           "lt": "lietuvių",
@@ -532,7 +533,7 @@
           "sv": "švedų",
           "sw": "suahilių",
           "sw-CD": "Kongo suahilių",
-          "swb": "komorų",
+          "swb": "Komorų",
           "syc": "klasikinė sirų",
           "syr": "sirų",
           "szl": "sileziečių",

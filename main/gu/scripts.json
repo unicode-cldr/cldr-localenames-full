@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "gu"
       },
@@ -51,6 +51,7 @@
           "Geok": "જ્યોર્જિઅન ખુતસુરી",
           "Geor": "જ્યોર્જિઅન",
           "Glag": "ગ્લેગોલિટિક",
+          "Gonm": "Gonm",
           "Goth": "ગોથિક",
           "Gran": "Gran",
           "Grek": "ગ્રીક",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "એન’ કો",
+          "Nshu": "Nshu",
           "Ogam": "ઓઘામ",
           "Olck": "ઓલ ચિકી",
           "Orkh": "ઓરખોન",
@@ -147,6 +149,7 @@
           "Sind": "Sind",
           "Sinh": "સિંહલી",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "સુદાનીઝ",
           "Sylo": "સિલોતી નાગરી",
           "Syrc": "સિરિયેક",
@@ -175,6 +178,7 @@
           "Xpeo": "જુની ફારસી",
           "Xsux": "સુમેરો અક્કાદિયન સુનિફોર્મ",
           "Yiii": "યી",
+          "Zanb": "Zanb",
           "Zinh": "વંશાગત",
           "Zmth": "ગણિતીય સંકેતલિપિ",
           "Zsye": "ઇમોજી",

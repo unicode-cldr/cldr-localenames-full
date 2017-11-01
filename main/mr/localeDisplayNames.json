@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "mr"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "मुस्लिम- नागरी दिनदर्शिका",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "मुस्लिम दिनदर्शिका उम-अल-कुरा",
             "iso8601": "(ISO-8601) दिनदर्शिका",
             "japanese": "जपानी दिनदर्शिका",
             "persian": "फारसी दिनदर्शिका",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "पारंपारिक चिनी क्रमवारी क्रम - Big5",
-            "compat": "compat",
+            "compat": "अनुकूलतेसाठी आधीची क्रमवारी",
             "dictionary": "शब्दकोश अनुक्रम",
             "ducet": "डीफॉल्ट युनिकोड क्रमवारी क्रम",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "युरोपियन क्रमवारी नियम",
             "gb2312han": "सरलीकृत चिनी क्रमवारी क्रम - GB2312",
             "phonebook": "फोनबुक अनुक्रम",
             "phonetic": "ध्वनीविचार क्रमवारी क्रम",
@@ -128,8 +128,8 @@
             "strict": "काटेकोर लाइन ब्रेक"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "यूएस BGN लिप्यंतरण",
+            "ungegn": "यूएन GEGN लिप्यंतरण"
           },
           "ms": {
             "metric": "दशमान पद्धती",
@@ -153,6 +153,7 @@
             "finance": "वित्तीय संख्‍या",
             "fullwide": "पूर्ण रुंदीचे अंक",
             "geor": "जॉर्जियन अंक",
+            "gonm": "gonm",
             "grek": "ग्रीक अंक",
             "greklow": "ग्रीक लहान लिपीचे अंक",
             "gujr": "गुजराती अंक",

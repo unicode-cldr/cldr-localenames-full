@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ast"
       },
@@ -330,6 +330,7 @@
           "ln": "lingala",
           "lo": "laosianu",
           "lol": "mongo",
+          "lou": "lou",
           "loz": "lozi",
           "lrc": "luri del norte",
           "lt": "lituanu",

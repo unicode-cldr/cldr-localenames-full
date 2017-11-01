@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "fo",
         "territory": "DK"
@@ -101,6 +101,7 @@
             "ethi": "etiopisk tøl",
             "fullwide": "tøl í fullari longd",
             "geor": "gregoriansk tøl",
+            "gonm": "gonm",
             "grek": "grikskt tøl",
             "greklow": "grikskt tøl (smáir bókstavir)",
             "gujr": "gujaratik tøl",

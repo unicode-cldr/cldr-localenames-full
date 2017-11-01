@@ -3,8 +3,8 @@
     "en": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13744 $",
+          "_cldrVersion": "32"
         },
         "language": "en"
       },
@@ -270,6 +270,7 @@
             "finance": "Financial Numerals",
             "fullwide": "Full-Width Digits",
             "geor": "Georgian Numerals",
+            "gonm": "Masaram Gondi digits",
             "grek": "Greek Numerals",
             "greklow": "Greek Lowercase Numerals",
             "gujr": "Gujarati Digits",

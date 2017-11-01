@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "se",
         "territory": "SE"
@@ -40,6 +40,7 @@
           "151": "nuorta-Eurohpá",
           "154": "davvi-Eurohpá",
           "155": "oarji-Eurohpá",
+          "202": "202",
           "419": "lulli-Amerihkká",
           "AC": "Ascension",
           "AD": "Andorra",

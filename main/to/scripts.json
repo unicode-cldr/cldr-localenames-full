@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "to"
       },
@@ -22,7 +22,7 @@
           "Bamu": "tohinima fakapamumi",
           "Bass": "tohinima fakapasa-vā",
           "Batk": "tohinima fakapātaki",
-          "Beng": "tohinima fakapengikali",
+          "Beng": "tohinima fakapāngilā",
           "Bhks": "Bhks",
           "Blis": "tohinima fakaʻilonga-pilisi",
           "Bopo": "tohinima fakapopomofo",
@@ -51,6 +51,7 @@
           "Geok": "tohinima fakakutusuli-seōsia",
           "Geor": "tohinima fakaseōsia",
           "Glag": "tohinima fakakalakoliti",
+          "Gonm": "Gonm",
           "Goth": "tohinima fakakotika",
           "Gran": "tohinima fakasilanitā",
           "Grek": "tohinima fakakalisi",
@@ -151,6 +152,7 @@
           "Sind": "tohinima fakakutauāti",
           "Sinh": "tohinima fakasingihala",
           "Sora": "tohinima fakasolasomipengi",
+          "Soyo": "Soyo",
           "Sund": "tohinima fakasunitā",
           "Sylo": "tohinima fakasailoti-nakili",
           "Syrc": "tohinima fakasuliāiā",
@@ -180,6 +182,7 @@
           "Xpeo": "tohinima fakapēsiamuʻa",
           "Xsux": "tohinima fakamataʻingahau-sumelo-akatia",
           "Yiii": "tohinima fakaīī",
+          "Zanb": "Zanb",
           "Zinh": "tohinima hokosi",
           "Zmth": "tohinima fakamatematika",
           "Zsye": "tohinima fakatātā",

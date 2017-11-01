@@ -3,14 +3,14 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "sl"
       },
       "localeDisplayNames": {
         "territories": {
-          "001": "Svet",
+          "001": "svet",
           "002": "Afrika",
           "003": "Severna Amerika",
           "005": "Južna Amerika",
@@ -39,6 +39,7 @@
           "151": "Vzhodna Evropa",
           "154": "Severna Evropa",
           "155": "Zahodna Evropa",
+          "202": "202",
           "419": "Latinska Amerika",
           "AC": "Otok Ascension",
           "AD": "Andora",
@@ -101,7 +102,7 @@
           "CX": "Božični otok",
           "CY": "Ciper",
           "CZ": "Češka",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Češka republika",
           "DE": "Nemčija",
           "DG": "Diego Garcia",
           "DJ": "Džibuti",
@@ -118,7 +119,7 @@
           "ES": "Španija",
           "ET": "Etiopija",
           "EU": "Evropska unija",
-          "EZ": "EZ",
+          "EZ": "evroobmočje",
           "FI": "Finska",
           "FJ": "Fidži",
           "FK": "Falklandski otoki",
@@ -138,7 +139,7 @@
           "GL": "Grenlandija",
           "GM": "Gambija",
           "GN": "Gvineja",
-          "GP": "Gvadalupe",
+          "GP": "Guadeloupe",
           "GQ": "Ekvatorialna Gvineja",
           "GR": "Grčija",
           "GS": "Južna Georgia in Južni Sandwichevi otoki",
@@ -293,7 +294,7 @@
           "UG": "Uganda",
           "UM": "Stranski zunanji otoki Združenih držav",
           "UN": "Združeni narodi",
-          "UN-alt-short": "Združeni narodi",
+          "UN-alt-short": "ZN",
           "US": "Združene države Amerike",
           "US-alt-short": "ZDA",
           "UY": "Urugvaj",

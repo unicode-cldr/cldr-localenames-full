@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "id"
       },
@@ -39,6 +39,7 @@
           "151": "Eropa Bagian Timur",
           "154": "Eropa Bagian Utara",
           "155": "Eropa Bagian Barat",
+          "202": "202",
           "419": "Amerika Latin",
           "AC": "Pulau Ascension",
           "AD": "Andorra",
@@ -70,7 +71,7 @@
           "BM": "Bermuda",
           "BN": "Brunei",
           "BO": "Bolivia",
-          "BQ": "Karibia Belanda",
+          "BQ": "Belanda Karibia",
           "BR": "Brasil",
           "BS": "Bahama",
           "BT": "Bhutan",
@@ -86,8 +87,8 @@
           "CG": "Kongo - Brazzaville",
           "CG-alt-variant": "Kongo (Republik)",
           "CH": "Swiss",
-          "CI": "Cote d’Ivoire",
-          "CI-alt-variant": "Ivory Coast",
+          "CI": "Pantai Gading",
+          "CI-alt-variant": "CI",
           "CK": "Kepulauan Cook",
           "CL": "Cile",
           "CM": "Kamerun",
@@ -100,8 +101,8 @@
           "CW": "Curaçao",
           "CX": "Pulau Christmas",
           "CY": "Siprus",
-          "CZ": "Cheska",
-          "CZ-alt-variant": "Republik Cheska",
+          "CZ": "Ceko",
+          "CZ-alt-variant": "Republik Ceko",
           "DE": "Jerman",
           "DG": "Diego Garcia",
           "DJ": "Jibuti",
@@ -118,7 +119,7 @@
           "ES": "Spanyol",
           "ET": "Etiopia",
           "EU": "Uni Eropa",
-          "EZ": "EZ",
+          "EZ": "Zona Euro",
           "FI": "Finlandia",
           "FJ": "Fiji",
           "FK": "Kepulauan Malvinas",
@@ -280,7 +281,7 @@
           "TJ": "Tajikistan",
           "TK": "Tokelau",
           "TL": "Timor Leste",
-          "TL-alt-variant": "Timor Timur",
+          "TL-alt-variant": "TL",
           "TM": "Turkimenistan",
           "TN": "Tunisia",
           "TO": "Tonga",

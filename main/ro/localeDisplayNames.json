@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ro"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "calendar islamic civil",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "calendar islamic (Umm al-Qura)",
             "iso8601": "calendar ISO-8601",
             "japanese": "calendar japonez",
             "persian": "calendar persan",
@@ -78,7 +78,7 @@
           },
           "collation": {
             "big5han": "sortare pentru chineza tradițională - Big5",
-            "compat": "compat",
+            "compat": "ordine de sortare anterioară, pentru compatibilitate",
             "dictionary": "Ordine de sortare a dicționarului",
             "ducet": "ordine de sortare Unicode implicită",
             "emoji": "emoji",
@@ -118,7 +118,7 @@
           },
           "hc": {
             "h11": "sistem cu 12 ore (0–11)",
-            "h12": "sistem cu 12 ore (0–12)",
+            "h12": "sistem cu 12 ore (1–12)",
             "h23": "sistem cu 24 de ore (0–23)",
             "h24": "sistem cu 24 de ore (1–24)"
           },
@@ -128,8 +128,8 @@
             "strict": "stil strict de întrerupere a liniei"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliterare BGN SUA",
+            "ungegn": "transliterare GEGN ONU"
           },
           "ms": {
             "metric": "sistemul metric",
@@ -153,6 +153,7 @@
             "finance": "Sistemul numeric financiar",
             "fullwide": "cifre cu lățimea întreagă",
             "geor": "numerale georgiene",
+            "gonm": "gonm",
             "grek": "numerale grecești",
             "greklow": "numerale grecești cu minuscule",
             "gujr": "cifre gujarati",
@@ -204,7 +205,7 @@
             "sund": "sund",
             "takr": "takr",
             "talu": "talu",
-            "taml": "numerale tradiționale tamilă",
+            "taml": "numerale tradiționale tamile",
             "tamldec": "cifre tamile",
             "telu": "cifre telugu",
             "thai": "cifre thailandeze",

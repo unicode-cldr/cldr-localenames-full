@@ -3,8 +3,8 @@
     "ln": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ln"
       },
@@ -117,6 +117,7 @@
           "fr": "lifalansɛ́",
           "fr-CA": "lifalansɛ́ (Kanada)",
           "fr-CH": "lifalansɛ́ (Swisɛ)",
+          "frc": "frc",
           "fur": "fur",
           "fy": "fy",
           "ga": "ga",
@@ -212,6 +213,7 @@
           "lkt": "lkt",
           "ln": "lingála",
           "lo": "lo",
+          "lou": "lou",
           "loz": "loz",
           "lrc": "lrc",
           "lt": "lt",

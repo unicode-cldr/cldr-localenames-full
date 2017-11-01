@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "mt"
       },
@@ -39,6 +39,7 @@
           "151": "Ewropa tal-Lvant",
           "154": "Ewropa ta’ Fuq",
           "155": "Ewropa tal-Punent",
+          "202": "202",
           "419": "Amerika Latina",
           "AC": "Ascension Island",
           "AD": "Andorra",

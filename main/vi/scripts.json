@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "vi"
       },
@@ -52,6 +52,7 @@
           "Geok": "Chữ Khutsuri Georgia",
           "Geor": "Chữ Gruzia",
           "Glag": "Chữ Glagolitic",
+          "Gonm": "Gonm",
           "Goth": "Chữ Gô-tích",
           "Gran": "Chữ Grantha",
           "Grek": "Chữ Hy Lạp",
@@ -152,6 +153,7 @@
           "Sind": "Chữ Khudawadi",
           "Sinh": "Chữ Sinhala",
           "Sora": "Chữ Sora Sompeng",
+          "Soyo": "Soyo",
           "Sund": "Chữ Xu-đăng",
           "Sylo": "Chữ Syloti Nagri",
           "Syrc": "Chữ Syria",
@@ -181,6 +183,7 @@
           "Xpeo": "Chữ Ba Tư cổ",
           "Xsux": "Chữ hình nêm Sumero-Akkadian",
           "Yiii": "Chữ Di",
+          "Zanb": "Zanb",
           "Zinh": "Chữ Kế thừa",
           "Zmth": "Ký hiệu Toán học",
           "Zsye": "Biểu tượng",

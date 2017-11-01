@@ -3,8 +3,8 @@
     "sr-Cyrl-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -19,11 +19,13 @@
           "1694ACAD": "Рани модерни француски",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
           "AREVELA": "Источни арменијски",
           "AREVMDA": "Западно јерменска",
+          "ASANTE": "ASANTE",
           "BAKU1926": "Уједињен турски латинични алфабет",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -44,6 +46,7 @@
           "FONXSAMP": "FONXSAMP",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
           "JAUER": "JAUER",
@@ -82,6 +85,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "Столвица/Солбица дијалект",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "SURMIRAN",
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
@@ -93,7 +97,8 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Валенцијска",
           "VALLADER": "VALLADER",
-          "WADEGILE": "WADEGILE"
+          "WADEGILE": "WADEGILE",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

@@ -3,8 +3,8 @@
     "gsw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "gsw"
       },
@@ -50,6 +50,7 @@
           "Geok": "Ghutsuri",
           "Geor": "Georgisch",
           "Glag": "Glagolitisch",
+          "Gonm": "Gonm",
           "Goth": "Gotisch",
           "Gran": "Gran",
           "Grek": "Griechisch",
@@ -115,6 +116,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "N’Ko",
+          "Nshu": "Nshu",
           "Ogam": "Ogham",
           "Olck": "Ol Chiki",
           "Orkh": "Orchon-Runä",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "Singhalesisch",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sundanesisch",
           "Sylo": "Syloti Nagri",
           "Syrc": "Syrisch",
@@ -173,6 +176,7 @@
           "Xpeo": "Altpersisch",
           "Xsux": "Sumerisch-akkadischi Keilschrift",
           "Yiii": "Yi",
+          "Zanb": "Zanb",
           "Zinh": "G’eerbtä Schriftwärt",
           "Zmth": "Zmth",
           "Zsye": "Zsye",

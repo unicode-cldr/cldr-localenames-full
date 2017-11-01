@@ -3,8 +3,8 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13708 $",
+          "_cldrVersion": "32"
         },
         "language": "sr",
         "script": "Latn",
@@ -23,7 +23,7 @@
           "colBackwards": "Sortiranje prema obrnutim akcentima",
           "colCaseFirst": "Ređanje prema malom/velikom slovu",
           "colCaseLevel": "Sortiranje prema malom/velikom slovu",
-          "collation": "Sortiranje",
+          "collation": "redosled sortiranja",
           "colNormalization": "Normalizovano sortiranje",
           "colNumeric": "Numeričko sortiranje",
           "colStrength": "Sortiranje prema jačini",
@@ -51,7 +51,7 @@
             "islamic-civil": "Islamski civilni kalendar",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "islamski kalendar (Umm al-Qura)",
             "iso8601": "ISO-8601 kalendar",
             "japanese": "japanski kalendar",
             "persian": "persijski kalendar",
@@ -80,11 +80,11 @@
           },
           "collation": {
             "big5han": "Tradicionalno kinesko sortiranje",
-            "compat": "compat",
+            "compat": "prethodni redosled sortiranja, zbog kompatibilnosti",
             "dictionary": "Redosled sortiranja u rečniku",
             "ducet": "podrazumevani Unicode redosled sortiranja",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "evropska pravila redosleda",
             "gb2312han": "Pojednostavljeno kinesko sortiranje",
             "phonebook": "Sortiranje kao telefonski imenik",
             "phonetic": "Fonetski redosled sortiranja",
@@ -155,6 +155,7 @@
             "finance": "Finansijski brojevi",
             "fullwide": "cifre pune širine",
             "geor": "gruzijski brojevi",
+            "gonm": "gonm",
             "grek": "grčki brojevi",
             "greklow": "mali grčki brojevi",
             "gujr": "gudžaratske cifre",

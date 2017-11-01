@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "ms",
         "territory": "BN"
@@ -40,6 +40,7 @@
           "151": "Eropah Timur",
           "154": "Eropah Utara",
           "155": "Eropah Barat",
+          "202": "202",
           "419": "Amerika Latin",
           "AC": "Pulau Ascension",
           "AD": "Andorra",
@@ -119,7 +120,7 @@
           "ES": "Sepanyol",
           "ET": "Ethiopia",
           "EU": "Kesatuan Eropah",
-          "EZ": "EZ",
+          "EZ": "Zon Euro",
           "FI": "Finland",
           "FJ": "Fiji",
           "FK": "Kepulauan Falkland",

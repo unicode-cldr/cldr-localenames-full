@@ -3,8 +3,8 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "de"
       },
@@ -330,6 +330,7 @@
           "ln": "Lingala",
           "lo": "Laotisch",
           "lol": "Mongo",
+          "lou": "Kreol (Louisiana)",
           "loz": "Lozi",
           "lrc": "Nördliches Luri",
           "lt": "Litauisch",

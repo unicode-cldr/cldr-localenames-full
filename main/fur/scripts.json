@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fur"
       },
@@ -47,6 +47,7 @@
           "Ethi": "etiopic",
           "Geor": "georgjian",
           "Glag": "glagolitic",
+          "Gonm": "Gonm",
           "Goth": "gotic",
           "Gran": "Gran",
           "Grek": "grêc",
@@ -110,6 +111,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -137,6 +139,7 @@
           "Sind": "Sind",
           "Sinh": "sinhala",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "siriac",
@@ -163,6 +166,7 @@
           "Xpeo": "vieri persian",
           "Xsux": "cuneiform sumeric-acadic",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
           "Zsye": "Zsye",

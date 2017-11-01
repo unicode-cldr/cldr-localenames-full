@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "my"
       },
@@ -44,6 +44,7 @@
           "Ethi": "အီသီယိုးပီးယား",
           "Geor": "ဂျော်ဂျီယာ",
           "Glag": "Glag",
+          "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
           "Grek": "ဂရိ",
@@ -93,7 +94,7 @@
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
-          "Mlym": "မာလာယာလမ်",
+          "Mlym": "မလေယာလမ်",
           "Modi": "Modi",
           "Mong": "မွန်ဂိုလီးယား",
           "Mroo": "Mroo",
@@ -104,6 +105,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -131,6 +133,7 @@
           "Sind": "Sind",
           "Sinh": "ဆင်ဟာလ",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -155,11 +158,12 @@
           "Xpeo": "ပါရှန် အဟောင်း",
           "Xsux": "Xsux",
           "Yiii": "ရီ",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "ဂဏန်းသင်္ချာ",
           "Zsye": "အီမိုဂျီ",
           "Zsym": "သင်္ကေတ",
-          "Zxxx": "မရေးထားသော",
+          "Zxxx": "ထုံးတမ်းသဖွယ်လိုက်နာလျက်ရှိသော",
           "Zyyy": "အများနှင့်သက်ဆိုင်သော",
           "Zzzz": "မသိ သို့မဟုတ် မရှိသော စကားလုံး"
         }

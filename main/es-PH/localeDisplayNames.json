@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "PH"
@@ -50,7 +50,7 @@
             "islamic-civil": "calendario civil islámico",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "calendario islámico umalqura",
             "iso8601": "calendario ISO-8601",
             "japanese": "calendario japonés",
             "persian": "calendario persa",
@@ -79,11 +79,11 @@
           },
           "collation": {
             "big5han": "orden del chino tradicional - Big5",
-            "compat": "compat",
+            "compat": "orden de clasificación anterior, para compatibilidad",
             "dictionary": "orden de clasificación del diccionario",
             "ducet": "orden predeterminado de Unicode",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "reglas de ordenación europeas",
             "gb2312han": "orden del chino simplificado - GB2312",
             "phonebook": "orden de listín telefónico",
             "phonetic": "Orden de clasificación fonético",
@@ -113,8 +113,8 @@
             "tertiary": "Ordenar acentos/mayúsculas y minúsculas/ancho"
           },
           "d0": {
-            "fwidth": "Ancho completo",
-            "hwidth": "Ancho medio",
+            "fwidth": "ancho completo",
+            "hwidth": "ancho medio",
             "npinyin": "Numérico"
           },
           "hc": {
@@ -129,8 +129,8 @@
             "strict": "estilo de salto de línea estricto"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliteración USBGN",
+            "ungegn": "transliteración UNGEGN"
           },
           "ms": {
             "metric": "sistema métrico",
@@ -154,6 +154,7 @@
             "finance": "Números financieros",
             "fullwide": "dígitos de ancho completo",
             "geor": "números en georgiano",
+            "gonm": "gonm",
             "grek": "números en griego",
             "greklow": "números en griego en minúscula",
             "gujr": "dígitos en guyaratí",

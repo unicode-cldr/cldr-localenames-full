@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "rm"
       },
@@ -39,6 +39,7 @@
           "151": "Europa Orientala",
           "154": "Europa dal Nord",
           "155": "Europa dal Vest",
+          "202": "202",
           "419": "America Latina",
           "AC": "AC",
           "AD": "Andorra",
@@ -71,7 +72,7 @@
           "BN": "Brunei",
           "BO": "Bolivia",
           "BQ": "BQ",
-          "BR": "Brasila",
+          "BR": "Brasilia",
           "BS": "Bahamas",
           "BT": "Bhutan",
           "BV": "Insla Bouvet",
@@ -148,7 +149,7 @@
           "GY": "Guyana",
           "HK": "Regiun d’administraziun speziala da Hongkong, China",
           "HK-alt-short": "HK",
-          "HM": "Inslas da Heard e da McDonlad",
+          "HM": "Inslas da Heard e da McDonald",
           "HN": "Honduras",
           "HR": "Croazia",
           "HT": "Haiti",
@@ -300,8 +301,8 @@
           "VA": "Citad dal Vatican",
           "VC": "Saint Vincent e las Grenadinas",
           "VE": "Venezuela",
-          "VG": "Inslas Verginas Britannicas",
-          "VI": "Inslas Verginas Americanas",
+          "VG": "Inslas Virginas Britannicas",
+          "VI": "Inslas Virginas Americanas",
           "VN": "Vietnam",
           "VU": "Vanuatu",
           "WF": "Wallis e Futuna",

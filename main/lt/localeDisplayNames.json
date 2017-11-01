@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "lt"
       },
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "įprasta kiniška rūšiavimo tvarka - Big5",
-            "compat": "compat",
+            "compat": "ankstesnė rūšiavimo tvarka, skirta suderinamumui",
             "dictionary": "žodyno rūšiavimo tvarka",
             "ducet": "numatytasis unikodo rikiavimas",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "rūšiavimo tvarka daugiakalbės Europos dokumentų",
             "gb2312han": "supaprastinta kiniška rūšiavimo tvarka - GB2312",
             "phonebook": "telefonų knygos rūšiavimo tvarka",
             "phonetic": "Fonetinė rikiavimo tvarka",
@@ -112,8 +112,8 @@
             "tertiary": "Rikiuoti pagal diakritinius ženklus / didžiąsias ir mažąsias raides / plotį"
           },
           "d0": {
-            "fwidth": "Viso pločio",
-            "hwidth": "Vidutinio pločio",
+            "fwidth": "viso pločio",
+            "hwidth": "vidutinio pločio",
             "npinyin": "Skaitinis"
           },
           "hc": {
@@ -153,6 +153,7 @@
             "finance": "Finansiniai skaičiai",
             "fullwide": "viso pločio skaitmenys",
             "geor": "gruzinų skaitmenys",
+            "gonm": "gonm",
             "grek": "graikų skaitmenys",
             "greklow": "graikų skaitmenys mažosiomis raidėmis",
             "gujr": "gudžaratų skaitmenys",

@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "lo"
       },
@@ -17,11 +17,13 @@
           "1694ACAD": "ຕອນຕົ້ນຍຸກໃໝ່ຝຣັ່ງ",
           "1959ACAD": "ວິຊາການ",
           "ABL1943": "ABL1943",
+          "AKUAPEM": "AKUAPEM",
           "ALALC97": "ການຖອດອັກສອນເປັນອັກສອນໂຣມັນຕາມເກນຂອງສະມາຄົມຫ້ອງສະໝຸດອາເມລິກາແລະຫ້ອງສະໝຸດລັດຖະສະພາ ສະບັບພິມປີ 1997",
           "ALUKU": "ພາສາພື້ນເມືອງອລູຄຸ",
           "AO1990": "AO1990",
           "AREVELA": "ອາເມເນຍຕາເວັນອອກ",
           "AREVMDA": "ອາເມເນຍຕາເວັນຕົກ",
+          "ASANTE": "ASANTE",
           "BAKU1926": "ຕົວອັກສອນລາຕິນເທີກິກແບບຄົບວົງຈອນ",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -42,6 +44,7 @@
           "FONXSAMP": "ຟອນແຊມ",
           "HEPBURN": "ການຖອດອັກສອນແບບເຮບເບິນ",
           "HOGNORSK": "ພາສານໍວີຈ່ຽນສູງ",
+          "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ອິຕິຫາສະ",
           "JAUER": "ເຍົາເອີ",
@@ -80,6 +83,7 @@
           "SIMPLE": "SIMPLE",
           "SOLBA": "ພາສາພື້ນເມືອງສະໂຕວິຊ໌ຊ່າ/ໂຊລ໌ບີກາ",
           "SOTAV": "SOTAV",
+          "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "ຊູຣ໌ມິລານ",
           "SURSILV": "ຊູຣ໌ຊີລ໌",
           "SUTSILV": "ຊຸຕ໌ຊີລ໌",
@@ -91,7 +95,8 @@
           "VAIDIKA": "ເວດິກາ",
           "VALENCIA": "ວາເລັນເຊຍ",
           "VALLADER": "ວັລລາເດີ",
-          "WADEGILE": "ການຖອດອັກສອນແບບເວດ-ໄຈລ໌"
+          "WADEGILE": "ການຖອດອັກສອນແບບເວດ-ໄຈລ໌",
+          "XSISTEMO": "XSISTEMO"
         }
       }
     }

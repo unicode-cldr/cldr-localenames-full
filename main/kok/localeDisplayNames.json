@@ -3,8 +3,8 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "kok"
       },
@@ -32,7 +32,7 @@
             "dangi": "dangi",
             "ethiopic": "ethiopic",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "gregorian",
+            "gregorian": "ग्रेगोरियन दिनदर्शिका",
             "hebrew": "hebrew",
             "indian": "indian",
             "islamic": "islamic",
@@ -62,7 +62,7 @@
             "reformed": "reformed",
             "search": "search",
             "searchjl": "searchjl",
-            "standard": "standard",
+            "standard": "प्रमाणित वर्गिकरण क्रमांक",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -96,10 +96,11 @@
             "cakm": "cakm",
             "cham": "cham",
             "cyrl": "cyrl",
-            "deva": "deva",
+            "deva": "देवनागरी अंक",
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",
+            "gonm": "gonm",
             "grek": "grek",
             "greklow": "greklow",
             "gujr": "gujr",
@@ -120,7 +121,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "latn",
+            "latn": "अस्तंत अंक",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -161,9 +162,9 @@
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "भाशा: {0}",
+          "script": "लिपी: {0}",
+          "territory": "प्रांत: {0}"
         }
       }
     }

@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "lb"
       },
@@ -39,6 +39,7 @@
           "151": "Osteuropa",
           "154": "Nordeuropa",
           "155": "Westeuropa",
+          "202": "202",
           "419": "Latäinamerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -293,7 +294,7 @@
           "UG": "Uganda",
           "UM": "Amerikanesch-Ozeanien",
           "UN": "UN",
-          "US": "Vereenegt Staate vun Amerika",
+          "US": "Vereenegt Staaten",
           "US-alt-short": "US",
           "UY": "Uruguay",
           "UZ": "Usbekistan",

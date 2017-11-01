@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "hi"
       },
@@ -51,6 +51,7 @@
           "Geok": "जॉर्जियन खुतसुरी",
           "Geor": "जॉर्जियन",
           "Glag": "ग्लेगोलिटिक",
+          "Gonm": "Gonm",
           "Goth": "गोथिक",
           "Gran": "ग्रन्थ",
           "Grek": "यूनानी",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "एन्‘को",
+          "Nshu": "Nshu",
           "Ogam": "ओगम",
           "Olck": "ऑल चिकी",
           "Orkh": "ओरखोन",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "सिंहली",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "सूडानी",
           "Sylo": "सिलोती नागरी",
           "Syrc": "सिरियेक",
@@ -174,6 +177,7 @@
           "Xpeo": "पुरानी फारसी",
           "Xsux": "सुमेरो अक्कादियन सुनिफॉर्म",
           "Yiii": "यी",
+          "Zanb": "Zanb",
           "Zinh": "विरासत",
           "Zmth": "गणितीय संकेतन",
           "Zsye": "ईमोजी",

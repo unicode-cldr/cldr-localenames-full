@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "gsw",
         "territory": "FR"
@@ -152,6 +152,7 @@
           "fr": "Französisch",
           "fr-CA": "Kanadischs Französisch",
           "fr-CH": "Schwiizer Französisch",
+          "frc": "frc",
           "frm": "Mittelfranzösisch",
           "fro": "Altfranzösisch",
           "frr": "Nordfriesisch",
@@ -275,6 +276,7 @@
           "ln": "Lingala",
           "lo": "Laozisch",
           "lol": "Mongo",
+          "lou": "lou",
           "loz": "Rotse-Schpraach",
           "lrc": "lrc",
           "lt": "Litauisch",

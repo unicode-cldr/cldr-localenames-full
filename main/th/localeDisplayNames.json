@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13756 $",
+          "_cldrVersion": "32"
         },
         "language": "th"
       },
@@ -153,6 +153,7 @@
             "finance": "ตัวเลขทางการเงิน",
             "fullwide": "ตัวเลขแบบเต็มขนาด",
             "geor": "ตัวเลขจอร์เจีย",
+            "gonm": "gonm",
             "grek": "ตัวเลขกรีก",
             "greklow": "ตัวเลขกรีกพิมพ์เล็ก",
             "gujr": "ตัวเลขคุชราต",

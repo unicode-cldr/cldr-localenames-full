@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sk"
       },
@@ -45,6 +45,7 @@
           "Ethi": "etiópske",
           "Geor": "gruzínske",
           "Glag": "hlaholika",
+          "Gonm": "Gonm",
           "Goth": "gotický",
           "Gran": "Gran",
           "Grek": "grécke",
@@ -106,6 +107,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
@@ -133,6 +135,7 @@
           "Sind": "Sind",
           "Sinh": "sinhálske",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Sund",
           "Sylo": "Sylo",
           "Syrc": "Syrc",
@@ -156,6 +159,7 @@
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "matematický zápis",
           "Zsye": "emodži",

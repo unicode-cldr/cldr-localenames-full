@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fy"
       },
@@ -153,6 +153,7 @@
             "finance": "Finansjele sifers",
             "fullwide": "sifers met volledige breedte",
             "geor": "Georgyske sifers",
+            "gonm": "gonm",
             "grek": "Griekse sifers",
             "greklow": "Kleine Griekse sifers",
             "gujr": "Gujarati sifers",

@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "hu"
       },
@@ -39,6 +39,7 @@
           "151": "Kelet-Európa",
           "154": "Észak-Európa",
           "155": "Nyugat-Európa",
+          "202": "202",
           "419": "Latin-Amerika",
           "AC": "Ascension-sziget",
           "AD": "Andorra",
@@ -101,7 +102,7 @@
           "CX": "Karácsony-sziget",
           "CY": "Ciprus",
           "CZ": "Csehország",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Cseh Köztársaság",
           "DE": "Németország",
           "DG": "Diego Garcia",
           "DJ": "Dzsibuti",
@@ -118,7 +119,7 @@
           "ES": "Spanyolország",
           "ET": "Etiópia",
           "EU": "Európai Unió",
-          "EZ": "EZ",
+          "EZ": "Eurózóna",
           "FI": "Finnország",
           "FJ": "Fidzsi",
           "FK": "Falkland-szigetek",
@@ -266,7 +267,7 @@
           "SO": "Szomália",
           "SR": "Suriname",
           "SS": "Dél-Szudán",
-          "ST": "Sao Tomé és Príncipe",
+          "ST": "São Tomé és Príncipe",
           "SV": "Salvador",
           "SX": "Sint Maarten",
           "SY": "Szíria",
@@ -280,7 +281,7 @@
           "TJ": "Tádzsikisztán",
           "TK": "Tokelau",
           "TL": "Kelet-Timor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor-Leste",
           "TM": "Türkmenisztán",
           "TN": "Tunézia",
           "TO": "Tonga",
@@ -291,8 +292,8 @@
           "TZ": "Tanzánia",
           "UA": "Ukrajna",
           "UG": "Uganda",
-          "UM": "Az Amerikai Egyesült Államok lakatlan külbirtokai",
-          "UN": "ENSZ",
+          "UM": "Az USA lakatlan külbirtokai",
+          "UN": "Egyesült Nemzetek Szervezete",
           "UN-alt-short": "ENSZ",
           "US": "Egyesült Államok",
           "US-alt-short": "USA",

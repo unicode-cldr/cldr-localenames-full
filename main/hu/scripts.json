@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "hu"
       },
@@ -50,6 +50,7 @@
           "Geok": "Grúz kucsuri",
           "Geor": "Grúz",
           "Glag": "Glagolitikus",
+          "Gonm": "Gonm",
           "Goth": "Gót",
           "Gran": "Gran",
           "Grek": "Görög",
@@ -115,6 +116,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "N’ko",
+          "Nshu": "Nshu",
           "Ogam": "Ogham",
           "Olck": "Ol chiki",
           "Orkh": "Orhon",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "Szingaléz",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "Szundanéz",
           "Sylo": "Sylheti nagári",
           "Syrc": "Szíriai",
@@ -173,6 +176,7 @@
           "Xpeo": "Óperzsa",
           "Xsux": "Ékírásos suméro-akkád",
           "Yiii": "Ji",
+          "Zanb": "Zanb",
           "Zinh": "Származtatott",
           "Zmth": "Matematikai jelrendszer",
           "Zsye": "Emoji",

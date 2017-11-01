@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "pt"
       },
@@ -49,7 +49,7 @@
             "islamic-civil": "Calendário Civil Islâmico",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "Calendário Islâmico (Umm al-Qura)",
             "iso8601": "Calendário ISO-8601",
             "japanese": "Calendário Japonês",
             "persian": "Calendário Persa",
@@ -78,11 +78,11 @@
           },
           "collation": {
             "big5han": "Ordem do Chinês Tradicional - Big5",
-            "compat": "compat",
+            "compat": "Ordem anterior, para compatibilidade",
             "dictionary": "Ordem do dicionário",
             "ducet": "Ordem padrão do Unicode",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "Regras europeias de ordenação",
             "gb2312han": "Ordem do Chinês Simplificado - GB2312",
             "phonebook": "Ordem de Lista Telefônica",
             "phonetic": "Ordem de classificação fonética",
@@ -153,6 +153,7 @@
             "finance": "Numerais financeiros",
             "fullwide": "Algarismos em extensão total",
             "geor": "Algarismos georgianos",
+            "gonm": "gonm",
             "grek": "Algarismos gregos",
             "greklow": "Algarismos gregos minúsculos",
             "gujr": "Algarismos guzerate",

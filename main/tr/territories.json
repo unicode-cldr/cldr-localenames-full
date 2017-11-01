@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "tr"
       },
@@ -39,6 +39,7 @@
           "151": "Doğu Avrupa",
           "154": "Kuzey Avrupa",
           "155": "Batı Avrupa",
+          "202": "202",
           "419": "Latin Amerika",
           "AC": "Ascension Adası",
           "AD": "Andorra",
@@ -70,7 +71,7 @@
           "BM": "Bermuda",
           "BN": "Brunei",
           "BO": "Bolivya",
-          "BQ": "Karayip Hollanda",
+          "BQ": "Karayip Hollandası",
           "BR": "Brezilya",
           "BS": "Bahamalar",
           "BT": "Butan",
@@ -118,7 +119,7 @@
           "ES": "İspanya",
           "ET": "Etiyopya",
           "EU": "Avrupa Birliği",
-          "EZ": "EZ",
+          "EZ": "Euro Bölgesi",
           "FI": "Finlandiya",
           "FJ": "Fiji",
           "FK": "Falkland Adaları",
@@ -138,7 +139,7 @@
           "GL": "Grönland",
           "GM": "Gambiya",
           "GN": "Gine",
-          "GP": "Guadalupe",
+          "GP": "Guadeloupe",
           "GQ": "Ekvator Ginesi",
           "GR": "Yunanistan",
           "GS": "Güney Georgia ve Güney Sandwich Adaları",
@@ -198,7 +199,7 @@
           "MG": "Madagaskar",
           "MH": "Marshall Adaları",
           "MK": "Makedonya",
-          "MK-alt-variant": "MK",
+          "MK-alt-variant": "Makedonya (EYMC)",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Moğolistan",
@@ -291,7 +292,7 @@
           "TZ": "Tanzanya",
           "UA": "Ukrayna",
           "UG": "Uganda",
-          "UM": "ABD Uzak Adaları",
+          "UM": "ABD Küçük Harici Adaları",
           "UN": "Birleşmiş Milletler",
           "UN-alt-short": "BM",
           "US": "Amerika Birleşik Devletleri",

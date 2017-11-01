@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "GQ"
@@ -161,6 +161,7 @@
           "fr": "francés",
           "fr-CA": "francés canadiense",
           "fr-CH": "francés suizo",
+          "frc": "francés cajún",
           "frm": "francés medio",
           "fro": "francés antiguo",
           "frr": "frisón septentrional",
@@ -287,6 +288,7 @@
           "ln": "lingala",
           "lo": "lao",
           "lol": "mongo",
+          "lou": "criollo de Luisiana",
           "loz": "lozi",
           "lrc": "lorí septentrional",
           "lt": "lituano",

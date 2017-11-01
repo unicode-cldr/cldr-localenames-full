@@ -3,8 +3,8 @@
     "ar": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13286 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ar"
       },
@@ -51,6 +51,7 @@
           "Geok": "الأبجدية الجورجية - أسومتافرلي و نسخري",
           "Geor": "الجورجية",
           "Glag": "الجلاجوليتيك",
+          "Gonm": "Gonm",
           "Goth": "القوطية",
           "Gran": "Gran",
           "Grek": "اليونانية",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "أنكو",
+          "Nshu": "Nshu",
           "Ogam": "الأوجهام",
           "Olck": "Olck",
           "Orkh": "الأورخون",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "السينهالا",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "السوندانية",
           "Sylo": "السيلوتي ناغري",
           "Syrc": "السريانية",
@@ -173,6 +176,7 @@
           "Xpeo": "الفارسية القديمة",
           "Xsux": "الكتابة المسمارية الأكدية السومرية",
           "Yiii": "اليي",
+          "Zanb": "Zanb",
           "Zinh": "الموروث",
           "Zmth": "تدوين رياضي",
           "Zsye": "إيموجي",

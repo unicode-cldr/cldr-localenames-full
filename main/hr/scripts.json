@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hr"
       },
@@ -52,6 +52,7 @@
           "Geok": "gruzijsko khutsuri pismo",
           "Geor": "gruzijsko pismo",
           "Glag": "glagoljica",
+          "Gonm": "Gonm",
           "Goth": "gotičko pismo",
           "Gran": "grantha pismo",
           "Grek": "grčko pismo",
@@ -152,6 +153,7 @@
           "Sind": "khudawadi pismo",
           "Sinh": "sinhaleško pismo",
           "Sora": "sora sompeng pismo",
+          "Soyo": "Soyo",
           "Sund": "sundansko pismo",
           "Sylo": "syloti nagri pismo",
           "Syrc": "sirijsko pismo",
@@ -181,6 +183,7 @@
           "Xpeo": "staro perzijsko pismo",
           "Xsux": "sumersko-akadsko cuneiform pismo",
           "Yiii": "Yi pismo",
+          "Zanb": "Zanb",
           "Zinh": "nasljedno pismo",
           "Zmth": "matematičko znakovlje",
           "Zsye": "emotikoni",

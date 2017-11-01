@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sk"
       },
@@ -39,6 +39,7 @@
           "151": "východná Európa",
           "154": "severná Európa",
           "155": "západná Európa",
+          "202": "202",
           "419": "Latinská Amerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -118,11 +119,11 @@
           "ES": "Španielsko",
           "ET": "Etiópia",
           "EU": "Európska únia",
-          "EZ": "EZ",
+          "EZ": "eurozóna",
           "FI": "Fínsko",
           "FJ": "Fidži",
           "FK": "Falklandy",
-          "FK-alt-variant": "FK",
+          "FK-alt-variant": "Falklandy (Malvíny)",
           "FM": "Mikronézia",
           "FO": "Faerské ostrovy",
           "FR": "Francúzsko",
@@ -131,7 +132,7 @@
           "GB-alt-short": "UK",
           "GD": "Grenada",
           "GE": "Gruzínsko",
-          "GF": "Francúzska Guayana",
+          "GF": "Francúzska Guyana",
           "GG": "Guernsey",
           "GH": "Ghana",
           "GI": "Gibraltár",
@@ -145,7 +146,7 @@
           "GT": "Guatemala",
           "GU": "Guam",
           "GW": "Guinea-Bissau",
-          "GY": "Guayana",
+          "GY": "Guyana",
           "HK": "Hongkong – OAO Číny",
           "HK-alt-short": "Hongkong",
           "HM": "Heardov ostrov a Macdonaldove ostrovy",
@@ -231,7 +232,7 @@
           "PA": "Panama",
           "PE": "Peru",
           "PF": "Francúzska Polynézia",
-          "PG": "Papua Nová Guinea",
+          "PG": "Papua-Nová Guinea",
           "PH": "Filipíny",
           "PK": "Pakistan",
           "PL": "Poľsko",
@@ -292,7 +293,7 @@
           "UA": "Ukrajina",
           "UG": "Uganda",
           "UM": "Menšie odľahlé ostrovy USA",
-          "UN": "OSN",
+          "UN": "Organizácia Spojených národov",
           "UN-alt-short": "OSN",
           "US": "Spojené štáty",
           "US-alt-short": "USA",

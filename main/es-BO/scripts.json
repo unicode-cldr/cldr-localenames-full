@@ -3,8 +3,8 @@
     "es-BO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "BO"
@@ -32,7 +32,7 @@
           "Bugi": "buginés",
           "Buhd": "buhid",
           "Cakm": "Cakm",
-          "Cans": "símbolos aborígenes canadienses unificados",
+          "Cans": "silabarios aborígenes canadienses unificados",
           "Cari": "cario",
           "Cham": "cham",
           "Cher": "cherokee",
@@ -52,12 +52,13 @@
           "Geok": "georgiano eclesiástico",
           "Geor": "georgiano",
           "Glag": "glagolítico",
+          "Gonm": "Gonm",
           "Goth": "gótico",
           "Gran": "Gran",
           "Grek": "griego",
           "Gujr": "gujarati",
           "Guru": "gurmuji",
-          "Hanb": "hanb",
+          "Hanb": "han con bopomofo",
           "Hang": "hangul",
           "Hani": "han",
           "Hano": "hanunoo",
@@ -105,7 +106,7 @@
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "meroítico",
-          "Mlym": "malayálam",
+          "Mlym": "malayalam",
           "Modi": "Modi",
           "Mong": "mongol",
           "Moon": "moon",
@@ -117,6 +118,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "n’ko",
+          "Nshu": "Nshu",
           "Ogam": "ogham",
           "Olck": "ol ciki",
           "Orkh": "orkhon",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "cingalés",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "sundanés",
           "Sylo": "syloti nagri",
           "Syrc": "siriaco",
@@ -174,6 +177,7 @@
           "Xpeo": "persa antiguo",
           "Xsux": "cuneiforme sumerio-acadio",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "heredado",
           "Zmth": "notación matemática",
           "Zsye": "emojis",

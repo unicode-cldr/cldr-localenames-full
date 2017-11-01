@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ta",
         "territory": "MY"
@@ -50,7 +50,7 @@
             "islamic-civil": "இஸ்லாமிய சிவில் நாள்காட்டி",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-umalqura": "இஸ்லாமிய நாள்காட்டி (உம்-அல்-குரா)",
             "iso8601": "ISO-8601 நாள்காட்டி",
             "japanese": "ஜப்பானிய நாள்காட்டி",
             "persian": "பெர்சியன் நாள்காட்டி",
@@ -79,11 +79,11 @@
           },
           "collation": {
             "big5han": "பாரம்பரிய சீன வரிசை வடிவம் - Big5",
-            "compat": "compat",
+            "compat": "முந்தைய வரிசை வடிவம், இணக்கத்தன்மைக்கு",
             "dictionary": "அகராதி வரிசை முறை",
             "ducet": "இயல்புநிலை யுனிகோட் வரிசை முறை",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "ஐரோப்பிய வரிசைப்படுத்தல் விதிகள்",
             "gb2312han": "எளிமையாக்கப்பட்ட சீன வரிசை வடிவம் - GB2312",
             "phonebook": "தொலைபேசி புத்தக வரிசை முறை",
             "phonetic": "ஒலியியல் வரிசைப்படுத்தல் முறை",
@@ -129,7 +129,7 @@
             "strict": "கண்டிப்பான வரி முறிப்பு ஸ்டைல்"
           },
           "m0": {
-            "bgn": "BGN",
+            "bgn": "யூஎஸ் பிஜிஎன் ஒலிபெயர்ப்பு",
             "ungegn": "UNGEGN"
           },
           "ms": {
@@ -154,6 +154,7 @@
             "finance": "நிதி எண்கள்",
             "fullwide": "முழு-அகல இலக்கங்கள்",
             "geor": "ஜார்ஜியன் எண்கள்",
+            "gonm": "gonm",
             "grek": "கிரீக் எண்கள்",
             "greklow": "கிரீக் சிற்றெழுத்து எண்கள்",
             "gujr": "குஜராத்தி இலக்கங்கள்",

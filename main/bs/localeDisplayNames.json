@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "bs"
       },
@@ -68,6 +68,10 @@
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
+          "d0": {
+            "fwidth": "Široki",
+            "hwidth": "Uski"
+          },
           "hc": {
             "h11": "12-satni format (0-11)",
             "h12": "12-satni format (1-12)",
@@ -78,6 +82,10 @@
             "loose": "Slobodni stil prijeloma reda",
             "normal": "Normalni stil prijeloma reda",
             "strict": "Strogi stil prijeloma reda"
+          },
+          "m0": {
+            "bgn": "US BGN transliteracija",
+            "ungegn": "UN GEGN transliteracija"
           },
           "ms": {
             "metric": "metrički sistem",
@@ -100,6 +108,7 @@
             "ethi": "etiopski brojevi",
             "fullwide": "široki brojevi",
             "geor": "gruzijski brojevi",
+            "gonm": "gonm",
             "grek": "grčki brojevi",
             "greklow": "mali grčki brojevi",
             "gujr": "brojevi pisma gudžarati",

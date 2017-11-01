@@ -3,8 +3,8 @@
     "da": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "da"
       },
@@ -78,7 +78,7 @@
           },
           "collation": {
             "big5han": "sorteringsrækkefølge uforkortet kinesisk - Big5",
-            "compat": "compat",
+            "compat": "tidligere sorteringsrækkefølge, kompatibilitet",
             "dictionary": "sorteringsrækkefølge for ordbog",
             "ducet": "Unicode-standardsortering",
             "emoji": "emoji",
@@ -112,8 +112,8 @@
             "tertiary": "Sortér efter accenter/store og små bogstaver/bredde"
           },
           "d0": {
-            "fwidth": "Fuld bredde",
-            "hwidth": "Halv bredde",
+            "fwidth": "fuld bredde",
+            "hwidth": "halv bredde",
             "npinyin": "Numerisk"
           },
           "hc": {
@@ -153,6 +153,7 @@
             "finance": "Finansielle tal",
             "fullwide": "tal i fuld bredde",
             "geor": "georgiske tal",
+            "gonm": "gonm",
             "grek": "græske tal",
             "greklow": "græske tal i små bogstaver",
             "gujr": "gujarati tal",

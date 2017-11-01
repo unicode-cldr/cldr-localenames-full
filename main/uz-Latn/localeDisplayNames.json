@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "uz",
         "script": "Latn"
@@ -44,7 +44,7 @@
             "iso8601": "ISO-8601 taqvimi",
             "japanese": "yapon taqvimi",
             "persian": "fors taqvimi",
-            "roc": "xitoy taqvimi"
+            "roc": "Mingo taqvimi"
           },
           "cf": {
             "account": "moliyaviy valyuta formati",
@@ -101,6 +101,7 @@
             "ethi": "habash raqamlari",
             "fullwide": "to‘liq enli raqamlar",
             "geor": "gruzin raqamlari",
+            "gonm": "gonm",
             "grek": "grek raqamlari",
             "greklow": "kichik grek raqamlari",
             "gujr": "gujarot raqamlari",

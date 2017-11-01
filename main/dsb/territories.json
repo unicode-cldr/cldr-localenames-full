@@ -3,8 +3,8 @@
     "dsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "dsb"
       },
@@ -39,6 +39,7 @@
           "151": "pódzajtšna Europa",
           "154": "pódpołnocna Europa",
           "155": "pódwjacorna Europa",
+          "202": "202",
           "419": "Łatyńska Amerika",
           "AC": "Ascension",
           "AD": "Andorra",

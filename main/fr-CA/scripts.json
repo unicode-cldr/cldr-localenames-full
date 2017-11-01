@@ -3,8 +3,8 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "fr",
         "territory": "CA"
@@ -52,6 +52,7 @@
           "Geok": "géorgien khoutsouri",
           "Geor": "géorgien",
           "Glag": "glagolitique",
+          "Gonm": "Gonm",
           "Goth": "gotique",
           "Gran": "Gran",
           "Grek": "grec",
@@ -117,6 +118,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "n’ko",
+          "Nshu": "Nshu",
           "Ogam": "ogam",
           "Olck": "ol tchiki",
           "Orkh": "orkhon",
@@ -147,6 +149,7 @@
           "Sind": "Sind",
           "Sinh": "cinghalais",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "sundanais",
           "Sylo": "sylotî nâgrî",
           "Syrc": "syriaque",
@@ -175,6 +178,7 @@
           "Xpeo": "cunéiforme persépolitain",
           "Xsux": "cunéiforme suméro-akkadien",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "hérité",
           "Zmth": "notation mathématique",
           "Zsye": "zsye",

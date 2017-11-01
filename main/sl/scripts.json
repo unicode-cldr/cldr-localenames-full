@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "sl"
       },
@@ -51,12 +51,13 @@
           "Geok": "cerkvenogruzijski",
           "Geor": "gruzijski",
           "Glag": "glagoliški",
+          "Gonm": "Gonm",
           "Goth": "gotski",
           "Gran": "Gran",
           "Grek": "grški",
           "Gujr": "gudžaratski",
           "Guru": "gurmuki",
-          "Hanb": "Hanb",
+          "Hanb": "Han + Bopomofo",
           "Hang": "hangul",
           "Hani": "kanji",
           "Hano": "hanunski",
@@ -69,7 +70,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahavhmonska zlogovna pisava",
-          "Hrkt": "katakana ali hiragana",
+          "Hrkt": "japonska zlogovnica",
           "Hung": "staroogrski",
           "Inds": "induški",
           "Ital": "staroitalski",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "Nkoo",
+          "Nshu": "Nshu",
           "Ogam": "ogamski",
           "Olck": "santalski",
           "Orkh": "orkonski",
@@ -146,6 +148,7 @@
           "Sind": "Sind",
           "Sinh": "sinhalski",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "sundanski",
           "Sylo": "siletsko-nagarijski",
           "Syrc": "sirijski",
@@ -174,9 +177,10 @@
           "Xpeo": "staroperzijski",
           "Xsux": "sumersko-akadski klinopis",
           "Yiii": "Yiii",
+          "Zanb": "Zanb",
           "Zinh": "podedovan",
           "Zmth": "matematična znamenja",
-          "Zsye": "Zsye",
+          "Zsye": "čustvenček",
           "Zsym": "simboli",
           "Zxxx": "nenapisano",
           "Zyyy": "splošno",

@@ -3,8 +3,8 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "en",
         "territory": "CA"
@@ -79,7 +79,7 @@
           "bkm": "Kom",
           "bla": "Siksika",
           "bm": "Bambara",
-          "bn": "Bangla",
+          "bn": "Bengali",
           "bo": "Tibetan",
           "bpy": "Bishnupriya",
           "bqi": "Bakhtiari",
@@ -99,6 +99,7 @@
           "car": "Carib",
           "cay": "Cayuga",
           "cch": "Atsam",
+          "ccp": "Chakma",
           "ce": "Chechen",
           "ceb": "Cebuano",
           "cgg": "Chiga",
@@ -334,6 +335,7 @@
           "ln": "Lingala",
           "lo": "Lao",
           "lol": "Mongo",
+          "lou": "Louisiana Creole",
           "loz": "Lozi",
           "lrc": "Northern Luri",
           "lt": "Lithuanian",
@@ -360,7 +362,7 @@
           "mdr": "Mandar",
           "men": "Mende",
           "mer": "Meru",
-          "mfe": "Morisyen",
+          "mfe": "Mauritian",
           "mg": "Malagasy",
           "mga": "Middle Irish",
           "mgh": "Makhuwa-Meetto",
@@ -468,7 +470,7 @@
           "rm": "Romansh",
           "rn": "Rundi",
           "ro": "Romanian",
-          "ro-MD": "Moldavian",
+          "ro-MD": "Moldovan",
           "rof": "Rombo",
           "rom": "Romany",
           "root": "Root",
@@ -575,7 +577,7 @@
           "tt": "Tatar",
           "ttt": "Muslim Tat",
           "tum": "Tumbuka",
-          "tvl": "Tuvalu",
+          "tvl": "Tuvaluan",
           "tw": "Twi",
           "twq": "Tasawaq",
           "ty": "Tahitian",

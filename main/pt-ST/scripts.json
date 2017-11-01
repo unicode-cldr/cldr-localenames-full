@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "pt",
         "territory": "ST"
@@ -52,12 +52,13 @@
           "Geok": "khutsuri georgiano",
           "Geor": "georgiano",
           "Glag": "glagolítico",
+          "Gonm": "Gonm",
           "Goth": "gótico",
           "Gran": "Gran",
           "Grek": "grego",
           "Gujr": "guzerate",
           "Guru": "gurmuqui",
-          "Hanb": "hanb",
+          "Hanb": "han com bopomofo",
           "Hang": "hangul",
           "Hani": "han",
           "Hano": "hanunoo",
@@ -117,10 +118,11 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "n’ko",
+          "Nshu": "Nshu",
           "Ogam": "ogâmico",
           "Olck": "ol chiki",
           "Orkh": "orkhon",
-          "Orya": "oriya",
+          "Orya": "odia",
           "Osge": "Osge",
           "Osma": "osmania",
           "Palm": "Palm",
@@ -147,6 +149,7 @@
           "Sind": "Sind",
           "Sinh": "cingalês",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "sundanês",
           "Sylo": "siloti nagri",
           "Syrc": "siríaco",
@@ -175,6 +178,7 @@
           "Xpeo": "persa antigo",
           "Xsux": "sumério-acadiano cuneiforme",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "herdado",
           "Zmth": "notação matemática",
           "Zsye": "emoji",

@@ -1,12 +1,13 @@
 {
   "main": {
-    "yue": {
+    "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13680 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hant"
       },
       "localeDisplayNames": {
         "localeDisplayPattern": {
@@ -153,6 +154,7 @@
             "finance": "金融數字",
             "fullwide": "全形數字",
             "geor": "喬治亞數字",
+            "gonm": "gonm",
             "grek": "希臘數字",
             "greklow": "小寫希臘數字",
             "gujr": "古吉拉特數字",

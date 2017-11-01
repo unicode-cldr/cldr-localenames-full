@@ -1,12 +1,13 @@
 {
   "main": {
-    "yue": {
+    "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13680 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hant"
       },
       "localeDisplayNames": {
         "scripts": {
@@ -52,6 +53,7 @@
           "Geok": "喬治亞語系（阿索他路里和努斯克胡里文）",
           "Geor": "喬治亞文",
           "Glag": "格拉哥里文",
+          "Gonm": "Gonm",
           "Goth": "歌德文",
           "Gran": "格蘭他文字",
           "Grek": "希臘文",
@@ -152,6 +154,7 @@
           "Sind": "信德文",
           "Sinh": "錫蘭文",
           "Sora": "索朗桑朋文字",
+          "Soyo": "Soyo",
           "Sund": "巽他文",
           "Sylo": "希洛弟納格里文",
           "Syrc": "敍利亞文",
@@ -181,6 +184,7 @@
           "Xpeo": "古波斯文",
           "Xsux": "蘇米魯亞甲文楔形文字",
           "Yiii": "彞文",
+          "Zanb": "Zanb",
           "Zinh": "繼承文字（Unicode）",
           "Zmth": "數學符號",
           "Zsye": "表情符號",

@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "id"
       },
@@ -127,7 +127,7 @@
           "din": "Dinka",
           "dje": "Zarma",
           "doi": "Dogri",
-          "dsb": "Sorbia Rendah",
+          "dsb": "Sorbia Hilir",
           "dua": "Duala",
           "dum": "Belanda Abad Pertengahan",
           "dv": "Divehi",
@@ -170,6 +170,7 @@
           "fr": "Prancis",
           "fr-CA": "Prancis (Kanada)",
           "fr-CH": "Prancis (Swiss)",
+          "frc": "Prancis Cajun",
           "frm": "Prancis Abad Pertengahan",
           "fro": "Prancis Kuno",
           "frp": "Arpitan",
@@ -213,7 +214,7 @@
           "hmn": "Hmong",
           "ho": "Hiri Motu",
           "hr": "Kroasia",
-          "hsb": "Sorbia Atas",
+          "hsb": "Sorbia Hulu",
           "hsn": "hsn",
           "ht": "Kreol Haiti",
           "hu": "Hungaria",
@@ -302,6 +303,7 @@
           "ln": "Lingala",
           "lo": "Lao",
           "lol": "Mongo",
+          "lou": "Kreol Louisiana",
           "loz": "Lozi",
           "lrc": "Luri Utara",
           "lt": "Lituavi",
@@ -470,10 +472,10 @@
           "sms": "Skolt Sami",
           "sn": "Shona",
           "snk": "Soninke",
-          "so": "Somali",
+          "so": "Somalia",
           "sog": "Sogdien",
           "sq": "Albania",
-          "sr": "Serb",
+          "sr": "Serbia",
           "srn": "Sranan Tongo",
           "srr": "Serer",
           "ss": "Swati",
@@ -485,7 +487,7 @@
           "sux": "Sumeria",
           "sv": "Swedia",
           "sw": "Swahili",
-          "sw-CD": "Kongo Swahili",
+          "sw-CD": "Swahili (Kongo)",
           "swb": "Komoria",
           "syc": "Suriah Klasik",
           "syr": "Suriah",

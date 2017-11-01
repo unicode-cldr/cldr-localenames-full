@@ -3,8 +3,8 @@
     "az-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "az",
         "script": "Cyrl"
@@ -118,6 +118,7 @@
           "fr": "франсыз",
           "fr-CA": "Канада франсызҹасы",
           "fr-CH": "Исвечрә франсызҹасы",
+          "frc": "frc",
           "fur": "фриул",
           "fy": "гәрби фриз",
           "ga": "ирланд",
@@ -213,6 +214,7 @@
           "lkt": "лакота",
           "ln": "лингала",
           "lo": "лаос",
+          "lou": "lou",
           "loz": "лози",
           "lrc": "шимали лури",
           "lt": "литва",

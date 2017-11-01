@@ -3,8 +3,8 @@
     "smn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "smn"
       },
@@ -117,6 +117,7 @@
           "fr": "ranskakielâ",
           "fr-CA": "Kanada ranskakielâ",
           "fr-CH": "Sveitsi ranskakielâ",
+          "frc": "frc",
           "fur": "friulikielâ",
           "fy": "viestârfriisi",
           "ga": "iirikielâ",
@@ -213,6 +214,7 @@
           "lkt": "lakotakielâ",
           "ln": "lingala",
           "lo": "laokielâ",
+          "lou": "lou",
           "loz": "lozi",
           "lrc": "taveluri",
           "lt": "liettuakielâ",

@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "vi"
       },
@@ -244,7 +244,7 @@
           "inh": "Tiếng Ingush",
           "io": "Tiếng Ido",
           "is": "Tiếng Iceland",
-          "it": "Tiếng Ý",
+          "it": "Tiếng Italy",
           "iu": "Tiếng Inuktitut",
           "izh": "Tiếng Ingria",
           "ja": "Tiếng Nhật",
@@ -256,7 +256,7 @@
           "jrb": "Tiếng Judeo-Ả Rập",
           "jut": "Tiếng Jutish",
           "jv": "Tiếng Java",
-          "ka": "Tiếng Gruzia",
+          "ka": "Tiếng Georgia",
           "kaa": "Tiếng Kara-Kalpak",
           "kab": "Tiếng Kabyle",
           "kac": "Tiếng Kachin",
@@ -279,7 +279,7 @@
           "kkj": "Tiếng Kako",
           "kl": "Tiếng Kalaallisut",
           "kln": "Tiếng Kalenjin",
-          "km": "Tiếng Khơ-me",
+          "km": "Tiếng Khmer",
           "kmb": "Tiếng Kimbundu",
           "kn": "Tiếng Kannada",
           "ko": "Tiếng Hàn",
@@ -314,6 +314,7 @@
           "ln": "Tiếng Lingala",
           "lo": "Tiếng Lào",
           "lol": "Tiếng Mongo",
+          "lou": "Tiếng Creole Louisiana",
           "loz": "Tiếng Lozi",
           "lrc": "Tiếng Bắc Luri",
           "lt": "Tiếng Litva",
@@ -530,7 +531,7 @@
           "tyv": "Tiếng Tuvinian",
           "tzm": "Tiếng Tamazight Miền Trung Ma-rốc",
           "udm": "Tiếng Udmurt",
-          "ug": "Tiếng Duy Ngô Nhĩ",
+          "ug": "Tiếng Uyghur",
           "uga": "Tiếng Ugaritic",
           "uk": "Tiếng Ucraina",
           "umb": "Tiếng Umbundu",

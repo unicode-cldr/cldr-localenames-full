@@ -3,8 +3,8 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "es"
       },
@@ -31,7 +31,7 @@
           "Bugi": "buginés",
           "Buhd": "buhid",
           "Cakm": "Cakm",
-          "Cans": "símbolos aborígenes canadienses unificados",
+          "Cans": "silabarios aborígenes canadienses unificados",
           "Cari": "cario",
           "Cham": "cham",
           "Cher": "cherokee",
@@ -51,6 +51,7 @@
           "Geok": "georgiano eclesiástico",
           "Geor": "georgiano",
           "Glag": "glagolítico",
+          "Gonm": "Gonm",
           "Goth": "gótico",
           "Gran": "Gran",
           "Grek": "griego",
@@ -116,6 +117,7 @@
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "n’ko",
+          "Nshu": "Nshu",
           "Ogam": "ogham",
           "Olck": "ol ciki",
           "Orkh": "orkhon",
@@ -145,6 +147,7 @@
           "Sind": "Sind",
           "Sinh": "cingalés",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "sundanés",
           "Sylo": "syloti nagri",
           "Syrc": "siriaco",
@@ -173,6 +176,7 @@
           "Xpeo": "persa antiguo",
           "Xsux": "cuneiforme sumerio-acadio",
           "Yiii": "yi",
+          "Zanb": "Zanb",
           "Zinh": "heredado",
           "Zmth": "notación matemática",
           "Zsye": "emojis",

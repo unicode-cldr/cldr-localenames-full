@@ -3,8 +3,8 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "en",
         "territory": "CA"
@@ -56,8 +56,8 @@
             "buddhist": "Buddhist Calendar",
             "chinese": "Chinese Calendar",
             "coptic": "Coptic Calendar",
-            "dangi": "Dangi Calendar",
-            "ethiopic": "Ethiopic Calendar",
+            "dangi": "Korean Calendar",
+            "ethiopic": "Ethiopian Calendar",
             "ethiopic-amete-alem": "Ethiopic Amete Alem Calendar",
             "gregorian": "Gregorian Calendar",
             "hebrew": "Hebrew Calendar",
@@ -271,6 +271,7 @@
             "finance": "Financial Numerals",
             "fullwide": "Full-Width Digits",
             "geor": "Georgian Numerals",
+            "gonm": "Masaram Gondi digits",
             "grek": "Greek Numerals",
             "greklow": "Greek Lowercase Numerals",
             "gujr": "Gujarati Digits",

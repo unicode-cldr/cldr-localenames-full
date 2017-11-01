@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "fr",
         "territory": "NE"
@@ -331,6 +331,7 @@
           "ln": "lingala",
           "lo": "lao",
           "lol": "mongo",
+          "lou": "créole louisianais",
           "loz": "lozi",
           "lrc": "lori du Nord",
           "lt": "lituanien",
@@ -575,8 +576,8 @@
           "tw": "twi",
           "twq": "tasawaq",
           "ty": "tahitien",
-          "tyv": "touva",
-          "tzm": "tamazight du Maroc central",
+          "tyv": "touvain",
+          "tzm": "amazighe de l’Atlas central",
           "udm": "oudmourte",
           "ug": "ouïghour",
           "ug-alt-variant": "ouïgour",

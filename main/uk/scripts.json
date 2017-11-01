@@ -3,14 +3,14 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13712 $",
+          "_cldrVersion": "32"
         },
         "language": "uk"
       },
       "localeDisplayNames": {
         "scripts": {
-          "Adlm": "Adlm",
+          "Adlm": "адлам",
           "Afak": "афака",
           "Aghb": "кавказька албанська",
           "Ahom": "ахом",
@@ -52,6 +52,7 @@
           "Geok": "кхутсурі",
           "Geor": "грузинська",
           "Glag": "глаголичний",
+          "Gonm": "Gonm",
           "Goth": "готичний",
           "Gran": "Gran",
           "Grek": "грецька",
@@ -116,13 +117,14 @@
           "Mymr": "мʼянмська",
           "Narb": "Narb",
           "Nbat": "Nbat",
-          "Newa": "Newa",
+          "Newa": "нева",
           "Nkoo": "нко",
+          "Nshu": "Nshu",
           "Ogam": "огамічний",
           "Olck": "сантальський",
           "Orkh": "орхонський",
           "Orya": "орія",
-          "Osge": "Osge",
+          "Osge": "осейджиська",
           "Osma": "османський",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -148,6 +150,7 @@
           "Sind": "Sind",
           "Sinh": "сингальська",
           "Sora": "Sora",
+          "Soyo": "Soyo",
           "Sund": "сунданський",
           "Sylo": "сілоті нагрі",
           "Syrc": "сирійський",
@@ -176,6 +179,7 @@
           "Xpeo": "давньоперський",
           "Xsux": "шумеро-аккадський клінопис",
           "Yiii": "йї",
+          "Zanb": "Zanb",
           "Zinh": "успадкована",
           "Zmth": "математична",
           "Zsye": "емодзі",

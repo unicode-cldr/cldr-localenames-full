@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "nl"
       },
@@ -21,7 +21,7 @@
           "af": "Afrikaans",
           "afh": "Afrihili",
           "agq": "Aghem",
-          "ain": "Ainu",
+          "ain": "Aino",
           "ak": "Akan",
           "akk": "Akkadisch",
           "akz": "Alabama",
@@ -330,6 +330,7 @@
           "ln": "Lingala",
           "lo": "Laotiaans",
           "lol": "Mongo",
+          "lou": "Louisiana-Creools",
           "loz": "Lozi",
           "lrc": "Noordelijk Luri",
           "lt": "Litouws",
@@ -393,7 +394,7 @@
           "nb": "Noors - Bokmål",
           "nd": "Noord-Ndebele",
           "nds": "Nedersaksisch",
-          "nds-NL": "Nedersaksisch (Nederland)",
+          "nds-NL": "Nederduits",
           "ne": "Nepalees",
           "new": "Newari",
           "ng": "Ndonga",

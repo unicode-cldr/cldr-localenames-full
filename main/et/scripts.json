@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "et"
       },
@@ -52,6 +52,7 @@
           "Geok": "hutsuri",
           "Geor": "gruusia",
           "Glag": "glagoolitsa",
+          "Gonm": "Masarami gondi",
           "Goth": "gooti",
           "Gran": "grantha",
           "Grek": "kreeka",
@@ -118,7 +119,7 @@
           "Mymr": "birma",
           "Narb": "Põhja-Araabia",
           "Nbat": "Nabatea",
-          "Newa": "Newa",
+          "Newa": "nevari",
           "Nkgb": "nasi",
           "Nkoo": "nkoo",
           "Nshu": "nüšu",
@@ -126,7 +127,7 @@
           "Olck": "santali",
           "Orkh": "Orhoni",
           "Orya": "oria",
-          "Osge": "Osge",
+          "Osge": "oseidži",
           "Osma": "osmani",
           "Palm": "Palmyra",
           "Pauc": "Pauc",
@@ -152,6 +153,7 @@
           "Sind": "hudavadi",
           "Sinh": "singali",
           "Sora": "sora",
+          "Soyo": "sojombo",
           "Sund": "sunda",
           "Sylo": "siloti",
           "Syrc": "süüria",
@@ -181,6 +183,7 @@
           "Xpeo": "vanapärsia",
           "Xsux": "sumeri-akadi kiilkiri",
           "Yiii": "jii",
+          "Zanb": "Dzanabadzari ruutkiri",
           "Zinh": "päritud",
           "Zmth": "matemaatiline tähistus",
           "Zsye": "emoji",

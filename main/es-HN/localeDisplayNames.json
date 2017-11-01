@@ -3,8 +3,8 @@
     "es-HN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "HN"
@@ -18,10 +18,10 @@
         "keys": {
           "calendar": "calendario",
           "cf": "formato de moneda",
-          "colAlternate": "Orden ignorando símbolos",
-          "colBackwards": "Orden de acentos con inversión",
-          "colCaseFirst": "Orden de mayúsculas/minúsculas",
-          "colCaseLevel": "Orden con distinción entre mayúsculas y minúsculas",
+          "colAlternate": "orden ignorando símbolos",
+          "colBackwards": "orden de acentos con inversión",
+          "colCaseFirst": "orden de mayúsculas/minúsculas",
+          "colCaseLevel": "orden con distinción entre mayúsculas y minúsculas",
           "collation": "orden",
           "colNormalization": "Orden con normalización",
           "colNumeric": "Orden numérico",
@@ -61,31 +61,31 @@
             "standard": "formato de moneda estándar"
           },
           "colAlternate": {
-            "non-ignorable": "Ordenar símbolos",
-            "shifted": "Ordenar ignorando símbolos"
+            "non-ignorable": "ordenar símbolos",
+            "shifted": "ordenar ignorando símbolos"
           },
           "colBackwards": {
-            "no": "Ordenar acentos normalmente",
-            "yes": "Ordenar acentos con inversión"
+            "no": "ordenar acentos normalmente",
+            "yes": "ordenar acentos con inversión"
           },
           "colCaseFirst": {
-            "lower": "Ordenar empezando por minúsculas",
-            "no": "Ordenar siguiendo orden normal de mayúsculas y minúsculas",
-            "upper": "Ordenar empezando por mayúsculas"
+            "lower": "ordenar empezando por minúsculas",
+            "no": "ordenar siguiendo orden normal de mayúsculas y minúsculas",
+            "upper": "ordenar empezando por mayúsculas"
           },
           "colCaseLevel": {
-            "no": "Ordenar sin distinguir entre mayúsculas y minúsculas",
-            "yes": "Ordenar distinguiendo entre mayúsculas y minúsculas"
+            "no": "ordenar sin distinguir entre mayúsculas y minúsculas",
+            "yes": "ordenar distinguiendo entre mayúsculas y minúsculas"
           },
           "collation": {
             "big5han": "orden del chino tradicional - Big5",
-            "compat": "compat",
+            "compat": "orden anterior, para compatibilidad",
             "dictionary": "orden de clasificación del diccionario",
             "ducet": "orden predeterminado de Unicode",
             "emoji": "emoji",
-            "eor": "eor",
+            "eor": "reglas de orden europeas",
             "gb2312han": "orden del chino simplificado - GB2312",
-            "phonebook": "orden de listín telefónico",
+            "phonebook": "orden de agenda telefónica",
             "phonetic": "Orden de clasificación fonético",
             "pinyin": "orden pinyin",
             "reformed": "orden de clasificación reformado",
@@ -113,8 +113,8 @@
             "tertiary": "Ordenar acentos/mayúsculas y minúsculas/ancho"
           },
           "d0": {
-            "fwidth": "Ancho completo",
-            "hwidth": "Ancho medio",
+            "fwidth": "ancho completo",
+            "hwidth": "ancho medio",
             "npinyin": "Numérico"
           },
           "hc": {
@@ -129,13 +129,13 @@
             "strict": "salto de línea estricto"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliteración USBGN",
+            "ungegn": "transliteración UNGEGN"
           },
           "ms": {
-            "metric": "sistema métrico",
+            "metric": "Sistema Métrico de Unidades",
             "uksystem": "sistema inglés",
-            "ussystem": "sistema estadounidense"
+            "ussystem": "Sistema Anglosajón de Unidades"
           },
           "numbers": {
             "ahom": "ahom",
@@ -154,6 +154,7 @@
             "finance": "Números financieros",
             "fullwide": "dígitos de ancho completo",
             "geor": "números en georgiano",
+            "gonm": "gonm",
             "grek": "números en griego",
             "greklow": "números en griego en minúscula",
             "gujr": "dígitos en guyaratí",
@@ -210,10 +211,10 @@
             "telu": "dígitos en telugu",
             "thai": "dígitos en tailandés",
             "tibt": "dígitos en tibetano",
-            "tirh": "tirh",
-            "traditional": "Números tradicionales",
+            "tirh": "dígitos en tirh",
+            "traditional": "números traducionales",
             "vaii": "Dígitos vai",
-            "wara": "wara"
+            "wara": "dígitos en Warang Citi"
           }
         },
         "codePatterns": {
