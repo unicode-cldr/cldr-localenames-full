@@ -119,7 +119,7 @@
           "ES": "Španělsko",
           "ET": "Etiopie",
           "EU": "Evropská unie",
-          "EZ": "eurozóna",
+          "EZ": "Eurozóna",
           "FI": "Finsko",
           "FJ": "Fidži",
           "FK": "Falklandské ostrovy",
@@ -245,7 +245,7 @@
           "PW": "Palau",
           "PY": "Paraguay",
           "QA": "Katar",
-          "QO": "vnější Oceánie",
+          "QO": "Vnější Oceánie",
           "RE": "Réunion",
           "RO": "Rumunsko",
           "RS": "Srbsko",
@@ -314,7 +314,7 @@
           "ZA": "Jihoafrická republika",
           "ZM": "Zambie",
           "ZW": "Zimbabwe",
-          "ZZ": "neznámá oblast"
+          "ZZ": "Neznámá oblast"
         }
       }
     }
