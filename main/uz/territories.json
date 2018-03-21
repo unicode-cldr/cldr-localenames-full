@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "uz"
       },
@@ -39,7 +39,7 @@
           "151": "Sharqiy Yevropa",
           "154": "Shimoliy Yevropa",
           "155": "G‘arbiy Yevropa",
-          "202": "202",
+          "202": "Sahro janubidagi Afrika",
           "419": "Lotin Amerikasi",
           "AC": "Me’roj oroli",
           "AD": "Andorra",

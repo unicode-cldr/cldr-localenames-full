@@ -3,8 +3,8 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "ms",
         "territory": "SG"
@@ -33,6 +33,7 @@
           "arn": "Mapuche",
           "arp": "Arapaho",
           "arq": "Arab Algeria",
+          "ars": "Arab Najdi",
           "ary": "Arab Maghribi",
           "arz": "Arab Mesir",
           "as": "Assam",

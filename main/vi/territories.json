@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "vi"
       },
@@ -39,7 +39,7 @@
           "151": "Đông Âu",
           "154": "Bắc Âu",
           "155": "Tây Âu",
-          "202": "202",
+          "202": "Châu Phi hạ Sahara",
           "419": "Châu Mỹ La-tinh",
           "AC": "Đảo Ascension",
           "AD": "Andorra",
@@ -52,7 +52,7 @@
           "AO": "Angola",
           "AQ": "Nam Cực",
           "AR": "Argentina",
-          "AS": "Đảo Somoa thuộc Mỹ",
+          "AS": "Samoa thuộc Mỹ",
           "AT": "Áo",
           "AU": "Australia",
           "AW": "Aruba",

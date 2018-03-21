@@ -3,8 +3,8 @@
     "es-GQ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "es",
         "territory": "GQ"
@@ -40,7 +40,7 @@
           "151": "Europa oriental",
           "154": "Europa septentrional",
           "155": "Europa occidental",
-          "202": "202",
+          "202": "África subsahariana",
           "419": "Latinoamérica",
           "AC": "Isla de la Ascensión",
           "AD": "Andorra",

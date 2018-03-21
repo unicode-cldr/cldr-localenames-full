@@ -3,8 +3,8 @@
     "de-LU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "de",
         "territory": "LU"
@@ -40,6 +40,7 @@
           "aro": "Araona",
           "arp": "Arapaho",
           "arq": "Algerisches Arabisch",
+          "ars": "Nadschd-Arabisch",
           "arw": "Arawak",
           "ary": "Marokkanisches Arabisch",
           "arz": "Ägyptisches Arabisch",

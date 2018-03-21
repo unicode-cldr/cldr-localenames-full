@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "uz"
       },
@@ -245,7 +245,7 @@
           "min": "minangkabau",
           "mk": "makedon",
           "ml": "malayalam",
-          "mn": "mo‘g‘ul",
+          "mn": "mongol",
           "mni": "manipur",
           "moh": "mohauk",
           "mos": "mossi",
@@ -272,7 +272,7 @@
           "ng": "ndonga",
           "nia": "nias",
           "niu": "niue",
-          "nl": "golland",
+          "nl": "niderland",
           "nl-BE": "flamand",
           "nmg": "kvasio",
           "nn": "norveg-nyunorsk",

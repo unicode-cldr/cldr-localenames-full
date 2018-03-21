@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "zh",
         "script": "Hant",
@@ -41,6 +41,7 @@
           "aro": "阿拉奧納文",
           "arp": "阿拉帕霍文",
           "arq": "阿爾及利亞阿拉伯文",
+          "ars": "納吉迪阿拉伯文",
           "arw": "阿拉瓦克文",
           "ary": "摩洛哥阿拉伯文",
           "arz": "埃及阿拉伯文",

@@ -3,8 +3,8 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "fo",
         "territory": "DK"
@@ -50,7 +50,7 @@
           "bin": "bini",
           "bla": "siksika",
           "bm": "bambara",
-          "bn": "bengalskt",
+          "bn": "bangla",
           "bo": "tibetskt",
           "br": "bretonskt",
           "brx": "bodo",
@@ -148,7 +148,7 @@
           "hr": "kroatiskt",
           "hsb": "ovara sorbian",
           "hsn": "xiang kinesiskt",
-          "ht": "haitiskt",
+          "ht": "haitiskt creole",
           "hu": "ungarskt",
           "hup": "hupa",
           "hy": "armenskt",
@@ -292,7 +292,7 @@
           "nyn": "nyankole",
           "oc": "occitanskt",
           "om": "oromo",
-          "or": "oriya",
+          "or": "odia",
           "os": "ossetiskt",
           "pa": "punjabi",
           "pag": "pangasinan",

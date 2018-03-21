@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "sl"
       },
@@ -390,7 +390,7 @@
           "rm": "retoromanščina",
           "rn": "rundščina",
           "ro": "romunščina",
-          "ro-MD": "romunščina (Moldavija)",
+          "ro-MD": "moldavščina",
           "rof": "rombo",
           "rom": "romščina",
           "root": "rootščina",

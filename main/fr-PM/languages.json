@@ -3,8 +3,8 @@
     "fr-PM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "fr",
         "territory": "PM"
@@ -40,6 +40,7 @@
           "aro": "araona",
           "arp": "arapaho",
           "arq": "arabe algérien",
+          "ars": "arabe najdi",
           "arw": "arawak",
           "ary": "arabe marocain",
           "arz": "arabe égyptien",

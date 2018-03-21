@@ -3,8 +3,8 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "sr",
         "script": "Cyrl",

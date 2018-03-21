@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "ja"
       },
@@ -47,6 +47,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "イティハーサ",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "ヤウエル",
           "JYUTPING": "略称粤拼",
           "KKCOR": "共通コーンウォール語正書法",

@@ -3,8 +3,8 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "hr",
         "territory": "BA"
@@ -40,7 +40,7 @@
           "151": "Istočna Europa",
           "154": "Sjeverna Europa",
           "155": "Zapadna Europa",
-          "202": "202",
+          "202": "Subsaharska Afrika",
           "419": "Latinska Amerika",
           "AC": "Otok Ascension",
           "AD": "Andora",
@@ -240,7 +240,7 @@
           "PM": "Sveti Petar i Mikelon",
           "PN": "Otoci Pitcairn",
           "PR": "Portoriko",
-          "PS": "Palestinsko Područje",
+          "PS": "Palestinsko područje",
           "PS-alt-short": "Palestina",
           "PT": "Portugal",
           "PW": "Palau",

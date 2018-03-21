@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "ko",
         "territory": "KP"
@@ -48,6 +48,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "이띠아사",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "야우어",
           "JYUTPING": "JYUTPING",
           "KKCOR": "KKCOR",

@@ -3,8 +3,8 @@
     "nl-CW": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "nl",
         "territory": "CW"
@@ -48,6 +48,7 @@
           "HSISTEMO": "H-sistemo",
           "IJEKAVSK": "Servisch met Ijekaviaanse uitspraak",
           "ITIHASA": "Episch Sanskriet",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "Jauer",
           "JYUTPING": "Jyutping",
           "KKCOR": "Algemene spelling",

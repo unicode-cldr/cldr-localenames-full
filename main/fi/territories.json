@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13767 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "fi"
       },
@@ -39,7 +39,7 @@
           "151": "Itä-Eurooppa",
           "154": "Pohjois-Eurooppa",
           "155": "Länsi-Eurooppa",
-          "202": "202",
+          "202": "Saharan eteläpuolinen Afrikka",
           "419": "Latinalainen Amerikka",
           "AC": "Ascension-saari",
           "AD": "Andorra",

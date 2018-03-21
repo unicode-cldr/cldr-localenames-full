@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13712 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "uk"
       },
@@ -37,6 +37,7 @@
           "aro": "араона",
           "arp": "арапахо",
           "arq": "алжирська арабська",
+          "ars": "надждійська арабська",
           "arw": "аравакська",
           "as": "ассамська",
           "asa": "асу",

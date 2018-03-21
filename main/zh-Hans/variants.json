@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "zh",
         "script": "Hans"
@@ -48,6 +48,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "史诗梵文",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "米施泰尔方言",
           "JYUTPING": "粤语拼音",
           "KKCOR": "常用拼字",

@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "lv"
       },
@@ -39,7 +39,7 @@
           "151": "Austrumeiropa",
           "154": "Ziemeļeiropa",
           "155": "Rietumeiropa",
-          "202": "202",
+          "202": "Subsahāras Āfrika",
           "419": "Latīņamerika",
           "AC": "Debesbraukšanas sala",
           "AD": "Andora",

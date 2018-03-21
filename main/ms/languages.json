@@ -3,8 +3,8 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "ms"
       },
@@ -32,6 +32,7 @@
           "arn": "Mapuche",
           "arp": "Arapaho",
           "arq": "Arab Algeria",
+          "ars": "Arab Najdi",
           "ary": "Arab Maghribi",
           "arz": "Arab Mesir",
           "as": "Assam",

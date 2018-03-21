@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13708 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "yue",
         "script": "Hans"
@@ -48,6 +48,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "史诗梵文",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "米兹泰尔方言",
           "JYUTPING": "香港语言学学会粤语拼音",
           "KKCOR": "通用康沃尔文拼字",

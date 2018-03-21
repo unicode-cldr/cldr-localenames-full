@@ -3,8 +3,8 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "nb",
         "territory": "SJ"
@@ -48,6 +48,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "serbisk med ijekavisk uttale",
           "ITIHASA": "itihasa",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "jauer",
           "JYUTPING": "jyutping",
           "KKCOR": "felles ortografi",

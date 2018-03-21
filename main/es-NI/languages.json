@@ -3,8 +3,8 @@
     "es-NI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "es",
         "territory": "NI"
@@ -35,6 +35,7 @@
           "arc": "arameo",
           "arn": "mapuche",
           "arp": "arapaho",
+          "ars": "árabe de Néyed",
           "arw": "arahuaco",
           "as": "asamés",
           "asa": "asu",

@@ -3,14 +3,14 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "br"
       },
       "localeDisplayNames": {
         "scripts": {
-          "Adlm": "Adlm",
+          "Adlm": "adlam",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "arabek",
@@ -18,7 +18,7 @@
           "Armn": "armenianek",
           "Avst": "avestek",
           "Bali": "balinek",
-          "Bamu": "Bamu",
+          "Bamu": "bamounek",
           "Bass": "Bass",
           "Batk": "Batk",
           "Beng": "bengali",
@@ -51,7 +51,7 @@
           "Grek": "gresianek",
           "Gujr": "gujarati",
           "Guru": "gurmukhi",
-          "Hanb": "Hanb",
+          "Hanb": "han gant bopomofo",
           "Hang": "hangeul",
           "Hani": "han",
           "Hano": "Hano",
@@ -64,10 +64,10 @@
           "Hira": "hiragana",
           "Hluw": "hieroglifoù Anatolia",
           "Hmng": "Hmng",
-          "Hrkt": "Hrkt",
+          "Hrkt": "silabennaouegoù japanek",
           "Hung": "Hung",
           "Ital": "henitalek",
-          "Jamo": "Jamo",
+          "Jamo": "jamo",
           "Java": "javanek",
           "Jpan": "japanek",
           "Kali": "Kali",
@@ -166,7 +166,7 @@
           "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "notadur jedoniel",
-          "Zsye": "Zsye",
+          "Zsye": "fromlunioù",
           "Zsym": "arouezioù",
           "Zxxx": "anskrivet",
           "Zyyy": "boutin",

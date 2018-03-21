@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "id"
       },
@@ -37,6 +37,7 @@
           "arn": "Mapuche",
           "arp": "Arapaho",
           "arq": "Arab Aljazair",
+          "ars": "Arab Najdi",
           "arw": "Arawak",
           "ary": "Arab Maroko",
           "arz": "Arab Mesir",

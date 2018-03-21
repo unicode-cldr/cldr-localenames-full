@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "az"
       },
@@ -39,7 +39,7 @@
           "151": "Şərqi Avropa",
           "154": "Şimali Avropa",
           "155": "Qərbi Avropa",
-          "202": "202",
+          "202": "Saharadan cənub",
           "419": "Latın Amerikası",
           "AC": "Askenson adası",
           "AD": "Andorra",

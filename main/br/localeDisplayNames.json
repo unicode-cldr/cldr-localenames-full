@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "br"
       },
@@ -16,7 +16,7 @@
         },
         "keys": {
           "calendar": "deiziadur",
-          "cf": "cf",
+          "cf": "furmad moneiz",
           "collation": "doare rummañ",
           "currency": "moneiz",
           "hc": "kelcʼhiad eurioù",
@@ -47,14 +47,14 @@
           },
           "cf": {
             "account": "account",
-            "standard": "standard"
+            "standard": "furmad moneiz standart"
           },
           "collation": {
             "big5han": "urzh rummañ sinaek hengounel - Big5",
             "compat": "compat",
             "dictionary": "urzh rummañ ar geriadur",
             "ducet": "urzh rummañ Unicode dre ziouer",
-            "emoji": "emoji",
+            "emoji": "urzh rummañ ar fromlunioù",
             "eor": "reolennoù urzhiañ europat",
             "gb2312han": "urzh rummañ sinaek eeunaet - GB2312",
             "phonebook": "urzh rummañ al levr-pellgomz",
@@ -95,7 +95,7 @@
             "brah": "sifroù brahmi",
             "cakm": "sifroù chakma",
             "cham": "sifroù cham",
-            "cyrl": "cyrl",
+            "cyrl": "niveroù kirillek",
             "deva": "sifroù devanagari",
             "ethi": "niveroù etiopiat",
             "fullwide": "sifroù led plaen",

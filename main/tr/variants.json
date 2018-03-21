@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "tr"
       },
@@ -47,6 +47,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "JAUER",
           "JYUTPING": "JYUTPING",
           "KKCOR": "Ortak Yazım Kuralları",

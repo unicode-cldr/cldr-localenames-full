@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "fo"
       },
@@ -91,7 +91,7 @@
             "armn": "armensk tøl",
             "armnlow": "armensk tøl (smáir bókstavir)",
             "bali": "bali",
-            "beng": "bengalisk tøl",
+            "beng": "bangla tøl",
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
@@ -139,7 +139,7 @@
             "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
-            "orya": "oriya tøl",
+            "orya": "odia tøl",
             "osma": "osma",
             "roman": "rómartøl",
             "romanlow": "rómartøl (smáir bókstavir)",

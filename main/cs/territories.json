@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13711 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13915 $",
+          "_cldrVersion": "33"
         },
         "language": "cs"
       },
@@ -39,7 +39,7 @@
           "151": "východní Evropa",
           "154": "severní Evropa",
           "155": "západní Evropa",
-          "202": "202",
+          "202": "subsaharská Afrika",
           "419": "Latinská Amerika",
           "AC": "Ascension",
           "AD": "Andorra",

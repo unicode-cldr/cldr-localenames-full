@@ -3,8 +3,8 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "af"
       },
@@ -424,8 +424,8 @@
           "yue": "Kantonees",
           "zgh": "Standaard Marokkaanse Tamazight",
           "zh": "Sjinees",
-          "zh-Hans": "Sjinees (Vereenvoudig)",
-          "zh-Hant": "Sjinees (Tradisioneel)",
+          "zh-Hans": "Chinees (Vereenvoudig)",
+          "zh-Hant": "Chinees (Tradisioneel)",
           "zu": "Zoeloe",
           "zun": "Zuni",
           "zxx": "Geen taalinhoud nie",

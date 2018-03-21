@@ -3,8 +3,8 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13680 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "yue",
         "script": "Hant"
@@ -48,6 +48,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "史詩梵文",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "米茲泰爾方言",
           "JYUTPING": "香港語言學學會粵語拼音",
           "KKCOR": "通用康沃爾文拼字",

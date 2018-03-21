@@ -3,8 +3,8 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "tr",
         "territory": "CY"
@@ -40,7 +40,7 @@
           "151": "Doğu Avrupa",
           "154": "Kuzey Avrupa",
           "155": "Batı Avrupa",
-          "202": "202",
+          "202": "Sahra Altı Afrika",
           "419": "Latin Amerika",
           "AC": "Ascension Adası",
           "AD": "Andorra",

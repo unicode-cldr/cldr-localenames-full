@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "zh",
         "script": "Hant",
@@ -49,6 +49,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "耶卡發音塞爾維亞文",
           "ITIHASA": "史詩梵文",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "米茲泰爾方言",
           "JYUTPING": "香港語言學學會粵語拼音",
           "KKCOR": "通用康沃爾文拼字",

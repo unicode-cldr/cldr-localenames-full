@@ -3,8 +3,8 @@
     "en-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13711 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13873 $",
+          "_cldrVersion": "33"
         },
         "language": "en",
         "territory": "IN"
@@ -430,7 +430,7 @@
           "oc": "Occitan",
           "oj": "Ojibwa",
           "om": "Oromo",
-          "or": "Oriya",
+          "or": "Odia",
           "os": "Ossetic",
           "osa": "Osage",
           "ota": "Ottoman Turkish",
@@ -527,6 +527,7 @@
           "sog": "Sogdien",
           "sq": "Albanian",
           "sr": "Serbian",
+          "sr-ME": "Montenegrin",
           "srn": "Sranan Tongo",
           "srr": "Serer",
           "ss": "Swati",

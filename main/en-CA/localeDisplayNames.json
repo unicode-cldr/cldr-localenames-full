@@ -3,8 +3,8 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13722 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13873 $",
+          "_cldrVersion": "33"
         },
         "language": "en",
         "territory": "CA"
@@ -135,10 +135,10 @@
             "charname": "To Unicode Character Names",
             "fcc": "To Unicode FCC",
             "fcd": "To Unicode FCD",
-            "fwidth": "To Fullwidth",
+            "fwidth": "To Full Width",
             "hex": "To Hexadecimal Codes",
-            "hwidth": "To Halfwidth",
-            "lower": "To Lowercase",
+            "hwidth": "To Half Width",
+            "lower": "To Lower Case",
             "nfc": "To Unicode NFC",
             "nfd": "To Unicode NFD",
             "nfkc": "To Unicode NFKC",
@@ -147,8 +147,8 @@
             "null": "No Change",
             "publish": "To Publishing Characters From ASCII",
             "remove": "To Empty String",
-            "title": "To Titlecase",
-            "upper": "To Uppercase"
+            "title": "To Title Case",
+            "upper": "To Upper Case"
           },
           "em": {
             "default": "Use Default Presentation For Emoji Characters",

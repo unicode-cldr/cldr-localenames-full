@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "fo"
       },
@@ -21,7 +21,7 @@
           "Bamu": "Bamu",
           "Bass": "Bass",
           "Batk": "Batk",
-          "Beng": "bengali",
+          "Beng": "bangla",
           "Bhks": "Bhks",
           "Bopo": "bopomofo",
           "Brah": "Brah",
@@ -109,7 +109,7 @@
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
-          "Orya": "oriya",
+          "Orya": "odia",
           "Osge": "Osge",
           "Osma": "Osma",
           "Palm": "Palm",

@@ -3,8 +3,8 @@
     "pt-MZ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "pt",
         "territory": "MZ"
@@ -40,7 +40,7 @@
           "151": "Europa Oriental",
           "154": "Europa do Norte",
           "155": "Europa Ocidental",
-          "202": "202",
+          "202": "África subsariana",
           "419": "América Latina",
           "AC": "Ilha de Ascensão",
           "AD": "Andorra",

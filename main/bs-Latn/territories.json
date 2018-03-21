@@ -3,8 +3,8 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "bs",
         "script": "Latn"
@@ -40,7 +40,7 @@
           "151": "Istočna Evropa",
           "154": "Sjeverna Evropa",
           "155": "Zapadna Evropa",
-          "202": "202",
+          "202": "Subsaharska Afrika",
           "419": "Latinska Amerika",
           "AC": "Ostrvo Ascension",
           "AD": "Andora",

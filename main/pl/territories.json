@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13915 $",
+          "_cldrVersion": "33"
         },
         "language": "pl"
       },
@@ -39,7 +39,7 @@
           "151": "Europa Wschodnia",
           "154": "Europa Północna",
           "155": "Europa Zachodnia",
-          "202": "202",
+          "202": "Afryka Subsaharyjska",
           "419": "Ameryka Łacińska",
           "AC": "Wyspa Wniebowstąpienia",
           "AD": "Andora",
@@ -82,7 +82,7 @@
           "CA": "Kanada",
           "CC": "Wyspy Kokosowe",
           "CD": "Demokratyczna Republika Konga",
-          "CD-alt-variant": "CD",
+          "CD-alt-variant": "Kongo (DRK)",
           "CF": "Republika Środkowoafrykańska",
           "CG": "Kongo",
           "CG-alt-variant": "Republika Konga",

@@ -3,8 +3,8 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "fo",
         "territory": "DK"
@@ -40,7 +40,7 @@
           "151": "Eysturevropa",
           "154": "Norðurevropa",
           "155": "Vesturevropa",
-          "202": "202",
+          "202": "Afrika sunnanfyri Sahara",
           "419": "Latínamerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -68,7 +68,7 @@
           "BH": "Barein",
           "BI": "Burundi",
           "BJ": "Benin",
-          "BL": "St-Barthélemy",
+          "BL": "St. Barthélemy",
           "BM": "Bermuda",
           "BN": "Brunei",
           "BO": "Bolivia",
@@ -111,7 +111,7 @@
           "DM": "Dominika",
           "DO": "Dominikalýðveldið",
           "DZ": "Algeria",
-          "EA": "Ceuta og Melilla",
+          "EA": "Ceuta & Melilla",
           "EC": "Ekvador",
           "EE": "Estland",
           "EG": "Egyptaland",
@@ -124,7 +124,7 @@
           "FI": "Finnland",
           "FJ": "Fiji",
           "FK": "Falklandsoyggjar",
-          "FK-alt-variant": "FK",
+          "FK-alt-variant": "Falklandsoyggjar (Islas Malvinas)",
           "FM": "Mikronesiasamveldið",
           "FO": "Føroyar",
           "FR": "Frakland",
@@ -237,7 +237,7 @@
           "PH": "Filipsoyggjar",
           "PK": "Pakistan",
           "PL": "Pólland",
-          "PM": "Saint Pierre og Miquelon",
+          "PM": "Saint Pierre & Miquelon",
           "PN": "Pitcairnoyggjar",
           "PR": "Puerto Riko",
           "PS": "Palestinskt landøki",

@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "eu"
       },
@@ -15,7 +15,7 @@
           "ace": "acehnera",
           "ach": "acholiera",
           "ada": "adangmera",
-          "ady": "adyghera",
+          "ady": "adigera",
           "af": "afrikaansa",
           "agq": "aghemera",
           "ain": "ainuera",
@@ -36,7 +36,7 @@
           "awa": "awadhiera",
           "ay": "aimara",
           "az": "azerbaijanera",
-          "az-alt-short": "azeriera",
+          "az-alt-short": "azerbaijanera",
           "ba": "bashkirrera",
           "ban": "baliera",
           "bas": "basaa",

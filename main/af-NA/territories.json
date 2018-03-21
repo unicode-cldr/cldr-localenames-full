@@ -3,8 +3,8 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "af",
         "territory": "NA"
@@ -40,7 +40,7 @@
           "151": "Oos-Europa",
           "154": "Noord-Europa",
           "155": "Wes-Europa",
-          "202": "202",
+          "202": "Afrika suid van die Sahara",
           "419": "Latyns-Amerika",
           "AC": "Ascensioneiland",
           "AD": "Andorra",

@@ -3,8 +3,8 @@
     "pt-CV": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13571 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13912 $",
+          "_cldrVersion": "33"
         },
         "language": "pt",
         "territory": "CV"
@@ -35,6 +35,7 @@
           "arc": "aramaico",
           "arn": "mapuche",
           "arp": "arapaho",
+          "ars": "árabe do Négede",
           "arw": "arauaqui",
           "as": "assamês",
           "asa": "asu",
@@ -146,7 +147,7 @@
           "es": "espanhol",
           "es-419": "espanhol latino-americano",
           "es-ES": "espanhol europeu",
-          "es-MX": "espanhol (México)",
+          "es-MX": "espanhol mexicano",
           "et": "estónio",
           "eu": "basco",
           "ewo": "ewondo",

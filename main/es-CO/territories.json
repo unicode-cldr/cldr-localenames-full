@@ -3,8 +3,8 @@
     "es-CO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "es",
         "territory": "CO"
@@ -40,7 +40,7 @@
           "151": "Europa del Este",
           "154": "Europa del Norte",
           "155": "Europa del Oeste",
-          "202": "202",
+          "202": "África subsahariana",
           "419": "Latinoamérica",
           "AC": "Isla Ascensión",
           "AD": "Andorra",

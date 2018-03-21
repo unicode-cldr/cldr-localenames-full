@@ -3,8 +3,8 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13732 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13873 $",
+          "_cldrVersion": "33"
         },
         "language": "es",
         "territory": "MX"
@@ -40,7 +40,7 @@
           "151": "Europa Oriental",
           "154": "Europa septentrional",
           "155": "Europa Occidental",
-          "202": "202",
+          "202": "África subsahariana",
           "419": "Latinoamérica",
           "AC": "Isla Ascensión",
           "AD": "Andorra",

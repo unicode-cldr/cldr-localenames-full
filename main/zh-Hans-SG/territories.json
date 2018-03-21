@@ -3,8 +3,8 @@
     "zh-Hans-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "zh",
         "script": "Hans",
@@ -41,7 +41,7 @@
           "151": "东欧",
           "154": "北欧",
           "155": "西欧",
-          "202": "202",
+          "202": "撒哈拉以南非洲",
           "419": "拉丁美洲",
           "AC": "阿森松岛",
           "AD": "安道尔",

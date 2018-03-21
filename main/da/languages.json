@@ -3,8 +3,8 @@
     "da": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "da"
       },
@@ -34,6 +34,7 @@
           "arc": "aramæisk",
           "arn": "mapudungun",
           "arp": "arapaho",
+          "ars": "najd-arabisk",
           "arw": "arawak",
           "as": "assamesisk",
           "asa": "asu",
@@ -138,7 +139,7 @@
           "en-GB": "britisk engelsk",
           "en-GB-alt-short": "engelsk (UK)",
           "en-US": "amerikansk engelsk",
-          "en-US-alt-short": "engelsk (USA)",
+          "en-US-alt-short": "en-US",
           "enm": "middelengelsk",
           "eo": "esperanto",
           "es": "spansk",

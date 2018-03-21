@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "id"
       },
@@ -39,7 +39,7 @@
           "151": "Eropa Bagian Timur",
           "154": "Eropa Bagian Utara",
           "155": "Eropa Bagian Barat",
-          "202": "202",
+          "202": "Afrika Sub-Sahara",
           "419": "Amerika Latin",
           "AC": "Pulau Ascension",
           "AD": "Andorra",

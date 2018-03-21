@@ -3,8 +3,8 @@
     "ru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13758 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "ru"
       },
@@ -34,6 +34,7 @@
           "arc": "арамейский",
           "arn": "мапуче",
           "arp": "арапахо",
+          "ars": "арабская — недждийская",
           "arw": "аравакский",
           "as": "ассамский",
           "asa": "асу",

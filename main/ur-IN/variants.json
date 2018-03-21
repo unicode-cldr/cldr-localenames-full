@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "ur",
         "territory": "IN"
@@ -48,6 +48,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "ITIHASA",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "JAUER",
           "JYUTPING": "JYUTPING",
           "KKCOR": "KKCOR",

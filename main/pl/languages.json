@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13915 $",
+          "_cldrVersion": "33"
         },
         "language": "pl"
       },
@@ -39,6 +39,7 @@
           "aro": "araona",
           "arp": "arapaho",
           "arq": "algierski arabski",
+          "ars": "arabski nadżdyjski",
           "arw": "arawak",
           "ary": "marokański arabski",
           "arz": "egipski arabski",

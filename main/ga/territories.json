@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ga"
       },
@@ -39,7 +39,7 @@
           "151": "Oirthear na hEorpa",
           "154": "Tuaisceart na hEorpa",
           "155": "Iarthar na hEorpa",
-          "202": "202",
+          "202": "an Afraic fho-Shahárach",
           "419": "Meiriceá Laidineach",
           "AC": "Oileán na Deascabhála",
           "AD": "Andóra",
@@ -88,7 +88,7 @@
           "CG-alt-variant": "an Congó (Poblacht)",
           "CH": "an Eilvéis",
           "CI": "an Cósta Eabhair",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Côte d’Ivoire",
           "CK": "Oileáin Cook",
           "CL": "an tSile",
           "CM": "Camarún",

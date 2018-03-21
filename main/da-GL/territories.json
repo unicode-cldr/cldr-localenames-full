@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "da",
         "territory": "GL"
@@ -40,7 +40,7 @@
           "151": "Østeuropa",
           "154": "Nordeuropa",
           "155": "Vesteuropa",
-          "202": "202",
+          "202": "Afrika syd for Sahara",
           "419": "Latinamerika",
           "AC": "Ascensionøen",
           "AD": "Andorra",

@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "zh",
         "script": "Hant",
@@ -41,7 +41,7 @@
           "151": "東歐",
           "154": "北歐",
           "155": "西歐",
-          "202": "202",
+          "202": "撒哈拉撒沙漠以南非洲",
           "419": "拉丁美洲",
           "AC": "阿森松島",
           "AD": "安道爾",

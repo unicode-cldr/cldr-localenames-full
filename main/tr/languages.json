@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "tr"
       },
@@ -39,6 +39,7 @@
           "aro": "Araona",
           "arp": "Arapaho Dili",
           "arq": "Cezayir Arapçası",
+          "ars": "Necd Arapçası",
           "arw": "Arawak Dili",
           "ary": "Fas Arapçası",
           "arz": "Mısır Arapçası",

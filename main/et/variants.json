@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13722 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "et"
       },
@@ -47,6 +47,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "štokavi ije-line murrak",
           "ITIHASA": "ITIHASA",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "JAUER",
           "JYUTPING": "JYUTPING",
           "KKCOR": "üldlevinud kirjaviis",

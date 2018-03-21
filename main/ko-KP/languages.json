@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "ko",
         "territory": "KP"
@@ -37,6 +37,7 @@
           "arn": "마푸둔군어",
           "arp": "아라파호어",
           "arq": "알제리 아랍어",
+          "ars": "나즈디 아랍어",
           "arw": "아라와크어",
           "ary": "모로코 아랍어",
           "arz": "이집트 아랍어",

@@ -3,8 +3,8 @@
     "ca-ES-VALENCIA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "ca",
         "territory": "ES",
@@ -41,7 +41,7 @@
           "151": "Europa oriental",
           "154": "Europa septentrional",
           "155": "Europa occidental",
-          "202": "202",
+          "202": "Àfrica subsahariana",
           "419": "Amèrica Llatina",
           "AC": "Illa de l’Ascensió",
           "AD": "Andorra",

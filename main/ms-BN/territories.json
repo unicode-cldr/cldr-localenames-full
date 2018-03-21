@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "ms",
         "territory": "BN"
@@ -40,7 +40,7 @@
           "151": "Eropah Timur",
           "154": "Eropah Utara",
           "155": "Eropah Barat",
-          "202": "202",
+          "202": "Afrika Sub-Sahara",
           "419": "Amerika Latin",
           "AC": "Pulau Ascension",
           "AD": "Andorra",

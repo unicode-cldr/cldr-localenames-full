@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "gl"
       },
@@ -39,7 +39,7 @@
           "151": "Europa do Leste",
           "154": "Europa Setentrional",
           "155": "Europa Occidental",
-          "202": "202",
+          "202": "África subsahariana",
           "419": "América Latina",
           "AC": "Illa de Ascensión",
           "AD": "Andorra",

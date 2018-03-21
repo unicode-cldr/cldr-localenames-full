@@ -3,8 +3,8 @@
     "pa-Guru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "pa",
         "script": "Guru"
@@ -82,7 +82,7 @@
           "dav": "ਟੇਟਾ",
           "de": "ਜਰਮਨ",
           "de-AT": "ਜਰਮਨ (ਆਸਟਰੀਆਈ)",
-          "de-CH": "ਜਰਮਨ (ਸਵਿਟਜ਼ਰਲੈਂਡ)",
+          "de-CH": "ਹਾਈ ਜਰਮਨ (ਸਵਿਟਜ਼ਰਲੈਂਡ)",
           "dgr": "ਡੋਗਰਿੱਬ",
           "dje": "ਜ਼ਾਰਮਾ",
           "dsb": "ਲੋਅਰ ਸੋਰਬੀਅਨ",

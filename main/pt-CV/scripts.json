@@ -3,8 +3,8 @@
     "pt-CV": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13571 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13912 $",
+          "_cldrVersion": "33"
         },
         "language": "pt",
         "territory": "CV"

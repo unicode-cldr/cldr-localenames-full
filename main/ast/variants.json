@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ast"
       },
@@ -47,6 +47,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "serbiu con pronunciación Ijekaviana",
           "ITIHASA": "ITIHASA",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "JAUER",
           "JYUTPING": "JYUTPING",
           "KKCOR": "ortografía común",

@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13756 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "th"
       },
@@ -47,6 +47,7 @@
           "HSISTEMO": "HSISTEMO",
           "IJEKAVSK": "IJEKAVSK",
           "ITIHASA": "อิติหาสะ",
+          "IVANCHOV": "IVANCHOV",
           "JAUER": "เยาเออร์",
           "JYUTPING": "ระบบถอดอักษรแบบยวึดพิง",
           "KKCOR": "อักขรวิธีสามัญ",

@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "az"
       },
@@ -15,7 +15,7 @@
           "ace": "akin",
           "ach": "akoli",
           "ada": "adanqme",
-          "ady": "aduge",
+          "ady": "adıgey",
           "ae": "avestan",
           "af": "afrikaans",
           "afh": "afrihili",
@@ -86,7 +86,7 @@
           "chp": "çipevyan",
           "chr": "çeroki",
           "chy": "çeyen",
-          "ckb": "soran",
+          "ckb": "Mərkəzi kürdcə",
           "co": "korsika",
           "cop": "kopt",
           "cr": "kri",

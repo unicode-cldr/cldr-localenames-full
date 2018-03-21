@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "lt"
       },
@@ -39,7 +39,7 @@
           "151": "Rytų Europa",
           "154": "Šiaurės Europa",
           "155": "Vakarų Europa",
-          "202": "202",
+          "202": "Užsachario Afrika",
           "419": "Lotynų Amerika",
           "AC": "Dangun Žengimo sala",
           "AD": "Andora",

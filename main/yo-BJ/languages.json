@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13709 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "yo",
         "territory": "BJ"
