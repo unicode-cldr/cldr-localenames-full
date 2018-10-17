@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "bg"
       },
@@ -153,6 +153,7 @@
             "finance": "Финансови цифри",
             "fullwide": "цифри с пълна ширина",
             "geor": "грузински цифри",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "гръцки цифри",
             "greklow": "гръцки цифри в долен регистър",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "цифри в ория",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "римски цифри",
             "romanlow": "римски цифри в долен регистър",
             "saur": "saur",

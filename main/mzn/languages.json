@@ -3,8 +3,8 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "mzn"
       },
@@ -58,6 +58,7 @@
           "bug": "bug",
           "byn": "byn",
           "ca": "کاتالونی",
+          "ccp": "ccp",
           "ce": "چچنی",
           "ceb": "ceb",
           "cgg": "چیگا",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pa",
         "script": "Guru"
@@ -101,6 +101,7 @@
             "ethi": "ਐਥਿਓਪਿਕ ਸੰਖਿਆਵਾਂ",
             "fullwide": "ਪੂਰਨ ਵਿਸਤਾਰ ਅੰਕ",
             "geor": "ਜਾਰਜੀਅਨ ਸੰਖਿਆਵਾਂ",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ਯੂਨਾਨੀ ਸੰਖਿਆਵਾਂ",
             "greklow": "ਯੂਨਾਨੀ ਲੋਅਰਕੇਸ ਸੰਖਿਆਵਾਂ",
@@ -114,8 +115,8 @@
             "hebr": "ਹਿਬਰੂ ਸੰਖਿਆਵਾਂ",
             "hmng": "hmng",
             "java": "java",
-            "jpan": "ਜਾਪਾਨੀ ਸੰਖਿਆਵਾਂ",
-            "jpanfin": "ਜਾਪਾਨੀ ਵਿੱਤੀ ਸੰਖਿਆਵਾਂ",
+            "jpan": "ਜਪਾਨੀ ਸੰਖਿਆਵਾਂ",
+            "jpanfin": "ਜਪਾਨੀ ਵਿੱਤੀ ਸੰਖਿਆਵਾਂ",
             "kali": "kali",
             "khmr": "ਖਮੇਰ ਅੰਕ",
             "knda": "ਕੰਨੜ ਅੰਕ",
@@ -142,6 +143,7 @@
             "olck": "olck",
             "orya": "ਉੜੀਆ ਅੰਕ",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ਰੋਮਨ ਸੰਖਿਆਵਾਂ",
             "romanlow": "ਰੋਮਨ ਲੋਅਰਕੇਸ ਸੰਖਿਆਵਾਂ",
             "saur": "saur",

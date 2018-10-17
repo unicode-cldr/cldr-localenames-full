@@ -3,8 +3,8 @@
     "ar": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ar"
       },
@@ -153,6 +153,7 @@
             "finance": "الأرقام المالية",
             "fullwide": "أرقام كاملة العرض",
             "geor": "الأرقام الجورجية",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "الأرقام اليونانية",
             "greklow": "الأرقام اليونانية الصغيرة",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "أرقام الأوريا",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "الأرقام الرومانية",
             "romanlow": "الأرقام الرومانية الصغيرة",
             "saur": "saur",

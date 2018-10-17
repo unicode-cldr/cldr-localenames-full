@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "ps"
       },
@@ -32,15 +32,15 @@
             "dangi": "ډانګي جنتري",
             "ethiopic": "ایتوپيک جنتري",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "د ګریګوریا کښته",
+            "gregorian": "ګريګورين جنتري",
             "hebrew": "جورجویان جنتري",
             "indian": "indian",
-            "islamic": "د اسلامي جنتري",
+            "islamic": "اسلامي جنتري",
             "islamic-civil": "د اسلامي جنتري (جدولي، د مدني عصر)",
             "islamic-rgsa": "islamic-rgsa",
-            "islamic-tbla": "د اسلامي جنتري (جدولي، ستورپوهنيزه برخه)",
+            "islamic-tbla": "اسلامي جنتري (جدولي، ستورپوهنيز عصر)",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "ISO-8601 Calendar",
+            "iso8601": "ISO-8601 جنتري",
             "japanese": "د جاپاني جنتري",
             "persian": "د فارسي جنتري",
             "roc": "منگوو جنتري"
@@ -62,7 +62,7 @@
             "reformed": "reformed",
             "search": "عمومي موخو د لټون",
             "searchjl": "searchjl",
-            "standard": "معیاري ترتیب ترتیب",
+            "standard": "معياري د لټې ترتيب",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -86,8 +86,8 @@
           },
           "numbers": {
             "ahom": "ahom",
-            "arab": "عربي - انډیک ډایټونه",
-            "arabext": "پراخ شوی عربي - هندیک ډایټونه",
+            "arab": "عربي - انډیک عددونه",
+            "arabext": "غځېدلې عربي ۔ اينډيک عدد",
             "armn": "armn",
             "armnlow": "armnlow",
             "bali": "bali",
@@ -100,6 +100,7 @@
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grek",
             "greklow": "greklow",
@@ -121,7 +122,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "لویدیځ ډایټونه",
+            "latn": "لويديځ عددونه",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "orya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "roman",
             "romanlow": "romanlow",
             "saur": "saur",

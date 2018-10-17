@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13915 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "pl"
       },
@@ -153,6 +153,7 @@
             "finance": "Liczebniki księgowe",
             "fullwide": "cyfry o pełnej szerokości",
             "geor": "cyfry gruzińskie",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "cyfry greckie",
             "greklow": "cyfry greckie (małe litery)",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "cyfry orija",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "cyfry rzymskie",
             "romanlow": "cyfry rzymskie (małe litery)",
             "saur": "saur",

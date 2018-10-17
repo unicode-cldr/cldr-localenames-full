@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "eu"
       },
@@ -128,8 +128,8 @@
             "strict": "Lerro-jauziaren estilo zorrotza"
           },
           "m0": {
-            "bgn": "BGN bihurketa",
-            "ungegn": "UNGEGN bihurketa"
+            "bgn": "US BGN transliterazioa",
+            "ungegn": "UN GEGN transliterazioa"
           },
           "ms": {
             "metric": "Sistema metrikoa",
@@ -143,7 +143,7 @@
             "armn": "Zenbaki armeniarrak",
             "armnlow": "Zenbaki armeniarrak minuskulaz",
             "bali": "bali",
-            "beng": "digitu bengalarrak",
+            "beng": "Digitu bengalarrak",
             "brah": "brah",
             "cakm": "cakm",
             "cham": "cham",
@@ -153,6 +153,7 @@
             "finance": "Finantza-zenbakiak",
             "fullwide": "Zabalera osoko digituak",
             "geor": "Zenbaki georgiarrak",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Zenbaki grekoak",
             "greklow": "Zenbaki grekoak minuskulaz",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "Digitu oriyarrak",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Zenbaki erromatarrak",
             "romanlow": "Zenbaki erromatarrak minuskulaz",
             "saur": "saur",

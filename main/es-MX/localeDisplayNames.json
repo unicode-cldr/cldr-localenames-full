@@ -3,8 +3,8 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14405 $",
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "MX"
@@ -154,6 +154,7 @@
             "finance": "Números financieros",
             "fullwide": "dígitos de ancho completo",
             "geor": "Números en georgiano",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Números en griego",
             "greklow": "Números en griego en minúscula",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "dígitos en oriya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "números romanos",
             "romanlow": "números romanos en minúscula",
             "saur": "saur",

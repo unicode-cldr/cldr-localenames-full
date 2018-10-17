@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14453 $",
+          "_cldrVersion": "34"
         },
         "language": "az"
       },
@@ -40,6 +40,7 @@
           "Cyrl": "kiril",
           "Cyrs": "qədimi kilsa kirili",
           "Deva": "devanaqari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
           "Egyd": "misir demotik",
@@ -50,6 +51,7 @@
           "Geok": "gürcü xutsuri",
           "Geor": "gürcü",
           "Glag": "qlaqolitik",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "qotik",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "lusian",
           "Lydi": "ludian",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandayen",
           "Mani": "maniçayen",
           "Marc": "Marc",
           "Maya": "maya hiyeroqlifi",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "meroytik",
@@ -133,7 +137,9 @@
           "Phnx": "foenik",
           "Plrd": "polard fonetik",
           "Prti": "prti",
+          "Qaag": "Qaag",
           "Rjng": "recəng",
+          "Rohg": "Rohg",
           "Roro": "ronqoronqo",
           "Runr": "runik",
           "Samr": "samaritan",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "sinhal",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "sundan",

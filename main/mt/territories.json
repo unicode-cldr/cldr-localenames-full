@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "mt"
       },
@@ -86,13 +86,13 @@
           "CF": "ir-Repubblika Ċentru-Afrikana",
           "CG": "il-Kongo - Brazzaville",
           "CG-alt-variant": "ir-Repubblika tal-Kongo",
-          "CH": "Żvizzera",
+          "CH": "l-Iżvizzera",
           "CI": "il-Kosta tal-Avorju",
           "CI-alt-variant": "CI",
           "CK": "Gżejjer Cook",
           "CL": "iċ-Ċili",
           "CM": "il-Kamerun",
-          "CN": "CN",
+          "CN": "iċ-Ċina",
           "CO": "il-Kolombja",
           "CP": "il-Gżira Clipperton",
           "CR": "il-Costa Rica",
@@ -102,7 +102,7 @@
           "CX": "il-Gżira Christmas",
           "CY": "Ċipru",
           "CZ": "ir-Repubblika Ċeka",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Ir-Repubblika Ċeka",
           "DE": "il-Ġermanja",
           "DG": "Diego Garcia",
           "DJ": "il-Djibouti",
@@ -199,7 +199,7 @@
           "MG": "Madagascar",
           "MH": "Gżejjer Marshall",
           "MK": "l-Eks-Repubblika Jugoslava tal-Maċedonia",
-          "MK-alt-variant": "MK",
+          "MK-alt-variant": "l-Eks Repubblika Jugoslava tal-Maċedonia",
           "ML": "il-Mali",
           "MM": "il-Myanmar/Burma",
           "MN": "il-Mongolja",
@@ -307,7 +307,9 @@
           "VU": "Vanuatu",
           "WF": "Wallis u Futuna",
           "WS": "Samoa",
-          "XK": "Kosovo",
+          "XA": "XA",
+          "XB": "XB",
+          "XK": "il-Kosovo",
           "YE": "il-Jemen",
           "YT": "Mayotte",
           "ZA": "l-Afrika t’Isfel",

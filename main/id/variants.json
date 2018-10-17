@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14420 $",
+          "_cldrVersion": "34"
         },
         "language": "id"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "ALA-LC Latin, edisi 1997",
           "ALUKU": "Dialek Aluku",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "Armenia Timur",
           "AREVMDA": "Armenia Barat",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "Alfabet Latin Turki Terpadu",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "Dialek San Giorgio/Bila",
           "BOHORIC": "BOHORIC",
           "BOONT": "Boontling",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "Fonetik IPA",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "Fonetik UPA",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "Hepburn Latin",
           "HOGNORSK": "NORWEDIA TINGGI",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "Dialek Lipovaz Resia",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +72,7 @@
           "NDYUKA": "Dialek Ndyuka",
           "NEDIS": "Dialek Natiso",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "Dialek Gniva/Njiva",
           "NULIK": "NULIK",
           "OSOJS": "Dialek Oseacco/Osojane",
@@ -73,6 +85,7 @@
           "PINYIN": "Pinyin Latin",
           "POLYTON": "Politon",
           "POSIX": "Komputer",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "Ortografi Revisi",
           "RIGIK": "RIGIK",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Valencia",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Wade-Giles Latin",
           "XSISTEMO": "XSISTEMO"
         }

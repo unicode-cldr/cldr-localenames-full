@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "hr",
         "territory": "BA"
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis i Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

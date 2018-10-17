@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ko"
       },
@@ -21,9 +21,9 @@
           "ALALC97": "ALA-LC 로마자 표기법(1997년 개정)",
           "ALUKU": "알루꾸 방언",
           "AO1990": "AO1990",
-          "AREVELA": "AREVELA",
-          "AREVMDA": "AREVMDA",
+          "ARANES": "ARANES",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "BAKU1926",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +33,22 @@
           "BISKE": "BISKE",
           "BOHORIC": "BOHORIC",
           "BOONT": "BOONT",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "FONIPA",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "FONUPA",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "헵번식 로마자 표기법",
           "HOGNORSK": "호그노르스크",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +61,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "라우키카",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "LIPAW",
           "LUNA1918": "루나1918",
           "METELKO": "METELKO",
@@ -61,6 +70,7 @@
           "NDYUKA": "느듀카 방언",
           "NEDIS": "NEDIS",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "NJIVA",
           "NULIK": "NULIK",
           "OSOJS": "OSOJS",
@@ -73,6 +83,7 @@
           "PINYIN": "PINYIN",
           "POLYTON": "POLYTON",
           "POSIX": "Computer",
+          "PROVENC": "PROVENC",
           "PUTER": "퓨터",
           "REVISED": "개정",
           "RIGIK": "RIGIK",
@@ -96,6 +107,7 @@
           "VAIDIKA": "바이디카",
           "VALENCIA": "VALENCIA",
           "VALLADER": "발라더",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "WADEGILE",
           "XSISTEMO": "XSISTEMO"
         }

@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ja"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "ALA-LCラテン文字化(1997)",
           "ALUKU": "アロコ方言",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "東アルメニア文語",
           "AREVMDA": "西アルメニア文語",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "統一トルコラテン文字",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "サン・ジョルジョ/ビーラ方言",
           "BOHORIC": "ボホリッツ・アルファベット",
           "BOONT": "ブーントリング",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "ダインチッツァ",
           "EKAVSK": "EKAVSK",
           "EMODENG": "初期近代英語",
           "FONIPA": "国際音声記号",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "ウラル音声記号",
           "FONXSAMP": "フォンクサンプ",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "ヘボン式ローマ字",
           "HOGNORSK": "ヘグノシュク",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "標準コーンウォール語正書法",
           "LAUKIKA": "ラウキカ",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "レージア方言 リポヴァツ方言",
           "LUNA1918": "LUNA1918",
           "METELKO": "メテルチッツァ",
@@ -61,6 +72,7 @@
           "NDYUKA": "ンジュカ方言",
           "NEDIS": "ナティゾーネ方言",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "ニヴァ方言",
           "NULIK": "現代ヴォラピュク語",
           "OSOJS": "オゼアッコ/オソヤネ方言",
@@ -73,6 +85,7 @@
           "PINYIN": "ピン音(ローマ字表記法)",
           "POLYTON": "ポリトニック",
           "POSIX": "コンピュータ",
+          "PROVENC": "PROVENC",
           "PUTER": "プーター",
           "REVISED": "改訂版",
           "RIGIK": "古典ヴォラピュク語",
@@ -96,6 +109,7 @@
           "VAIDIKA": "ヴァイディカ",
           "VALENCIA": "バレンシア方言",
           "VALLADER": "ヴァラダー",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "ウェード式ローマ字表記法",
           "XSISTEMO": "XSISTEMO"
         }

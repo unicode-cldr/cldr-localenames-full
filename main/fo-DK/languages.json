@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "fo",
         "territory": "DK"
@@ -59,6 +59,7 @@
           "bug": "buginesiskt",
           "byn": "blin",
           "ca": "katalani",
+          "ccp": "ccp",
           "ce": "tjetjenskt",
           "ceb": "cebuano",
           "cgg": "chiga",

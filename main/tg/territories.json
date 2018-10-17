@@ -3,8 +3,8 @@
     "tg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13871 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "tg"
       },
@@ -307,6 +307,8 @@
           "VU": "Вануату",
           "WF": "Уоллис ва Футуна",
           "WS": "Самоа",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Косово",
           "YE": "Яман",
           "YT": "Майотта",

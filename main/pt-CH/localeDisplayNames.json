@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pt",
         "territory": "CH"
@@ -154,6 +154,7 @@
             "finance": "Algarismos financeiros",
             "fullwide": "Algarismos de largura completa",
             "geor": "Numeração georgiana",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Numeração grega",
             "greklow": "Numeração grega minúscula",
@@ -170,7 +171,7 @@
             "jpan": "Numeração japonesa",
             "jpanfin": "Numeração financeira japonesa",
             "kali": "kali",
-            "khmr": "Algarismos de cmer",
+            "khmr": "Algarismos de khmer",
             "knda": "Algarismos de canarim",
             "lana": "lana",
             "lanatham": "lanatham",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "Algarismos de odia",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Numeração romana",
             "romanlow": "Numeração romana minúscula",
             "saur": "saur",

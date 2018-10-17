@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14420 $",
+          "_cldrVersion": "34"
         },
         "language": "id"
       },
@@ -153,6 +153,7 @@
             "finance": "Angka Finansial",
             "fullwide": "Angka Lebar Penuh",
             "geor": "Angka Georgia",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Angka Yunani",
             "greklow": "Angka Yunani Huruf Kecil",
@@ -195,6 +196,7 @@
             "olck": "Angka Ol Chiki",
             "orya": "Angka Oriya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Angka Romawi",
             "romanlow": "Angka Huruf Kecil Romawi",
             "saur": "Angka Saurashtra",

@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "gd"
       },
@@ -39,7 +39,7 @@
           "151": "An Roinn-Eòrpa an Ear",
           "154": "An Roinn-Eòrpa a Tuath",
           "155": "An Roinn-Eòrpa an Iar",
-          "202": "202",
+          "202": "Afraga Deas air an t-Sathara",
           "419": "Aimeireaga Laidinneach",
           "AC": "Eilean na Deasgabhalach",
           "AD": "Andorra",
@@ -239,7 +239,7 @@
           "PM": "Saint Pierre agus Miquelon",
           "PN": "Eileanan Pheit a’ Chàirn",
           "PR": "Porto Rìceo",
-          "PS": "Na Ranntairean Palastaineach",
+          "PS": "Ùghdarras nam Palastaineach",
           "PS-alt-short": "Palastain",
           "PT": "A’ Phortagail",
           "PW": "Palabh",
@@ -307,6 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Uallas agus Futuna",
           "WS": "Samotha",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "A’ Chosobho",
           "YE": "An Eaman",
           "YT": "Mayotte",

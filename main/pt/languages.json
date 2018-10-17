@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14546 $",
+          "_cldrVersion": "34"
         },
         "language": "pt"
       },
@@ -24,7 +24,7 @@
           "ak": "akan",
           "akk": "acadiano",
           "ale": "aleúte",
-          "alt": "altai do sul",
+          "alt": "altai meridional",
           "am": "amárico",
           "an": "aragonês",
           "ang": "inglês arcaico",
@@ -34,7 +34,7 @@
           "arc": "aramaico",
           "arn": "mapudungun",
           "arp": "arapaho",
-          "ars": "árabe - Négede",
+          "ars": "árabe négede",
           "arw": "arauaqui",
           "as": "assamês",
           "asa": "asu",
@@ -82,6 +82,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -93,7 +94,7 @@
           "chn": "jargão Chinook",
           "cho": "choctaw",
           "chp": "chipewyan",
-          "chr": "cherokee",
+          "chr": "cheroqui",
           "chy": "cheiene",
           "ckb": "curdo central",
           "co": "corso",
@@ -242,7 +243,7 @@
           "kbl": "kanembu",
           "kcg": "tyap",
           "kde": "maconde",
-          "kea": "kabuverdianu",
+          "kea": "crioulo cabo-verdiano",
           "kfo": "koro",
           "kg": "congolês",
           "kha": "khasi",
@@ -445,7 +446,7 @@
           "sk": "eslovaco",
           "sl": "esloveno",
           "sm": "samoano",
-          "sma": "sami do sul",
+          "sma": "sami meridional",
           "smj": "sami de Lule",
           "smn": "sami de Inari",
           "sms": "sami de Skolt",

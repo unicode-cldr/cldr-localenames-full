@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ne",
         "territory": "IN"
@@ -40,6 +40,7 @@
           "Cprt": "कप्रियट",
           "Cyrl": "सिरिलिक",
           "Deva": "देवानागरी",
+          "Dogr": "Dogr",
           "Dsrt": "डेसेरेट",
           "Dupl": "Dupl",
           "Egyd": "इजिप्टियन डेमोटिक",
@@ -50,6 +51,7 @@
           "Geok": "ग्रुजियाली खुट्सुरी",
           "Geor": "जर्जियाली",
           "Glag": "ग्लागोलिटिक",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "गोथिक",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "लाइसियन",
           "Lydi": "लाइडियन",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "मान्डाएन",
           "Mani": "मानिकाएन",
           "Marc": "Marc",
           "Maya": "माया हाइरोग्लिफ्स",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "मेरियोटिक",
@@ -133,7 +137,9 @@
           "Phnx": "फोनिसियन",
           "Plrd": "पोल्लार्ड फोनेटिक",
           "Prti": "पिआरटी",
+          "Qaag": "Qaag",
           "Rjng": "रेजाङ",
+          "Rohg": "Rohg",
           "Roro": "रोङ्गोरोङ्गो",
           "Runr": "रूनिक",
           "Samr": "समारिटन",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "सिन्हाला",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sund",

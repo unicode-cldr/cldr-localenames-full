@@ -3,8 +3,8 @@
     "sah": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sah"
       },
@@ -307,6 +307,8 @@
           "VU": "VU",
           "WF": "WF",
           "WS": "WS",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "YE",
           "YT": "YT",

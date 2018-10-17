@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "lb"
       },
@@ -40,6 +40,7 @@
           "Cyrl": "Kyrillesch",
           "Cyrs": "Alkiercheslawesch",
           "Deva": "Devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Dupl",
           "Egyd": "Egyptesch-Demotesch",
@@ -50,6 +51,7 @@
           "Geok": "Khutsuri",
           "Geor": "Georgesch",
           "Glag": "Glagolitesch",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "Gotesch",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "Lykesch",
           "Lydi": "Lydesch",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Mandäesch",
           "Mani": "Manichäesch",
           "Marc": "Marc",
           "Maya": "Maya-Hieroglyphen",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Meroitesch",
@@ -133,7 +137,9 @@
           "Phnx": "Phönizesch",
           "Plrd": "Pollard Phonetesch",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rejang",
+          "Rohg": "Rohg",
           "Roro": "Rongorongo",
           "Runr": "Runeschrëft",
           "Samr": "Samaritanesch",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "Singhalesesch",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sundanesesch",

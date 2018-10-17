@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ko",
         "territory": "KP"
@@ -43,6 +43,7 @@
           "Cyrl": "키릴 문자",
           "Cyrs": "고대교회슬라브어 키릴문자",
           "Deva": "데바나가리 문자",
+          "Dogr": "Dogr",
           "Dsrt": "디저렛 문자",
           "Dupl": "듀플로이안 문자",
           "Egyd": "고대 이집트 민중문자",
@@ -53,6 +54,7 @@
           "Geok": "그루지야 쿠츠리 문자",
           "Geor": "조지아 문자",
           "Glag": "글라골 문자",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "고트 문자",
           "Gran": "그란타 문자",
@@ -103,10 +105,12 @@
           "Lyci": "리키아 문자",
           "Lydi": "리디아 문자",
           "Mahj": "마하자니 문자",
+          "Maka": "Maka",
           "Mand": "만다이아 문자",
           "Mani": "마니교 문자",
           "Marc": "Marc",
           "Maya": "마야 상형 문자",
+          "Medf": "Medf",
           "Mend": "멘데 문자",
           "Merc": "메로에 필기체",
           "Mero": "메로에 문자",
@@ -140,7 +144,9 @@
           "Phnx": "페니키아 문자",
           "Plrd": "폴라드 표음 문자",
           "Prti": "명문 파라티아 문자",
+          "Qaag": "Qaag",
           "Rjng": "레장 문자",
+          "Rohg": "Rohg",
           "Roro": "롱고롱고",
           "Runr": "룬 문자",
           "Samr": "사마리아 문자",
@@ -153,6 +159,8 @@
           "Sidd": "실담자",
           "Sind": "쿠다와디 문자",
           "Sinh": "신할라 문자",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "소라 솜펭 문자",
           "Soyo": "Soyo",
           "Sund": "순다 문자",

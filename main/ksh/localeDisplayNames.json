@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ksh"
       },
@@ -100,6 +100,7 @@
             "ethi": "ätejoopesche Zahle",
             "fullwide": "janz breede Zeffere",
             "geor": "jeorjeesche Zahle",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "jriischesche Zahle",
             "greklow": "klein jeschrevve jriischesche Zahle",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "Oriya-Zeffere",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "römesche Zahle",
             "romanlow": "klein jeschrevve römesche Zahle",
             "saur": "saur",

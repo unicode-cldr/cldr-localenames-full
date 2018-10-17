@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "km"
       },
@@ -308,6 +308,8 @@
           "VU": "វ៉ានូទូ",
           "WF": "វ៉ាលីស និង​ហ្វូទូណា",
           "WS": "សាម័រ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "កូសូវ៉ូ",
           "YE": "យេម៉ែន",
           "YT": "ម៉ាយុត",

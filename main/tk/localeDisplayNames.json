@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "tk"
       },
@@ -80,7 +80,7 @@
             "strict": "Setirden setire geçişiň berk stili"
           },
           "ms": {
-            "metric": "Metriki ulgam",
+            "metric": "Metrik ulgam",
             "uksystem": "Imperial ölçeg ulgamy",
             "ussystem": "ABŞ ölçeg ulgamy"
           },
@@ -100,6 +100,7 @@
             "ethi": "Efiop sanlary",
             "fullwide": "Doly giňlikdäki sanlar",
             "geor": "Gruzin sanlary",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Grek sanlary",
             "greklow": "Grek setir sanlary",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "Oriýa sanlary",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Rim sanlary",
             "romanlow": "Rim setir sanlary",
             "saur": "saur",

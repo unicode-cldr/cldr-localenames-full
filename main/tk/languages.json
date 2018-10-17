@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "tk"
       },
@@ -56,6 +56,7 @@
           "bug": "bugiý dili",
           "byn": "blin dili",
           "ca": "katalan dili",
+          "ccp": "ccp",
           "ce": "çeçen dili",
           "ceb": "sebuan dili",
           "cgg": "kiga",
@@ -78,7 +79,7 @@
           "dav": "taita dili",
           "de": "nemes dili",
           "de-AT": "nemes dili (Awstriýa)",
-          "de-CH": "nemes dili (Daglyk Şweýsariýa)",
+          "de-CH": "ýokarky nemes dili (Şweýsariýa)",
           "dgr": "dogrib dili",
           "dje": "zarma dili",
           "dsb": "aşaky lužits dili",
@@ -96,12 +97,12 @@
           "en-AU": "iňlis dili (Awstraliýa)",
           "en-CA": "iňlis dili (Kanada)",
           "en-GB": "iňlis dili (Beýik Britaniýa)",
-          "en-GB-alt-short": "iňlis dili (Birleşen Korollyk)",
+          "en-GB-alt-short": "iňlis dili (Birleşen Patyşalyk)",
           "en-US": "iňlis dili (Amerika)",
           "en-US-alt-short": "iňlis dili (ABŞ)",
           "eo": "esperanto dili",
           "es": "ispan dili",
-          "es-419": "ispan dili (Günorta Amerika)",
+          "es-419": "ispan dili (Latyn Amerikasy)",
           "es-ES": "ispan dili (Ýewropa)",
           "es-MX": "ispan dili (Meksika)",
           "et": "eston dili",
@@ -262,7 +263,8 @@
           "naq": "nama dili",
           "nb": "norwegiýa bukmol dili",
           "nd": "demirgazyk ndebele dili",
-          "nds-NL": "nds (Niderlandiýa)",
+          "nds": "nds",
+          "nds-NL": "nds (Niderlandlar)",
           "ne": "nepal dili",
           "new": "newari dili",
           "ng": "ndonga dili",
@@ -308,7 +310,7 @@
           "rof": "rombo dili",
           "root": "kök",
           "ru": "rus dili",
-          "rup": "aromun dili",
+          "rup": "arumyn dili",
           "rw": "kinýaruanda dili",
           "rwk": "rwa dili",
           "sa": "sanskrit dili",

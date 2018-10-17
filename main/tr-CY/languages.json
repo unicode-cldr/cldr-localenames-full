@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "tr",
         "territory": "CY"
@@ -47,7 +47,7 @@
           "as": "Assamca",
           "asa": "Asu",
           "ase": "Amerikan İşaret Dili",
-          "ast": "Asturyasca",
+          "ast": "Asturyasça",
           "av": "Avar Dili",
           "avk": "Kotava",
           "awa": "Awadhi",
@@ -100,6 +100,7 @@
           "car": "Carib",
           "cay": "Kayuga dili",
           "cch": "Atsam",
+          "ccp": "ccp",
           "ce": "Çeçence",
           "ceb": "Sebuano dili",
           "cgg": "Kigaca",
@@ -180,8 +181,8 @@
           "fi": "Fince",
           "fil": "Filipince",
           "fit": "Tornedalin Fincesi",
-          "fj": "Fiji Dili",
-          "fo": "Faroe Dili",
+          "fj": "Fiji dili",
+          "fo": "Faroe dili",
           "fon": "Fon",
           "fr": "Fransızca",
           "fr-CA": "Kanada Fransızcası",

@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "tr"
       },
@@ -153,6 +153,7 @@
             "finance": "Finansal Sayılar",
             "fullwide": "Tam Genişlikte Rakamlar",
             "geor": "Gürcü Rakamları",
+            "gong": "gong",
             "gonm": "Masaram Gondi Rakamları",
             "grek": "Yunan Rakamları",
             "greklow": "Küçük Harf Yunan Rakamları",
@@ -195,6 +196,7 @@
             "olck": "Ol Chiki Rakamları",
             "orya": "Oriya Rakamları",
             "osma": "Osmanya Rakamları",
+            "rohg": "rohg",
             "roman": "Roma Rakamları",
             "romanlow": "Küçük Harf Roma Rakamları",
             "saur": "Saurashtra Rakamları",

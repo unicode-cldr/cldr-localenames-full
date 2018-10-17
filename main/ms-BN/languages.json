@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ms",
         "territory": "BN"
@@ -78,6 +78,7 @@
           "byv": "Medumba",
           "ca": "Catalonia",
           "cay": "Cayuga",
+          "ccp": "ccp",
           "ce": "Chechen",
           "ceb": "Cebuano",
           "cgg": "Chiga",

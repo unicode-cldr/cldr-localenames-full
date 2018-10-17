@@ -3,8 +3,8 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sr"
       },
@@ -308,6 +308,8 @@
           "VU": "Вануату",
           "WF": "Валис и Футуна",
           "WS": "Самоа",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Косово",
           "YE": "Јемен",
           "YT": "Мајот",

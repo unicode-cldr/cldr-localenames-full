@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "vai",
         "script": "Vaii"
@@ -308,6 +308,8 @@
           "VU": "ꕙꖸꕎꖤ",
           "WF": "ꕎꔷꔻ ꗪ ꖢꖤꕯ",
           "WS": "ꕢꕹꖙꕉ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "ꖏꖇꕾ",
           "YE": "ꔝꘈꘋ",
           "YT": "ꕮꗚꔎ",

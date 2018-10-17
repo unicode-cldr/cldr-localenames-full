@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "yi"
       },
@@ -60,6 +60,7 @@
           "bug": "bug",
           "byn": "byn",
           "ca": "קאַטאַלאניש",
+          "ccp": "ccp",
           "ce": "ce",
           "ceb": "סעבואַניש",
           "cgg": "cgg",

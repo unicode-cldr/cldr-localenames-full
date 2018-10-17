@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "bn",
         "territory": "IN"
@@ -154,6 +154,7 @@
             "finance": "অর্থনৈতিক সংখ্যাসূচক",
             "fullwide": "পূর্ণ চওড়া সংখ্যা",
             "geor": "জর্জিয়ান সংখ্যা",
+            "gong": "gong",
             "gonm": "মাসারাম গন্ডি সংখ্যা",
             "grek": "গ্রিক সংখ্যা",
             "greklow": "গ্রীক ছোট হাতের সংখ্যা",
@@ -196,6 +197,7 @@
             "olck": "ওল চিকি সংখ্যা",
             "orya": "ওড়িয়া সংখ্যা",
             "osma": "ওসমানিয় সংখ্যা",
+            "rohg": "rohg",
             "roman": "রোমান সংখ্যা",
             "romanlow": "রোমান ছোটহাতের সংখ্যা",
             "saur": "সৌরাষ্ট্রের সংখ্যা",

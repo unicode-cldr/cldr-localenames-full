@@ -3,8 +3,8 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "es"
       },
@@ -81,6 +81,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -363,7 +364,7 @@
           "non": "nórdico antiguo",
           "nqo": "n’ko",
           "nr": "ndebele meridional",
-          "nso": "sesotho septentrional",
+          "nso": "sotho septentrional",
           "nus": "nuer",
           "nv": "navajo",
           "nwc": "newari clásico",
@@ -458,7 +459,7 @@
           "srr": "serer",
           "ss": "suazi",
           "ssy": "saho",
-          "st": "sesotho meridional",
+          "st": "sotho meridional",
           "su": "sundanés",
           "suk": "sukuma",
           "sus": "susu",

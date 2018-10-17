@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "tr"
       },
@@ -42,6 +42,7 @@
           "Cyrl": "Kiril",
           "Cyrs": "Eski Kilise Slavcası Kiril",
           "Deva": "Devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Duployé Stenografi",
           "Egyd": "Demotik Mısır",
@@ -52,6 +53,7 @@
           "Geok": "Hutsuri Gürcü",
           "Geor": "Gürcü",
           "Glag": "Glagolit",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "Gotik",
           "Gran": "Grantha",
@@ -102,10 +104,12 @@
           "Lyci": "Likya",
           "Lydi": "Lidya",
           "Mahj": "Mahajani",
+          "Maka": "Maka",
           "Mand": "Manden",
           "Mani": "Mani",
           "Marc": "Marc",
           "Maya": "Maya Hiyeroglifleri",
+          "Medf": "Medf",
           "Mend": "Mende",
           "Merc": "Meroitik El Yazısı",
           "Mero": "Meroitik",
@@ -139,7 +143,9 @@
           "Phnx": "Fenike",
           "Plrd": "Pollard Fonetik",
           "Prti": "Partça Kitabe Dili",
+          "Qaag": "Qaag",
           "Rjng": "Rejang",
+          "Rohg": "Rohg",
           "Roro": "Rongorongo",
           "Runr": "Runik",
           "Samr": "Samarit",
@@ -152,6 +158,8 @@
           "Sidd": "Siddham",
           "Sind": "Khudabadi",
           "Sinh": "Seylan",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora Sompeng",
           "Soyo": "Soyo",
           "Sund": "Sunda",

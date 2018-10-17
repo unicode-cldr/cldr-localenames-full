@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "zh",
         "script": "Hant",
@@ -101,6 +101,7 @@
           "car": "加勒比文",
           "cay": "卡尤加文",
           "cch": "阿燦文",
+          "ccp": "ccp",
           "ce": "車臣文",
           "ceb": "宿霧文",
           "cgg": "奇加文",
@@ -492,7 +493,7 @@
           "sc": "撒丁文",
           "scn": "西西里文",
           "sco": "蘇格蘭文",
-          "sd": "信德語",
+          "sd": "信德文",
           "sdc": "薩丁尼亞-薩薩里文",
           "sdh": "南庫德文",
           "se": "北薩米文",

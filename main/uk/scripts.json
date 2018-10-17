@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "uk"
       },
@@ -42,6 +42,7 @@
           "Cyrl": "кирилиця",
           "Cyrs": "давньоцерковнословʼянський",
           "Deva": "деванагарі",
+          "Dogr": "Dogr",
           "Dsrt": "дезерет",
           "Dupl": "Dupl",
           "Egyd": "єгипетський демотичний",
@@ -52,6 +53,7 @@
           "Geok": "кхутсурі",
           "Geor": "грузинська",
           "Glag": "глаголичний",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "готичний",
           "Gran": "Gran",
@@ -100,10 +102,12 @@
           "Lyci": "лікійський",
           "Lydi": "лідійський",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "мандейський",
           "Mani": "маніхейський",
           "Marc": "Marc",
           "Maya": "майя ієрогліфічний",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "мероїтський",
@@ -136,7 +140,9 @@
           "Phnx": "фінікійський",
           "Plrd": "писемність Полларда",
           "Prti": "парфянський",
+          "Qaag": "Qaag",
           "Rjng": "реджанг",
+          "Rohg": "Rohg",
           "Roro": "ронго-ронго",
           "Runr": "рунічний",
           "Samr": "самаритянський",
@@ -149,6 +155,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "сингальська",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "сунданський",

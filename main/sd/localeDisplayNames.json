@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sd"
       },
@@ -100,6 +100,7 @@
             "ethi": "ايٿوپيائي انگ",
             "fullwide": "پوري-ويڪر انگن",
             "geor": "جيارجيائي انگ",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "يوناني انگ",
             "greklow": "يوناني ننڍا انگ",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "اوڊيا عدد",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "رومي انگ",
             "romanlow": "رومي ننڍا انگ",
             "saur": "saur",
@@ -162,9 +164,9 @@
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "زبان: {0}",
+          "script": "اسڪرپٽ: {0}",
+          "territory": "خطو: {0}"
         }
       }
     }

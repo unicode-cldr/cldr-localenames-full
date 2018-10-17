@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ewo"
       },
@@ -307,6 +307,8 @@
           "VU": "Vanuátu",
           "WF": "Walís-ai-Futúna",
           "WS": "Samoá",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yemɛ́n",
           "YT": "Mayɔ́d",

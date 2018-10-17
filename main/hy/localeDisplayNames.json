@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hy"
       },
@@ -100,6 +100,7 @@
             "ethi": "եթովպական թվանշաններ",
             "fullwide": "ամբողջ լայնքով թվանշաններ",
             "geor": "վրացական թվեր",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "հունական թվեր",
             "greklow": "հունական թվեր (փոքրատառ)",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "օրիյա թվանշաններ",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "հռոմեական թվեր",
             "romanlow": "հռոմեական թվեր (փոքրատառ)",
             "saur": "saur",

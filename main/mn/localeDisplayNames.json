@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "mn"
       },
@@ -15,39 +15,39 @@
           "localeKeyTypePattern": "{0}: {1}"
         },
         "keys": {
-          "calendar": "хуанли",
-          "cf": "валютын формат",
-          "collation": "Захиалга ялгах",
+          "calendar": "цаглавар",
+          "cf": "мөнгөн тэмдэгтийн хэлбэр",
+          "collation": "эрэмбэлэх дараалал",
           "currency": "мөнгөн тэмдэгт",
-          "hc": "Цагийн горим (12 эсвэл 24)",
-          "lb": "Мөрийн зайн загвар",
-          "ms": "Хэмжүүрийн систем",
-          "numbers": "Тоо"
+          "hc": "цагийн мөчлөг (12 эсвэл 24)",
+          "lb": "мөрийн зайн загвар",
+          "ms": "нэгжийн систем",
+          "numbers": "тоо"
         },
         "types": {
           "calendar": {
-            "buddhist": "буддын хуанли",
-            "chinese": "хятад хуанли",
+            "buddhist": "буддын цаглавар",
+            "chinese": "хятад цаглавар",
             "coptic": "coptic",
-            "dangi": "данги хуанли",
-            "ethiopic": "этиоп хуанли",
+            "dangi": "данги цаглавар",
+            "ethiopic": "этиоп цаглавар",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "грегорийн хуанли",
-            "hebrew": "еврей хуанли",
+            "gregorian": "грегорийн цаглавар",
+            "hebrew": "еврей цаглавар",
             "indian": "indian",
-            "islamic": "исламын хуанли",
+            "islamic": "исламын цаглавар",
             "islamic-civil": "islamic-civil",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "ISO-8601 хуанли",
-            "japanese": "япон хуанли",
-            "persian": "перс хуанли",
-            "roc": "минго хуанли"
+            "iso8601": "ISO-8601 цаглавар",
+            "japanese": "япон цаглавар",
+            "persian": "перс цаглавар",
+            "roc": "минго цаглавар"
           },
           "cf": {
-            "account": "Нягтлангийн валютын формат",
-            "standard": "стандарт валютын формат"
+            "account": "мөнгөн тэмдэгтийн нягтлан бодох бүртгэлийн хэлбэр",
+            "standard": "мөнгөн тэмдэгтийн стандарт хэлбэр"
           },
           "collation": {
             "big5han": "big5han",
@@ -60,7 +60,7 @@
             "phonebook": "phonebook",
             "pinyin": "pinyin",
             "reformed": "reformed",
-            "search": "ерөнхий зорилготой хайлт",
+            "search": "ерөнхий хайлт",
             "searchjl": "searchjl",
             "standard": "стандарт эрэмбэлэх дараалал",
             "stroke": "stroke",
@@ -81,15 +81,15 @@
           },
           "ms": {
             "metric": "метрийн систем",
-            "uksystem": "английн хэмжүүрийн систем",
-            "ussystem": "америк хэмжүүрийн систем"
+            "uksystem": "Англи нэгжийн систем",
+            "ussystem": "Америк нэгжийн систем"
           },
           "numbers": {
             "ahom": "ahom",
             "arab": "араб-энэтхэг тоо",
             "arabext": "өргөтгөсөн араб-энэтхэг тоо",
-            "armn": "армени тоо",
-            "armnlow": "жижиг армени тоо",
+            "armn": "армен тоо",
+            "armnlow": "жижиг армен тоо",
             "bali": "bali",
             "beng": "бенгал тоо",
             "brah": "brah",
@@ -100,11 +100,12 @@
             "ethi": "этиоп тоо",
             "fullwide": "бүрэн хэмжээтэй тоо",
             "geor": "гүрж тоо",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "грек тоо",
             "greklow": "жижиг грек тоо",
             "gujr": "гүжарати тоо",
-            "guru": "гүрмүкхи тоо",
+            "guru": "гүрмүхи тоо",
             "hanidec": "хятад аравтын тоо",
             "hans": "хялбаршуулсан хятад тоо",
             "hansfin": "хялбаршуулсан хятад санхүүгийн тоо",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ория тоо",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ром тоо",
             "romanlow": "жижиг ром тоо",
             "saur": "saur",
@@ -153,7 +155,7 @@
             "talu": "talu",
             "taml": "уламжлалт тамил тоо",
             "tamldec": "тамил тоо",
-            "telu": "телүгү тоо",
+            "telu": "тэлүгү тоо",
             "thai": "тай тоо",
             "tibt": "төвд тоо",
             "tirh": "tirh",

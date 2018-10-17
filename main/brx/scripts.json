@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "brx"
       },
@@ -40,6 +40,7 @@
           "Cyrl": "सिरिलिक्",
           "Cyrs": "पुरानी चर्च सिरिलिक्",
           "Deva": "देवनागरी",
+          "Dogr": "Dogr",
           "Dsrt": "देसेरट्",
           "Dupl": "Dupl",
           "Egyd": "मीस्री डैमोटीक्",
@@ -50,6 +51,7 @@
           "Geok": "जोर्जीयन खुतसुरी",
           "Geor": "जोर्जीयन",
           "Glag": "ग्लैगोलिटीक",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "गौथीक",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "लीसीयन",
           "Lydi": "लीडीयन",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "मांडे",
           "Mani": "मानीकी",
           "Marc": "Marc",
           "Maya": "माया हीरोग्लीफ्",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "मेरोईटीक्",
@@ -133,7 +137,9 @@
           "Phnx": "फोनीशीयन",
           "Plrd": "पौलार्ड़ फोनेटीक",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "रेजेंग",
+          "Rohg": "Rohg",
           "Roro": "रोंगोरोंगो",
           "Runr": "रूनिक",
           "Samr": "समारती",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "सिंहाली",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "सूडानी",

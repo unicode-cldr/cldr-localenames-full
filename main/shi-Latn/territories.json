@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "shi",
         "script": "Latn"
@@ -308,6 +308,8 @@
           "VU": "fanwaṭu",
           "WF": "walis d futuna",
           "WS": "samwa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "yaman",
           "YT": "mayuṭ",

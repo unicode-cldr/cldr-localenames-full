@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "yue",
         "script": "Hans"
@@ -98,6 +98,7 @@
           "car": "加勒比文",
           "cay": "卡尤加文",
           "cch": "阿灿文",
+          "ccp": "ccp",
           "ce": "车臣文",
           "ceb": "宿雾文",
           "cgg": "奇加文",

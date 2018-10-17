@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "vai",
         "script": "Latn"
@@ -308,6 +308,8 @@
           "VU": "Vanuwátu",
           "WF": "Walísi",
           "WS": "Samowa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yemɛni",
           "YT": "Mavote",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sv",
         "territory": "AX"
@@ -40,7 +40,7 @@
           "151": "Östeuropa",
           "154": "Nordeuropa",
           "155": "Västeuropa",
-          "202": "202",
+          "202": "Subsahariska Afrika",
           "419": "Latinamerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -89,7 +89,7 @@
           "CG-alt-variant": "Republiken Kongo",
           "CH": "Schweiz",
           "CI": "Elfenbenskusten",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Côte d’Ivoire",
           "CK": "Cooköarna",
           "CL": "Chile",
           "CM": "Kamerun",
@@ -282,7 +282,7 @@
           "TJ": "Tadzjikistan",
           "TK": "Tokelau",
           "TL": "Östtimor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor-Leste",
           "TM": "Turkmenistan",
           "TN": "Tunisien",
           "TO": "Tonga",
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis- och Futunaöarna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

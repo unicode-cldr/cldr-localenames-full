@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "sr",
         "script": "Latn",
@@ -74,6 +74,7 @@
           "cad": "kado",
           "car": "karipski",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "čečenski",
           "ceb": "sebuanski",
           "cgg": "čiga",
@@ -137,7 +138,7 @@
           "eo": "esperanto",
           "es": "španski",
           "es-419": "španski (Latinska Amerika)",
-          "es-ES": "španski (Španija)",
+          "es-ES": "španski (Evropa)",
           "es-MX": "španski (Meksiko)",
           "et": "estonski",
           "eu": "baskijski",

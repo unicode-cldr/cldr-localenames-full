@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "da",
         "territory": "GL"
@@ -43,6 +43,7 @@
           "Cyrl": "kyrillisk",
           "Cyrs": "kyrillisk - oldkirkeslavisk variant",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Duploya-stenografi",
           "Egyd": "egyptisk demotisk",
@@ -53,6 +54,7 @@
           "Geok": "georgisk kutsuri",
           "Geor": "georgisk",
           "Glag": "glagolitisk",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotisk",
           "Gran": "grantha",
@@ -103,10 +105,12 @@
           "Lyci": "lykisk",
           "Lydi": "lydisk",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandaisk",
           "Mani": "manikæisk",
           "Marc": "Marc",
           "Maya": "mayahieroglyffer",
+          "Medf": "Medf",
           "Mend": "mende",
           "Merc": "metroitisk sammenhængende",
           "Mero": "meroitisk",
@@ -140,7 +144,9 @@
           "Phnx": "fønikisk",
           "Plrd": "pollardtegn",
           "Prti": "prti",
+          "Qaag": "Qaag",
           "Rjng": "rejang",
+          "Rohg": "Rohg",
           "Roro": "rongo-rongo",
           "Runr": "runer",
           "Samr": "samaritansk",
@@ -153,6 +159,8 @@
           "Sidd": "Sidd",
           "Sind": "khudawadi",
           "Sinh": "singalesisk",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "sora",
           "Soyo": "Soyo",
           "Sund": "sundanesisk",

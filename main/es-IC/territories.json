@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "IC"
@@ -83,9 +83,9 @@
           "CA": "Canadá",
           "CC": "Islas Cocos",
           "CD": "República Democrática del Congo",
-          "CD-alt-variant": "Congo (República Democrática del Congo)",
+          "CD-alt-variant": "Congo (RDC)",
           "CF": "República Centroafricana",
-          "CG": "República del Congo",
+          "CG": "Congo",
           "CG-alt-variant": "Congo (República)",
           "CH": "Suiza",
           "CI": "Côte d’Ivoire",
@@ -308,6 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis y Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

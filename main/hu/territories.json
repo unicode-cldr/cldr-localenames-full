@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "hu"
       },
@@ -125,7 +125,7 @@
           "FK": "Falkland-szigetek",
           "FK-alt-variant": "Falkland-szigetek (Malvin-szigetek)",
           "FM": "Mikronézia",
-          "FO": "Feröer-szigetek",
+          "FO": "Feröer szigetek",
           "FR": "Franciaország",
           "GA": "Gabon",
           "GB": "Egyesült Királyság",
@@ -304,10 +304,12 @@
           "VE": "Venezuela",
           "VG": "Brit Virgin-szigetek",
           "VI": "Amerikai Virgin-szigetek",
-          "VN": "Vietnam",
+          "VN": "Vietnám",
           "VU": "Vanuatu",
           "WF": "Wallis és Futuna",
           "WS": "Szamoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Koszovó",
           "YE": "Jemen",
           "YT": "Mayotte",

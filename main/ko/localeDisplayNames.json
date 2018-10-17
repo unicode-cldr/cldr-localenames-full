@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ko"
       },
@@ -153,6 +153,7 @@
             "finance": "재무 숫자",
             "fullwide": "전자 숫자",
             "geor": "조지아 숫자",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "그리스 숫자",
             "greklow": "그리스어 소문자 숫자",
@@ -195,6 +196,7 @@
             "olck": "올치키 숫자",
             "orya": "오리야 숫자",
             "osma": "오스마냐 숫자",
+            "rohg": "rohg",
             "roman": "로마 숫자",
             "romanlow": "로마 소문자 숫자",
             "saur": "사우라슈트라 숫자",

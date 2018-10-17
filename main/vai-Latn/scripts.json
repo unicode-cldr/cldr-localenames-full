@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "vai",
         "script": "Latn"
@@ -38,6 +38,7 @@
           "Cprt": "Cprt",
           "Cyrl": "Cyrl",
           "Deva": "Deva",
+          "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
           "Egyp": "Egyp",
@@ -45,6 +46,7 @@
           "Ethi": "Ethi",
           "Geor": "Geor",
           "Glag": "Glag",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "Goth",
           "Gran": "Gran",
@@ -89,9 +91,11 @@
           "Lyci": "Lyci",
           "Lydi": "Lydi",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Mand",
           "Mani": "Mani",
           "Marc": "Marc",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
@@ -122,7 +126,9 @@
           "Phnx": "Phnx",
           "Plrd": "Plrd",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rjng",
+          "Rohg": "Rohg",
           "Runr": "Runr",
           "Samr": "Samr",
           "Sarb": "Sarb",
@@ -133,6 +139,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "Sinh",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sund",

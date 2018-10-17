@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "brx"
       },
@@ -71,6 +71,7 @@
           "cad": "काद्दौ",
           "car": "कारीब्",
           "cch": "आत्सम",
+          "ccp": "ccp",
           "ce": "चेचेन्",
           "ceb": "चेबुआनो",
           "cgg": "cgg",

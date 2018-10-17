@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "kea"
       },
@@ -307,6 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Ualis i Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kozovu",
           "YE": "Iémen",
           "YT": "Maiote",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "mua"
       },
@@ -307,6 +307,8 @@
           "VU": "Sǝr Vanuatu",
           "WF": "Wallis ne Futuna",
           "WS": "Sǝr Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yemeŋ",
           "YT": "Mayot",

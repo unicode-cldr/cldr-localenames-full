@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "dz"
       },
@@ -100,6 +100,7 @@
             "ethi": "ཨི་ཐི་ཡོ་པིཀ་ཨང་རྟགཨ",
             "fullwide": "རྒྱ་ཚད་གང་བའི་ཨང",
             "geor": "ཇཽར་ཇཱི་ཡཱན་ཨང་རྟགས",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "གྲིཀ་ཨང་རྟགས",
             "greklow": "གྲིཀ་གི་མགྱོགས་ཡིག་ཨང་རྟགས",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ཨོ་རི་ཡ་ཨང་",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "རོ་མཱན་ཨང་རྟགས",
             "romanlow": "རོ་མཱན་གྱི་མགྱོགས་ཡིག་ཨང་རྟགས",
             "saur": "saur",

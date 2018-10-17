@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "my"
       },
@@ -21,9 +21,10 @@
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "အရှေ့ပိုင်းအာမေးနီးယန်း",
-          "AREVMDA": "AREVMDA",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "ပေါင်းစပ်ထားသော တူရကီ လက်တင်စကားလုံး",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +34,22 @@
           "BISKE": "BISKE",
           "BOHORIC": "BOHORIC",
           "BOONT": "BOONT",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "IPA အသံထွက်",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "UPA အသံထွက်",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +62,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "LIPAW",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +71,7 @@
           "NDYUKA": "NDYUKA",
           "NEDIS": "NEDIS",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "NJIVA",
           "NULIK": "NULIK",
           "OSOJS": "OSOJS",
@@ -73,6 +84,7 @@
           "PINYIN": "PINYIN",
           "POLYTON": "POLYTON",
           "POSIX": "ကွန်ပျူတာ",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "ပြန်လည်စီစစ်ထားသော ရေးထုံး",
           "RIGIK": "RIGIK",
@@ -96,6 +108,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "VALENCIA",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "WADEGILE",
           "XSISTEMO": "XSISTEMO"
         }

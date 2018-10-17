@@ -3,8 +3,8 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13937 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14453 $",
+          "_cldrVersion": "34"
         },
         "language": "ha",
         "territory": "NE"
@@ -114,7 +114,7 @@
           "EA": "EA",
           "EC": "Ekwador",
           "EE": "Estoniya",
-          "EG": "Masar, Misira",
+          "EG": "Misira",
           "EH": "EH",
           "ER": "Eritireya",
           "ES": "Sipen",
@@ -308,6 +308,8 @@
           "VU": "Banuwatu",
           "WF": "Walis Da Futuna",
           "WS": "Samowa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yamal",
           "YT": "Mayoti",

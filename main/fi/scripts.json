@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "fi"
       },
@@ -42,6 +42,7 @@
           "Cyrl": "kyrillinen",
           "Cyrs": "kyrillinen muinaiskirkkoslaavimuunnelma",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Duployén pikakirjoitus",
           "Egyd": "egyptiläinen demoottinen",
@@ -55,6 +56,7 @@
           "Geor": "georgialainen",
           "Geor-alt-secondary": "mkhedruli",
           "Glag": "glagoliittinen",
+          "Gong": "Gong",
           "Gonm": "masaram-gondi",
           "Goth": "goottilainen",
           "Gran": "grantha",
@@ -105,10 +107,12 @@
           "Lyci": "lyykialainen",
           "Lydi": "lyydialainen",
           "Mahj": "mahajanilainen",
+          "Maka": "Maka",
           "Mand": "mandealainen",
           "Mani": "manikealainen",
           "Marc": "tiibetiläinen marchan-kirjoitus",
           "Maya": "maya-hieroglyfit",
+          "Medf": "Medf",
           "Mend": "mende",
           "Merc": "meroiittinen kursiivikirjoitus",
           "Mero": "meroiittinen",
@@ -143,7 +147,9 @@
           "Phnx": "foinikialainen",
           "Plrd": "Pollardin foneettinen",
           "Prti": "piirtokirjoitusparthialainen",
+          "Qaag": "Qaag",
           "Rjng": "rejang",
+          "Rohg": "Rohg",
           "Roro": "rongorongo",
           "Runr": "riimukirjoitus",
           "Samr": "samarianaramealainen",
@@ -156,6 +162,8 @@
           "Sidd": "siddham-tavukirjoitus",
           "Sind": "khudabadi",
           "Sinh": "sinhalilainen",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "sorang sompeng",
           "Soyo": "soyombo-kirjaimisto",
           "Sund": "sundalainen",

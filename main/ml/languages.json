@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ml"
       },
@@ -80,6 +80,7 @@
           "car": "കാരിബ്",
           "cay": "കയൂഗ",
           "cch": "അറ്റ്സാം",
+          "ccp": "ccp",
           "ce": "ചെചൻ",
           "ceb": "സെബുവാനോ",
           "cgg": "ചിഗ",

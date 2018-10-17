@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "gsw",
         "territory": "FR"
@@ -41,6 +41,7 @@
           "Cyrl": "Kyrillisch",
           "Cyrs": "Altchileslawisch",
           "Deva": "Tövanagaari",
+          "Dogr": "Dogr",
           "Dsrt": "Teseret",
           "Dupl": "Dupl",
           "Egyd": "Temozisch-Ägüptisch",
@@ -51,6 +52,7 @@
           "Geok": "Ghutsuri",
           "Geor": "Georgisch",
           "Glag": "Glagolitisch",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "Gotisch",
           "Gran": "Gran",
@@ -98,10 +100,12 @@
           "Lyci": "Lykisch",
           "Lydi": "Lydisch",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Mandäisch",
           "Mani": "Manichäisch",
           "Marc": "Marc",
           "Maya": "Maya-Hieroglyphä",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Meroitisch",
@@ -134,7 +138,9 @@
           "Phnx": "Phönizisch",
           "Plrd": "Pollard Phonetisch",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rejang",
+          "Rohg": "Rohg",
           "Roro": "Rongorongo",
           "Runr": "Runäschrift",
           "Samr": "Samaritanisch",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "Singhalesisch",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sundanesisch",

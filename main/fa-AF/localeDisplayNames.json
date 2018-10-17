@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "fa",
         "territory": "AF"
@@ -154,6 +154,7 @@
             "finance": "سیستم عددی مالی",
             "fullwide": "ارقام تمام‌عرض",
             "geor": "اعداد گرجی",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "اعداد یونانی",
             "greklow": "اعداد یونانی با حروف کوچک",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "ارقام اوریه‌ای",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "اعداد رومی",
             "romanlow": "اعداد رومی با حروف کوچک",
             "saur": "saur",

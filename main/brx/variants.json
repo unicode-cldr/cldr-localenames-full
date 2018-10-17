@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "brx"
       },
@@ -21,9 +21,10 @@
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "पूर्वी अर्मेनियाई",
-          "AREVMDA": "AREVMDA",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "युनीफाईड तुर्की लैटीनी वर्तनी",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +34,22 @@
           "BISKE": "सान जीओर्जीओ / बीला डायलेक्ट",
           "BOHORIC": "BOHORIC",
           "BOONT": "बुन्तलींग",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "आईपीए फ़ोनेटीक्स",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "युपीए फ़ोनेटीक्स",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +62,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "रेज़ीयन की लीपोवाज़ डायलेक्ट",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +71,7 @@
           "NDYUKA": "NDYUKA",
           "NEDIS": "नाटीसोन डायलेक्ट",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "ग्नीवा या न्जीवा डायलेक्ट",
           "NULIK": "NULIK",
           "OSOJS": "ओसेआको ओसोजाने डायलेक्ट",
@@ -73,6 +84,7 @@
           "PINYIN": "PINYIN",
           "POLYTON": "बहुस्वरीय",
           "POSIX": "कम्प्यूटर",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "संशोधित वर्तनी",
           "RIGIK": "RIGIK",
@@ -96,6 +108,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "VALENCIA",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "WADEGILE",
           "XSISTEMO": "XSISTEMO"
         }

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "uz",
         "script": "Latn"
@@ -58,6 +58,7 @@
           "bug": "bugi",
           "byn": "blin",
           "ca": "katalan",
+          "ccp": "ccp",
           "ce": "chechen",
           "ceb": "sebuan",
           "cgg": "chiga",
@@ -83,7 +84,7 @@
           "de-CH": "yuqori nemis (Shveytsariya)",
           "dgr": "dogrib",
           "dje": "zarma",
-          "dsb": "quyi sorbcha",
+          "dsb": "quyi sorb",
           "dua": "duala",
           "dv": "divexi",
           "dyo": "diola-fogni",
@@ -320,13 +321,13 @@
           "sad": "sandave",
           "sah": "saxa",
           "saq": "samburu",
-          "sat": "santal",
+          "sat": "santali",
           "sba": "ngambay",
           "sbp": "sangu",
           "sc": "sardin",
           "scn": "sitsiliya",
           "sco": "shotland",
-          "sd": "sindxi",
+          "sd": "sindhi",
           "sdh": "janubiy kurd",
           "se": "shimoliy saam",
           "seh": "sena",

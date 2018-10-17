@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "to"
       },
@@ -201,7 +201,7 @@
           "MK": "Masetōnia",
           "MK-alt-variant": "Masetōnia (FYROM)",
           "ML": "Māli",
-          "MM": "Pema",
+          "MM": "Mianimā (Pema)",
           "MN": "Mongokōlia",
           "MO": "Makau SAR Siaina",
           "MO-alt-short": "Makau",
@@ -307,6 +307,8 @@
           "VU": "Vanuatu",
           "WF": "ʻUvea mo Futuna",
           "WS": "Haʻamoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kōsovo",
           "YE": "Iemeni",
           "YT": "Maiote",

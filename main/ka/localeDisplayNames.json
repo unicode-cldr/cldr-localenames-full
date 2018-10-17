@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ka"
       },
@@ -100,6 +100,7 @@
             "ethi": "ეთიოპიური რიცხვები",
             "fullwide": "სრულსიგანიანი ციფრები",
             "geor": "ქართული რიცხვები",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ბერძნული რიცხვები",
             "greklow": "ბერძნული ქვედა რეგისტრის რიცხვები",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ორიული ციფრები",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "რომაული ციფრები",
             "romanlow": "რომაული ქვედა რეგისტრის რიცხვები",
             "saur": "საურაშტრული ციფრები",

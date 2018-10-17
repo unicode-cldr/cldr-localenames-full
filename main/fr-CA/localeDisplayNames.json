@@ -3,8 +3,8 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "fr",
         "territory": "CA"
@@ -149,11 +149,12 @@
             "cakm": "cakm",
             "cham": "cham",
             "cyrl": "cyrl",
-            "deva": "chiffres devanagaris",
+            "deva": "chiffres dévanagaris",
             "ethi": "chiffres éthiopiens",
             "finance": "Chiffres financiers",
             "fullwide": "chiffres pleine chasse",
             "geor": "chiffres géorgiens",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "chiffres grecs",
             "greklow": "chiffres grecs minuscules",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "chiffres oriyas",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "chiffres romains",
             "romanlow": "chiffres romains minuscules",
             "saur": "saur",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "it",
         "territory": "SM"
@@ -43,6 +43,7 @@
           "Cyrl": "cirillico",
           "Cyrs": "cirillico antica chiesa slavonica",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "stenografia duployan",
           "Egyd": "egiziano demotico",
@@ -53,6 +54,7 @@
           "Geok": "kutsuri",
           "Geor": "georgiano",
           "Glag": "glagolitico",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotico",
           "Gran": "grantha",
@@ -103,10 +105,12 @@
           "Lyci": "lyci",
           "Lydi": "lydi",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandaico",
           "Mani": "manicheo",
           "Marc": "Marc",
           "Maya": "geroglifici maya",
+          "Medf": "Medf",
           "Mend": "mende",
           "Merc": "corsivo meroitico",
           "Mero": "meroitico",
@@ -140,7 +144,9 @@
           "Phnx": "fenicio",
           "Plrd": "fonetica di pollard",
           "Prti": "partico delle iscrizioni",
+          "Qaag": "Qaag",
           "Rjng": "rejang",
+          "Rohg": "Rohg",
           "Roro": "rongorongo",
           "Runr": "runico",
           "Samr": "samaritano",
@@ -153,6 +159,8 @@
           "Sidd": "Sidd",
           "Sind": "khudawadi",
           "Sinh": "singalese",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "sora sompeng",
           "Soyo": "Soyo",
           "Sund": "sundanese",

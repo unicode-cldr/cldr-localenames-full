@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "bn",
         "territory": "IN"
@@ -309,6 +309,8 @@
           "VU": "ভানুয়াটু",
           "WF": "ওয়ালিস ও ফুটুনা",
           "WS": "সামোয়া",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "কসোভো",
           "YE": "ইয়েমেন",
           "YT": "মায়োত্তে",

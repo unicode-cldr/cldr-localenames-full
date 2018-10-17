@@ -3,8 +3,8 @@
     "fr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "fr"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "arménien oriental",
           "AREVMDA": "arménien occidental",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "alphabet latin altaïque unifié",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "dialecte de San Giorgio / Bila",
           "BOHORIC": "BOHORIC",
           "BOONT": "dialecte boontling",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "alphabet phonétique international",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "alphabet phonétique ouralique",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "dialecte lipovaz de Resia",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +72,7 @@
           "NDYUKA": "NDYUKA",
           "NEDIS": "dialecte de Natisone",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "dialecte de Gniva / Njiva",
           "NULIK": "NULIK",
           "OSOJS": "dialecte d’Oseacco / Osojane",
@@ -73,6 +85,7 @@
           "PINYIN": "pinyin",
           "POLYTON": "polytonique",
           "POSIX": "informatique",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "orthographe révisée",
           "RIGIK": "RIGIK",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "valencien",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Wade-Giles",
           "XSISTEMO": "XSISTEMO"
         }

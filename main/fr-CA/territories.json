@@ -3,8 +3,8 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "fr",
         "territory": "CA"
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis-et-Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Yémen",
           "YT": "Mayotte",

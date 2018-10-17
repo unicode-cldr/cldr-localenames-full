@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "my"
       },
@@ -100,6 +100,7 @@
             "ethi": "အီသီယိုပီးယား ဂဏန်းခြေ",
             "fullwide": "ဗြက်ပြည့် ဂဏန်းခြေ",
             "geor": "နိုင်ငံတကာသုံးဂဏန်းခြေ",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ဂရိ ဂဏန်းခြေ",
             "greklow": "ဂရိ ဂဏန်းခြေ စာလုံးသေး",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ဩရီရာ ဂဏန်းခြေ",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ရောမ ဂဏန်းခြေ",
             "romanlow": "ရောမ ဂဏန်းခြေ စာလုံးသေး",
             "saur": "saur",

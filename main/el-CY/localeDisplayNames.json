@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "el",
         "territory": "CY"
@@ -154,6 +154,7 @@
             "finance": "Οικονομικά αριθμητικά",
             "fullwide": "Ψηφία πλήρους πλάτους",
             "geor": "Γεωργιανά αριθμητικά",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Ελληνικά αριθμητικά",
             "greklow": "Ελληνικά αριθμητικά πεζά",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "Οριγικά ψηφία",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Λατινικά αριθμητικά",
             "romanlow": "Πεζά λατινικά αριθμητικά",
             "saur": "saur",

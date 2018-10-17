@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "si"
       },
@@ -100,6 +100,7 @@
             "ethi": "ඉතියෝපියානු සංඛ්‍යාංකන",
             "fullwide": "සම්පූර්ණ පළල ඉලක්කම්",
             "geor": "ජෝජියානු සංඛ්‍යාංකන",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ග්‍රීක සංඛ්‍යාංකන",
             "greklow": "ග්‍රීක කුඩා සංඛ්‍යාංකන",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ඔරියා ඉලක්කම්",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "රෝමානු සංඛ්‍යාංකන",
             "romanlow": "රෝමානු කුඩා සංඛ්‍යාංකන",
             "saur": "saur",

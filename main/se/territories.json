@@ -3,8 +3,8 @@
     "se": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "se"
       },
@@ -307,6 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis ja Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

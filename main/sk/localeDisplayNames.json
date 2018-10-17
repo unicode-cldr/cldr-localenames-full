@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "sk"
       },
@@ -153,6 +153,7 @@
             "finance": "Finančnícky zápis čísiel",
             "fullwide": "číslice s celou šírkou",
             "geor": "gruzínske číslice",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grécke číslice",
             "greklow": "malé grécke číslice",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "uríjske číslice",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "rímske číslice",
             "romanlow": "malé rímske číslice",
             "saur": "saur",

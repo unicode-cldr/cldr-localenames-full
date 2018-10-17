@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "az",
         "script": "Latn"
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Uollis və Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Yəmən",
           "YT": "Mayot",

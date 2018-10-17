@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "yue",
         "script": "Hans"
@@ -43,6 +43,7 @@
           "Cyrl": "斯拉夫文",
           "Cyrs": "西里尔文（古教会斯拉夫文变体）",
           "Deva": "天城文",
+          "Dogr": "Dogr",
           "Dsrt": "德瑟雷特文",
           "Dupl": "杜普洛伊速记",
           "Egyd": "古埃及世俗体",
@@ -53,6 +54,7 @@
           "Geok": "乔治亚语系（阿索他路里和努斯克胡里文）",
           "Geor": "乔治亚文",
           "Glag": "格拉哥里文",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "歌德文",
           "Gran": "格兰他文字",
@@ -103,10 +105,12 @@
           "Lyci": "吕西亚语",
           "Lydi": "里底亚语",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "曼底安文",
           "Mani": "摩尼教文",
           "Marc": "Marc",
           "Maya": "玛雅象形文字",
+          "Medf": "Medf",
           "Mend": "门德文",
           "Merc": "麦罗埃文（曲线字体）",
           "Mero": "麦罗埃文",
@@ -140,7 +144,9 @@
           "Phnx": "腓尼基文",
           "Plrd": "柏格理拼音符",
           "Prti": "帕提亚文（碑铭体）",
+          "Qaag": "Qaag",
           "Rjng": "拉让文",
+          "Rohg": "Rohg",
           "Roro": "朗格朗格象形文",
           "Runr": "古北欧文字",
           "Samr": "撒马利亚文",
@@ -153,6 +159,8 @@
           "Sidd": "悉昙文字",
           "Sind": "信德文",
           "Sinh": "锡兰文",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "索朗桑朋文字",
           "Soyo": "Soyo",
           "Sund": "巽他文",

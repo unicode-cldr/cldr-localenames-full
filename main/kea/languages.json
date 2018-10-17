@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "kea"
       },
@@ -56,6 +56,7 @@
           "bug": "bug",
           "byn": "byn",
           "ca": "katalãu",
+          "ccp": "ccp",
           "ce": "txetxenu",
           "ceb": "ceb",
           "cgg": "xiga",
@@ -264,6 +265,7 @@
           "naq": "naq",
           "nb": "norueges bokmål",
           "nd": "nd",
+          "nds": "nds",
           "nds-NL": "nds (Olanda)",
           "ne": "nepales",
           "new": "new",

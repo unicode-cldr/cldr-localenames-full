@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "he"
       },
@@ -39,6 +39,7 @@
           "Cyrl": "קירילי",
           "Cyrs": "קירילי סלאבוני כנסייתי עתיק",
           "Deva": "דוואנגרי",
+          "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
           "Egyp": "כתב חרטומים",
@@ -46,6 +47,7 @@
           "Ethi": "אתיופי",
           "Geor": "גאורגי",
           "Glag": "Glag",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "גותי",
           "Gran": "Gran",
@@ -92,10 +94,12 @@
           "Lyci": "Lyci",
           "Lydi": "Lydi",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Mand",
           "Mani": "Mani",
           "Marc": "Marc",
           "Maya": "מאיה",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
@@ -126,7 +130,9 @@
           "Phnx": "פיניקי",
           "Plrd": "Plrd",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rjng",
+          "Rohg": "Rohg",
           "Runr": "רוני",
           "Samr": "Samr",
           "Sarb": "Sarb",
@@ -137,6 +143,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "סינהלה",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sund",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sbp"
       },
@@ -307,6 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Walisi ni Futuna",
           "WS": "Samoya",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yemeni",
           "YT": "Mayote",

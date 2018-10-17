@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "hr",
         "territory": "BA"
@@ -154,6 +154,7 @@
             "finance": "Financijski brojevi",
             "fullwide": "široke znamenke",
             "geor": "gruzijski brojevi",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grčki brojevi",
             "greklow": "mali grčki brojevi",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "orijske znamenke",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "rimski brojevi",
             "romanlow": "mali rimski brojevi",
             "saur": "saur",

@@ -3,8 +3,8 @@
     "zh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14476 $",
+          "_cldrVersion": "34"
         },
         "language": "zh"
       },
@@ -153,6 +153,7 @@
             "finance": "金融数字",
             "fullwide": "全角数字",
             "geor": "格鲁吉亚数字",
+            "gong": "gong",
             "gonm": "马萨拉姆冈德数字",
             "grek": "希腊数字",
             "greklow": "希腊小写数字",
@@ -195,6 +196,7 @@
             "olck": "桑塔利文数字",
             "orya": "奥里亚数字",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "罗马数字",
             "romanlow": "罗马小写数字",
             "saur": "索拉什特拉文数字",

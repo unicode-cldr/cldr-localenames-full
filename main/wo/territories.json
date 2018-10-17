@@ -3,8 +3,8 @@
     "wo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13871 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "wo"
       },
@@ -307,6 +307,8 @@
           "VU": "Wanuatu",
           "WF": "Walis ak Futuna",
           "WS": "Samowa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosowo",
           "YE": "Yaman",
           "YT": "Mayot",

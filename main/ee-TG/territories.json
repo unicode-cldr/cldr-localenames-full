@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ee",
         "territory": "TG"
@@ -308,6 +308,8 @@
           "VU": "Vanuatu nutome",
           "WF": "Wallis kple Futuna nutome",
           "WS": "Samoa nutome",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yemen nutome",
           "YT": "Mayotte nutome",

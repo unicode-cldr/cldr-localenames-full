@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "yue",
         "script": "Hant"
@@ -98,6 +98,7 @@
           "car": "加勒比文",
           "cay": "卡尤加文",
           "cch": "阿燦文",
+          "ccp": "ccp",
           "ce": "車臣文",
           "ceb": "宿霧文",
           "cgg": "奇加文",

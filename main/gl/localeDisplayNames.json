@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "gl"
       },
@@ -21,7 +21,7 @@
           "colBackwards": "Clasificación de acentos invertida",
           "colCaseFirst": "Orde de maiúsculas/minúsculas",
           "colCaseLevel": "Clasificación que distingue entre maiúsculas e minúsculas",
-          "collation": "orde de clasificación",
+          "collation": "criterio de ordenación",
           "colNormalization": "Clasificación normalizada",
           "colNumeric": "Clasificación numérica",
           "colStrength": "Forza de clasificación",
@@ -153,6 +153,7 @@
             "finance": "Números financeiros",
             "fullwide": "díxitos de ancho completo",
             "geor": "numeración xeorxiana",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "numeración grega",
             "greklow": "numeración grega en minúscula",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "díxitos do oriá",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "numeración romana",
             "romanlow": "numeración romana en minúsculas",
             "saur": "saur",

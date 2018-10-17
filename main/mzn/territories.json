@@ -3,8 +3,8 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "mzn"
       },
@@ -307,6 +307,8 @@
           "VU": "وانواتو",
           "WF": "والیس و فوتونا",
           "WS": "ساموآ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "کوزوو",
           "YE": "یمن",
           "YT": "مایوت",

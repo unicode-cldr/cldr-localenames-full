@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14453 $",
+          "_cldrVersion": "34"
         },
         "language": "az"
       },
@@ -308,6 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Uollis və Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Yəmən",
           "YT": "Mayot",

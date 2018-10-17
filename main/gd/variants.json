@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "gd"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "Ròmanachadh ALA-LC 1997",
           "ALUKU": "Dual-chainnt Aluku",
           "AO1990": "Aonta litreachadh na Portagailise 1990",
+          "ARANES": "ARANES",
           "AREVELA": "Airmeinis an Ear",
           "AREVMDA": "Airmeinis an Iar",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "Abidil Laideann aonaichte na Turcaise",
           "BALANKA": "Dual-chainnt Balanka de Anii",
           "BARLA": "Dual-chainntean Barlavento de Kabuverdianu",
@@ -33,15 +35,22 @@
           "BISKE": "Dual-chainnt San Giorgio/Bila",
           "BOHORIC": "Aibidil Bohorič",
           "BOONT": "Boontling",
+          "CISAUP": "CISAUP",
           "COLB1945": "Aonta litreachaidh eadar a’ Phortagail is Braisil 1945",
           "CORNU": "Beurla na Còirne",
+          "CREISS": "CREISS",
           "DAJNKO": "Aibidil Dajnko",
           "EKAVSK": "Sèirbhis le fuaimneachadh iarach",
           "EMODENG": "Nua-Bheurla thràth",
           "FONIPA": "Comharran fuaim-eòlais an IPA",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "Comharran fuaim-eòlais an UPA",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "Ròmanachadh Hepburn",
           "HOGNORSK": "Høgnorsk",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "Kociewie",
           "KSCOR": "Litreachadh stannardach",
           "LAUKIKA": "Laukika",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "Dual-chainnt Lipovaz Resia",
           "LUNA1918": "LUNA1918",
           "METELKO": "Aibidil Metelko",
@@ -61,6 +72,7 @@
           "NDYUKA": "Dual-chainnt Ndyuka",
           "NEDIS": "Dual-chainnt Natisone",
           "NEWFOUND": "Beurla Talamh an Èisg",
+          "NICARD": "NICARD",
           "NJIVA": "Dual-chainnt Gniva/Njiva",
           "NULIK": "Nua-Volapük",
           "OSOJS": "Dual-chainnt Oseacco/Osojane",
@@ -73,6 +85,7 @@
           "PINYIN": "Ròmanachadh Pinyin",
           "POLYTON": "Greugais phoiliotonach",
           "POSIX": "Coimpiutair",
+          "PROVENC": "PROVENC",
           "PUTER": "Puter",
           "REVISED": "Litreachadh lèirmheasaichte",
           "RIGIK": "Volapük chlasaigeach",
@@ -96,6 +109,7 @@
           "VAIDIKA": "Vaidika",
           "VALENCIA": "Valencià",
           "VALLADER": "Vallader",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Ròmanachadh Wade-Giles",
           "XSISTEMO": "XSISTEMO"
         }

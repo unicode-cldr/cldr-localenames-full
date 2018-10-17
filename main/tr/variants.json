@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "tr"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "Doğu Ermenicesi",
           "AREVMDA": "Batı Ermenicesi",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "Birleştirilmiş Yeni Türk Alfabesi",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "San Giorgio/Bila Lehçesi",
           "BOHORIC": "BOHORIC",
           "BOONT": "Boontling",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "IPA Ses Bilimi",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "UPA Ses Bilimi",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "Resia Lipovaz Lehçesi",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +72,7 @@
           "NDYUKA": "NDYUKA",
           "NEDIS": "Natisone Lehçesi",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "Gniva/Njiva Lehçesi",
           "NULIK": "NULIK",
           "OSOJS": "Oseacco/Osojane Lehçesi",
@@ -73,6 +85,7 @@
           "PINYIN": "Pinyin (Latin Alfabesinde Yazımı)",
           "POLYTON": "Politonik",
           "POSIX": "Bilgisayar",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "Gözden Geçirilmiş Yazım Kuralları",
           "RIGIK": "RIGIK",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Valensiyaca",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Wade-Giles (Latin Alfabesinde Yazımı)",
           "XSISTEMO": "XSISTEMO"
         }

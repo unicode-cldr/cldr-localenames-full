@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sv",
         "territory": "FI"
@@ -154,7 +154,8 @@
             "finance": "finansiella siffror",
             "fullwide": "fullbreddssiffror",
             "geor": "georgiska taltecken",
-            "gonm": "gonm",
+            "gong": "gunjalagondiska siffror",
+            "gonm": "masaramgondiska siffror",
             "grek": "grekiska taltecken",
             "greklow": "små grekiska taltecken",
             "gujr": "gujaratiska siffror",
@@ -196,6 +197,7 @@
             "olck": "ol chiki-siffror",
             "orya": "oriyiska siffror",
             "osma": "osmanya-siffror",
+            "rohg": "hanifisiffror",
             "roman": "romerska taltecken",
             "romanlow": "små romerska taltecken",
             "saur": "saurashtra-siffror",

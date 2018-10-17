@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "to"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "tohinima fakalūsia",
           "Cyrs": "tohinima fakalūsia-lotu-motuʻa",
           "Deva": "tohinima fakaʻinitia-tevanākalī",
+          "Dogr": "Dogr",
           "Dsrt": "tohinima fakateseleti",
           "Dupl": "tohinimanounou fakatupoloiē",
           "Egyd": "tohinima temotika-fakaʻisipite",
@@ -51,6 +52,7 @@
           "Geok": "tohinima fakakutusuli-seōsia",
           "Geor": "tohinima fakaseōsia",
           "Glag": "tohinima fakakalakoliti",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "tohinima fakakotika",
           "Gran": "tohinima fakasilanitā",
@@ -101,10 +103,12 @@
           "Lyci": "tohinima fakalīsia",
           "Lydi": "tohinima fakalītia",
           "Mahj": "tohinima fakamahasani",
+          "Maka": "Maka",
           "Mand": "tohinima fakamanitaea",
           "Mani": "tohinima fakamanikaea",
           "Marc": "Marc",
           "Maya": "tohinima tongitapu fakamaia",
+          "Medf": "Medf",
           "Mend": "tohinima fakamēniti",
           "Merc": "tohinima fakameloue-heihei",
           "Mero": "tohinima fakameloue",
@@ -138,7 +142,9 @@
           "Phnx": "tohinima fakafoinikia",
           "Plrd": "tohinima fakafonētiki-polāti",
           "Prti": "tohinima fakapātia-tongi",
+          "Qaag": "Qaag",
           "Rjng": "tohinima fakalesiangi",
+          "Rohg": "Rohg",
           "Roro": "tohinima fakalongolongo",
           "Runr": "tohinima fakaluniki",
           "Samr": "tohinima fakasamalitane",
@@ -151,6 +157,8 @@
           "Sidd": "tohinima fakasititami",
           "Sind": "tohinima fakakutauāti",
           "Sinh": "tohinima fakasingihala",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "tohinima fakasolasomipengi",
           "Soyo": "Soyo",
           "Sund": "tohinima fakasunitā",

@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "lo"
       },
@@ -100,6 +100,7 @@
             "ethi": "ຕົວເລກເອທິໂອປິກ",
             "fullwide": "ຕົວເລກຄວາມກວ້າງເຕັມ",
             "geor": "ຕົວເລກຈໍຈຽນ",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ຕົວເລກກຣີກ",
             "greklow": "ຕົວເລກກຣີກຕົວພິມນ້ອຍ",
@@ -141,6 +142,7 @@
             "olck": "ຕົວເລກໂອລຈິກິ",
             "orya": "ຕົວເລກໂອດິອາ",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ຕົວເລກໂຣມັນ",
             "romanlow": "ຕົວເລກໂຣມັນຕົວພິມນ້ອຍ",
             "saur": "ຕົວເລກເສົາລັດທາ",

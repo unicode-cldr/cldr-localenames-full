@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sq",
         "territory": "XK"
@@ -58,6 +58,7 @@
           "bug": "buginezisht",
           "byn": "blinisht",
           "ca": "katalonisht",
+          "ccp": "ccp",
           "ce": "çeçenisht",
           "ceb": "sebuanisht",
           "cgg": "çigisht",
@@ -415,8 +416,8 @@
           "yue": "kantonezisht",
           "zgh": "tamaziatishte standarde marokene",
           "zh": "kinezisht",
-          "zh-Hans": "kinezisht (i thjeshtuar)",
-          "zh-Hant": "kinezisht (tradicional)",
+          "zh-Hans": "kinezishte e thjeshtuar",
+          "zh-Hant": "kinezishte tradicionale",
           "zu": "zuluisht",
           "zun": "zunisht",
           "zxx": "nuk ka përmbajtje gjuhësore",

@@ -3,8 +3,8 @@
     "se-FI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "se",
         "territory": "FI"
@@ -101,6 +101,7 @@
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grek",
             "greklow": "greklow",
@@ -142,6 +143,7 @@
             "olck": "olck",
             "orya": "orya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "roman",
             "romanlow": "romanlow",
             "saur": "saur",

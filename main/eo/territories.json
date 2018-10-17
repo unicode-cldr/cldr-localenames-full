@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "eo"
       },
@@ -307,6 +307,8 @@
           "VU": "Vanuatuo",
           "WF": "Valiso kaj Futuno",
           "WS": "Samoo",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Jemeno",
           "YT": "Majoto",

@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "lv"
       },
@@ -81,6 +81,7 @@
           "car": "karību",
           "cay": "kajuga",
           "cch": "atsamu",
+          "ccp": "ccp",
           "ce": "čečenu",
           "ceb": "sebuāņu",
           "cgg": "kiga",
@@ -99,7 +100,7 @@
           "cop": "koptu",
           "cr": "krī",
           "crh": "Krimas tatāru",
-          "crs": "kreolu franču",
+          "crs": "franciskā kreoliskā valoda (Seišelu salas)",
           "cs": "čehu",
           "csb": "kašubu",
           "cu": "baznīcslāvu",
@@ -111,7 +112,7 @@
           "dav": "taitu",
           "de": "vācu",
           "de-AT": "vācu (Austrija)",
-          "de-CH": "Šveices augšvācu",
+          "de-CH": "augšvācu (Šveice)",
           "del": "delavēru",
           "den": "sleivu",
           "dgr": "dogribu",
@@ -174,7 +175,7 @@
           "gan": "gan",
           "gay": "gajo",
           "gba": "gbaju",
-          "gd": "gēlu",
+          "gd": "skotu gēlu",
           "gez": "gēzu",
           "gil": "kiribatiešu",
           "gl": "galisiešu",
@@ -385,7 +386,7 @@
           "pam": "pampanganu",
           "pap": "papjamento",
           "pau": "palaviešu",
-          "pcm": "pidžins",
+          "pcm": "Nigērijas pidžinvaloda",
           "peo": "senpersu",
           "phn": "feniķiešu",
           "pi": "pāli",
@@ -464,7 +465,7 @@
           "sux": "šumeru",
           "sv": "zviedru",
           "sw": "svahili",
-          "sw-CD": "Kongo svahili",
+          "sw-CD": "svahili (Kongo)",
           "swb": "komoru",
           "syc": "klasiskā sīriešu",
           "syr": "sīriešu",
@@ -537,7 +538,7 @@
           "zap": "sapoteku",
           "zbl": "blissimbolika",
           "zen": "zenagu",
-          "zgh": "standarta marokāņu berberu",
+          "zgh": "standarta tamazigtu (Maroka)",
           "zh": "ķīniešu",
           "zh-Hans": "ķīniešu vienkāršotā",
           "zh-Hant": "ķīniešu tradicionālā",

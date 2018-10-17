@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "uk"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "ALALC97",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "Східновірменський",
           "AREVMDA": "Західновірменський",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "Уніфікований турецький латинський алфавіт",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "Діалект Сан-Джорджіо/Біла",
           "BOHORIC": "BOHORIC",
           "BOONT": "Бунтлінг",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "Міжнародний фонетичний алфавіт",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "Уральський фонетичний алфавіт",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "HEPBURN",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "Ліповазський діалект резьянської мови",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +72,7 @@
           "NDYUKA": "NDYUKA",
           "NEDIS": "Натісонський діалект",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "Діалект Нджіва",
           "NULIK": "NULIK",
           "OSOJS": "Осоянський діалект",
@@ -73,6 +85,7 @@
           "PINYIN": "Романізація піньїн",
           "POLYTON": "Політонічний",
           "POSIX": "Компʼютерний",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "Нова орфографія",
           "RIGIK": "RIGIK",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Валенсійська",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Романізація Вейда-Джайлза",
           "XSISTEMO": "XSISTEMO"
         }

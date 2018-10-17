@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ja"
       },
@@ -153,6 +153,7 @@
             "finance": "財務用漢数字",
             "fullwide": "全角数字",
             "geor": "ジョージア数字",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ギリシャ数字",
             "greklow": "ギリシャ数字(小文字)",
@@ -195,6 +196,7 @@
             "olck": "オルチキ数字",
             "orya": "オリヤー数字",
             "osma": "オスマニア数字",
+            "rohg": "rohg",
             "roman": "ローマ数字",
             "romanlow": "ローマ数字(小文字)",
             "saur": "サウラーシュトラ数字",

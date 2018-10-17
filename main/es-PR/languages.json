@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "PR"
@@ -82,6 +82,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -263,7 +264,7 @@
           "kos": "kosraeano",
           "kpe": "kpelle",
           "kr": "kanuri",
-          "krc": "karachay-balkar",
+          "krc": "karachái-bálkaro",
           "krl": "carelio",
           "kru": "kurukh",
           "ks": "cachemiro",
@@ -501,7 +502,7 @@
           "tw": "twi",
           "twq": "tasawaq",
           "ty": "tahitiano",
-          "tyv": "tuviniano",
+          "tyv": "tuvano",
           "tzm": "tamazight del Marruecos Central",
           "udm": "udmurt",
           "ug": "uigur",
@@ -526,7 +527,7 @@
           "wbp": "warlpiri",
           "wo": "wolof",
           "wuu": "wu",
-          "xal": "kalmyk",
+          "xal": "calmuco",
           "xh": "xhosa",
           "xog": "soga",
           "yao": "yao",

@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ne"
       },
@@ -100,6 +100,7 @@
             "ethi": "इथियोपाली अङ्कहरू",
             "fullwide": "पूरा चौंडाइका अङ्कहरू",
             "geor": "जर्जियाली अङ्कहरू",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ग्रीक अङ्कहरू",
             "greklow": "ग्रीक साना अङ्कहरू",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ओरिया अङ्कहरू",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "रोमन अङ्कहरू",
             "romanlow": "रोमन साना केसका अङ्कहरू",
             "saur": "saur",

@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "hu"
       },
@@ -153,6 +153,7 @@
             "finance": "Pénzügyi számok",
             "fullwide": "Teljes szélességű számjegyek",
             "geor": "Grúz számok",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Görög számok",
             "greklow": "Görög kisbetűs számok",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "Orija számjegyek",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Római számok",
             "romanlow": "Római kisbetűs számok",
             "saur": "saur",
@@ -205,7 +207,7 @@
             "sund": "sund",
             "takr": "takr",
             "talu": "talu",
-            "taml": "Tamil hagyományos számok",
+            "taml": "Hagyományos tamil számjegyek",
             "tamldec": "Tamil számjegyek",
             "telu": "Telugu számjegyek",
             "thai": "Thai számjegyek",

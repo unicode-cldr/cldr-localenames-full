@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ks"
       },
@@ -40,6 +40,7 @@
           "Cyrl": "سَیرِلِک",
           "Cyrs": "پرون چٔرچسلیوونِک سَیرِلِک",
           "Deva": "دیوناگری",
+          "Dogr": "Dogr",
           "Dsrt": "ڈیٚسٔریٚٹ",
           "Dupl": "Dupl",
           "Egyd": "اِجپشِیَن ڈِماٹِک",
@@ -50,6 +51,7 @@
           "Geok": "جارجِیَن کھتسوری",
           "Geor": "جارجِیَن",
           "Glag": "گلیگولِٹِک",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "گوتھِک",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "لیسِیَن",
           "Lydi": "لیدِیَن",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "مَندییَن",
           "Mani": "مانیشییَن",
           "Marc": "Marc",
           "Maya": "مایَن ہیٖروگلِپھ",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "مِرایٹِک",
@@ -133,7 +137,9 @@
           "Phnx": "پھونِشِیَن",
           "Plrd": "پولاڑ پھونِٹِک",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "ریجَنٛگ",
+          "Rohg": "Rohg",
           "Roro": "رونٛگو رونٛگو",
           "Runr": "رَنِک",
           "Samr": "سَمارِٹَن",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "سِنہالا",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "سَنڈَنیٖز",

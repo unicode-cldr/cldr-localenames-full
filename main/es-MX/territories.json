@@ -3,8 +3,8 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14405 $",
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "MX"
@@ -252,7 +252,7 @@
           "RS": "Serbia",
           "RU": "Rusia",
           "RW": "Ruanda",
-          "SA": "Arabia Saudí",
+          "SA": "Arabia Saudita",
           "SB": "Islas Salomón",
           "SC": "Seychelles",
           "SD": "Sudán",
@@ -308,6 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis y Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

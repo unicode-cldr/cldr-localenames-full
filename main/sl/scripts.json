@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "sl"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "cirilica",
           "Cyrs": "starocerkvenoslovanska cirilica",
           "Deva": "devanagarščica",
+          "Dogr": "Dogr",
           "Dsrt": "fonetska pisava deseret",
           "Dupl": "Dupl",
           "Egyd": "demotska egipčanska pisava",
@@ -51,6 +52,7 @@
           "Geok": "cerkvenogruzijski",
           "Geor": "gruzijski",
           "Glag": "glagoliški",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotski",
           "Gran": "Gran",
@@ -98,10 +100,12 @@
           "Lyci": "licijski",
           "Lydi": "lidijski",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandanski",
           "Mani": "manihejski",
           "Marc": "Marc",
           "Maya": "majevska slikovna pisava",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "meroitski",
@@ -134,7 +138,9 @@
           "Phnx": "feničanski",
           "Plrd": "Pollardova fonetska pisava",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rjng",
+          "Rohg": "Rohg",
           "Roro": "rongorongo",
           "Runr": "runski",
           "Samr": "samaritanski",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "sinhalski",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "sundanski",

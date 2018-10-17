@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "am"
       },
@@ -45,7 +45,7 @@
             "gregorian": "የግሪጎሪያን የቀን አቆጣጠር",
             "hebrew": "የእብራዊያን የቀን አቆጣጠር",
             "indian": "የህንድ ብሔራዊ የቀን አቆጣጠር",
-            "islamic": "የእስላማዊ የሰዓት አቆጣጠር",
+            "islamic": "እስላማዊ የቀን አቆጣጠር",
             "islamic-civil": "የእስላም ህዝባዊ የቀን አቆጣጠር",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
@@ -113,7 +113,7 @@
           },
           "d0": {
             "fwidth": "ሙሉ ወርድ",
-            "hwidth": "ሃልፍዊድዝ",
+            "hwidth": "ግማሽ ወርድ",
             "npinyin": "አሃዛዊ"
           },
           "hc": {
@@ -149,10 +149,11 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "የዴቫንጋሪ አሃዞች",
-            "ethi": "የኢትዮፒክ ቁጥሮች",
+            "ethi": "የኢትዮጵያ ቁጥሮች",
             "finance": "የፋይናንስ ቁጥሮች",
             "fullwide": "የሙሉ ወርድ አሃዞች",
             "geor": "የጆርጂያን ቁጥሮች",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "የግሪክ ቁጥሮች",
             "greklow": "የግሪክ ንዑስ ሆሄ ቁጥሮች",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "የኦሪያኛ አሃዞች",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "የሮማን ቁጥሮች",
             "romanlow": "የሮማን ንዑስ ሆሄ ቁጥሮች",
             "saur": "saur",

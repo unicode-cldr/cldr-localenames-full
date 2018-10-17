@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "de",
         "territory": "LU"
@@ -40,7 +40,7 @@
           "151": "Osteuropa",
           "154": "Nordeuropa",
           "155": "Westeuropa",
-          "202": "202",
+          "202": "Subsahara-Afrika",
           "419": "Lateinamerika",
           "AC": "Ascension",
           "AD": "Andorra",
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis und Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

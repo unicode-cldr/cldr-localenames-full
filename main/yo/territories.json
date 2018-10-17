@@ -3,8 +3,8 @@
     "yo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "yo"
       },
@@ -307,6 +307,8 @@
           "VU": "Orílẹ́ède Faniatu",
           "WF": "Orílẹ́ède Wali ati futuna",
           "WS": "Orílẹ́ède Samọ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Orílẹ́ède yemeni",
           "YT": "Orílẹ́ède Mayote",

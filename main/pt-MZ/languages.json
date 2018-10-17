@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pt",
         "territory": "MZ"
@@ -66,7 +66,7 @@
           "bkm": "kom",
           "bla": "siksika",
           "bm": "bambara",
-          "bn": "bengali",
+          "bn": "bengalês",
           "bo": "tibetano",
           "br": "bretão",
           "bra": "braj",
@@ -83,6 +83,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -253,7 +254,7 @@
           "kj": "cuanhama",
           "kk": "cazaque",
           "kkj": "kako",
-          "kl": "groenlandês",
+          "kl": "gronelandês",
           "kln": "kalenjin",
           "km": "khmer",
           "kmb": "quimbundo",
@@ -350,12 +351,12 @@
           "nd": "ndebele do norte",
           "nds": "baixo-alemão",
           "nds-NL": "baixo-saxão",
-          "ne": "nepali",
+          "ne": "nepalês",
           "new": "newari",
           "ng": "dongo",
           "nia": "nias",
           "niu": "niueano",
-          "nl": "holandês",
+          "nl": "neerlandês",
           "nl-BE": "flamengo",
           "nmg": "kwasio",
           "nn": "norueguês nynorsk",

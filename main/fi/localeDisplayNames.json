@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "fi"
       },
@@ -153,6 +153,7 @@
             "finance": "talousnumerot",
             "fullwide": "ideografin levyiset numerot",
             "geor": "georgialaiset numerot",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "kreikkalaiset numerot",
             "greklow": "kreikkalaiset piennumerot",
@@ -195,6 +196,7 @@
             "olck": "ol chiki -numerot",
             "orya": "orijalaiset numerot",
             "osma": "osmanjalaiset numerot",
+            "rohg": "rohg",
             "roman": "roomalaiset numerot",
             "romanlow": "roomalaiset piennumerot",
             "saur": "saurashtra-numerot",

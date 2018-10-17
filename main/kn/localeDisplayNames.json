@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "kn"
       },
@@ -153,6 +153,7 @@
             "finance": "ಆರ್ಥಿಕ ಸಂಖ್ಯೆಗಳು",
             "fullwide": "ಪೂರ್ಣ ಅಗಲವಾದ ಸಂಖ್ಯೆಗಳು",
             "geor": "ಜಾರ್ಜಿಯಾದ ಸಂಖ್ಯೆಗಳು",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ಗ್ರೀಕ್ ಸಂಖ್ಯೆಗಳು",
             "greklow": "ಗ್ರೀಕ್ ಲೋವರ್‌ಕೇಸ್ ಸಂಖ್ಯೆಗಳು",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "ಒರಿಯಾ ಅಂಕೆಗಳು",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ರೋಮನ್ ಸಂಖ್ಯೆಗಳು",
             "romanlow": "ರೋಮನ್ ಲೋವರ್‌ಕೇಸ್ ಸಂಖ್ಯೆಗಳು",
             "saur": "saur",

@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13915 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "pl"
       },
@@ -70,7 +70,7 @@
           "bfq": "badaga",
           "bg": "bułgarski",
           "bgn": "beludżi północny",
-          "bho": "bhodźpuri",
+          "bho": "bhodżpuri",
           "bi": "bislama",
           "bik": "bikol",
           "bin": "bini",
@@ -98,6 +98,7 @@
           "car": "karaibski",
           "cay": "kajuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "czeczeński",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -346,7 +347,7 @@
           "lv": "łotewski",
           "lzh": "chiński klasyczny",
           "lzz": "lazyjski",
-          "mad": "madurajski",
+          "mad": "madurski",
           "maf": "mafa",
           "mag": "magahi",
           "mai": "maithili",
@@ -388,7 +389,7 @@
           "mye": "myene",
           "myv": "erzja",
           "mzn": "mazanderański",
-          "na": "nauru",
+          "na": "nauruański",
           "nan": "minnański",
           "nap": "neapolitański",
           "naq": "nama",
@@ -430,7 +431,7 @@
           "osa": "osage",
           "ota": "osmańsko-turecki",
           "pa": "pendżabski",
-          "pag": "pangasino",
+          "pag": "pangasinan",
           "pal": "pahlavi",
           "pam": "pampango",
           "pap": "papiamento",

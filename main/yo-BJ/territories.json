@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14453 $",
+          "_cldrVersion": "34"
         },
         "language": "yo",
         "territory": "BJ"
@@ -308,6 +308,8 @@
           "VU": "Orílɛ́ède Faniatu",
           "WF": "Orílɛ́ède Wali ati futuna",
           "WS": "Orílɛ́ède Samɔ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Orílɛ́ède yemeni",
           "YT": "Orílɛ́ède Mayote",

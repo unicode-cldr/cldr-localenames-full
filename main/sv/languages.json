@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sv"
       },
@@ -98,6 +98,7 @@
           "car": "karibiska",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "tjetjenska",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -388,7 +389,7 @@
           "mye": "myene",
           "myv": "erjya",
           "mzn": "mazanderani",
-          "na": "nauriska",
+          "na": "nauruanska",
           "nan": "min nan",
           "nap": "napolitanska",
           "naq": "nama",

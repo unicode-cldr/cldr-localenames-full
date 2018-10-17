@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hi"
       },
@@ -153,6 +153,7 @@
             "finance": "वित्तीय अंक",
             "fullwide": "पूर्ण चौड़ाई अंक",
             "geor": "जॉर्जियन संख्याएँ",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "यूनानी संख्याएँ",
             "greklow": "यूनानी लोअरकेस संख्याएँ",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "उड़िया अंक",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "रोमन संख्याएँ",
             "romanlow": "रोमन लोअरकेस संख्याएँ",
             "saur": "saur",

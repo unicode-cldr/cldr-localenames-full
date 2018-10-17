@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "it",
         "territory": "CH"
@@ -154,6 +154,7 @@
             "finance": "Numeri finanziari",
             "fullwide": "Cifre a larghezza intera",
             "geor": "Numeri georgiani",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Numeri greci",
             "greklow": "Numeri greci minuscoli",
@@ -196,6 +197,7 @@
             "olck": "Cifre Ol Chiki",
             "orya": "Cifre oriya",
             "osma": "Cifre osmanya",
+            "rohg": "rohg",
             "roman": "Numeri romani",
             "romanlow": "Numeri romani minuscoli",
             "saur": "Cifre saurashtra",

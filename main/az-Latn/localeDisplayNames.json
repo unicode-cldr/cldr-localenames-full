@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "az",
         "script": "Latn"
@@ -101,6 +101,7 @@
             "ethi": "Efiop Rəqəmləri",
             "fullwide": "Tam Geniş Rəqəmlər",
             "geor": "Gürcü Rəqəmləri",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Yunan Rəqəmləri",
             "greklow": "Kiçik Yunan Rəqəmləri",
@@ -142,6 +143,7 @@
             "olck": "olck",
             "orya": "Oriya Rəqəmləri",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Rum Rəqəmləri",
             "romanlow": "Kiçik Rum Rəqəmləri",
             "saur": "saur",

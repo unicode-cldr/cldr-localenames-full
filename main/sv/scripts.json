@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "sv"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "kyrilliska",
           "Cyrs": "fornkyrkoslavisk kyrilliska",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Duployéstenografiska",
           "Egyd": "demotiska",
@@ -51,6 +52,7 @@
           "Geok": "kutsuri",
           "Geor": "georgiska",
           "Glag": "glagolitiska",
+          "Gong": "gunjalgondiska",
           "Gonm": "masaram-gondi",
           "Goth": "gotiska",
           "Gran": "gammaltamilska",
@@ -101,10 +103,12 @@
           "Lyci": "lykiska",
           "Lydi": "lydiska",
           "Mahj": "mahajaniska",
+          "Maka": "Maka",
           "Mand": "mandaéiska",
           "Mani": "manikeanska",
           "Marc": "marchenska",
           "Maya": "mayahieroglyfer",
+          "Medf": "Medf",
           "Mend": "mende",
           "Merc": "kursiv-meroitiska",
           "Mero": "meroitiska",
@@ -138,7 +142,9 @@
           "Phnx": "feniciska",
           "Plrd": "pollardtecken",
           "Prti": "tidig parthianska",
+          "Qaag": "Qaag",
           "Rjng": "rejang",
+          "Rohg": "hanifiska",
           "Roro": "rongo-rongo",
           "Runr": "runor",
           "Samr": "samaritiska",
@@ -151,6 +157,8 @@
           "Sidd": "siddhamska",
           "Sind": "sindhiska",
           "Sinh": "singalesiska",
+          "Sogd": "sogdiska",
+          "Sogo": "gammalsogdiska",
           "Sora": "sora sompeng",
           "Soyo": "soyombo",
           "Sund": "sundanesiska",

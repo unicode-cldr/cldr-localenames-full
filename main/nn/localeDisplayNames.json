@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "nn"
       },
@@ -100,6 +100,7 @@
             "ethi": "etiopiske tal",
             "fullwide": "siffer med full breidd",
             "geor": "georgiske tal",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "greske tal",
             "greklow": "små greske tal",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "odia-siffer",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "romartal",
             "romanlow": "små romartal",
             "saur": "saur",

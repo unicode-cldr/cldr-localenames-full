@@ -3,8 +3,8 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "sw",
         "territory": "KE"
@@ -154,6 +154,7 @@
             "finance": "Tarakimu za Kifedha",
             "fullwide": "Nambari za Upana Kamili",
             "geor": "Nambari za Kigeorgia",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Nambari za Kigiriki",
             "greklow": "Nambari Ndogo za Kigiriki",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "Nambari za Kioriya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Nambari za Kirumi",
             "romanlow": "Nambari Ndogo za Kirumi",
             "saur": "saur",
@@ -218,9 +220,9 @@
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "Lugha: {0}",
+          "script": "Hati: {0}",
+          "territory": "Eneo: {0}"
         }
       }
     }

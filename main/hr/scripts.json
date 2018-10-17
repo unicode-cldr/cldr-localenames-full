@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hr"
       },
@@ -42,6 +42,7 @@
           "Cyrl": "ćirilica",
           "Cyrs": "staroslavenska crkvena čirilica",
           "Deva": "devangari pismo",
+          "Dogr": "Dogr",
           "Dsrt": "deseret pismo",
           "Dupl": "Dupl",
           "Egyd": "egipatsko narodno pismo",
@@ -52,6 +53,7 @@
           "Geok": "gruzijsko khutsuri pismo",
           "Geor": "gruzijsko pismo",
           "Glag": "glagoljica",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotičko pismo",
           "Gran": "grantha pismo",
@@ -102,10 +104,12 @@
           "Lyci": "likijsko pismo",
           "Lydi": "lidijsko pismo",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandai pismo",
           "Mani": "manihejsko pismo",
           "Marc": "Marc",
           "Maya": "majanski hijeroglifi",
+          "Medf": "Medf",
           "Mend": "mende pismo",
           "Merc": "meroitski kurziv",
           "Mero": "meroitic pismo",
@@ -139,7 +143,9 @@
           "Phnx": "feničko pismo",
           "Plrd": "pollard fonetsko pismo",
           "Prti": "pisani parthian",
+          "Qaag": "Qaag",
           "Rjng": "rejang pismo",
+          "Rohg": "Rohg",
           "Roro": "rongorongo pismo",
           "Runr": "runsko pismo",
           "Samr": "samaritansko pismo",
@@ -152,6 +158,8 @@
           "Sidd": "Sidd",
           "Sind": "khudawadi pismo",
           "Sinh": "sinhaleško pismo",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "sora sompeng pismo",
           "Soyo": "Soyo",
           "Sund": "sundansko pismo",

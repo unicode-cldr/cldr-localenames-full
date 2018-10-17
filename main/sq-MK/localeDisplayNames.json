@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sq",
         "territory": "MK"
@@ -31,7 +31,7 @@
             "chinese": "kalendar kinez",
             "coptic": "Kalendari Koptik",
             "dangi": "kalendar dangi",
-            "ethiopic": "kalendar etiopik",
+            "ethiopic": "kalendar etiopian",
             "ethiopic-amete-alem": "Kalendari Etiopas Amete Alem",
             "gregorian": "kalendar gregorian",
             "hebrew": "kalendar hebraik",
@@ -44,7 +44,7 @@
             "iso8601": "kalendar ISO-8601",
             "japanese": "kalendar japonez",
             "persian": "kalendar persian",
-            "roc": "kalendar minguoje (kinez)"
+            "roc": "kalendar minguo (i Republikës së Kinës)"
           },
           "cf": {
             "account": "format valutor llogaritës",
@@ -98,9 +98,10 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "shifra devanagari",
-            "ethi": "numra etiopë",
+            "ethi": "numra etiopianë",
             "fullwide": "shifra me largësi të brendshme",
             "geor": "numra gjeorgjianë",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "numra grekë",
             "greklow": "numra grekë të vegjël",
@@ -142,6 +143,7 @@
             "olck": "olck",
             "orya": "shifra orije",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "numra romakë",
             "romanlow": "numra romakë të vegjël",
             "saur": "saur",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ee",
         "territory": "TG"
@@ -57,6 +57,7 @@
           "bug": "bug",
           "byn": "byn",
           "ca": "katalagbe",
+          "ccp": "ccp",
           "ce": "ce",
           "ceb": "ceb",
           "cgg": "cgg",
@@ -264,6 +265,7 @@
           "naq": "naq",
           "nb": "nɔweigbe bokmål",
           "nd": "dziehe ndebelegbe",
+          "nds": "nds",
           "nds-NL": "nds (Netherlands nutome)",
           "ne": "nepalgbe",
           "new": "new",

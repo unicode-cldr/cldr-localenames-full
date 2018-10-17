@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "hsb"
       },
@@ -307,6 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis a Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosowo",
           "YE": "Jemen",
           "YT": "Mayotte",

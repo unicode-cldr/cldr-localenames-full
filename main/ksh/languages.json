@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ksh"
       },
@@ -72,6 +72,7 @@
           "bug": "Bujinehsesch",
           "byn": "Bilihnesch",
           "ca": "Kattalahnesch",
+          "ccp": "ccp",
           "ce": "Tschätschehnesch",
           "ceb": "Zebuwahnesch",
           "cgg": "Kihja-Schprohch",
@@ -290,6 +291,7 @@
           "naq": "naq",
           "nb": "Norrwehjesch Bokmål",
           "nd": "Nood-Ndebele",
+          "nds": "nds",
           "nds-NL": "Nehdersaksesch en de Nederläng",
           "ne": "Nepallehsesch",
           "new": "Newahresch",

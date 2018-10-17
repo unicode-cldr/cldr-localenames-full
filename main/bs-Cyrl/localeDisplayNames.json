@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -111,6 +111,7 @@
             "ethi": "етиопски бројеви",
             "fullwide": "цифре пуне ширине",
             "geor": "грузијски бројеви",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "грчки бројеви",
             "greklow": "мали грчки бројеви",
@@ -152,6 +153,7 @@
             "olck": "olck",
             "orya": "орија цифре",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "римски бројеви",
             "romanlow": "мали римски бројеви",
             "saur": "saur",

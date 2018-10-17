@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ta",
         "territory": "SG"
@@ -42,6 +42,7 @@
           "Cyrl": "சிரிலிக்",
           "Cyrs": "பழைய சர்ச் ஸ்லவோனிக் சிரிலிக்",
           "Deva": "தேவநாகரி",
+          "Dogr": "Dogr",
           "Dsrt": "டெசராட்",
           "Dupl": "Dupl",
           "Egyd": "எகிப்தியன் டெமோட்டிக்",
@@ -52,6 +53,7 @@
           "Geok": "ஜியார்ஜியன் குட்சுரி",
           "Geor": "ஜார்ஜியன்",
           "Glag": "க்லாகோலிடிக்",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "கோதிக்",
           "Gran": "Gran",
@@ -99,10 +101,12 @@
           "Lyci": "லிசியன்",
           "Lydi": "லிடியன்",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "மேன்டியன்",
           "Mani": "மனிசெய்ன்",
           "Marc": "Marc",
           "Maya": "மயான் ஹைரோகிளிப்",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "மெராய்டிக்",
@@ -135,7 +139,9 @@
           "Phnx": "ஃபோனேஷியன்",
           "Plrd": "போலார்ட் ஃபொனெட்டிக்",
           "Prti": "இன்ஸ்கிரிப்ஷனல் பார்த்தியன்",
+          "Qaag": "Qaag",
           "Rjng": "ரெஜெய்ன்",
+          "Rohg": "Rohg",
           "Roro": "ரொங்கோரொங்கோ",
           "Runr": "ருனிக்",
           "Samr": "சமாரிடன்",
@@ -148,6 +154,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "சிங்களம்",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "சுந்தானீஸ்",

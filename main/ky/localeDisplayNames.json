@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "ky"
       },
@@ -100,6 +100,7 @@
             "ethi": "Эфиоп сандары",
             "fullwide": "Толук эндүү сандар",
             "geor": "Грузин сандары",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Грек сандары",
             "greklow": "Грек сандары (кичинекей арип менен)",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "Ория сандары",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Роман сандары",
             "romanlow": "Роман сандары (кичинекей арип менен)",
             "saur": "saur",

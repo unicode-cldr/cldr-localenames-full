@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "rm"
       },
@@ -40,6 +40,7 @@
           "Cyrl": "cirillic",
           "Cyrs": "slav da baselgia vegl",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
           "Egyd": "egipzian demotic",
@@ -50,6 +51,7 @@
           "Geok": "kutsuri",
           "Geor": "georgian",
           "Glag": "glagolitic",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotic",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "lichic",
           "Lydi": "lidic",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandaic",
           "Mani": "manicheic",
           "Marc": "Marc",
           "Maya": "ieroglifas maya",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "meroitic",
@@ -133,7 +137,9 @@
           "Phnx": "fenizian",
           "Plrd": "fonetica da Pollard",
           "Prti": "partic dad inscripziuns",
+          "Qaag": "Qaag",
           "Rjng": "rejang",
+          "Rohg": "Rohg",
           "Roro": "rongorongo",
           "Runr": "runic",
           "Samr": "samaritan",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "singalais",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "sundanais",

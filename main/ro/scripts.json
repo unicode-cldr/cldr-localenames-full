@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "ro"
       },
@@ -39,6 +39,7 @@
           "Cyrl": "chirilică",
           "Cyrs": "chirilică slavonă bisericească veche",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "mormonă",
           "Dupl": "Dupl",
           "Egyd": "demotică egipteană",
@@ -49,6 +50,7 @@
           "Geok": "georgiană bisericească",
           "Geor": "georgiană",
           "Glag": "glagolitică",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotică",
           "Gran": "Gran",
@@ -96,10 +98,12 @@
           "Lyci": "Lyci",
           "Lydi": "lidiană",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Mand",
           "Mani": "Mani",
           "Marc": "Marc",
           "Maya": "hieroglife maya",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
@@ -130,7 +134,9 @@
           "Phnx": "feniciană",
           "Plrd": "Plrd",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rjng",
+          "Rohg": "Rohg",
           "Runr": "runică",
           "Samr": "Samr",
           "Sarb": "Sarb",
@@ -141,6 +147,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "singaleză",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sund",

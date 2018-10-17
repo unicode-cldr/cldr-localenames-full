@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "gsw",
         "territory": "FR"
@@ -72,6 +72,7 @@
           "cad": "Caddo",
           "car": "Kariibisch",
           "cch": "Atsam",
+          "ccp": "ccp",
           "ce": "Tschetscheenisch",
           "ceb": "Cebuano",
           "cgg": "cgg",

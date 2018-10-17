@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "vi"
       },
@@ -160,7 +160,7 @@
           "IL": "Israel",
           "IM": "Đảo Man",
           "IN": "Ấn Độ",
-          "IO": "Lãnh thổ Ấn độ dương thuộc Anh",
+          "IO": "Lãnh thổ Ấn Độ Dương thuộc Anh",
           "IQ": "Iraq",
           "IR": "Iran",
           "IS": "Iceland",
@@ -308,6 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis và Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

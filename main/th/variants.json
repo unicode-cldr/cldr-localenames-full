@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14389 $",
+          "_cldrVersion": "34"
         },
         "language": "th"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "การถอดอักษรเป็นอักษรโรมันตามเกณฑ์ของสมาคมห้องสมุดอเมริกันและห้องสมุดรัฐสภา ฉบับพิมพ์ปี 1997",
           "ALUKU": "ภาษาพื้นเมืองอลูคู",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "อาร์เมเนียตะวันออก",
           "AREVMDA": "อาร์เมเนียตะวันตก",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "ตัวอักษรละตินเตอร์กิกแบบครบวงจร",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "ภาษาพื้นเมืองซานจอร์โจ/บิลา",
           "BOHORIC": "ตัวอักษรโบโฮริช",
           "BOONT": "บูนทลิ่ง",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "ตัวอักษรดายนชิซา",
           "EKAVSK": "EKAVSK",
           "EMODENG": "อังกฤษสมัยใหม่ตอนต้น",
           "FONIPA": "สัทอักษรสากล",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "สัทอักษร UPA",
           "FONXSAMP": "ฟอนซ์แซมพ์",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "การถอดอักษรแบบเฮปเบิร์น",
           "HOGNORSK": "ภาษานอร์วิเจียนสูง",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "อักขรวิธีมาตรฐาน",
           "LAUKIKA": "ลัวกิกา",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "ภาษาพื้นเมืองลิโพวาซของเรเซียน",
           "LUNA1918": "ลูน่า 1918",
           "METELKO": "ตัวอักษรเมเตวชิซา",
@@ -61,6 +72,7 @@
           "NDYUKA": "ดิวคา",
           "NEDIS": "ภาษาพื้นเมืองนาทิโซเน",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "ภาษาพื้นเมืองจนีวา/นจีวา",
           "NULIK": "โวลาพึคสมัยใหม่",
           "OSOJS": "ภาษาพื้นเมืองโอเซียคโค/โอโซยาเน",
@@ -73,6 +85,7 @@
           "PINYIN": "พินอิน",
           "POLYTON": "โพลีโทนิก",
           "POSIX": "คอมพิวเตอร์",
+          "PROVENC": "PROVENC",
           "PUTER": "พิวเตอร์",
           "REVISED": "ออร์โธกราฟิปรับปรุง",
           "RIGIK": "โวลาพึคดั้งเดิม",
@@ -96,6 +109,7 @@
           "VAIDIKA": "เวดิคา",
           "VALENCIA": "วาเลนเซีย",
           "VALLADER": "วัลลาเดอร์",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "การถอดอักษรแบบเวด-ไจลส์",
           "XSISTEMO": "XSISTEMO"
         }

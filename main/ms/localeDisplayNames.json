@@ -3,8 +3,8 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ms"
       },
@@ -153,6 +153,7 @@
             "finance": "Angka Kewangan",
             "fullwide": "Digit Lebar Penuh",
             "geor": "Angka Georgia",
+            "gong": "gong",
             "gonm": "Digit Masaram Gondi",
             "grek": "Angka Greek",
             "greklow": "Angka Huruf Kecil Greek",
@@ -195,6 +196,7 @@
             "olck": "Digit Ol Chiki",
             "orya": "Digit Oriya",
             "osma": "Digit Osmanya",
+            "rohg": "rohg",
             "roman": "Angka Roman",
             "romanlow": "Angka Huruf Kecil Roman",
             "saur": "Digit Saurashtra",

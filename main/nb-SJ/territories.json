@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "nb",
         "territory": "SJ"
@@ -238,7 +238,7 @@
           "PK": "Pakistan",
           "PL": "Polen",
           "PM": "Saint-Pierre-et-Miquelon",
-          "PN": "Pitcairn",
+          "PN": "Pitcairnøyene",
           "PR": "Puerto Rico",
           "PS": "Det palestinske området",
           "PS-alt-short": "Palestina",
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis og Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

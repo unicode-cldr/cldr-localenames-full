@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "te"
       },
@@ -153,6 +153,7 @@
             "finance": "ఆర్థిక సంఖ్యలు",
             "fullwide": "పూర్తి వెడల్పు అంకెలు",
             "geor": "జార్జియన్ సంఖ్యలు",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "గ్రీక్ సంఖ్యలు",
             "greklow": "గ్రీక్ చిన్నబడి సంఖ్యలు",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "ఒరియా అంకెలు",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "రోమన్ సంఖ్యలు",
             "romanlow": "రోమన్ చిన్నబడి సంఖ్యలు",
             "saur": "saur",

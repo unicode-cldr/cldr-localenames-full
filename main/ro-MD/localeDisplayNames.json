@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ro",
         "territory": "MD"
@@ -154,6 +154,7 @@
             "finance": "Sistemul numeric financiar",
             "fullwide": "cifre cu lățimea întreagă",
             "geor": "numerale georgiene",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "numerale grecești",
             "greklow": "numerale grecești cu minuscule",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "cifre oriya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "numerale romane",
             "romanlow": "numerale romane cu minuscule",
             "saur": "saur",

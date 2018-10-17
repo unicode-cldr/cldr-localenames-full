@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13880 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ar",
         "territory": "EG"
@@ -42,6 +42,7 @@
           "Cyrl": "السيريلية",
           "Cyrs": "السيريلية السلافية الكنسية القديمة",
           "Deva": "الديفاناجاري",
+          "Dogr": "Dogr",
           "Dsrt": "الديسيريت",
           "Dupl": "Dupl",
           "Egyd": "الديموطيقية",
@@ -52,6 +53,7 @@
           "Geok": "الأبجدية الجورجية - أسومتافرلي و نسخري",
           "Geor": "الجورجية",
           "Glag": "الجلاجوليتيك",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "القوطية",
           "Gran": "Gran",
@@ -99,10 +101,12 @@
           "Lyci": "الليسية",
           "Lydi": "الليدية",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "المانداينية",
           "Mani": "Mani",
           "Marc": "Marc",
           "Maya": "المايا الهيروغليفية",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "الميرويتيك",
@@ -134,7 +138,9 @@
           "Phnx": "الفينيقية",
           "Plrd": "الصوتيات الجماء",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rjng",
+          "Rohg": "Rohg",
           "Roro": "رنجورنجو",
           "Runr": "الروني",
           "Samr": "Samr",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "السينهالا",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "السوندانية",

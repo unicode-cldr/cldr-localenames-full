@@ -3,8 +3,8 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "gd"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "Cirilis",
           "Cyrs": "Cirilis Seann-Slàbhais na h-Eaglaise",
           "Deva": "Devanagari",
+          "Dogr": "Dogra",
           "Dsrt": "Deseret",
           "Dupl": "Gearr-sgrìobhadh Duployé",
           "Egyp": "Sealbh-sgrìobhadh Èipheiteach",
@@ -48,6 +49,7 @@
           "Ethi": "Ge’ez",
           "Geor": "Cairtbheilis",
           "Glag": "Glagoliticeach",
+          "Gong": "Gunjala Gondi",
           "Gonm": "Masaram Gondi",
           "Goth": "Gotais",
           "Gran": "Grantha",
@@ -97,10 +99,12 @@
           "Lyci": "Lycian",
           "Lydi": "Lydian",
           "Mahj": "Mahajani",
+          "Maka": "Makasar",
           "Mand": "Mandaean",
           "Mani": "Manichaean",
           "Marc": "Marchen",
           "Maya": "Dealbh-sgrìobhadh Mayach",
+          "Medf": "Medefaidrin",
           "Mend": "Mende",
           "Merc": "Meroiticeach ceangailte",
           "Mero": "Meroiticeach",
@@ -132,8 +136,9 @@
           "Phnx": "Pheniceach",
           "Plrd": "Miao Phollard",
           "Prti": "Partais snaidh-sgrìobhte",
-          "Qaac": "Qaac",
+          "Qaag": "Qaag",
           "Rjng": "Rejang",
+          "Rohg": "Hanifi Rohingya",
           "Roro": "Rongorongo",
           "Runr": "Rùn-sgrìobhadh",
           "Samr": "Samaritanais",
@@ -146,6 +151,8 @@
           "Sidd": "Siddham",
           "Sind": "Khudawadi",
           "Sinh": "Sinhala",
+          "Sogd": "Sogdianais",
+          "Sogo": "Seann-Sogdianais",
           "Sora": "Sora Sompeng",
           "Soyo": "Soyombo",
           "Sund": "Sunda",

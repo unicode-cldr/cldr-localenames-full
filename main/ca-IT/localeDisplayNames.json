@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ca",
         "territory": "IT"
@@ -27,9 +27,9 @@
           "colNumeric": "Ordenació numèrica",
           "colStrength": "Força de l’ordenació",
           "currency": "moneda",
-          "hc": "sistema horari (12h o 24h)",
+          "hc": "sistema horari (12 h o 24 h)",
           "lb": "estil de salt de línia",
-          "ms": "Sistema de mesures",
+          "ms": "sistema de mesures",
           "numbers": "xifres",
           "timezone": "Zona horària",
           "va": "Variant local",
@@ -129,8 +129,8 @@
             "strict": "salt de línia estricte"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "sistema de transliteració BGN",
+            "ungegn": "sistema de transliteració UNGEGN"
           },
           "ms": {
             "metric": "sistema mètric",
@@ -154,6 +154,7 @@
             "finance": "Numerals financers",
             "fullwide": "dígits d’amplada completa",
             "geor": "nombres georgians",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "nombres grecs",
             "greklow": "nombres grecs en minúscula",
@@ -161,14 +162,14 @@
             "guru": "dígits gurmukhi",
             "hanidec": "nombres decimals xinesos",
             "hans": "nombres xinesos simplificats",
-            "hansfin": "numerals financers xinesos simplificats",
-            "hant": "numerals xinesos tradicionals",
-            "hantfin": "numerals financers xinesos tradicionals",
-            "hebr": "numerals hebreus",
+            "hansfin": "nombres financers xinesos simplificats",
+            "hant": "nombres xinesos tradicionals",
+            "hantfin": "nombres financers xinesos tradicionals",
+            "hebr": "nombres hebreus",
             "hmng": "hmng",
             "java": "dígits javanesos",
-            "jpan": "numerals japonesos",
-            "jpanfin": "numerals financers japonesos",
+            "jpan": "nombres japonesos",
+            "jpanfin": "nombres financers japonesos",
             "kali": "dígits kayah",
             "khmr": "dígits khmer",
             "knda": "dígits kannada",
@@ -196,6 +197,7 @@
             "olck": "dígits ol chiki",
             "orya": "dígits oriya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "nombres romans",
             "romanlow": "nombres romans en minúscula",
             "saur": "dígits saurashtra",
@@ -209,7 +211,7 @@
             "taml": "nombres tamils tradicionals",
             "tamldec": "dígits tamils",
             "telu": "dígits telugu",
-            "thai": "dígits thai",
+            "thai": "dígits tai",
             "tibt": "dígits tibetans",
             "tirh": "tirh",
             "traditional": "Numerals tradicionals",

@@ -3,8 +3,8 @@
     "sr-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13937 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14450 $",
+          "_cldrVersion": "34"
         },
         "language": "sr",
         "script": "Latn"
@@ -154,6 +154,7 @@
             "finance": "Finansijski brojevi",
             "fullwide": "cifre pune širine",
             "geor": "gruzijski brojevi",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grčki brojevi",
             "greklow": "mali grčki brojevi",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "orija cifre",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "rimski brojevi",
             "romanlow": "mali rimski brojevi",
             "saur": "saur",

@@ -3,8 +3,8 @@
     "fr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "fr"
       },
@@ -12,7 +12,7 @@
         "localeDisplayPattern": {
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
-          "localeKeyTypePattern": "{0} : {1}"
+          "localeKeyTypePattern": "{0} : {1}"
         },
         "keys": {
           "calendar": "calendrier",
@@ -112,8 +112,8 @@
             "tertiary": "Trier en tenant compte des caractères accentués, de la casse et de la largeur"
           },
           "d0": {
-            "fwidth": "pleine chasse",
-            "hwidth": "demi-chasse",
+            "fwidth": "en pleine chasse",
+            "hwidth": "en demi-chasse",
             "npinyin": "Numérique"
           },
           "hc": {
@@ -148,11 +148,12 @@
             "cakm": "cakm",
             "cham": "cham",
             "cyrl": "cyrl",
-            "deva": "chiffres devanagaris",
+            "deva": "chiffres dévanagaris",
             "ethi": "chiffres éthiopiens",
             "finance": "Chiffres financiers",
             "fullwide": "chiffres pleine chasse",
             "geor": "chiffres géorgiens",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "chiffres grecs",
             "greklow": "chiffres grecs minuscules",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "chiffres oriyas",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "chiffres romains",
             "romanlow": "chiffres romains minuscules",
             "saur": "saur",
@@ -205,7 +207,7 @@
             "sund": "sund",
             "takr": "takr",
             "talu": "talu",
-            "taml": "chiffres tamouls",
+            "taml": "chiffres tamouls traditionnels",
             "tamldec": "chiffres tamouls",
             "telu": "chiffres télougous",
             "thai": "chiffres thaïs",
@@ -217,9 +219,9 @@
           }
         },
         "codePatterns": {
-          "language": "langue : {0}",
-          "script": "écriture : {0}",
-          "territory": "région : {0}"
+          "language": "langue : {0}",
+          "script": "écriture : {0}",
+          "territory": "région : {0}"
         }
       }
     }

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "nl",
         "territory": "SR"
@@ -99,6 +99,7 @@
           "car": "Caribisch",
           "cay": "Cayuga",
           "cch": "Atsam",
+          "ccp": "ccp",
           "ce": "Tsjetsjeens",
           "ceb": "Cebuano",
           "cgg": "Chiga",

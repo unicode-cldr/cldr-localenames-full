@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "et"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "ALA-LC latinisatsioon (1997)",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "idaarmeenia",
           "AREVMDA": "läänearmeenia",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "ühtlustatud türgi-ladina tähestik",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "San Giorgio/Bila murre",
           "BOHORIC": "BOHORIC",
           "BOONT": "boontlingi",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "štokavi e-line murrak",
           "EMODENG": "EMODENG",
           "FONIPA": "IPA foneetika",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "UPA foneetika",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "Hepburni latinisatsioon",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "normitud kirjaviis",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "Resia Lipovaz’i murre",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +72,7 @@
           "NDYUKA": "NDYUKA",
           "NEDIS": "Natisone murre",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "Gniva/Njiva murre",
           "NULIK": "NULIK",
           "OSOJS": "Oseacco/Osojane murre",
@@ -73,6 +85,7 @@
           "PINYIN": "pinyin",
           "POLYTON": "polütooniline",
           "POSIX": "arvuti",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "uus kirjaviis",
           "RIGIK": "RIGIK",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "valentsia",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Wade’i-Gilesi latinisatsioon",
           "XSISTEMO": "XSISTEMO"
         }

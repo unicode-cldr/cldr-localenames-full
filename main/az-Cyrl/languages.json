@@ -3,8 +3,8 @@
     "az-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14453 $",
+          "_cldrVersion": "34"
         },
         "language": "az",
         "script": "Cyrl"
@@ -57,6 +57,7 @@
           "bug": "буҝин",
           "byn": "блин",
           "ca": "каталан",
+          "ccp": "ccp",
           "ce": "чечен",
           "ceb": "себуан",
           "cgg": "чига",
@@ -263,6 +264,7 @@
           "naq": "нама",
           "nb": "бокмал норвеч",
           "nd": "шимали ндебеле",
+          "nds": "nds",
           "nds-NL": "ашағы саксон",
           "ne": "непал",
           "new": "невари",

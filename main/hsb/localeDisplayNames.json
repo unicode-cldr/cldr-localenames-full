@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "hsb"
       },
@@ -100,6 +100,7 @@
             "ethi": "etiopiske cyfry",
             "fullwide": "połnošěroke cyfry",
             "geor": "georgiske cyfry",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grjekske cyfry",
             "greklow": "grjekske cyfry, małe pisane",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "oriya-cyfry",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "romske cyfry",
             "romanlow": "romske cyfry, małe pisane",
             "saur": "saur",

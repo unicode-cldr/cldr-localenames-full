@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "nl",
         "territory": "AW"
@@ -154,6 +154,7 @@
             "finance": "Financiële cijfers",
             "fullwide": "cijfers met volledige breedte",
             "geor": "Georgische cijfers",
+            "gong": "Gunjala Gondi cijfers",
             "gonm": "Masaram Gondi cijfers",
             "grek": "Griekse cijfers",
             "greklow": "kleine Griekse cijfers",
@@ -196,6 +197,7 @@
             "olck": "Ol Chiki cijfers",
             "orya": "Odia cijfers",
             "osma": "Osmanya cijfers",
+            "rohg": "Hanifi Rohingya cijfers",
             "roman": "Romeinse cijfers",
             "romanlow": "kleine Romeinse cijfers",
             "saur": "Saurashtra cijfers",

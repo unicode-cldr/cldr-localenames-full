@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "so",
         "territory": "ET"
@@ -33,7 +33,7 @@
             "dangi": "dangi",
             "ethiopic": "ethiopic",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "gregorian",
+            "gregorian": "Geregoriyaan",
             "hebrew": "hebrew",
             "indian": "indian",
             "islamic": "islamic",
@@ -63,7 +63,7 @@
             "reformed": "reformed",
             "search": "search",
             "searchjl": "searchjl",
-            "standard": "standard",
+            "standard": "Istaandar",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -101,6 +101,7 @@
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grek",
             "greklow": "greklow",
@@ -122,7 +123,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "latn",
+            "latn": "Laatiin",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -142,6 +143,7 @@
             "olck": "olck",
             "orya": "orya",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "roman",
             "romanlow": "romanlow",
             "saur": "saur",
@@ -163,9 +165,9 @@
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "Luuqad : {0}",
+          "script": "Qoraal: {0}",
+          "territory": "Gobol : {0}"
         }
       }
     }

@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "nn"
       },
@@ -40,6 +40,7 @@
           "Cyrl": "kyrillisk",
           "Cyrs": "kyrillisk (kyrkjeslavisk variant)",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
           "Egyd": "egyptisk demotisk",
@@ -50,6 +51,7 @@
           "Geok": "khutsuri (asomtavruli og nuskhuri)",
           "Geor": "georgisk",
           "Glag": "glagolittisk",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotisk",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "lykisk",
           "Lydi": "lydisk",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandaisk",
           "Mani": "manikeisk",
           "Marc": "Marc",
           "Maya": "maya-hieroglyfar",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "meroitisk",
@@ -133,7 +137,9 @@
           "Phnx": "fønikisk",
           "Plrd": "pollard-fonetisk",
           "Prti": "inskripsjonsparthisk",
+          "Qaag": "Qaag",
           "Rjng": "rejang",
+          "Rohg": "Rohg",
           "Roro": "rongorongo",
           "Runr": "runer",
           "Samr": "samaritansk",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "singalesisk",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "sundanesisk",

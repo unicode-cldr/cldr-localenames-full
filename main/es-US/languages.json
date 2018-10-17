@@ -3,8 +3,8 @@
     "es-US": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "US"
@@ -82,6 +82,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -148,7 +149,7 @@
           "es-ES": "español de España",
           "es-MX": "español de México",
           "et": "estonio",
-          "eu": "vasco",
+          "eu": "euskera",
           "ewo": "ewondo",
           "fa": "persa",
           "fan": "fang",
@@ -172,7 +173,7 @@
           "ga": "irlandés",
           "gaa": "ga",
           "gag": "gagauzo",
-          "gan": "chino gan",
+          "gan": "gan (China)",
           "gay": "gayo",
           "gba": "gbaya",
           "gd": "gaélico escocés",
@@ -204,8 +205,8 @@
           "ho": "hiri motu",
           "hr": "croata",
           "hsb": "alto sorbio",
-          "hsn": "chino xiang",
-          "ht": "haitiano",
+          "hsn": "xiang (China)",
+          "ht": "criollo haitiano",
           "hu": "húngaro",
           "hup": "hupa",
           "hy": "armenio",
@@ -287,7 +288,7 @@
           "li": "limburgués",
           "lkt": "lakota",
           "ln": "lingala",
-          "lo": "laosiano",
+          "lo": "lao",
           "lol": "mongo",
           "lou": "criollo de Luisiana",
           "loz": "lozi",
@@ -502,7 +503,7 @@
           "twq": "tasawaq",
           "ty": "tahitiano",
           "tyv": "tuviniano",
-          "tzm": "tamazight del Marruecos Central",
+          "tzm": "tamazight del Atlas Central",
           "udm": "udmurt",
           "ug": "uigur",
           "ug-alt-variant": "uighur",

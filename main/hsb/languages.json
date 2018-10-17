@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "hsb"
       },
@@ -57,6 +57,7 @@
           "bug": "buginezišćina",
           "byn": "byn",
           "ca": "katalanšćina",
+          "ccp": "ccp",
           "ce": "ce",
           "ceb": "ceb",
           "cgg": "chiga",

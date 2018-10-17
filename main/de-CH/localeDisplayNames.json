@@ -3,8 +3,8 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13937 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14450 $",
+          "_cldrVersion": "34"
         },
         "language": "de",
         "territory": "CH"
@@ -154,6 +154,7 @@
             "finance": "Finanzzahlen",
             "fullwide": "Vollbreite Ziffern",
             "geor": "Georgische Ziffern",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Griechische Ziffern",
             "greklow": "Griechische Ziffern in Kleinschrift",
@@ -196,6 +197,7 @@
             "olck": "Ol-Chiki-Ziffern",
             "orya": "Oriya-Ziffern",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Römische Ziffern",
             "romanlow": "Römische Ziffern in Kleinschrift",
             "saur": "Saurashtra-Ziffern",

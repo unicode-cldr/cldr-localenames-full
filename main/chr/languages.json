@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14302 $",
+          "_cldrVersion": "34"
         },
         "language": "chr"
       },
@@ -57,6 +57,7 @@
           "byn": "ᏟᏂ",
           "ca": "ᎨᏔᎳᏂ",
           "cay": "ᎧᏳᎦ",
+          "ccp": "ccp",
           "ce": "ᏤᏤᏂ",
           "ceb": "ᏎᏆᏃ",
           "cgg": "ᏥᎦ",
@@ -263,6 +264,7 @@
           "naq": "ᎾᎹ",
           "nb": "ᏃᎵᏪᏥᏂ ᏉᎧᎹᎵ",
           "nd": "ᏧᏴᏢ ᏂᏕᏇᎴ",
+          "nds": "nds",
           "nds-NL": "ᎡᎳᏗ ᏁᏛᎳᏂ",
           "ne": "ᏁᏆᎵ",
           "new": "ᏁᏩᎵ",

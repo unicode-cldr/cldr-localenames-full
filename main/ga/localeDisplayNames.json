@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ga"
       },
@@ -100,6 +100,7 @@
             "ethi": "Uimhreacha Aetóipice",
             "fullwide": "Digití Lánleithid",
             "geor": "Uimhreacha Seoirseacha",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Uimhreacha Gréagacha",
             "greklow": "Uimhreacha Cás Íochtair Gréagacha",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "Digití Oiríseacha",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Uimhreacha Rómhánacha",
             "romanlow": "Uimhreacha Cás Íochtair Rómhánacha",
             "saur": "saur",

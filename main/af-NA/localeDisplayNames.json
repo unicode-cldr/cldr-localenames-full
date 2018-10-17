@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "af",
         "territory": "NA"
@@ -22,14 +22,14 @@
           "colBackwards": "Omgekeerde aksentsortering",
           "colCaseFirst": "Hoofletters/kleinletters-sortering",
           "colCaseLevel": "Kassensitiewe sortering",
-          "collation": "Sorteervolgorde",
+          "collation": "Rangskikvolgorde",
           "colNormalization": "Genormaliseerde sortering",
           "colNumeric": "Numeriese sortering",
           "colStrength": "Sorteringssterkte",
           "currency": "Geldeenheid",
           "hc": "Uursiklus (12 vs 24)",
-          "lb": "Reëlbreek-styl",
-          "ms": "Meetstelsel",
+          "lb": "Reëlafbreek-styl",
+          "ms": "Maatstelsel",
           "numbers": "Syfers",
           "timezone": "Tydsone",
           "va": "Lokaalvariant",
@@ -41,9 +41,9 @@
             "chinese": "Sjinese kalender",
             "coptic": "Koptiese kalender",
             "dangi": "Dangi-kalender",
-            "ethiopic": "Ethiopiese kalender",
+            "ethiopic": "Etiopiese kalender",
             "ethiopic-amete-alem": "Etiopiese Amete Alem-kalender",
-            "gregorian": "Gregoriese kalender",
+            "gregorian": "Gregoriaanse kalender",
             "hebrew": "Hebreeuse kalender",
             "indian": "Indiese nasionale kalender",
             "islamic": "Islamitiese kalender",
@@ -58,7 +58,7 @@
           },
           "cf": {
             "account": "Rekeningkundige geldeenheidformaat",
-            "standard": "Standaard Geldeenheidformaat"
+            "standard": "Standaard geldeenheidformaat"
           },
           "colAlternate": {
             "non-ignorable": "Sorteer simbole",
@@ -81,7 +81,7 @@
             "big5han": "Tradisionele Chinese sorteervolgorde - Groot5",
             "compat": "compat",
             "dictionary": "Woordeboek-sorteervolgorde",
-            "ducet": "Verstek Unicode-sorteervolgorde",
+            "ducet": "Verstek Unicode-rangskikvolgorde",
             "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "Vereenvoudigde Chinese sorteervolgorde - GB2312",
@@ -91,7 +91,7 @@
             "reformed": "Gereformeerde sorteervolgorde",
             "search": "Algemenedoel-soektog",
             "searchjl": "Soek volgens Hangul-beginkonsonant",
-            "standard": "Standaard sorteervolgorde",
+            "standard": "Standaard rangskikvolgorde",
             "stroke": "Slag-sorteervolgorde",
             "traditional": "Tradisionele sorteervolgorde",
             "unihan": "Radikale-slag-sorteervolgorde",
@@ -114,7 +114,7 @@
           },
           "d0": {
             "fwidth": "Vollewydte",
-            "hwidth": "halfwydte",
+            "hwidth": "Halfwydte",
             "npinyin": "Numeries"
           },
           "hc": {
@@ -124,18 +124,18 @@
             "h24": "24-uur-stelsel (1-24)"
           },
           "lb": {
-            "loose": "Los reëlbreek-styl",
-            "normal": "Normale reëlbreek-styl",
-            "strict": "Streng reëlbreek-styl"
+            "loose": "Losse reëlafbreek-styl",
+            "normal": "Normale reëlafbreek-styl",
+            "strict": "Streng reëlafbreek-styl"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "BGN-transliterasie",
+            "ungegn": "UNGEGN-transliterasie"
           },
           "ms": {
             "metric": "Metrieke stelsel",
-            "uksystem": "Imperiale meetstelsel",
-            "ussystem": "VS-meetstelsel"
+            "uksystem": "Imperiale maatstelsel",
+            "ussystem": "VSA-maatstelsel"
           },
           "numbers": {
             "ahom": "ahom",
@@ -150,10 +150,11 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Devanagari-syfers",
-            "ethi": "Ethiopiese syfers",
+            "ethi": "Etiopiese syfers",
             "finance": "Finansiële syfers",
             "fullwide": "Vollewydte-syfers",
             "geor": "Georgiese syfers",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Griekse syfers",
             "greklow": "Griekse kleinletter-syfers",
@@ -196,6 +197,7 @@
             "olck": "olck",
             "orya": "Odia-syfers",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Romeinse syfers",
             "romanlow": "Romeinse kleinletter-syfers",
             "saur": "saur",

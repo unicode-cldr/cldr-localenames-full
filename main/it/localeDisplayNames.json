@@ -3,8 +3,8 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13940 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14486 $",
+          "_cldrVersion": "34"
         },
         "language": "it"
       },
@@ -153,6 +153,7 @@
             "finance": "Numeri finanziari",
             "fullwide": "Cifre a larghezza intera",
             "geor": "Numeri georgiani",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Numeri greci",
             "greklow": "Numeri greci minuscoli",
@@ -195,6 +196,7 @@
             "olck": "Cifre Ol Chiki",
             "orya": "Cifre oriya",
             "osma": "Cifre osmanya",
+            "rohg": "rohg",
             "roman": "Numeri romani",
             "romanlow": "Numeri romani minuscoli",
             "saur": "Cifre saurashtra",

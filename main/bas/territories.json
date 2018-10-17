@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "bas"
       },
@@ -307,6 +307,8 @@
           "VU": "Vànùatù",
           "WF": "Wàlîs nì Fùtunà",
           "WS": "Sàmoà",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yèmɛ̂n",
           "YT": "Màyɔ̂t",

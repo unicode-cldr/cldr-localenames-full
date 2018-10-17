@@ -3,8 +3,8 @@
     "zh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14476 $",
+          "_cldrVersion": "34"
         },
         "language": "zh"
       },
@@ -42,6 +42,7 @@
           "Cyrl": "西里尔文",
           "Cyrs": "西里尔文字（古教会斯拉夫文的变体）",
           "Deva": "天城文",
+          "Dogr": "Dogr",
           "Dsrt": "德塞莱特文",
           "Dupl": "杜普洛伊速记",
           "Egyd": "后期埃及文",
@@ -52,6 +53,7 @@
           "Geok": "格鲁吉亚文（教堂体）",
           "Geor": "格鲁吉亚文",
           "Glag": "格拉哥里文",
+          "Gong": "Gong",
           "Gonm": "马萨拉姆冈德文",
           "Goth": "哥特文",
           "Gran": "格兰塔文",
@@ -102,10 +104,12 @@
           "Lyci": "利西亚文",
           "Lydi": "吕底亚文",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "阿拉米文",
           "Mani": "摩尼教文",
           "Marc": "大玛尔文",
           "Maya": "玛雅圣符文",
+          "Medf": "Medf",
           "Mend": "门迪文",
           "Merc": "麦罗埃草书",
           "Mero": "麦若提克文",
@@ -139,7 +143,9 @@
           "Phnx": "腓尼基文",
           "Plrd": "波拉德音标文字",
           "Prti": "帕提亚文碑铭体",
+          "Qaag": "Qaag",
           "Rjng": "拉让文",
+          "Rohg": "Rohg",
           "Roro": "朗格朗格文",
           "Runr": "古代北欧文",
           "Samr": "撒马利亚文",
@@ -152,6 +158,8 @@
           "Sidd": "悉昙",
           "Sind": "信德文",
           "Sinh": "僧伽罗文",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "索朗桑朋文",
           "Soyo": "索永布文",
           "Sund": "巽他文",

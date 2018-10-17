@@ -3,8 +3,8 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13940 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14486 $",
+          "_cldrVersion": "34"
         },
         "language": "it"
       },
@@ -281,7 +281,7 @@
           "TJ": "Tagikistan",
           "TK": "Tokelau",
           "TL": "Timor Est",
-          "TL-alt-variant": "Timor Leste",
+          "TL-alt-variant": "TL",
           "TM": "Turkmenistan",
           "TN": "Tunisia",
           "TO": "Tonga",
@@ -308,6 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis e Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14402 $",
+          "_cldrVersion": "34"
         },
         "language": "gu"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "સિરિલિક",
           "Cyrs": "ઓલ્ડ ચર્ચ સ્લાવોનિક સિરિલિક",
           "Deva": "દેવનાગરી",
+          "Dogr": "Dogr",
           "Dsrt": "ડેસરેટ",
           "Dupl": "Dupl",
           "Egyd": "ઇજિપ્શિયન ડેમોટિક",
@@ -51,6 +52,7 @@
           "Geok": "જ્યોર્જિઅન ખુતસુરી",
           "Geor": "જ્યોર્જિઅન",
           "Glag": "ગ્લેગોલિટિક",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "ગોથિક",
           "Gran": "Gran",
@@ -98,10 +100,12 @@
           "Lyci": "લિશિયન",
           "Lydi": "લિડિયન",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "માન્ડાયીન",
           "Mani": "માનીચાયીન",
           "Marc": "Marc",
           "Maya": "મયાન હાઇરોગ્લિફ્સ",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "મેરોઇટિક",
@@ -134,8 +138,9 @@
           "Phnx": "ફોનિશિયન",
           "Plrd": "પોલાર્ડ ફોનેટિક",
           "Prti": "ઇન્સ્ક્રિપ્શનલ પાર્થિયન",
-          "Qaae": "Qaae",
+          "Qaag": "Qaag",
           "Rjng": "રીજાંગ",
+          "Rohg": "Rohg",
           "Roro": "રોંગોરોંગો",
           "Runr": "રૂનિક",
           "Samr": "સમરિટાન",
@@ -148,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "સિંહલી",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "સુદાનીઝ",

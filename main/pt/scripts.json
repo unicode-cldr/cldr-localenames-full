@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14546 $",
+          "_cldrVersion": "34"
         },
         "language": "pt"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "cirílico",
           "Cyrs": "cirílico eslavo eclesiástico",
           "Deva": "devanágari",
+          "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
           "Egyd": "demótico egípcio",
@@ -51,6 +52,7 @@
           "Geok": "khutsuri georgiano",
           "Geor": "georgiano",
           "Glag": "glagolítico",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gótico",
           "Gran": "Gran",
@@ -98,10 +100,12 @@
           "Lyci": "lício",
           "Lydi": "lídio",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "mandaico",
           "Mani": "maniqueano",
           "Marc": "Marc",
           "Maya": "hieróglifos maias",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "meroítico cursivo",
           "Mero": "meroítico",
@@ -134,7 +138,9 @@
           "Phnx": "fenício",
           "Plrd": "fonético pollard",
           "Prti": "prti",
+          "Qaag": "Qaag",
           "Rjng": "rejang",
+          "Rohg": "Rohg",
           "Roro": "rongorongo",
           "Runr": "rúnico",
           "Samr": "samaritano",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "cingalês",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "sundanês",

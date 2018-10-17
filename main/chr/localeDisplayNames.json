@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14302 $",
+          "_cldrVersion": "34"
         },
         "language": "chr"
       },
@@ -12,7 +12,7 @@
         "localeDisplayPattern": {
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
-          "localeKeyTypePattern": "{0}, {1}"
+          "localeKeyTypePattern": "{0}: {1}"
         },
         "keys": {
           "calendar": "ᏅᏙ ᏗᏎᏍᏗ",
@@ -100,6 +100,7 @@
             "ethi": "ᎢᏗᏯᏈᎩ ᏗᏎᏍᏗ",
             "fullwide": "ᎧᎵᎢ-ᎾᏯᏛᏒ ᏗᏎᏍᏗ",
             "geor": "ᎩᎴᎪᎵᎠᏂ ᏗᏎᏍᏗ",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ᎠᏂᎪᎢ ᏗᏎᏍᏗ",
             "greklow": "ᎠᏂᎪᎢ ᏧᏍᏗ ᏗᎪᏪᎵ ᏗᏎᏍᏗ",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ᎣᏗᎠ ᏗᏎᏍᏗ",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ᎠᏂᎶᎻ ᏗᏎᏍᏗ",
             "romanlow": "ᎠᏂᎶᎻ ᏧᏍᏗ ᏗᎪᏪᎵ ᏗᏎᏍᏗ",
             "saur": "saur",

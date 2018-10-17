@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "hu"
       },
@@ -40,6 +40,7 @@
           "Cyrl": "Cirill",
           "Cyrs": "Óegyházi szláv cirill",
           "Deva": "Devanagári",
+          "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Dupl",
           "Egyd": "Egyiptomi demotikus",
@@ -50,6 +51,7 @@
           "Geok": "Grúz kucsuri",
           "Geor": "Grúz",
           "Glag": "Glagolitikus",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "Gót",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "Líciai",
           "Lydi": "Lídiai",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Mandai",
           "Mani": "Manicheus",
           "Marc": "Marc",
           "Maya": "Maja hieroglifák",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Meroitikus",
@@ -133,7 +137,9 @@
           "Phnx": "Főniciai",
           "Plrd": "Pollard fonetikus",
           "Prti": "Feliratos parthian",
+          "Qaag": "Qaag",
           "Rjng": "Redzsang",
+          "Rohg": "Rohg",
           "Roro": "Rongorongo",
           "Runr": "Runikus",
           "Samr": "Szamaritán",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "Szingaléz",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Szundanéz",

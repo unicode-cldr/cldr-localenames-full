@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "uz",
         "script": "Latn"
@@ -101,6 +101,7 @@
             "ethi": "habash raqamlari",
             "fullwide": "to‘liq enli raqamlar",
             "geor": "gruzin raqamlari",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grek raqamlari",
             "greklow": "kichik grek raqamlari",
@@ -142,6 +143,7 @@
             "olck": "olck",
             "orya": "oriya raqamlari",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "rim raqamlari",
             "romanlow": "kichik rim raqamlari",
             "saur": "saur",

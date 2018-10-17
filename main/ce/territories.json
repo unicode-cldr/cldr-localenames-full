@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ce"
       },
@@ -307,6 +307,8 @@
           "VU": "Вануату",
           "WF": "Уоллис а, Футуна а",
           "WS": "Самоа",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Косово",
           "YE": "Йемен",
           "YT": "Майотта",

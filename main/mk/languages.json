@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "mk"
       },
@@ -97,6 +97,7 @@
           "car": "карипски",
           "cay": "кајуга",
           "cch": "ацам",
+          "ccp": "ccp",
           "ce": "чеченски",
           "ceb": "себуански",
           "cgg": "чига",

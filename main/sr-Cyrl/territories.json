@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sr",
         "script": "Cyrl"
@@ -309,6 +309,8 @@
           "VU": "Вануату",
           "WF": "Валис и Футуна",
           "WS": "Самоа",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Косово",
           "YE": "Јемен",
           "YT": "Мајот",

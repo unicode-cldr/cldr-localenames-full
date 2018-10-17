@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "fur"
       },
@@ -38,6 +38,7 @@
           "Cyrl": "cirilic",
           "Cyrs": "cirilic dal vieri slavonic de glesie",
           "Deva": "devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
           "Egyd": "demotic egjizian",
@@ -47,6 +48,7 @@
           "Ethi": "etiopic",
           "Geor": "georgjian",
           "Glag": "glagolitic",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "gotic",
           "Gran": "Gran",
@@ -93,10 +95,12 @@
           "Lyci": "Lyci",
           "Lydi": "Lydi",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Mand",
           "Mani": "Mani",
           "Marc": "Marc",
           "Maya": "jeroglifics Maya",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
@@ -127,7 +131,9 @@
           "Phnx": "Phnx",
           "Plrd": "Plrd",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rjng",
+          "Rohg": "Rohg",
           "Runr": "runic",
           "Samr": "Samr",
           "Sarb": "Sarb",
@@ -138,6 +144,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "sinhala",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sund",

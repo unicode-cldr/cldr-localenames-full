@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "nb",
         "territory": "SJ"
@@ -154,6 +154,7 @@
             "finance": "Finansielle tall",
             "fullwide": "sifre med full bredde",
             "geor": "georgiske tall",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "greske tall",
             "greklow": "små greske tall",
@@ -196,6 +197,7 @@
             "olck": "ol chiki-tall",
             "orya": "odia-sifre",
             "osma": "osmanya-tall",
+            "rohg": "rohg",
             "roman": "romertall",
             "romanlow": "små romertall",
             "saur": "sarushatra-tall",

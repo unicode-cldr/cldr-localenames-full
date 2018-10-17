@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "zh",
         "script": "Hant",
@@ -28,13 +28,13 @@
           "colNumeric": "數字排序",
           "colStrength": "排序強度",
           "currency": "貨幣",
-          "hc": "時間週期（12 與 24 小時制",
+          "hc": "時間週期（12 小時制與 24 小時制）",
           "lb": "換行樣式",
           "ms": "度量衡系統",
           "numbers": "數字",
           "timezone": "時區",
           "va": "區域變異",
-          "x": "私人使用"
+          "x": "專用區"
         },
         "types": {
           "calendar": {
@@ -155,6 +155,7 @@
             "finance": "金融數字",
             "fullwide": "全形數字",
             "geor": "格魯吉亞數字",
+            "gong": "gong",
             "gonm": "馬薩拉姆貢地數字",
             "grek": "希臘數字",
             "greklow": "小寫希臘數字",
@@ -197,6 +198,7 @@
             "olck": "桑塔利文數字",
             "orya": "奧里亞數字",
             "osma": "奧斯曼亞數字",
+            "rohg": "rohg",
             "roman": "羅馬數字",
             "romanlow": "小寫羅馬數字",
             "saur": "索拉什特拉文數字",

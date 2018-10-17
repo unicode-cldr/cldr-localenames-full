@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "km"
       },
@@ -58,6 +58,7 @@
           "bug": "ប៊ុកហ្គី",
           "byn": "ប្ល៊ីន",
           "ca": "កាតាឡាន",
+          "ccp": "ccp",
           "ce": "ឈីឆេន",
           "ceb": "ស៊ីប៊ូអាណូ",
           "cgg": "ឈីហ្គា",

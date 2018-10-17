@@ -3,8 +3,8 @@
     "en": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13927 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "en"
       },
@@ -132,6 +132,7 @@
             "ascii": "To ASCII",
             "casefold": "To Casefolded",
             "charname": "To Unicode Character Names",
+            "digit": "To Digit Form Of Accent",
             "fcc": "To Unicode FCC",
             "fcd": "To Unicode FCD",
             "fwidth": "To Fullwidth",
@@ -147,7 +148,8 @@
             "publish": "To Publishing Characters From ASCII",
             "remove": "To Empty String",
             "title": "To Titlecase",
-            "upper": "To Uppercase"
+            "upper": "To Uppercase",
+            "zawgyi": "To Zawgyi Myanmar Encoding"
           },
           "em": {
             "default": "Use Default Presentation For Emoji Characters",
@@ -236,14 +238,23 @@
             "alaloc": "US ALA-LOC Transliteration",
             "bgn": "US BGN Transliteration",
             "buckwalt": "Buckwalter Arabic Transliteration",
+            "c11": "Hex Transforms Using C11 Syntax",
+            "css": "Hex Transforms Using CSS Syntax",
             "din": "German DIN Transliteration",
             "gost": "CIS GOST Transliteration",
             "iso": "ISO Transliteration",
+            "java": "Hex Transforms Using Java Syntax",
             "mcst": "Korean MCST Transliteration",
             "mns": "Mongolian National Standard Transliteration",
+            "percent": "Hex Transforms Using Percent Syntax",
+            "perl": "Hex Transforms Using Perl Syntax",
+            "plain": "Hex Transforms With No Surrounding Syntax",
             "prprname": "Personal Name Transliteration Variant",
             "satts": "Standard Arabic Technical Transliteration",
-            "ungegn": "UN GEGN Transliteration"
+            "ungegn": "UN GEGN Transliteration",
+            "unicode": "Hex Transforms Using Unicode Syntax",
+            "xml": "Hex Transforms Using XML Syntax",
+            "xml10": "Hex Transforms Using XML Decimal Syntax"
           },
           "ms": {
             "metric": "Metric System",
@@ -270,6 +281,7 @@
             "finance": "Financial Numerals",
             "fullwide": "Full-Width Digits",
             "geor": "Georgian Numerals",
+            "gong": "Gunjala Gondi digits",
             "gonm": "Masaram Gondi digits",
             "grek": "Greek Numerals",
             "greklow": "Greek Lowercase Numerals",
@@ -314,6 +326,7 @@
             "olck": "Ol Chiki Digits",
             "orya": "Odia Digits",
             "osma": "Osmanya Digits",
+            "rohg": "Hanifi Rohingya digits",
             "roman": "Roman Numerals",
             "romanlow": "Roman Lowercase Numerals",
             "saur": "Saurashtra Digits",

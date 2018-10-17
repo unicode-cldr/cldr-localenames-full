@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ga"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "Rómhánú ALA-LC, eagrán 1997",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "Airméinis an Oirthir",
           "AREVMDA": "Airméinis an Iarthair",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "BAKU1926",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "BISKE",
           "BOHORIC": "Aibítir Bohorič",
           "BOONT": "BOONT",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "Béarla an Choirn",
+          "CREISS": "CREISS",
           "DAJNKO": "Aibítir Dajnko",
           "EKAVSK": "EKAVSK",
           "EMODENG": "Nua-Bhéarla Moch",
           "FONIPA": "Fogharscríobh IPA",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "Fogharscríobh UPA",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "Rómhánú Hepburn",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "Litriú Caighdeánach",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "LIPAW",
           "LUNA1918": "LUNA1918",
           "METELKO": "Aibítir Metelko",
@@ -61,6 +72,7 @@
           "NDYUKA": "NDYUKA",
           "NEDIS": "NEDIS",
           "NEWFOUND": "Talamh an Éisc",
+          "NICARD": "NICARD",
           "NJIVA": "NJIVA",
           "NULIK": "Volapük Nua-Aimseartha",
           "OSOJS": "OSOJS",
@@ -73,6 +85,7 @@
           "PINYIN": "Rómhánú Pinyin",
           "POLYTON": "Iltonach",
           "POSIX": "Ríomhaire",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "Litriú Athbhreithnithe",
           "RIGIK": "Volapük Clasaiceach",
@@ -96,6 +109,7 @@
           "VAIDIKA": "Véideach",
           "VALENCIA": "Vaileinsis",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Rómhánú Wade-Giles",
           "XSISTEMO": "XSISTEMO"
         }

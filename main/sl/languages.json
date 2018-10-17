@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "sl"
       },
@@ -71,6 +71,7 @@
           "ca": "katalonščina",
           "cad": "kadoščina",
           "car": "karibski jezik",
+          "ccp": "ccp",
           "ce": "čečenščina",
           "ceb": "sebuanščina",
           "cgg": "čigajščina",
@@ -133,9 +134,9 @@
           "enm": "srednja angleščina",
           "eo": "esperanto",
           "es": "španščina",
-          "es-419": "latinskoameriška španščina",
+          "es-419": "španščina (Latinska Amerika)",
           "es-ES": "evropska španščina",
-          "es-MX": "španščina (Mehika)",
+          "es-MX": "mehiška španščina",
           "et": "estonščina",
           "eu": "baskovščina",
           "ewo": "evondovščina",
@@ -429,7 +430,7 @@
           "sma": "južna samijščina",
           "smj": "luleška samijščina",
           "smn": "inarska samijščina",
-          "sms": "samijščina Skolt",
+          "sms": "skoltska samijščina",
           "sn": "šonščina",
           "snk": "soninke",
           "so": "somalščina",
@@ -446,7 +447,7 @@
           "sux": "sumerščina",
           "sv": "švedščina",
           "sw": "svahili",
-          "sw-CD": "svahili (Demokratična republika Kongo)",
+          "sw-CD": "kongoški svahili",
           "swb": "šikomor",
           "syc": "klasična sirščina",
           "syr": "sirščina",
@@ -481,7 +482,7 @@
           "twq": "tasawaq",
           "ty": "tahitščina",
           "tyv": "tuvinščina",
-          "tzm": "tamašek (srednji atlas)",
+          "tzm": "tamašek (Srednji Atlas)",
           "udm": "udmurtščina",
           "ug": "ujgurščina",
           "uga": "ugaritski jezik",

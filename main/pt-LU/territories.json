@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pt",
         "territory": "LU"
@@ -123,8 +123,8 @@
           "EZ": "Zona Euro",
           "FI": "Finlândia",
           "FJ": "Fiji",
-          "FK": "Ilhas Falkland",
-          "FK-alt-variant": "Ilhas Malvinas",
+          "FK": "Ilhas Malvinas (Falkland)",
+          "FK-alt-variant": "Ilhas Falkland (Malvinas)",
           "FM": "Micronésia",
           "FO": "Ilhas Faroé",
           "FR": "França",
@@ -134,7 +134,7 @@
           "GD": "Granada",
           "GE": "Geórgia",
           "GF": "Guiana Francesa",
-          "GG": "Guernsey",
+          "GG": "Guernesey",
           "GH": "Gana",
           "GI": "Gibraltar",
           "GL": "Gronelândia",
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis e Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Iémen",
           "YT": "Maiote",

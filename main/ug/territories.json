@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "ug"
       },
@@ -307,6 +307,8 @@
           "VU": "ۋانۇئاتۇ",
           "WF": "ۋاللىس ۋە فۇتۇنا",
           "WS": "ساموئا",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "كوسوۋو",
           "YE": "يەمەن",
           "YT": "مايوتى",

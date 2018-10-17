@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "lb"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "ALA-LC-Romaniséierung, Editioun vun 1997",
           "ALUKU": "Aluku-Dialekt",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "Ostarmenesch",
           "AREVMDA": "Westarmenesch",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "Eenheetlecht Tierkescht Alphabet",
           "BALANKA": "Balanka-Dialekt vun Anii",
           "BARLA": "Barlavento-Dialektgrupp vu Kabuverdianu",
@@ -33,15 +35,22 @@
           "BISKE": "Bela-Dialekt",
           "BOHORIC": "Bohorič-Alphabet",
           "BOONT": "Boontling",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "Dajnko-Alphabet",
           "EKAVSK": "Serbesch mat Ekavian-Aussprooch",
           "EMODENG": "Fréit Modernt Englesch",
           "FONIPA": "Phonetesch (IPA)",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "Phonetesch (UPA)",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "Hepburn-Romaniséierung",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "Standard-Rechtschreiwung",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "Lipovaz-Dialekt",
           "LUNA1918": "LUNA1918",
           "METELKO": "Metelko-Alphabet",
@@ -61,6 +72,7 @@
           "NDYUKA": "Ndyuka-Dialekt",
           "NEDIS": "Natisone-Dialekt",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "Njiva-Dialekt",
           "NULIK": "Modernt Volapük",
           "OSOJS": "Osojane-Dialekt",
@@ -73,6 +85,7 @@
           "PINYIN": "Pinyin",
           "POLYTON": "Polytonesch",
           "POSIX": "Computer",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "Revidéiert Rechtschreiwung",
           "RIGIK": "RIGIK",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Valencianesch",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Wade-Giles",
           "XSISTEMO": "XSISTEMO"
         }

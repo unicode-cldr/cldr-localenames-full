@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "fa",
         "territory": "AF"
@@ -41,6 +41,7 @@
           "Cprt": "قبرسی",
           "Cyrl": "سیریلی",
           "Deva": "دوناگری",
+          "Dogr": "Dogr",
           "Dsrt": "دیسرتی",
           "Dupl": "Dupl",
           "Egyh": "کاهنی مصری",
@@ -50,6 +51,7 @@
           "Geok": "گرجی خوتسوری",
           "Geor": "گرجی",
           "Glag": "گلاگولیتی",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "گوتی",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "لسیایی",
           "Lydi": "لدیایی",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "منده‌ای",
           "Mani": "مانوی",
           "Marc": "Marc",
           "Maya": "هیروگلیف مایایی",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "مروییتی",
@@ -133,7 +137,9 @@
           "Phnx": "فنیقی",
           "Plrd": "Plrd",
           "Prti": "پارتی کتیبه‌ای",
+          "Qaag": "Qaag",
           "Rjng": "رجنگی",
+          "Rohg": "Rohg",
           "Runr": "رونی",
           "Samr": "سامری",
           "Sara": "ساراتی",
@@ -145,6 +151,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "سینهالی",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Sund",

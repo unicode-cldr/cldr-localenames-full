@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "uz"
       },
@@ -100,6 +100,7 @@
             "ethi": "habash raqamlari",
             "fullwide": "to‘liq enli raqamlar",
             "geor": "gruzin raqamlari",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grek raqamlari",
             "greklow": "kichik grek raqamlari",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "oriya raqamlari",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "rim raqamlari",
             "romanlow": "kichik rim raqamlari",
             "saur": "saur",

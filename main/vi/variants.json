@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "vi"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "La Mã hóa ALA-LC, ấn bản năm 1997",
           "ALUKU": "Phương ngữ Aluku",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "Tiếng Armenia Miền Đông",
           "AREVMDA": "Tiếng Armenia Miền Tây",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "Bảng chữ cái La-tinh Tiếng Turk Hợp nhất",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "Phương ngữ San Giorgio/Bila",
           "BOHORIC": "Bảng chữ cái Bohorič",
           "BOONT": "Tiếng Boontling",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "Bảng chữ cái Dajnko",
           "EKAVSK": "EKAVSK",
           "EMODENG": "Tiếng Anh Hiện đại Thời kỳ đầu",
           "FONIPA": "Ngữ âm học IPA",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "Ngữ âm học UPA",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "La mã hóa Hepburn",
           "HOGNORSK": "HOGNORSK",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "Phép chính tả Chuẩn",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "Phương ngữ Lipovaz của người Resian",
           "LUNA1918": "LUNA1918",
           "METELKO": "Bảng chữ cái Metelko",
@@ -61,6 +72,7 @@
           "NDYUKA": "Phương ngữ Ndyuka",
           "NEDIS": "Phương ngữ Natisone",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "Phương ngữ Gniva/Njiva",
           "NULIK": "Tiếng Volapük Hiện đại",
           "OSOJS": "Phương ngữ Oseacco/Osojane",
@@ -73,6 +85,7 @@
           "PINYIN": "La Mã hóa Bính âm",
           "POLYTON": "Đa âm",
           "POSIX": "Máy tính",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "Phép chính tả Sửa đổi",
           "RIGIK": "Tiếng Volapük Cổ điển",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "Tiếng Valencia",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "La Mã hóa Wade-Giles",
           "XSISTEMO": "XSISTEMO"
         }

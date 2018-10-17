@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ee",
         "territory": "TG"
@@ -101,6 +101,7 @@
             "ethi": "ethiopia numeralwo",
             "fullwide": "digit kekeme blibotɔwo",
             "geor": "georgiatɔwo ƒe numeralwo",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "greecetɔwo ƒe nemeralwo",
             "greklow": "greecetɔwo ƒe numeral suetɔwo",
@@ -142,6 +143,7 @@
             "olck": "olck",
             "orya": "oriya digitwo",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "romatɔwo ƒe numeralwo",
             "romanlow": "romatɔwo ƒe numeral suetɔwo",
             "saur": "saur",

@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "hu"
       },
@@ -81,6 +81,7 @@
           "car": "karib",
           "cay": "kajuga",
           "cch": "atszam",
+          "ccp": "ccp",
           "ce": "csecsen",
           "ceb": "szebuano",
           "cgg": "kiga",

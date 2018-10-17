@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "da",
         "territory": "GL"
@@ -35,7 +35,7 @@
           "arc": "aramæisk",
           "arn": "mapudungun",
           "arp": "arapaho",
-          "ars": "najd-arabisk",
+          "ars": "Najd-arabisk",
           "arw": "arawak",
           "as": "assamesisk",
           "asa": "asu",
@@ -82,6 +82,7 @@
           "car": "caribisk",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "tjetjensk",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -140,7 +141,7 @@
           "en-GB": "britisk engelsk",
           "en-GB-alt-short": "engelsk (UK)",
           "en-US": "amerikansk engelsk",
-          "en-US-alt-short": "en-US",
+          "en-US-alt-short": "engelsk (USA)",
           "enm": "middelengelsk",
           "eo": "esperanto",
           "es": "spansk",
@@ -168,7 +169,7 @@
           "frr": "nordfrisisk",
           "frs": "østfrisisk",
           "fur": "friulian",
-          "fy": "frisisk",
+          "fy": "vestfrisisk",
           "ga": "irsk",
           "gaa": "ga",
           "gag": "gagauzisk",

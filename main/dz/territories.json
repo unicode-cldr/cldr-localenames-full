@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "dz"
       },
@@ -307,6 +307,8 @@
           "VU": "ཝ་ནུ་ཨ་ཏུ",
           "WF": "ཝལ་ལིས྄་ ཨེནཌ་ ཕུ་ཏུ་ན་",
           "WS": "ས་མོ་ཨ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "ཡེ་མེན",
           "YT": "མེ་ཡོཊ",

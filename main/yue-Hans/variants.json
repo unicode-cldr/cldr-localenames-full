@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "yue",
         "script": "Hans"
@@ -22,9 +22,11 @@
           "ALALC97": "美国国会图书馆标准方案罗马化（1997年版）",
           "ALUKU": "阿鲁库方言",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "亚美尼亚东部",
           "AREVMDA": "亚美尼亚西部",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "统一土耳其拉丁字母",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -34,15 +36,22 @@
           "BISKE": "San Giorgio/Bila 方言",
           "BOHORIC": "BOHORIC",
           "BOONT": "布恩特林方言",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "早期现代英语",
           "FONIPA": "IPA 拼音",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "UPA 拼音",
           "FONXSAMP": "X-SAMPA 音标",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "平文式罗马字",
           "HOGNORSK": "高地挪威文",
           "HSISTEMO": "HSISTEMO",
@@ -55,6 +64,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "传统梵文",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "雷西亚利波瓦方言",
           "LUNA1918": "俄罗斯文拼字（1917年后）",
           "METELKO": "METELKO",
@@ -62,6 +73,7 @@
           "NDYUKA": "苏利南恩都卡方言",
           "NEDIS": "那提松尼方言",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "雷西亚尼瓦方言",
           "NULIK": "NULIK",
           "OSOJS": "雷西亚欧西亚柯方言",
@@ -74,6 +86,7 @@
           "PINYIN": "汉语拼音",
           "POLYTON": "希腊文多调正字法",
           "POSIX": "电脑",
+          "PROVENC": "PROVENC",
           "PUTER": "瑞士普特尔方言",
           "REVISED": "已修订的拼字学",
           "RIGIK": "RIGIK",
@@ -97,6 +110,7 @@
           "VAIDIKA": "吠陀梵文",
           "VALENCIA": "瓦伦西亚文",
           "VALLADER": "瑞士瓦勒德方言",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "威妥玛式拼音",
           "XSISTEMO": "XSISTEMO"
         }

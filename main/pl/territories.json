@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13915 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "pl"
       },
@@ -94,7 +94,7 @@
           "CM": "Kamerun",
           "CN": "Chiny",
           "CO": "Kolumbia",
-          "CP": "Clipperton",
+          "CP": "Wyspa Clippertona",
           "CR": "Kostaryka",
           "CU": "Kuba",
           "CV": "Republika Zielonego Przylądka",
@@ -308,6 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis i Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosowo",
           "YE": "Jemen",
           "YT": "Majotta",

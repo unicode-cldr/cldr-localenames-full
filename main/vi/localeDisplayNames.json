@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "vi"
       },
@@ -128,8 +128,8 @@
             "strict": "Kiểu xuống dòng hẹp"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "Chuyển tự US BGN",
+            "ungegn": "Chuyển tự UN GEGN"
           },
           "ms": {
             "metric": "Hệ mét",
@@ -153,6 +153,7 @@
             "finance": "Chữ số dùng trong tài chính",
             "fullwide": "Chữ số có độ rộng đầy đủ",
             "geor": "Chữ số Gruzia",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Chữ số Hy Lạp",
             "greklow": "Chữ số Hy Lạp viết thường",
@@ -195,6 +196,7 @@
             "olck": "Chữ số Ol Chiki",
             "orya": "Chữ số Odia",
             "osma": "Chữ số Osmanya",
+            "rohg": "rohg",
             "roman": "Chữ số La mã",
             "romanlow": "Chữ số La Mã viết thường",
             "saur": "Chữ số Saurashtra",

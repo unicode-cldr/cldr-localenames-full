@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "af",
         "territory": "NA"
@@ -24,7 +24,7 @@
           "018": "Suider-Afrika",
           "019": "Amerikas",
           "021": "Noordelike Amerika",
-          "029": "Karibies",
+          "029": "Karibiese streek",
           "030": "Oos-Asië",
           "034": "Suid-Asië",
           "035": "Suidoos-Asië",
@@ -246,7 +246,7 @@
           "PW": "Palau",
           "PY": "Paraguay",
           "QA": "Katar",
-          "QO": "Omliggende Oseanië",
+          "QO": "Afgeleë Oseanië",
           "RE": "Réunion",
           "RO": "Roemenië",
           "RS": "Serwië",
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis en Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

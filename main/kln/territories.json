@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "kln"
       },
@@ -307,6 +307,8 @@
           "VU": "Emetab Vanuatu",
           "WF": "Emetab Walis ak Futuna",
           "WS": "Emetab Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Emetab Yemen",
           "YT": "Emetab Mayotte",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "tr",
         "territory": "CY"
@@ -111,7 +111,7 @@
           "DM": "Dominika",
           "DO": "Dominik Cumhuriyeti",
           "DZ": "Cezayir",
-          "EA": "Septe ve Melilla",
+          "EA": "Ceuta ve Melilla",
           "EC": "Ekvador",
           "EE": "Estonya",
           "EG": "Mısır",
@@ -309,6 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis ve Futuna",
           "WS": "Samoa",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "Kosova",
           "YE": "Yemen",
           "YT": "Mayotte",

@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14403 $",
+          "_cldrVersion": "34"
         },
         "language": "ur"
       },
@@ -153,6 +153,7 @@
             "finance": "مالیاتی ہندسے",
             "fullwide": "پورے عرض والے ہندسے",
             "geor": "جارجیائی اعداد",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "یونانی اعداد",
             "greklow": "یونانی زیریں اعداد",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "اڑیہ ہندسے",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "رومن اعداد",
             "romanlow": "رومن زیریں اعداد",
             "saur": "saur",

@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ml"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "സിറിലിക്",
           "Cyrs": "പുരാതന ചർച്ച് സ്ലവോണിക് സിറിലിക്",
           "Deva": "ദേവനാഗരി",
+          "Dogr": "Dogr",
           "Dsrt": "ഡെസെർട്ട്",
           "Dupl": "Dupl",
           "Egyd": "ഈജിപ്ഷ്യൻ ഡിമോട്ടിക്",
@@ -51,6 +52,7 @@
           "Geok": "ജോർജ്ജിയൻ ഖുട്സുരി",
           "Geor": "ജോർജ്ജിയൻ",
           "Glag": "ഗ്ലഗോലിറ്റിക്",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "ഗോഥിക്",
           "Gran": "Gran",
@@ -98,10 +100,12 @@
           "Lyci": "ലൈസിൻ",
           "Lydi": "ലൈഡിയൻ",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "മൻഡേയൻ",
           "Mani": "മണിചേയൻ",
           "Marc": "Marc",
           "Maya": "മായൻ ചിത്രലിപി",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "മെറോയിറ്റിക്",
@@ -134,7 +138,9 @@
           "Phnx": "ഫിനീഷ്യൻ",
           "Plrd": "പൊള്ളാർഡ് ശബ്ദലിപി",
           "Prti": "പൃതി",
+          "Qaag": "Qaag",
           "Rjng": "റെജാംഗ്",
+          "Rohg": "Rohg",
           "Roro": "റൊംഗോറൊംഗോ",
           "Runr": "റുണിക്",
           "Samr": "സമരിയ",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "സിംഹള",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "സന്താനീസ്",

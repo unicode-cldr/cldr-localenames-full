@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "qu",
         "territory": "BO"
@@ -34,7 +34,7 @@
           "ast": "ast",
           "av": "av",
           "awa": "awa",
-          "ay": "ay",
+          "ay": "Aymara Simi",
           "az": "Azerbaiyano Simi",
           "az-alt-short": "az",
           "ba": "Baskir Simi",
@@ -57,6 +57,7 @@
           "bug": "bug",
           "byn": "byn",
           "ca": "Catalan Simi",
+          "ccp": "ccp",
           "ce": "ce",
           "ceb": "ceb",
           "cgg": "cgg",
@@ -102,7 +103,7 @@
           "en-US-alt-short": "Ingles Simi (US)",
           "eo": "eo",
           "es": "Español Simi",
-          "es-419": "Español Simi (419)",
+          "es-419": "Español Simi (Latino América)",
           "es-ES": "Español Simi (España)",
           "es-MX": "Español Simi (México)",
           "et": "Estonio Simi",
@@ -263,6 +264,7 @@
           "naq": "naq",
           "nb": "nb",
           "nd": "nd",
+          "nds": "nds",
           "nds-NL": "nds (Países Bajos)",
           "ne": "Nepali Simi",
           "new": "new",
@@ -351,7 +353,7 @@
           "suk": "suk",
           "sv": "Sueco Simi",
           "sw": "Suajili Simi",
-          "sw-CD": "Suajili Simi (Congo [RDC])",
+          "sw-CD": "Suajili Simi (Congo (RDC))",
           "swb": "swb",
           "syr": "Siriaco Simi",
           "ta": "Tamil Simi",

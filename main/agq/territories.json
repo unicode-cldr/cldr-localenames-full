@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "agq"
       },
@@ -307,6 +307,8 @@
           "VU": "Vànǔatùw",
           "WF": "Wales à Fùwtuwnà",
           "WS": "Sàmowà",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "Yɛmɛ̀n",
           "YT": "Màyotì",

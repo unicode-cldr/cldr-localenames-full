@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "fy"
       },
@@ -79,6 +79,7 @@
           "car": "Karibysk",
           "cay": "Cayuga",
           "cch": "Atsam",
+          "ccp": "ccp",
           "ce": "Tsjetsjeensk",
           "ceb": "Cebuano",
           "cgg": "Chiga",

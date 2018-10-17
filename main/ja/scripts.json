@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ja"
       },
@@ -42,6 +42,7 @@
           "Cyrl": "キリル文字",
           "Cyrs": "古代教会スラブ語キリル文字",
           "Deva": "デーバナーガリー文字",
+          "Dogr": "Dogr",
           "Dsrt": "デセレット文字",
           "Dupl": "デュプロワエ式速記",
           "Egyd": "エジプト民衆文字",
@@ -52,6 +53,7 @@
           "Geok": "ジョージア文字(フツリ)",
           "Geor": "ジョージア文字",
           "Glag": "グラゴル文字",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "ゴート文字",
           "Gran": "グランタ文字",
@@ -102,10 +104,12 @@
           "Lyci": "リキア文字",
           "Lydi": "リディア文字",
           "Mahj": "マハージャニー文字",
+          "Maka": "Maka",
           "Mand": "マンダ文字",
           "Mani": "マニ文字",
           "Marc": "Marc",
           "Maya": "マヤ象形文字",
+          "Medf": "Medf",
           "Mend": "メンデ文字",
           "Merc": "メロエ文字草書体",
           "Mero": "メロエ文字",
@@ -139,7 +143,9 @@
           "Phnx": "フェニキア文字",
           "Plrd": "ポラード音声記号",
           "Prti": "碑文パルティア文字",
+          "Qaag": "Qaag",
           "Rjng": "ルジャン文字",
+          "Rohg": "Rohg",
           "Roro": "ロンゴロンゴ文字",
           "Runr": "ルーン文字",
           "Samr": "サマリア文字",
@@ -152,6 +158,8 @@
           "Sidd": "梵字",
           "Sind": "クダワディ文字",
           "Sinh": "シンハラ文字",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "ソラング・ソンペング文字",
           "Soyo": "Soyo",
           "Sund": "スンダ文字",

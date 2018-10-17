@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "bn",
         "territory": "IN"
@@ -42,6 +42,7 @@
           "Cyrl": "সিরিলিক",
           "Cyrs": "প্রাচীন চার্চ স্লাভোনিক সিরিলিক",
           "Deva": "দেবনাগরি",
+          "Dogr": "Dogr",
           "Dsrt": "দেসেরাত",
           "Dupl": "Dupl",
           "Egyd": "মিশরীয় ডেমোটিক",
@@ -52,6 +53,7 @@
           "Geok": "জর্জিয় খুৎসুরি",
           "Geor": "জর্জিয়ান",
           "Glag": "গ্লাগোলিটিক",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "গোথিক",
           "Gran": "Gran",
@@ -99,10 +101,12 @@
           "Lyci": "লাইসিয়ান",
           "Lydi": "লাইডিয়ান",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "ম্যান্ডায়ীন",
           "Mani": "ম্যানিচাইন",
           "Marc": "Marc",
           "Maya": "মায়ান হায়ারোগ্লিপ",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "মেরোইটিক",
@@ -135,7 +139,9 @@
           "Phnx": "ফিনিশিয়",
           "Plrd": "পোলার্ড ধ্বনিক",
           "Prti": "পার্থিয়ন",
+          "Qaag": "Qaag",
           "Rjng": "রেজ্যাঙ্গ",
+          "Rohg": "Rohg",
           "Roro": "রোঙ্গোরোঙ্গো",
           "Runr": "রুনিক",
           "Samr": "সমেরিটন",
@@ -148,6 +154,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "সিংহলি",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "সান্দানিজ",
@@ -182,7 +190,7 @@
           "Zinh": "কাই",
           "Zmth": "গাণিতিক চিহ্ন",
           "Zsye": "ইমোজি",
-          "Zsym": "প্রতিকগুলি",
+          "Zsym": "প্রতীকগুলি",
           "Zxxx": "অলিখিত",
           "Zyyy": "সাধারন",
           "Zzzz": "অজানা লিপি"

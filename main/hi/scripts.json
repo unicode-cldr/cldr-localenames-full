@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hi"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "सिरिलिक",
           "Cyrs": "ओल्ड चर्च स्लावोनिक सिरिलिक",
           "Deva": "देवनागरी",
+          "Dogr": "Dogr",
           "Dsrt": "डेसरेट",
           "Dupl": "Dupl",
           "Egyd": "इजिप्शियन डेमोटिक",
@@ -51,6 +52,7 @@
           "Geok": "जॉर्जियन खुतसुरी",
           "Geor": "जॉर्जियन",
           "Glag": "ग्लेगोलिटिक",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "गोथिक",
           "Gran": "ग्रन्थ",
@@ -98,10 +100,12 @@
           "Lyci": "लिशियन",
           "Lydi": "लिडियन",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "मनडेन",
           "Mani": "मनीशीन",
           "Marc": "Marc",
           "Maya": "मयान हाइरोग्लिफ्स",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "मेरोइटिक",
@@ -134,7 +138,9 @@
           "Phnx": "फोनिशियन",
           "Plrd": "पॉलार्ड फोनेटिक",
           "Prti": "इंस्क्रिपश्नल पार्थियन",
+          "Qaag": "Qaag",
           "Rjng": "रीजांग",
+          "Rohg": "Rohg",
           "Roro": "रोन्गोरोन्गो",
           "Runr": "रूनिक",
           "Samr": "समरिटन",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "सिंहली",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "सूडानी",

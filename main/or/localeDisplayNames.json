@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "or"
       },
@@ -100,6 +100,7 @@
             "ethi": "ଇଥିଓପିକ୍‌ ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "fullwide": "ପୂର୍ଣ୍ଣ-ପ୍ରସ୍ଥ ଅଙ୍କଗୁଡ଼ିକ",
             "geor": "ଜର୍ଜିଆନ୍‌ ସଂଖ୍ୟାଗୁଡ଼ିକ",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ଗ୍ରୀକ୍‌ ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "greklow": "ଗ୍ରୀକ୍‌ ଛୋଟ ଅକ୍ଷର ସଂଖ୍ୟାଗୁଡ଼ିକ",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "ଓଡ଼ିଆ ଅଙ୍କଗୁଡ଼ିକ",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ରୋମାନ୍‌ ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "romanlow": "ରୋମାନ୍‌ ଛୋଟ ଅକ୍ଷର ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "saur": "saur",

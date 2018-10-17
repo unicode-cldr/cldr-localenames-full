@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "kn"
       },
@@ -72,6 +72,7 @@
           "cad": "ಕ್ಯಾಡ್ಡೋ",
           "car": "ಕಾರಿಬ್",
           "cch": "ಅಟ್ಸಮ್",
+          "ccp": "ccp",
           "ce": "ಚೆಚನ್",
           "ceb": "ಸೆಬುವಾನೊ",
           "cgg": "ಚಿಗಾ",

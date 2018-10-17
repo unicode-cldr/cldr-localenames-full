@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "zh",
         "script": "Hans",
@@ -310,6 +310,8 @@
           "VU": "瓦努阿图",
           "WF": "瓦利斯和富图纳",
           "WS": "萨摩亚",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "科索沃",
           "YE": "也门",
           "YT": "马约特",

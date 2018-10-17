@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "fy"
       },
@@ -153,6 +153,7 @@
             "finance": "Finansjele sifers",
             "fullwide": "sifers met volledige breedte",
             "geor": "Georgyske sifers",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Griekse sifers",
             "greklow": "Kleine Griekse sifers",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "Oriya sifers",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Romeinske sifers",
             "romanlow": "Lytse Romeinske sifers",
             "saur": "saur",

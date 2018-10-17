@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "zu"
       },
@@ -153,6 +153,7 @@
             "finance": "Izinombolo Zezomnotho",
             "fullwide": "ububanzi obugcwele bamadijithi",
             "geor": "izinombolo zesi-Georgian",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "izinombolo zesi-Greek",
             "greklow": "izinombolo ezincane zesi-Greek",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "Amadijithi ase-Odia",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "izinombolo zesi-Roman",
             "romanlow": "izinombolo zesi-Tamil",
             "saur": "saur",

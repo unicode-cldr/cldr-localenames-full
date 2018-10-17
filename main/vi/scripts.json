@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "vi"
       },
@@ -42,6 +42,7 @@
           "Cyrl": "Chữ Kirin",
           "Cyrs": "Chữ Kirin Slavơ Nhà thờ cổ",
           "Deva": "Chữ Devanagari",
+          "Dogr": "Dogr",
           "Dsrt": "Chữ Deseret",
           "Dupl": "Chữ tốc ký Duployan",
           "Egyd": "Chữ Ai Cập bình dân",
@@ -52,6 +53,7 @@
           "Geok": "Chữ Khutsuri Georgia",
           "Geor": "Chữ Gruzia",
           "Glag": "Chữ Glagolitic",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "Chữ Gô-tích",
           "Gran": "Chữ Grantha",
@@ -102,10 +104,12 @@
           "Lyci": "Chữ Lycia",
           "Lydi": "Chữ Lydia",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Chữ Mandaean",
           "Mani": "Chữ Manichaean",
           "Marc": "Marc",
           "Maya": "Chữ tượng hình Maya",
+          "Medf": "Medf",
           "Mend": "Chữ Mende",
           "Merc": "Chữ Meroitic Nét thảo",
           "Mero": "Chữ Meroitic",
@@ -139,7 +143,9 @@
           "Phnx": "Chữ Phoenicia",
           "Plrd": "Ngữ âm Pollard",
           "Prti": "Chữ Parthia Văn bia",
+          "Qaag": "Qaag",
           "Rjng": "Chữ Rejang",
+          "Rohg": "Rohg",
           "Roro": "Chữ Rongorongo",
           "Runr": "Chữ Runic",
           "Samr": "Chữ Samaritan",
@@ -152,6 +158,8 @@
           "Sidd": "Sidd",
           "Sind": "Chữ Khudawadi",
           "Sinh": "Chữ Sinhala",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Chữ Sora Sompeng",
           "Soyo": "Soyo",
           "Sund": "Chữ Xu-đăng",

@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14302 $",
+          "_cldrVersion": "34"
         },
         "language": "chr"
       },
@@ -284,7 +284,7 @@
           "TL-alt-variant": "ᏗᎧᎸᎬᎢ ᏘᎼᎵ",
           "TM": "ᏛᎵᎩᎺᏂᏍᏔᏂ",
           "TN": "ᏚᏂᏏᏍᎠ",
-          "TO": "ᏔᏂᎪ",
+          "TO": "ᏙᎾᎦ",
           "TR": "ᎬᏃ",
           "TT": "ᏟᏂᏕᏗ ᎠᎴ ᏙᏆᎪ",
           "TV": "ᏚᏩᎷ",
@@ -307,6 +307,8 @@
           "VU": "ᏩᏂᎤᏩᏚ",
           "WF": "ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ",
           "WS": "ᏌᎼᎠ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "ᎪᏐᏉ",
           "YE": "ᏰᎺᏂ",
           "YT": "ᎺᏯᏖ",

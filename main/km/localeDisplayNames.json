@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "km"
       },
@@ -100,6 +100,7 @@
             "ethi": "លេខ​អេត្យូពី",
             "fullwide": "លេខ​ទទឹង​ពេញ",
             "geor": "លេខ​ហ្សកហ្សី",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "លេខ​ក្រិក",
             "greklow": "លេខ​តូច​ក្រិក",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "លេខអូឌៀ",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "លេខ​រ៉ូមាំង",
             "romanlow": "លេខ​តូច​រ៉ូមាំង",
             "saur": "saur",

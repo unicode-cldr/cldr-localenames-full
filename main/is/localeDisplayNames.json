@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "is"
       },
@@ -153,6 +153,7 @@
             "finance": "Viðskiptafræðileg töluorð",
             "fullwide": "Tölur í fullri breidd",
             "geor": "Georgískir tölustafir",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Grískir tölustafir",
             "greklow": "Grískar lágstafatölur",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "Odia-tölur",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Rómverskir tölustafir",
             "romanlow": "Rómverskar lágstafatölur",
             "saur": "saur",

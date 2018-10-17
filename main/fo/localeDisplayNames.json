@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "fo"
       },
@@ -100,6 +100,7 @@
             "ethi": "etiopisk tøl",
             "fullwide": "tøl í fullari longd",
             "geor": "gregoriansk tøl",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "grikskt tøl",
             "greklow": "grikskt tøl (smáir bókstavir)",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "odia tøl",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "rómartøl",
             "romanlow": "rómartøl (smáir bókstavir)",
             "saur": "saur",

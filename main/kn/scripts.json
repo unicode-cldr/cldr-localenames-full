@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "kn"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "ಸಿರಿಲಿಕ್",
           "Cyrs": "ಪ್ರಾಚೀನ ಚರ್ಚ್ ಸ್ಲೋವಾನಿಕ್ ಸಿರಿಲಿಕ್",
           "Deva": "ದೇವನಾಗರಿ",
+          "Dogr": "Dogr",
           "Dsrt": "ಡಸರ್ಟ್",
           "Dupl": "Dupl",
           "Egyd": "ಈಜಿಪ್ಟಿಯನ್ ಡೆಮೋಟಿಕ್",
@@ -51,6 +52,7 @@
           "Geok": "ಜಾರ್ಜಿಯನ್ ಖುಸ್ತುರಿ",
           "Geor": "ಜಾರ್ಜಿಯನ್",
           "Glag": "ಗ್ಲಾಗೋಲಿಟಿಕ್",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "ಗೋತಿಕ್",
           "Gran": "Gran",
@@ -98,10 +100,12 @@
           "Lyci": "ಲೈಸಿಯನ್",
           "Lydi": "ಲಿಡಿಯನ್",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "ಮಂಡೇಯನ್",
           "Mani": "ಮನಿಚೈಯನ್",
           "Marc": "Marc",
           "Maya": "ಮಯಾನ್ ಹೀರೋಗ್ಲಿಫ್ಸ್",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "ಮೆರೊಯಿಟಿಕ್",
@@ -134,7 +138,9 @@
           "Phnx": "ಫೀನಿಶಿಯನ್",
           "Plrd": "ಪೊಲ್ಲಾರ್ಡ್ ಫೊನೆಟಿಕ್",
           "Prti": "ಇನ್ಸ್‌ಕ್ರಿಪ್ಶನಲ್ ಪಾರ್ಥಿಯನ್",
+          "Qaag": "Qaag",
           "Rjng": "ರೆಜಾಂಗ್",
+          "Rohg": "Rohg",
           "Roro": "ರೋಂಗೋರೋಂಗೋ",
           "Runr": "ರೂನಿಕ್",
           "Samr": "ಸಮಾರಿಟನ್",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "ಸಿಂಹಳ",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "ಸುಂಡಾನೀಸ್",

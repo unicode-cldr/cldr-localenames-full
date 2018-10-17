@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14546 $",
+          "_cldrVersion": "34"
         },
         "language": "pt"
       },
@@ -128,8 +128,8 @@
             "strict": "Quebra de linha com estilo estrito"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "Transliteração BGN EUA",
+            "ungegn": "Transliteração UN GEGN"
           },
           "ms": {
             "metric": "Sistema métrico",
@@ -153,6 +153,7 @@
             "finance": "Numerais financeiros",
             "fullwide": "Algarismos em extensão total",
             "geor": "Algarismos georgianos",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "Algarismos gregos",
             "greklow": "Algarismos gregos minúsculos",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "Algarismos oriá",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "Algarismos romanos",
             "romanlow": "Algarismos romanos minúsculos",
             "saur": "saur",

@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "mr"
       },
@@ -308,6 +308,8 @@
           "VU": "वानुआतु",
           "WF": "वालिस आणि फ्यूचूना",
           "WS": "सामोआ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "कोसोव्हो",
           "YE": "येमेन",
           "YT": "मायोट्टे",

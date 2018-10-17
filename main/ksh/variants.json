@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ksh"
       },
@@ -21,9 +21,11 @@
           "ALALC97": "de lateinesche Ömschreff ALA-LC vun 1997",
           "ALUKU": "ALUKU",
           "AO1990": "AO1990",
+          "ARANES": "ARANES",
           "AREVELA": "oß-armeensch",
           "AREVMDA": "wäß-armeenesch",
           "ASANTE": "ASANTE",
+          "AUVERN": "AUVERN",
           "BAKU1926": "eijheijtlesch törkesch lateijnesch Allfabeet",
           "BALANKA": "BALANKA",
           "BARLA": "BARLA",
@@ -33,15 +35,22 @@
           "BISKE": "zint jorjo’sche uder bila’sche reijanesche Dijaläk",
           "BOHORIC": "BOHORIC",
           "BOONT": "boontlingsche Dijaläk",
+          "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
+          "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
           "EKAVSK": "EKAVSK",
           "EMODENG": "EMODENG",
           "FONIPA": "IPA-Loutschreff",
+          "FONKIRSH": "FONKIRSH",
           "FONNAPA": "FONNAPA",
           "FONUPA": "UPA-Loutschreff",
           "FONXSAMP": "FONXSAMP",
+          "GASCON": "GASCON",
+          "GRCLASS": "GRCLASS",
+          "GRITAL": "GRITAL",
+          "GRMISTR": "GRMISTR",
           "HEPBURN": "De Lateinesche Ömschreff noh Hepburn",
           "HOGNORSK": "Huhnorrweejesch",
           "HSISTEMO": "HSISTEMO",
@@ -54,6 +63,8 @@
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
+          "LEMOSIN": "LEMOSIN",
+          "LENGADOC": "LENGADOC",
           "LIPAW": "lipovazesch resijanesche Dijaläk",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
@@ -61,6 +72,7 @@
           "NDYUKA": "ndyukanesche Dijaläk",
           "NEDIS": "natisonesche Dijaläk",
           "NEWFOUND": "NEWFOUND",
+          "NICARD": "NICARD",
           "NJIVA": "gniva’sche uder njiva’sche reijanesche Dijaläk",
           "NULIK": "NULIK",
           "OSOJS": "oseacco’sche uder osojanesche reijanesche Dijaläk",
@@ -73,6 +85,7 @@
           "PINYIN": "Pinjin-Ömschreff",
           "POLYTON": "pollütoonesch",
           "POSIX": "POSIX",
+          "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "neu opjelate Schriefwiiß",
           "RIGIK": "RIGIK",
@@ -96,6 +109,7 @@
           "VAIDIKA": "VAIDIKA",
           "VALENCIA": "valenzijaanesche Dijaläk",
           "VALLADER": "VALLADER",
+          "VIVARAUP": "VIVARAUP",
           "WADEGILE": "lateijnesche Ömschreff noh Wade-Giles",
           "XSISTEMO": "XSISTEMO"
         }

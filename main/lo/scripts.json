@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "lo"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "ຊີຣິວລິກ",
           "Cyrs": "ເຊຮັດສລາ ໂວນິກຊີຮິກລິກໂບຮານ",
           "Deva": "ດີວານາກາຣີ",
+          "Dogr": "Dogr",
           "Dsrt": "ເດເຊເຮ",
           "Dupl": "ຊົວເລດັບໂລຍັນ",
           "Egyd": "ດີໂມຕິກອີຍິບ",
@@ -51,6 +52,7 @@
           "Geok": "ຄອດຊູຮີຈໍເຈຍ",
           "Geor": "ຈໍຈຽນ",
           "Glag": "ກລາໂກລິຕິກ",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "ໂກຮິກ",
           "Gran": "ເຄນທາ",
@@ -101,10 +103,12 @@
           "Lyci": "ໄລເຊຍ",
           "Lydi": "ລີເດຍ",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "ແມນດຽນ",
           "Mani": "ມານິແຊນ",
           "Marc": "Marc",
           "Maya": "ມາຍາໄຮໂຮກລິບ",
+          "Medf": "Medf",
           "Mend": "ເມນເດ",
           "Merc": "ເຄເລີຊີເມໂຮອິຕິກ",
           "Mero": "ເມໂຮຕິກ",
@@ -138,7 +142,9 @@
           "Phnx": "ຟີນິເຊຍ",
           "Plrd": "ສັດຕະສາດພໍຮລາ",
           "Prti": "ພາຮ໌ເທຍອິນສຄຮິປຊັນແນລ",
+          "Qaag": "Qaag",
           "Rjng": "ເຮຈັງ",
+          "Rohg": "Rohg",
           "Roro": "ຮອງໂກຮອງໂກ",
           "Runr": "ຮູນິກ",
           "Samr": "ຊາມາເລຍ",
@@ -151,6 +157,8 @@
           "Sidd": "Sidd",
           "Sind": "ດຸດາວາດີ",
           "Sinh": "ສິນຫາລາ",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "ໂສຮາສົມເປັງ",
           "Soyo": "Soyo",
           "Sund": "ຊຸນດາ",

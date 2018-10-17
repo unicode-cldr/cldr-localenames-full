@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "be"
       },
@@ -100,6 +100,7 @@
             "ethi": "эфіопскія лічбы",
             "fullwide": "поўнашырынныя лічбы",
             "geor": "грузінскія лічбы",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "грэчаскія лічбы",
             "greklow": "грэчаскія лічбы ў ніжнім рэгістры",
@@ -141,6 +142,7 @@
             "olck": "olck",
             "orya": "лічбы орыя",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "рымскія лічбы",
             "romanlow": "рымскія лічбы ў ніжнім рэгістры",
             "saur": "saur",

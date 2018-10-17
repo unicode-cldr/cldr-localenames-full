@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "shi",
         "script": "Tfng"
@@ -308,6 +308,8 @@
           "VU": "ⴼⴰⵏⵡⴰⵟⵓ",
           "WF": "ⵡⴰⵍⵉⵙ ⴷ ⴼⵓⵜⵓⵏⴰ",
           "WS": "ⵙⴰⵎⵡⴰ",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "XK",
           "YE": "ⵢⴰⵎⴰⵏ",
           "YT": "ⵎⴰⵢⵓⵟ",

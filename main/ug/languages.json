@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "ug"
       },
@@ -79,6 +79,7 @@
           "car": "كارىبچە",
           "cay": "كايۇگاچە",
           "cch": "ئاتسامچە",
+          "ccp": "ccp",
           "ce": "چېچىنچە",
           "ceb": "سېبۇچە",
           "cgg": "چىگاچە",

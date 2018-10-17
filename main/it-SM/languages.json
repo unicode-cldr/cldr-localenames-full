@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "it",
         "territory": "SM"
@@ -40,7 +40,7 @@
           "aro": "araona",
           "arp": "arapaho",
           "arq": "arabo algerino",
-          "ars": "arabo, najd",
+          "ars": "arabo najd",
           "arw": "aruaco",
           "ary": "arabo marocchino",
           "arz": "arabo egiziano",
@@ -99,6 +99,7 @@
           "car": "caribico",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "ceceno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -310,7 +311,7 @@
           "kut": "kutenai",
           "kv": "komi",
           "kw": "cornico",
-          "ky": "chirghiso",
+          "ky": "kirghiso",
           "la": "latino",
           "lad": "giudeo-spagnolo",
           "lag": "langi",
@@ -422,7 +423,7 @@
           "oc": "occitano",
           "oj": "ojibwa",
           "om": "oromo",
-          "or": "oriya",
+          "or": "odia",
           "os": "ossetico",
           "osa": "osage",
           "ota": "turco ottomano",

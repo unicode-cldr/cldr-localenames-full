@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "bs",
         "script": "Latn"
@@ -81,6 +81,7 @@
           "car": "karipski",
           "cay": "kajuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "čečenski",
           "ceb": "cebuano",
           "cgg": "čiga",
@@ -221,7 +222,7 @@
           "inh": "ingušetski",
           "io": "ido",
           "is": "islandski",
-          "it": "talijanski",
+          "it": "italijanski",
           "iu": "inuktitut",
           "ja": "japanski",
           "jbo": "lojban",

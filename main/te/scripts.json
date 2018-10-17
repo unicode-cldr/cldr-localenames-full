@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "te"
       },
@@ -41,6 +41,7 @@
           "Cyrl": "సిరిలిక్",
           "Cyrs": "ప్రాచీన చర్చ స్లావోనిక్ సిరిలిక్",
           "Deva": "దేవనాగరి",
+          "Dogr": "Dogr",
           "Dsrt": "డేసెరెట్",
           "Dupl": "Dupl",
           "Egyd": "ఇజిప్షియన్ డెమోటిక్",
@@ -51,6 +52,7 @@
           "Geok": "జార్జియన్ ఖట్సూరి",
           "Geor": "జార్జియన్",
           "Glag": "గ్లాగో లిటిక్",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "గోతిక్",
           "Gran": "Gran",
@@ -98,10 +100,12 @@
           "Lyci": "లిసియన్",
           "Lydi": "లిడియన్",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "మాన్డియన్",
           "Mani": "మానిచేన్",
           "Marc": "Marc",
           "Maya": "మాయన్ హైరోగ్లైఫ్స్",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "మెరోఇటిక్",
@@ -134,7 +138,9 @@
           "Phnx": "ఫోనిశియన్",
           "Plrd": "పోల్లర్డ్ ఫోనెటిక్",
           "Prti": "ఇంస్క్రిప్షనాల్ పార్థియన్",
+          "Qaag": "Qaag",
           "Rjng": "రేజాంగ్",
+          "Rohg": "Rohg",
           "Roro": "రోంగో రోంగో",
           "Runr": "రూనిక్",
           "Samr": "సమారిటన్",
@@ -147,6 +153,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "సింహళం",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "సుడానీస్",

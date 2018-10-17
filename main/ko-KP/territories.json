@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ko",
         "territory": "KP"
@@ -282,7 +282,7 @@
           "TJ": "타지키스탄",
           "TK": "토켈라우",
           "TL": "동티모르",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "티모르레스테",
           "TM": "투르크메니스탄",
           "TN": "튀니지",
           "TO": "통가",
@@ -309,6 +309,8 @@
           "VU": "바누아투",
           "WF": "왈리스-푸투나 제도",
           "WS": "사모아",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "코소보",
           "YE": "예멘",
           "YT": "마요트",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sv",
         "territory": "AX"
@@ -99,6 +99,7 @@
           "car": "karibiska",
           "cay": "cayuga",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "tjetjenska",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -389,7 +390,7 @@
           "mye": "myene",
           "myv": "erjya",
           "mzn": "mazanderani",
-          "na": "nauriska",
+          "na": "nauruanska",
           "nan": "min nan",
           "nap": "napolitanska",
           "naq": "nama",

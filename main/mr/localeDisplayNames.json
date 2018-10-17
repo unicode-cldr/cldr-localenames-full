@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "mr"
       },
@@ -153,6 +153,7 @@
             "finance": "वित्तीय संख्‍या",
             "fullwide": "पूर्ण रुंदीचे अंक",
             "geor": "जॉर्जियन अंक",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ग्रीक अंक",
             "greklow": "ग्रीक लहान लिपीचे अंक",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "उडिया अंक",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "रोमन अंक",
             "romanlow": "रोमन लहान लिपीचे अंक",
             "saur": "saur",

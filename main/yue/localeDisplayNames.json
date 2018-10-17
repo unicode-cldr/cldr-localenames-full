@@ -3,8 +3,8 @@
     "yue": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "yue"
       },
@@ -153,6 +153,7 @@
             "finance": "金融數字",
             "fullwide": "全形數字",
             "geor": "喬治亞數字",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "希臘數字",
             "greklow": "小寫希臘數字",
@@ -195,6 +196,7 @@
             "olck": "桑塔利文數字",
             "orya": "歐利亞數字",
             "osma": "奧斯曼亞數字",
+            "rohg": "rohg",
             "roman": "羅馬數字",
             "romanlow": "小寫羅馬數字",
             "saur": "索拉什特拉文數字",

@@ -3,15 +3,15 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ga"
       },
       "localeDisplayNames": {
         "territories": {
           "001": "an Domhan",
-          "002": "An Afraic",
+          "002": "an Afraic",
           "003": "Meiriceá Thuaidh",
           "005": "Meiriceá Theas",
           "009": "an Aigéine",
@@ -19,7 +19,7 @@
           "013": "Meiriceá Láir",
           "014": "Oirthear na hAfraice",
           "015": "Tuaisceart na hAfraice",
-          "017": "An Afraic Láir",
+          "017": "an Afraic Láir",
           "018": "Deisceart na hAfraice",
           "019": "Críocha Mheiriceá",
           "021": "Tuaisceart Mheiriceá",
@@ -101,7 +101,7 @@
           "CW": "Curaçao",
           "CX": "Oileán na Nollag",
           "CY": "an Chipir",
-          "CZ": "An tSeicia",
+          "CZ": "an tSeicia",
           "CZ-alt-variant": "Poblacht na Seice",
           "DE": "an Ghearmáin",
           "DG": "Diego Garcia",
@@ -308,6 +308,8 @@
           "VU": "Vanuatú",
           "WF": "Vailís agus Futúna",
           "WS": "Samó",
+          "XA": "XA",
+          "XB": "XB",
           "XK": "an Chosaiv",
           "YE": "Éimin",
           "YT": "Mayotte",

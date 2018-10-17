@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "nnh"
       },
@@ -63,6 +63,7 @@
           "byn": "byn",
           "byv": "Shwóŋò ngáŋtÿɔʼ",
           "ca": "ca",
+          "ccp": "ccp",
           "ce": "ce",
           "ceb": "ceb",
           "cgg": "cgg",
@@ -269,6 +270,7 @@
           "naq": "naq",
           "nb": "nb",
           "nd": "nd",
+          "nds": "nds",
           "nds-NL": "nds (NL)",
           "ne": "ne",
           "new": "new",

@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "bg"
       },
@@ -40,6 +40,7 @@
           "Cprt": "Кипърска",
           "Cyrl": "кирилица",
           "Deva": "деванагари",
+          "Dogr": "Dogr",
           "Dsrt": "Дезерет",
           "Dupl": "Dupl",
           "Egyd": "Египетско демотично писмо",
@@ -50,6 +51,7 @@
           "Geok": "Грузинска хуцури",
           "Geor": "грузинска",
           "Glag": "Глаголическа",
+          "Gong": "Gong",
           "Gonm": "Gonm",
           "Goth": "Готическа",
           "Gran": "Gran",
@@ -97,10 +99,12 @@
           "Lyci": "Лицийска",
           "Lydi": "Лидийска",
           "Mahj": "Mahj",
+          "Maka": "Maka",
           "Mand": "Мандаринска",
           "Mani": "Манихейска",
           "Marc": "Marc",
           "Maya": "Йероглифи на Маите",
+          "Medf": "Medf",
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Мероитска",
@@ -133,7 +137,9 @@
           "Phnx": "Финикийска",
           "Plrd": "Писменост Полард",
           "Prti": "Prti",
+          "Qaag": "Qaag",
           "Rjng": "Rjng",
+          "Rohg": "Rohg",
           "Roro": "Ронго-ронго",
           "Runr": "Руническа",
           "Samr": "Самаританска",
@@ -146,6 +152,8 @@
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "синхалска",
+          "Sogd": "Sogd",
+          "Sogo": "Sogo",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Сунданска",

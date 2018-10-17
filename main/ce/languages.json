@@ -3,8 +3,8 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14134 $",
+          "_cldrVersion": "34"
         },
         "language": "ce"
       },
@@ -57,6 +57,7 @@
           "bug": "бугийн",
           "byn": "билийн",
           "ca": "каталонийн",
+          "ccp": "ccp",
           "ce": "нохчийн",
           "ceb": "себуано",
           "cgg": "чига",

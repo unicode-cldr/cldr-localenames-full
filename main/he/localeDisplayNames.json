@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "he"
       },
@@ -153,6 +153,7 @@
             "finance": "ספרות פיננסיות",
             "fullwide": "ספרות ברוחב מלא",
             "geor": "ספרות גאורגיות",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "ספרות יווניות",
             "greklow": "ספרות יווניות קטנות",
@@ -195,6 +196,7 @@
             "olck": "olck",
             "orya": "ספרות אוריה",
             "osma": "osma",
+            "rohg": "rohg",
             "roman": "ספרות רומיות",
             "romanlow": "ספרות רומיות קטנות",
             "saur": "saur",

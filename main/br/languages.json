@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "br"
       },
@@ -83,6 +83,7 @@
           "cad": "caddo",
           "car": "karibeg",
           "cch": "atsam",
+          "ccp": "ccp",
           "ce": "tchetcheneg",
           "ceb": "cebuano",
           "cgg": "chigaeg",

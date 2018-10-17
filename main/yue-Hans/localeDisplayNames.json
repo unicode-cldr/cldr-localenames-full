@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "yue",
         "script": "Hans"
@@ -154,6 +154,7 @@
             "finance": "金融数字",
             "fullwide": "全形数字",
             "geor": "乔治亚数字",
+            "gong": "gong",
             "gonm": "gonm",
             "grek": "希腊数字",
             "greklow": "小写希腊数字",
@@ -196,6 +197,7 @@
             "olck": "桑塔利文数字",
             "orya": "欧利亚数字",
             "osma": "奥斯曼亚数字",
+            "rohg": "rohg",
             "roman": "罗马数字",
             "romanlow": "小写罗马数字",
             "saur": "索拉什特拉文数字",
