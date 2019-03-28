@@ -3,8 +3,8 @@
     "fr-CF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "fr",
         "territory": "CF"
@@ -167,6 +167,7 @@
             "hantfin": "chiffres financiers en chinois traditionnel",
             "hebr": "chiffres hébreux",
             "hmng": "hmng",
+            "hmnp": "chiffres nyiakeng puachue hmong",
             "java": "java",
             "jpan": "chiffres japonais",
             "jpanfin": "chiffres japonais financiers",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "Chiffres traditionnels",
             "vaii": "Chiffres en vaï",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "chiffres wantcho"
           }
         },
         "codePatterns": {

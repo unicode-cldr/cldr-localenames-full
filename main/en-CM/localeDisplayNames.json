@@ -3,8 +3,8 @@
     "en-CM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "en",
         "territory": "CM"
@@ -31,7 +31,7 @@
           "d0": "Transform Destination",
           "em": "Emoji Presentation Style",
           "fw": "First day of week",
-          "h0": "Mixed-in Language",
+          "h0": "Mixed-in",
           "hc": "Hour Cycle (12 vs 24)",
           "i0": "Input Method",
           "k0": "Keyboard",
@@ -45,6 +45,7 @@
           "s0": "Transform Source",
           "sd": "Region Subdivision",
           "ss": "Sentence Break Suppressions Type",
+          "t": "Transform",
           "t0": "Machine Translated",
           "timezone": "Time Zone",
           "va": "Locale Variant",
@@ -167,7 +168,7 @@
             "wed": "First Day of Week Is Wednesday"
           },
           "h0": {
-            "hybrid": "Hybrid Language"
+            "hybrid": "Hybrid"
           },
           "hc": {
             "h11": "12-Hour System (0–11)",
@@ -239,23 +240,25 @@
             "alaloc": "US ALA-LOC Transliteration",
             "bgn": "US BGN Transliteration",
             "buckwalt": "Buckwalter Arabic Transliteration",
-            "c11": "Hex Transforms Using C11 Syntax",
-            "css": "Hex Transforms Using CSS Syntax",
+            "c11": "Hex transform using C11 syntax",
+            "css": "Hex transform using CSS syntax",
             "din": "German DIN Transliteration",
+            "ewts": "Extended Wylie Transliteration Scheme",
             "gost": "CIS GOST Transliteration",
+            "iast": "International Alphabet of Sanskrit Transliteration",
             "iso": "ISO Transliteration",
-            "java": "Hex Transforms Using Java Syntax",
+            "java": "Hex transform using Java syntax",
             "mcst": "Korean MCST Transliteration",
             "mns": "Mongolian National Standard Transliteration",
-            "percent": "Hex Transforms Using Percent Syntax",
-            "perl": "Hex Transforms Using Perl Syntax",
-            "plain": "Hex Transforms With No Surrounding Syntax",
-            "prprname": "Personal Name Transliteration Variant",
+            "percent": "Hex transform using percent syntax",
+            "perl": "Hex transform using Perl syntax",
+            "plain": "Hex transform with no surrounding syntax",
+            "prprname": "Personal name transliteration variant",
             "satts": "Standard Arabic Technical Transliteration",
             "ungegn": "UN GEGN Transliteration",
-            "unicode": "Hex Transforms Using Unicode Syntax",
-            "xml": "Hex Transforms Using XML Syntax",
-            "xml10": "Hex Transforms Using XML Decimal Syntax"
+            "unicode": "Hex transform using Unicode syntax",
+            "xml": "Hex transform using XML syntax",
+            "xml10": "Hex transform using XML decimal syntax"
           },
           "ms": {
             "metric": "Metric System",
@@ -296,9 +299,11 @@
             "hantfin": "Traditional Chinese Financial Numerals",
             "hebr": "Hebrew Numerals",
             "hmng": "Pahawh Hmong Digits",
+            "hmnp": "Nyiakeng Puachue Hmong Digits",
             "java": "Javanese Digits",
             "jpan": "Japanese Numerals",
             "jpanfin": "Japanese Financial Numerals",
+            "jpanyear": "Japanese Calendar Gannen Year Numerals",
             "kali": "Kayah Li Digits",
             "khmr": "Khmer Digits",
             "knda": "Kannada Digits",
@@ -346,7 +351,8 @@
             "tirh": "Tirhuta Digits",
             "traditional": "Traditional Numerals",
             "vaii": "Vai Digits",
-            "wara": "Warang Citi Digits"
+            "wara": "Warang Citi Digits",
+            "wcho": "Wancho Digits"
           },
           "s0": {
             "accents": "From Accented Characters To ASCII Sequence",

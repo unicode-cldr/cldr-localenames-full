@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "hi"
       },
@@ -48,6 +48,7 @@
           "Egyh": "इजिप्शियन हाइरेटिक",
           "Egyp": "इजिप्शियन हाइरोग्लिफ्स",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "इथियोपियाई",
           "Geok": "जॉर्जियन खुतसुरी",
           "Geor": "जॉर्जियन",
@@ -72,6 +73,7 @@
           "Hira": "हिरागाना",
           "Hluw": "Hluw",
           "Hmng": "पाहो ह्मोन्ग",
+          "Hmnp": "Hmnp",
           "Hrkt": "जापानी सिलेबरीज़",
           "Hung": "ऑल्ड हंगेरियन",
           "Inds": "सिन्धु",
@@ -117,6 +119,7 @@
           "Mtei": "मेइतेइ मायेक",
           "Mult": "Mult",
           "Mymr": "म्यांमार",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -182,6 +185,7 @@
           "Vaii": "वाई",
           "Visp": "विसिबल स्पीच",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "पुरानी फारसी",
           "Xsux": "सुमेरो अक्कादियन सुनिफॉर्म",
           "Yiii": "यी",

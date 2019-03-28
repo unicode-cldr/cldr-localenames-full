@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14772 $",
+          "_cldrVersion": "35"
         },
         "language": "mt"
       },
@@ -159,7 +159,6 @@
           "fy": "Frisian tal-Punent",
           "ga": "Irlandiż",
           "gaa": "Ga",
-          "gan": "gan",
           "gay": "Gayo",
           "gba": "Gbaya",
           "gd": "Galliku Skoċċiż",
@@ -181,7 +180,6 @@
           "gwi": "Gwiċin",
           "ha": "Hausa",
           "hai": "Haida",
-          "hak": "hak",
           "haw": "Ħawajjan",
           "he": "Ebrajk",
           "hi": "Hindi",
@@ -191,7 +189,6 @@
           "ho": "Hiri Motu",
           "hr": "Kroat",
           "hsb": "Sorbjan ta’ Fuq",
-          "hsn": "hsn",
           "ht": "Creole ta’ Haiti",
           "hu": "Ungeriż",
           "hup": "Hupa",
@@ -324,7 +321,6 @@
           "myv": "Erzya",
           "mzn": "Mazanderani",
           "na": "Naurujan",
-          "nan": "nan",
           "nap": "Naplitan",
           "naq": "Nama",
           "nb": "Bokmal Norveġiż",
@@ -500,7 +496,6 @@
           "war": "Waray",
           "was": "Washo",
           "wo": "Wolof",
-          "wuu": "wuu",
           "xal": "Kalmyk",
           "xh": "Xhosa",
           "xog": "Soga",

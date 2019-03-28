@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "kn"
       },
@@ -48,6 +48,7 @@
           "Egyh": "ಈಜಿಪ್ಟಿಯನ್ ಹಯಾರಿಟಿಕ್",
           "Egyp": "ಈಜಿಪ್ಟಿಯನ್ ಹೀರೋಗ್ಲಿಫ್ಸ್",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ಇಥಿಯೋಪಿಕ್",
           "Geok": "ಜಾರ್ಜಿಯನ್ ಖುಸ್ತುರಿ",
           "Geor": "ಜಾರ್ಜಿಯನ್",
@@ -72,6 +73,7 @@
           "Hira": "ಹಿರಾಗನ",
           "Hluw": "Hluw",
           "Hmng": "ಪಹವ್ ಹ್ಮೋಂಗ್",
+          "Hmnp": "Hmnp",
           "Hrkt": "ಜಪಾನೀಸ್ ಸಿಲಬರೀಸ್",
           "Hung": "ಪ್ರಾಚೀನ ಹಂಗೇರಿಯನ್",
           "Inds": "ಸಿಂಧೂ",
@@ -117,6 +119,7 @@
           "Mtei": "ಮೈತಿ ಮಯೆಕ್",
           "Mult": "Mult",
           "Mymr": "ಮ್ಯಾನ್ಮಾರ್",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -182,6 +185,7 @@
           "Vaii": "ವಾಯ್",
           "Visp": "ವಿಸಿಬಲ್ ಸ್ಪೀಚ್",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "ಪ್ರಾಚೀನ ಪರ್ಶಿಯನ್",
           "Xsux": "ಸುಮೇರೋ-ಅಕ್ಕಾಡಿಯನ್ ಕ್ಯೂನಿಫಾರ್ಮ್",
           "Yiii": "ಯಿ",

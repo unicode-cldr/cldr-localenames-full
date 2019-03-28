@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "uz"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint-Marten",
           "SY": "Suriya",
           "SZ": "Svazilend",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan-da-Kunya",
           "TC": "Turks va Kaykos orollari",
           "TD": "Chad",

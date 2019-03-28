@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "be"
       },
@@ -272,6 +272,7 @@
           "SX": "Сінт-Мартэн",
           "SY": "Сірыя",
           "SZ": "Свазіленд",
+          "SZ-alt-variant": "Каралеўства Свазіленд",
           "TA": "Трыстан-да-Кунья",
           "TC": "Астравы Цёркс і Кайкас",
           "TD": "Чад",

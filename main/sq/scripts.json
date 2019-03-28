@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sq"
       },
@@ -42,6 +42,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopik",
           "Geor": "gjeorgjian",
           "Glag": "Glag",
@@ -65,6 +66,7 @@
           "Hira": "hiragan",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "alfabet rrokjesor japonez",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -105,6 +107,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "birman",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -162,6 +165,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

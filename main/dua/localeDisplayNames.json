@@ -3,8 +3,8 @@
     "dua": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "dua"
       },
@@ -113,6 +113,7 @@
             "hantfin": "hantfin",
             "hebr": "hebr",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "jpan",
             "jpanfin": "jpanfin",
@@ -160,7 +161,8 @@
             "tibt": "tibt",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ky"
       },
@@ -113,6 +113,7 @@
             "hantfin": "Салттуу кытай каржы сандары",
             "hebr": "Иврит сандары",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Жапон сандары",
             "jpanfin": "Жапон каржы сандары",
@@ -160,7 +161,8 @@
             "tibt": "Тибет сандары",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

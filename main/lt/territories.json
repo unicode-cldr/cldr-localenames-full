@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "lt"
       },
@@ -198,8 +198,8 @@
           "MF": "Sen Martenas",
           "MG": "Madagaskaras",
           "MH": "Maršalo Salos",
-          "MK": "Makedonija",
-          "MK-alt-variant": "Makedonijos Respublika",
+          "MK": "Šiaurės Makedonija",
+          "MK-alt-variant": "MK",
           "ML": "Malis",
           "MM": "Mianmaras (Birma)",
           "MN": "Mongolija",
@@ -272,6 +272,7 @@
           "SX": "Sint Martenas",
           "SY": "Sirija",
           "SZ": "Svazilandas",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristanas da Kunja",
           "TC": "Terkso ir Kaikoso Salos",
           "TD": "Čadas",

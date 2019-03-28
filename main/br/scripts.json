@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "br"
       },
@@ -43,6 +43,7 @@
           "Dupl": "Dupl",
           "Egyp": "hieroglifoù egiptek",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopek",
           "Geor": "jorjianek",
           "Glag": "glagolitek",
@@ -66,6 +67,7 @@
           "Hira": "hiragana",
           "Hluw": "hieroglifoù Anatolia",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "silabennaouegoù japanek",
           "Hung": "henhungarek",
           "Ital": "henitalek",
@@ -108,6 +110,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "myanmar",
+          "Nand": "Nand",
           "Narb": "henarabek an Norzh",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -168,6 +171,7 @@
           "Ugar": "ougaritek",
           "Vaii": "vai",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "persek kozh",
           "Xsux": "gennheñvel",
           "Yiii": "Yiii",

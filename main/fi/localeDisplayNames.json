@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "fi"
       },
@@ -166,6 +166,7 @@
             "hantfin": "perinteiset kiinalaiset talousnumerot",
             "hebr": "heprealaiset numerot",
             "hmng": "pahawh hmong -numerot",
+            "hmnp": "hmnp",
             "java": "jaavalaiset numerot",
             "jpan": "japanilaiset numerot",
             "jpanfin": "japanilaiset talousnumerot",
@@ -215,7 +216,8 @@
             "tirh": "tirhuta-numerot",
             "traditional": "perinteiset numerot",
             "vaii": "vai-numerot",
-            "wara": "varang kshiti -numerot"
+            "wara": "varang kshiti -numerot",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

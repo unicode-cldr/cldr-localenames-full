@@ -3,8 +3,8 @@
     "ar-LB": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13880 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "ar",
         "territory": "LB"
@@ -167,6 +167,7 @@
             "hantfin": "الأرقام المالية الصينية التقليدية",
             "hebr": "الأرقام العبرية",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "الأرقام اليابانية",
             "jpanfin": "الأرقام المالية اليابانية",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "أرقام تقليدية",
             "vaii": "أرقام فاي",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

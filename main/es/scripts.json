@@ -3,8 +3,8 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "es"
       },
@@ -48,6 +48,7 @@
           "Egyh": "egipcio hierático",
           "Egyp": "jeroglíficos egipcios",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiópico",
           "Geok": "georgiano eclesiástico",
           "Geor": "georgiano",
@@ -72,6 +73,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahawh hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "silabarios japoneses",
           "Hung": "húngaro antiguo",
           "Inds": "Indio (harappan)",
@@ -117,6 +119,7 @@
           "Mtei": "manipuri",
           "Mult": "Mult",
           "Mymr": "birmano",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "vai",
           "Visp": "lenguaje visible",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "persa antiguo",
           "Xsux": "cuneiforme sumerio-acadio",
           "Yiii": "yi",

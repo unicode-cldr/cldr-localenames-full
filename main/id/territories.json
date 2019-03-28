@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14420 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "id"
       },
@@ -88,7 +88,7 @@
           "CG-alt-variant": "Kongo (Republik)",
           "CH": "Swiss",
           "CI": "Pantai Gading",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Pantai Gading (Ivory Coast)",
           "CK": "Kepulauan Cook",
           "CL": "Cile",
           "CM": "Kamerun",
@@ -198,8 +198,8 @@
           "MF": "Saint Martin",
           "MG": "Madagaskar",
           "MH": "Kepulauan Marshall",
-          "MK": "Makedonia",
-          "MK-alt-variant": "Makedonia (BRY)",
+          "MK": "Makedonia Utara",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -271,7 +271,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Suriah",
-          "SZ": "Swaziland",
+          "SZ": "eSwatini",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Kepulauan Turks dan Caicos",
           "TD": "Cad",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Kepulauan Wallis dan Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Aksen Asing",
+          "XB": "Pseudo-Bidi",
           "XK": "Kosovo",
           "YE": "Yaman",
           "YT": "Mayotte",

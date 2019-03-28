@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14844 $",
+          "_cldrVersion": "35"
         },
         "language": "cs"
       },
@@ -49,6 +49,7 @@
           "Egyh": "egyptské hieratické",
           "Egyp": "egyptské hieroglyfy",
           "Elba": "elbasanské",
+          "Elym": "Elym",
           "Ethi": "etiopské",
           "Geok": "gruzínské chutsuri",
           "Geor": "gruzínské",
@@ -73,6 +74,7 @@
           "Hira": "hiragana",
           "Hluw": "anatolské hieroglyfy",
           "Hmng": "hmongské",
+          "Hmnp": "Hmnp",
           "Hrkt": "japonské slabičné",
           "Hung": "staromaďarské",
           "Inds": "harappské",
@@ -121,6 +123,7 @@
           "Mtei": "mejtej majek (manipurské)",
           "Mult": "Mult",
           "Mymr": "myanmarské",
+          "Nand": "Nand",
           "Narb": "staroseveroarabské",
           "Nbat": "nabatejské",
           "Newa": "Newa",
@@ -187,6 +190,7 @@
           "Vaii": "vai",
           "Visp": "viditelná řeč",
           "Wara": "varang kšiti",
+          "Wcho": "Wcho",
           "Wole": "karolínské (woleai)",
           "Xpeo": "staroperské klínové písmo",
           "Xsux": "sumero-akkadské klínové písmo",

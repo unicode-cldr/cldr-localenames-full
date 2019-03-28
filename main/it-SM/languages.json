@@ -3,8 +3,8 @@
     "it-SM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "it",
         "territory": "SM"
@@ -99,7 +99,7 @@
           "car": "caribico",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "ceceno",
           "ceb": "cebuano",
           "cgg": "chiga",

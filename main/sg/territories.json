@@ -3,8 +3,8 @@
     "sg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "sg"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Sirïi",
           "SZ": "Swäzïlânde",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Âzûâ Turku na Kaîki",
           "TD": "Tyâde",

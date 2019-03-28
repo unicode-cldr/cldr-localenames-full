@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "my"
       },
@@ -113,6 +113,7 @@
             "hantfin": "ရိုးရာ တရုတ် ဘဏ္ဍာရေးသုံး ဂဏန်းခြေ",
             "hebr": "ဟီဘရူး ဂဏန်းခြေ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ဂျပန် ဂဏန်းခြေ",
             "jpanfin": "ဂျပန် ဘဏ္ဍာရေးသုံး ဂဏန်းခြေ",
@@ -160,7 +161,8 @@
             "tibt": "တိဘက် ဂဏန်းခြေ",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

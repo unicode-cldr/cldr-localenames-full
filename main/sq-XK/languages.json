@@ -3,8 +3,8 @@
     "sq-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sq",
         "territory": "XK"
@@ -58,7 +58,7 @@
           "bug": "buginezisht",
           "byn": "blinisht",
           "ca": "katalonisht",
-          "ccp": "ccp",
+          "ccp": "çakmaisht",
           "ce": "çeçenisht",
           "ceb": "sebuanisht",
           "cgg": "çigisht",
@@ -126,7 +126,6 @@
           "ga": "irlandisht",
           "gaa": "gaisht",
           "gag": "gagauzisht",
-          "gan": "gan",
           "gd": "galishte skoceze",
           "gez": "gizisht",
           "gil": "gilbertazisht",
@@ -139,7 +138,6 @@
           "gv": "manksisht",
           "gwi": "guiçinisht",
           "ha": "hausisht",
-          "hak": "hak",
           "haw": "havaisht",
           "he": "hebraisht",
           "hi": "indisht",
@@ -147,7 +145,6 @@
           "hmn": "hmongisht",
           "hr": "kroatisht",
           "hsb": "sorbishte e sipërme",
-          "hsn": "hsn",
           "ht": "haitisht",
           "hu": "hungarisht",
           "hup": "hupaisht",
@@ -263,7 +260,6 @@
           "myv": "erzjaisht",
           "mzn": "mazanderanisht",
           "na": "nauruisht",
-          "nan": "nan",
           "nap": "napoletanisht",
           "naq": "namaisht",
           "nb": "norvegjishte letrare",
@@ -405,7 +401,6 @@
           "war": "uarajisht",
           "wbp": "uarlpirisht",
           "wo": "uolofisht",
-          "wuu": "wuu",
           "xal": "kalmikisht",
           "xh": "xhosaisht",
           "xog": "sogisht",

@@ -3,8 +3,8 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "fo",
         "territory": "DK"
@@ -43,6 +43,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopiskt",
           "Geor": "georgianskt",
           "Glag": "Glag",
@@ -66,6 +67,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "japanskir stavir",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -106,6 +108,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "myanmarskt",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -163,6 +166,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

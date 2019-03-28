@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "ro"
       },
@@ -46,6 +46,7 @@
           "Egyh": "hieratică egipteană",
           "Egyp": "hieroglife egiptene",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopiană",
           "Geok": "georgiană bisericească",
           "Geor": "georgiană",
@@ -70,6 +71,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "silabică japoneză",
           "Hung": "maghiară veche",
           "Inds": "indus",
@@ -114,6 +116,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "birmană",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -173,6 +176,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "persană veche",
           "Xsux": "cuneiformă sumero-akkadiană",
           "Yiii": "Yiii",

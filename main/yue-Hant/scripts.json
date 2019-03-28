@@ -3,8 +3,8 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "yue",
         "script": "Hant"
@@ -50,6 +50,7 @@
           "Egyh": "古埃及僧侶體",
           "Egyp": "古埃及象形文字",
           "Elba": "愛爾巴桑文",
+          "Elym": "Elym",
           "Ethi": "衣索比亞文",
           "Geok": "喬治亞語系（阿索他路里和努斯克胡里文）",
           "Geor": "喬治亞文",
@@ -74,6 +75,7 @@
           "Hira": "平假名",
           "Hluw": "安那托利亞象形文字",
           "Hmng": "楊松錄苗文",
+          "Hmnp": "Hmnp",
           "Hrkt": "片假名或平假名",
           "Hung": "古匈牙利文",
           "Inds": "印度河流域（哈拉帕文）",
@@ -122,6 +124,7 @@
           "Mtei": "曼尼普爾文",
           "Mult": "Mult",
           "Mymr": "緬甸文",
+          "Nand": "Nand",
           "Narb": "古北阿拉伯文",
           "Nbat": "納巴泰文字",
           "Newa": "Newa",
@@ -188,6 +191,7 @@
           "Vaii": "瓦依文",
           "Visp": "視覺語音文字",
           "Wara": "瓦郎奇蒂文字",
+          "Wcho": "Wcho",
           "Wole": "沃雷艾文",
           "Xpeo": "古波斯文",
           "Xsux": "蘇米魯亞甲文楔形文字",

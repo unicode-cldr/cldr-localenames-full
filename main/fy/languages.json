@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "fy"
       },
@@ -98,7 +98,6 @@
           "cop": "Koptysk",
           "cr": "Cree",
           "crh": "Krim-Tataarsk",
-          "crs": "crs",
           "cs": "Tsjechysk",
           "csb": "Kasjoebysk",
           "cu": "Kerkslavysk",
@@ -169,7 +168,6 @@
           "fy": "Frysk",
           "ga": "Iersk",
           "gaa": "Ga",
-          "gan": "gan",
           "gay": "Gayo",
           "gba": "Gbaya",
           "gd": "Schotsk Gaelic",
@@ -191,7 +189,6 @@
           "gwi": "Gwichʼin",
           "ha": "Hausa",
           "hai": "Haida",
-          "hak": "hak",
           "haw": "Hawaïaansk",
           "he": "Hebreeuwsk",
           "hi": "Hindi",
@@ -201,7 +198,6 @@
           "ho": "Hiri Motu",
           "hr": "Kroatysk",
           "hsb": "Oppersorbysk",
-          "hsn": "hsn",
           "ht": "Haïtiaansk",
           "hu": "Hongaarsk",
           "hup": "Hupa",
@@ -338,7 +334,6 @@
           "myv": "Erzja",
           "mzn": "mzn",
           "na": "Nauruaansk",
-          "nan": "nan",
           "nap": "Napolitaansk",
           "naq": "Nama",
           "nb": "Noors - Bokmål",
@@ -382,7 +377,6 @@
           "pam": "Pampanga",
           "pap": "Papiaments",
           "pau": "Palauaansk",
-          "pcm": "pcm",
           "peo": "Aldperzysk",
           "phn": "Foenisysk",
           "pi": "Pali",
@@ -396,7 +390,6 @@
           "pt-BR": "Brazyljaansk Portugees",
           "pt-PT": "Europees Portugees",
           "qu": "Quechua",
-          "quc": "quc",
           "raj": "Rajasthani",
           "rap": "Rapanui",
           "rar": "Rarotongan",
@@ -518,7 +511,6 @@
           "war": "Waray",
           "was": "Washo",
           "wo": "Wolof",
-          "wuu": "wuu",
           "xal": "Kalmyk",
           "xh": "Xhosa",
           "xog": "Soga",

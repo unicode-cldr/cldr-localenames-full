@@ -3,8 +3,8 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "el",
         "territory": "CY"
@@ -49,6 +49,7 @@
           "Egyh": "Ιερατικό Αιγυπτιακό",
           "Egyp": "Αιγυπτιακά Ιερογλυφικά",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Αιθιοπικό",
           "Geok": "Γεωργιανό Κχουτσούρι",
           "Geor": "Γεωργιανό",
@@ -73,6 +74,7 @@
           "Hira": "Χιραγκάνα",
           "Hluw": "Hluw",
           "Hmng": "Παχάχ Χμονγκ",
+          "Hmnp": "Hmnp",
           "Hrkt": "Κατακάνα ή Χιραγκάνα",
           "Hung": "Παλαιό Ουγγρικό",
           "Inds": "Ίνδους",
@@ -118,6 +120,7 @@
           "Mtei": "Μεϊτέι Μάγεκ",
           "Mult": "Mult",
           "Mymr": "Μιανμάρ",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -183,6 +186,7 @@
           "Vaii": "Βάι",
           "Visp": "Ορατή ομιλία",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Παλαιό Περσικό",
           "Xsux": "Σούμερο-Ακάντιαν Κουνεϊφόρμ",
           "Yiii": "Γι",

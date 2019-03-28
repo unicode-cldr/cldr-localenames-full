@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "lo"
       },
@@ -113,6 +113,7 @@
             "hantfin": "ຕົວເລກທາງການເງິນແບບດັ້ງເດີມຂອງຈີນ",
             "hebr": "ຕົວເລກຮິບຣິວ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "ຕົວເລກຊົວ",
             "jpan": "ຕົວເລກຍີ່ປຸ່ນ",
             "jpanfin": "ຕົວເລກທາງການເງິນຂອງຍີ່ປຸ່ນ",
@@ -160,7 +161,8 @@
             "tibt": "ຕົວເລກທິເບດ",
             "tirh": "tirh",
             "vaii": "ຕົວເລກໃນລະບົບໄວ",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

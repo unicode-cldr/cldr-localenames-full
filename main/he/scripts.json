@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "he"
       },
@@ -44,6 +44,7 @@
           "Dupl": "Dupl",
           "Egyp": "כתב חרטומים",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "אתיופי",
           "Geor": "גאורגי",
           "Glag": "Glag",
@@ -67,6 +68,7 @@
           "Hira": "הירגאנה",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "הברתי יפני",
           "Hung": "הונגרי עתיק",
           "Inds": "אינדוס",
@@ -110,6 +112,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "מיאנמר",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -169,6 +172,7 @@
           "Ugar": "אוגריתי",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "פרסי עתיק",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

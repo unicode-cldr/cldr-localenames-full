@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "chr"
       },
@@ -113,6 +113,7 @@
             "hantfin": "ᎤᏦᏍᏗ ᏓᎶᏂᎨ ᎠᏕᎳ ᏗᏎᏍᏗ",
             "hebr": "ᎠᏂᏈᎷ ᏗᏎᏍᏗ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ᏣᏆᏂᏏ ᏗᏎᏍᏗ",
             "jpanfin": "ᏣᏆᏂᏏ ᎠᏕᎳ ᏗᏎᏍᏗ",
@@ -160,7 +161,8 @@
             "tibt": "ᏘᏇᏔᏂ ᏗᏎᏍᏗ",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "ha-GH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "ha",
         "territory": "GH"
@@ -129,7 +129,7 @@
           "FO": "FO",
           "FR": "Faransa",
           "GA": "Gabon",
-          "GB": "Birtaniya",
+          "GB": "Biritaniya",
           "GB-alt-short": "GB",
           "GD": "Girnada",
           "GE": "Jiwarjiya",
@@ -169,7 +169,7 @@
           "JE": "JE",
           "JM": "Jamaika",
           "JO": "Jordan",
-          "JP": "Japan",
+          "JP": "Jàpân",
           "KE": "Kenya",
           "KG": "Kirgizistan",
           "KH": "Kambodiya",
@@ -273,6 +273,7 @@
           "SX": "SX",
           "SY": "Sham, Siriya",
           "SZ": "Suwazilan",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Turkis Da Tsibiran Kaikwas",
           "TD": "Cadi",
@@ -295,7 +296,7 @@
           "UG": "Yuganda",
           "UM": "UM",
           "UN": "UN",
-          "US": "Amurka",
+          "US": "Amirka",
           "US-alt-short": "US",
           "UY": "Yurugai",
           "UZ": "Uzubekistan",
@@ -316,7 +317,7 @@
           "ZA": "Afirka Ta Kudu",
           "ZM": "Zambiya",
           "ZW": "Zimbabuwe",
-          "ZZ": "ZZ"
+          "ZZ": "Yanki da ba a sani ba"
         }
       }
     }

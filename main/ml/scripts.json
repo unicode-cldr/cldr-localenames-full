@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "ml"
       },
@@ -48,6 +48,7 @@
           "Egyh": "ഈജിപ്ഷ്യൻ ഹിരാറ്റിക്",
           "Egyp": "ഈജിപ്ഷ്യൻ ചിത്രലിപി",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "എത്യോപിക്",
           "Geok": "ജോർജ്ജിയൻ ഖുട്സുരി",
           "Geor": "ജോർജ്ജിയൻ",
@@ -72,6 +73,7 @@
           "Hira": "ഹിരഗാന",
           "Hluw": "Hluw",
           "Hmng": "പഹ്വാ ഹമോംഗ്",
+          "Hmnp": "Hmnp",
           "Hrkt": "ജാപ്പനീസ് സില്ലബറീസ്",
           "Hung": "പുരാതന ഹംഗേറിയൻ",
           "Inds": "സിന്ധു",
@@ -117,6 +119,7 @@
           "Mtei": "മേറ്റി മായക്",
           "Mult": "Mult",
           "Mymr": "മ്യാൻമാർ",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -182,6 +185,7 @@
           "Vaii": "വൈ",
           "Visp": "ദൃശ്യഭാഷ",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "പഴയ പേർഷ്യൻ",
           "Xsux": "സുമേറോ അക്കാഡിയൻ ക്യുണിഫോം",
           "Yiii": "യി",

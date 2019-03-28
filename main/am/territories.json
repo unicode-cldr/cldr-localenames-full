@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14818 $",
+          "_cldrVersion": "35"
         },
         "language": "am"
       },
@@ -272,6 +272,7 @@
           "SX": "ሲንት ማርተን",
           "SY": "ሲሪያ",
           "SZ": "ሱዋዚላንድ",
+          "SZ-alt-variant": "ስዋዚላንድ",
           "TA": "ትሪስታን ዲ ኩንሃ",
           "TC": "የቱርኮችና የካኢኮስ ደሴቶች",
           "TD": "ቻድ",

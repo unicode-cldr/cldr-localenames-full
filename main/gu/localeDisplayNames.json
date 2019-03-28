@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14402 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "gu"
       },
@@ -166,6 +166,7 @@
             "hantfin": "પરંપરાગત ચાઇનીઝ નાણાકીય સંખ્યાઓ",
             "hebr": "હિબ્રુ સંખ્યાઓ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "જાપાનીઝ સંખ્યાઓ",
             "jpanfin": "જાપાનીઝ નાણાકીય સંખ્યાઓ",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "પરંપરાગત અંકો",
             "vaii": "વાઇ અંકો",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

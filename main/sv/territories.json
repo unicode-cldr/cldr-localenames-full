@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14890 $",
+          "_cldrVersion": "35"
         },
         "language": "sv"
       },
@@ -198,8 +198,8 @@
           "MF": "Saint-Martin",
           "MG": "Madagaskar",
           "MH": "Marshallöarna",
-          "MK": "Makedonien",
-          "MK-alt-variant": "f.d. jugoslaviska republiken Makedonien",
+          "MK": "Nordmakedonien",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongoliet",
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Syrien",
           "SZ": "Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks- och Caicosöarna",
           "TD": "Tchad",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis- och Futunaöarna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "fejkade accenter (för test)",
+          "XB": "fejkad bidi (för test)",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "hu"
       },
@@ -47,6 +47,7 @@
           "Egyh": "Egyiptomi hieratikus",
           "Egyp": "Egyiptomi hieroglifák",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Etióp",
           "Geok": "Grúz kucsuri",
           "Geor": "Grúz",
@@ -71,6 +72,7 @@
           "Hira": "Hiragana",
           "Hluw": "Hluw",
           "Hmng": "Pahawh hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "Katakana vagy hiragana",
           "Hung": "Ómagyar",
           "Inds": "Indus",
@@ -116,6 +118,7 @@
           "Mtei": "Meitei mayek",
           "Mult": "Mult",
           "Mymr": "Burmai",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "Vai",
           "Visp": "Látható beszéd",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Óperzsa",
           "Xsux": "Ékírásos suméro-akkád",
           "Yiii": "Ji",

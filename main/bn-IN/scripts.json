@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "bn",
         "territory": "IN"
@@ -49,6 +49,7 @@
           "Egyh": "মিশরীয় হায়রেটিক",
           "Egyp": "মিশরীয় হায়ারোগ্লিপ",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ইথিওপিয়",
           "Geok": "জর্জিয় খুৎসুরি",
           "Geor": "জর্জিয়ান",
@@ -73,6 +74,7 @@
           "Hira": "হিরাগানা",
           "Hluw": "Hluw",
           "Hmng": "ফাহাও মঙ",
+          "Hmnp": "Hmnp",
           "Hrkt": "জাপানি অক্ষরমালা",
           "Hung": "পুরোনো হাঙ্গেরীয়",
           "Inds": "সিন্ধু",
@@ -118,6 +120,7 @@
           "Mtei": "মেইটেই মায়েক",
           "Mult": "Mult",
           "Mymr": "মায়ানমার",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -183,6 +186,7 @@
           "Vaii": "ভাই",
           "Visp": "দৃশ্যমান ভাষা",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "প্রাচীন ফার্সি",
           "Xsux": "সুমের-আক্কাদীয় কীলকরূপ",
           "Yiii": "উই",

@@ -3,8 +3,8 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "yue",
         "script": "Hant"
@@ -199,8 +199,8 @@
           "MF": "法屬聖馬丁",
           "MG": "馬達加斯加",
           "MH": "馬紹爾群島",
-          "MK": "馬其頓",
-          "MK-alt-variant": "前南斯拉夫馬其頓共和國",
+          "MK": "北馬其頓",
+          "MK-alt-variant": "MK",
           "ML": "馬利",
           "MM": "緬甸",
           "MN": "蒙古",
@@ -273,6 +273,7 @@
           "SX": "荷屬聖馬丁",
           "SY": "敘利亞",
           "SZ": "史瓦濟蘭",
+          "SZ-alt-variant": "SZ",
           "TA": "特里斯坦達庫尼亞群島",
           "TC": "土克斯及開科斯群島",
           "TD": "查德",
@@ -308,7 +309,7 @@
           "VU": "萬那杜",
           "WF": "瓦利斯同富圖納群島",
           "WS": "薩摩亞",
-          "XA": "XA",
+          "XA": "偽口音",
           "XB": "XB",
           "XK": "科索沃",
           "YE": "葉門",

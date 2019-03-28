@@ -3,8 +3,8 @@
     "sq-MK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sq",
         "territory": "MK"
@@ -199,8 +199,8 @@
           "MF": "Sen-Marten",
           "MG": "Madagaskar",
           "MH": "Ishujt Marshall",
-          "MK": "Maqedoni",
-          "MK-alt-variant": "Maqedoni (IRJM)",
+          "MK": "Maqedonia e Veriut",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar (Burmë)",
           "MN": "Mongoli",
@@ -272,7 +272,8 @@
           "SV": "Salvador",
           "SX": "Sint-Marten",
           "SY": "Siri",
-          "SZ": "Suazilend",
+          "SZ": "Esvatini",
+          "SZ-alt-variant": "Suazilend",
           "TA": "Tristan-da-Kuna",
           "TC": "Ishujt Turks dhe Kaikos",
           "TD": "Çad",
@@ -309,8 +310,8 @@
           "VU": "Vanuatu",
           "WF": "Uollis e Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudo-thekse",
+          "XB": "Pseudo-bidi",
           "XK": "Kosovë",
           "YE": "Jemen",
           "YT": "Majotë",

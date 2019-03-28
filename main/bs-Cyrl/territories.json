@@ -3,8 +3,8 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -273,6 +273,7 @@
           "SX": "SX",
           "SY": "Сирија",
           "SZ": "Свази",
+          "SZ-alt-variant": "SZ",
           "TA": "Тристан да Куња",
           "TC": "Туркс и Кајкос Острва",
           "TD": "Чад",

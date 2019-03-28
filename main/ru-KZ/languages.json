@@ -3,8 +3,8 @@
     "ru-KZ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ru",
         "territory": "KZ"
@@ -82,7 +82,7 @@
           "car": "кариб",
           "cay": "кайюга",
           "cch": "атсам",
-          "ccp": "ccp",
+          "ccp": "чакма",
           "ce": "чеченский",
           "ceb": "себуано",
           "cgg": "кига",

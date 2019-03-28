@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sq"
       },
@@ -113,6 +113,7 @@
             "hantfin": "numra financiarë të kinezishtes tradicionale",
             "hebr": "numra hebraikë",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "numra japonezë",
             "jpanfin": "numra financiarë japonezë",
@@ -160,7 +161,8 @@
             "tibt": "shifra tibetiane",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

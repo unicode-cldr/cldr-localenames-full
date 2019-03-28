@@ -3,8 +3,8 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "tr",
         "territory": "CY"
@@ -199,8 +199,8 @@
           "MF": "Saint Martin",
           "MG": "Madagaskar",
           "MH": "Marshall Adaları",
-          "MK": "Makedonya",
-          "MK-alt-variant": "Makedonya (EYMC)",
+          "MK": "Kuzey Makedonya",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Moğolistan",
@@ -272,7 +272,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Suriye",
-          "SZ": "Svaziland",
+          "SZ": "Esvatini",
+          "SZ-alt-variant": "Svaziland",
           "TA": "Tristan da Cunha",
           "TC": "Turks ve Caicos Adaları",
           "TD": "Çad",

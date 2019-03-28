@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "te"
       },
@@ -272,6 +272,7 @@
           "SX": "సింట్ మార్టెన్",
           "SY": "సిరియా",
           "SZ": "స్వాజిల్యాండ్",
+          "SZ-alt-variant": "SZ",
           "TA": "ట్రిస్టన్ డ కన్హా",
           "TC": "టర్క్స్ మరియు కైకోస్ దీవులు",
           "TD": "చాద్",

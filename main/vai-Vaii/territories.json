@@ -3,8 +3,8 @@
     "vai-Vaii": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "vai",
         "script": "Vaii"
@@ -273,6 +273,7 @@
           "SX": "ꔻꘋꔳ ꕮꕊꗳꘋ",
           "SY": "ꔻꕩꘋ",
           "SZ": "ꖬꕎꔽ ꖨꕮꕊ",
+          "SZ-alt-variant": "SZ",
           "TA": "ꔳꔻꕚꘋ ꕜ ꖴꕯ",
           "TC": "ꗋꖺꕃꔻ ꗪ ꕪꔤꖏꔻ ꔳꘋꗣ",
           "TD": "ꕦꔵ",

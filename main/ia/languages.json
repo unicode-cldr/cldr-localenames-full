@@ -3,8 +3,8 @@
     "ia": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14415 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "ia"
       },
@@ -123,7 +123,6 @@
           "fy": "frison occidental",
           "ga": "irlandese",
           "gaa": "ga",
-          "gan": "gan",
           "gd": "gaelico scotese",
           "gez": "ge’ez",
           "gil": "gilbertese",
@@ -136,7 +135,6 @@
           "gv": "mannese",
           "gwi": "gwich’in",
           "ha": "hausa",
-          "hak": "hak",
           "haw": "hawaiano",
           "he": "hebreo",
           "hi": "hindi",
@@ -144,7 +142,6 @@
           "hmn": "hmong",
           "hr": "croato",
           "hsb": "alte sorabo",
-          "hsn": "hsn",
           "ht": "creolo haitian",
           "hu": "hungaro",
           "hup": "hupa",
@@ -258,7 +255,6 @@
           "myv": "erzya",
           "mzn": "mazanderani",
           "na": "nauru",
-          "nan": "nan",
           "nap": "napolitano",
           "naq": "nama",
           "nb": "norvegiano bokmål",
@@ -395,7 +391,6 @@
           "wal": "wolaytta",
           "war": "waray",
           "wo": "wolof",
-          "wuu": "wuu",
           "xal": "calmuco",
           "xh": "xhosa",
           "xog": "soga",

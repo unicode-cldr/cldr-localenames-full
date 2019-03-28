@@ -3,8 +3,8 @@
     "gsw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "gsw"
       },
@@ -47,6 +47,7 @@
           "Egyh": "Hiraazisch-Ägüptisch",
           "Egyp": "Ägüptischi Hiroglüüfe",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Äzioopisch",
           "Geok": "Ghutsuri",
           "Geor": "Georgisch",
@@ -71,6 +72,7 @@
           "Hira": "Hiragana",
           "Hluw": "Hluw",
           "Hmng": "Pahawh Hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "Katakana oder Hiragana",
           "Hung": "Altungarisch",
           "Inds": "Indus-Schrift",
@@ -116,6 +118,7 @@
           "Mtei": "Meitei Mayek",
           "Mult": "Mult",
           "Mymr": "Burmesisch",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "Vai",
           "Visp": "Sichtbari Schpraach",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Altpersisch",
           "Xsux": "Sumerisch-akkadischi Keilschrift",
           "Yiii": "Yi",

@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sk"
       },
@@ -43,6 +43,7 @@
           "Dupl": "Dupl",
           "Egyp": "egyptské hieroglyfy",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiópske",
           "Geor": "gruzínske",
           "Glag": "hlaholika",
@@ -66,6 +67,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "kana",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -107,6 +109,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "barmské",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -164,6 +167,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

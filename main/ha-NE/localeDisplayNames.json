@@ -3,8 +3,8 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14453 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "ha",
         "territory": "NE"
@@ -33,7 +33,7 @@
             "dangi": "dangi",
             "ethiopic": "ethiopic",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "gregorian",
+            "gregorian": "Gregorian Kalanda",
             "hebrew": "hebrew",
             "indian": "indian",
             "islamic": "islamic",
@@ -63,7 +63,7 @@
             "reformed": "reformed",
             "search": "search",
             "searchjl": "searchjl",
-            "standard": "standard",
+            "standard": "Daidai ta ce Kasà",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -87,7 +87,7 @@
           },
           "numbers": {
             "ahom": "ahom",
-            "arab": "arab",
+            "arab": "Lambobi na larabawan a gabas",
             "arabext": "arabext",
             "armn": "armn",
             "armnlow": "armnlow",
@@ -114,6 +114,7 @@
             "hantfin": "hantfin",
             "hebr": "hebr",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "jpan",
             "jpanfin": "jpanfin",
@@ -123,7 +124,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "latn",
+            "latn": "Lambobi na yammacin",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -161,13 +162,14 @@
             "tibt": "tibt",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "Harshe: {0}",
+          "script": "Rubutu: {0}",
+          "territory": "Yanki/Sashe: {0}"
         }
       }
     }

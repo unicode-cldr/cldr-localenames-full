@@ -3,8 +3,8 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "mzn"
       },
@@ -272,6 +272,7 @@
           "SX": "سنت مارتن",
           "SY": "سوریه",
           "SZ": "سوازیلند",
+          "SZ-alt-variant": "SZ",
           "TA": "تریستان دا جونها",
           "TC": "تورکس و کایکوس جزایر",
           "TD": "چاد",

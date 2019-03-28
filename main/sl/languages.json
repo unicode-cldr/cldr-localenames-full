@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sl"
       },
@@ -71,7 +71,7 @@
           "ca": "katalonščina",
           "cad": "kadoščina",
           "car": "karibski jezik",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "čečenščina",
           "ceb": "sebuanščina",
           "cgg": "čigajščina",
@@ -162,7 +162,6 @@
           "ga": "irščina",
           "gaa": "ga",
           "gag": "gagavščina",
-          "gan": "gan",
           "gay": "gajščina",
           "gba": "gbajščina",
           "gd": "škotska gelščina",
@@ -184,7 +183,6 @@
           "gwi": "gvičin",
           "ha": "havščina",
           "hai": "haidščina",
-          "hak": "hak",
           "haw": "havajščina",
           "he": "hebrejščina",
           "hi": "hindujščina",
@@ -194,7 +192,6 @@
           "ho": "hiri motu",
           "hr": "hrvaščina",
           "hsb": "gornja lužiška srbščina",
-          "hsn": "hsn",
           "ht": "haitijska kreolščina",
           "hu": "madžarščina",
           "hup": "hupa",
@@ -504,7 +501,6 @@
           "was": "vašajščina",
           "wbp": "varlpirščina",
           "wo": "volofščina",
-          "wuu": "wuu",
           "xal": "kalmiščina",
           "xh": "koščina",
           "xog": "sogščina",

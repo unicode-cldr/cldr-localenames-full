@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "eu"
       },
@@ -166,6 +166,7 @@
             "hantfin": "Finantzetarako zenbaki txinatar tradizionalak",
             "hebr": "Zenbaki hebrearrak",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Zenbaki japoniarrak",
             "jpanfin": "Finantzetarako zenbaki japoniarrak",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Zenbaki tradizionalak",
             "vaii": "Vai digituak",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

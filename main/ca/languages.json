@@ -3,8 +3,8 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "ca"
       },
@@ -89,7 +89,7 @@
           "car": "carib",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "txetxè",
           "ceb": "cebuà",
           "cgg": "chiga",

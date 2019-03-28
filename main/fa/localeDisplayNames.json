@@ -3,8 +3,8 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "fa"
       },
@@ -166,6 +166,7 @@
             "hantfin": "اعداد مالی چینی سنتی",
             "hebr": "اعداد عبری",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "ارقام جاوه‌ای",
             "jpan": "اعداد ژاپنی",
             "jpanfin": "اعداد مالی ژاپنی",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "سیستم اعداد سنتی",
             "vaii": "ارقام وایی",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

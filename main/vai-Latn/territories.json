@@ -3,8 +3,8 @@
     "vai-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "vai",
         "script": "Latn"
@@ -273,6 +273,7 @@
           "SX": "SX",
           "SY": "Síyaŋ",
           "SZ": "Suwazi Lumaã",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Tukisi ɓɛ̀ Kaikóosi Tiŋŋɛ",
           "TD": "Chádi",

@@ -3,8 +3,8 @@
     "ta-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ta",
         "territory": "SG"
@@ -273,6 +273,7 @@
           "SX": "சின்ட் மார்டென்",
           "SY": "சிரியா",
           "SZ": "ஸ்வாஸிலாந்து",
+          "SZ-alt-variant": "SZ",
           "TA": "டிரிஸ்டன் டா குன்ஹா",
           "TC": "டர்க்ஸ் & கைகோஸ் தீவுகள்",
           "TD": "சாட்",

@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "cy"
       },
@@ -271,7 +271,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Syria",
-          "SZ": "Gwlad Swazi",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Gwlad Swazi",
           "TA": "Tristan da Cunha",
           "TC": "Ynysoedd Turks a Caicos",
           "TD": "Tchad",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis a Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Acenion Ffug",
+          "XB": "Bidi Ffug",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

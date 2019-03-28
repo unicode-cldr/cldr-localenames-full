@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14772 $",
+          "_cldrVersion": "35"
         },
         "language": "mt"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "is-Sirja",
           "SZ": "is-Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "il-Gżejjer Turks u Caicos",
           "TD": "iċ-Chad",

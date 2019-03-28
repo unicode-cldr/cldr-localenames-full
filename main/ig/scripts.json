@@ -3,8 +3,8 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ig"
       },
@@ -13,7 +13,7 @@
           "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
-          "Arab": "Arab",
+          "Arab": "Mkpụrụ Okwu Arabic",
           "Armi": "Armi",
           "Armn": "Armn",
           "Avst": "Avst",
@@ -35,13 +35,14 @@
           "Cher": "Cher",
           "Copt": "Copt",
           "Cprt": "Cprt",
-          "Cyrl": "Cyrl",
+          "Cyrl": "Mkpụrụ Okwu Cyrillic",
           "Deva": "Deva",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Ethi",
           "Geor": "Geor",
           "Glag": "Glag",
@@ -56,15 +57,16 @@
           "Hang": "Hang",
           "Hani": "Hani",
           "Hano": "Hano",
-          "Hans": "Hans",
-          "Hans-alt-stand-alone": "Hans",
-          "Hant": "Hant",
-          "Hant-alt-stand-alone": "Hant",
+          "Hans": "Nke dị mfe",
+          "Hans-alt-stand-alone": "Han di mfe",
+          "Hant": "Izugbe",
+          "Hant-alt-stand-alone": "Han Izugbe",
           "Hatr": "Hatr",
           "Hebr": "Hebr",
           "Hira": "Hira",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "Hrkt",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -81,7 +83,7 @@
           "Kthi": "Kthi",
           "Lana": "Lana",
           "Laoo": "Laoo",
-          "Latn": "Latn",
+          "Latn": "Latin",
           "Lepc": "Lepc",
           "Limb": "Limb",
           "Lina": "Lina",
@@ -105,6 +107,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "Mymr",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -162,6 +165,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
@@ -170,9 +174,9 @@
           "Zmth": "Zmth",
           "Zsye": "Zsye",
           "Zsym": "Zsym",
-          "Zxxx": "Zxxx",
+          "Zxxx": "Edeghị ede",
           "Zyyy": "Zyyy",
-          "Zzzz": "Zzzz"
+          "Zzzz": "Mkpụrụ okwu amaghị"
         }
       }
     }

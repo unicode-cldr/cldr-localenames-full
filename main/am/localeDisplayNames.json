@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14818 $",
+          "_cldrVersion": "35"
         },
         "language": "am"
       },
@@ -166,6 +166,7 @@
             "hantfin": "የባህላዊ ቻይንኛ የገንዘብ ነክ ቁጥሮች",
             "hebr": "የእብራይስጥ ቁጥሮች",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "የጃፓንኛ ቁጥሮች",
             "jpanfin": "የጃፓንኛ የገንዘብ ነክ ቁጥሮች",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "ተለምዷዊ ቁጥሮች",
             "vaii": "የቫይ አሃዞች",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

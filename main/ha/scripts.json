@@ -3,8 +3,8 @@
     "ha": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ha"
       },
@@ -13,7 +13,7 @@
           "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
-          "Arab": "Arab",
+          "Arab": "Larabci",
           "Armi": "Armi",
           "Armn": "Armn",
           "Avst": "Avst",
@@ -42,6 +42,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Ethi",
           "Geor": "Geor",
           "Glag": "Glag",
@@ -56,15 +57,16 @@
           "Hang": "Hang",
           "Hani": "Hani",
           "Hano": "Hano",
-          "Hans": "Hans",
-          "Hans-alt-stand-alone": "Hans",
-          "Hant": "Hant",
-          "Hant-alt-stand-alone": "Hant",
+          "Hans": "Sauƙaƙaƙƙen",
+          "Hans-alt-stand-alone": "Sauƙaƙaƙƙen Hans",
+          "Hant": "Na gargajiya",
+          "Hant-alt-stand-alone": "Han na gargajiya",
           "Hatr": "Hatr",
           "Hebr": "Hebr",
           "Hira": "Hira",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "Hrkt",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -81,7 +83,7 @@
           "Kthi": "Kthi",
           "Lana": "Lana",
           "Laoo": "Laoo",
-          "Latn": "Latn",
+          "Latn": "Latin",
           "Lepc": "Lepc",
           "Limb": "Limb",
           "Lina": "Lina",
@@ -105,6 +107,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "Mymr",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -162,6 +165,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
@@ -170,9 +174,9 @@
           "Zmth": "Zmth",
           "Zsye": "Zsye",
           "Zsym": "Zsym",
-          "Zxxx": "Zxxx",
+          "Zxxx": "Ba rubutacce ba",
           "Zyyy": "Zyyy",
-          "Zzzz": "Zzzz"
+          "Zzzz": "Rubutun da ba sani ba"
         }
       }
     }

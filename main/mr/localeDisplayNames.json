@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "mr"
       },
@@ -166,6 +166,7 @@
             "hantfin": "पारंपारिक चीनी वित्तीय अंक",
             "hebr": "हिब्रू अंक",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "जपानी अंक",
             "jpanfin": "जपानी वित्तीय अंक",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "पारंपारिक संख्‍या",
             "vaii": "व्हाई अंक",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

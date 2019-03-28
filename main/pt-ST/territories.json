@@ -3,8 +3,8 @@
     "pt-ST": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "pt",
         "territory": "ST"
@@ -272,7 +272,8 @@
           "SV": "Salvador",
           "SX": "São Martinho (Sint Maarten)",
           "SY": "Síria",
-          "SZ": "Suazilândia",
+          "SZ": "Essuatíni",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristão da Cunha",
           "TC": "Ilhas Turcas e Caicos",
           "TD": "Chade",
@@ -309,8 +310,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis e Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudossotaques",
+          "XB": "Pseudobidi",
           "XK": "Kosovo",
           "YE": "Iémen",
           "YT": "Maiote",

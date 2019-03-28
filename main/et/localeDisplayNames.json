@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "et"
       },
@@ -166,6 +166,7 @@
             "hantfin": "traditsioonilise hiina keele finantsnumbrid",
             "hebr": "heebrea numbrid",
             "hmng": "phahau-hmongi numbrid",
+            "hmnp": "hmnp",
             "java": "jaava numbrid",
             "jpan": "jaapani numbrid",
             "jpanfin": "jaapani finantsnumbrid",
@@ -215,7 +216,8 @@
             "tirh": "tirhuta numbrid",
             "traditional": "traditsioonilised numbrid",
             "vaii": "vai numbrid",
-            "wara": "hoo numbrid"
+            "wara": "hoo numbrid",
+            "wcho": "vantšo numbrid"
           }
         },
         "codePatterns": {

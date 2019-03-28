@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "tr"
       },
@@ -166,6 +166,7 @@
             "hantfin": "Finansal Geleneksel Çin Rakamları",
             "hebr": "İbrani Rakamları",
             "hmng": "Pahawh Hmong Rakamları",
+            "hmnp": "hmnp",
             "java": "Cava Rakamları",
             "jpan": "Japon Rakamları",
             "jpanfin": "Finansal Japon Rakamları",
@@ -215,7 +216,8 @@
             "tirh": "Tirhuta Rakamları",
             "traditional": "Geleneksel Rakamlar",
             "vaii": "Vai Rakamları",
-            "wara": "Warang Citi Rakamları"
+            "wara": "Warang Citi Rakamları",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

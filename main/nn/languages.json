@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "nn"
       },
@@ -163,7 +163,6 @@
           "fy": "vestfrisisk",
           "ga": "irsk",
           "gaa": "ga",
-          "gan": "gan",
           "gay": "gayo",
           "gba": "gbaya",
           "gd": "skotsk-gælisk",
@@ -185,7 +184,6 @@
           "gwi": "gwichin",
           "ha": "hausa",
           "hai": "haida",
-          "hak": "hak",
           "haw": "hawaiisk",
           "he": "hebraisk",
           "hi": "hindi",
@@ -195,7 +193,6 @@
           "ho": "hiri motu",
           "hr": "kroatisk",
           "hsb": "høgsorbisk",
-          "hsn": "hsn",
           "ht": "haitisk",
           "hu": "ungarsk",
           "hup": "hupa",
@@ -328,7 +325,6 @@
           "myv": "erzia",
           "mzn": "mazanderani",
           "na": "nauru",
-          "nan": "nan",
           "nap": "napolitansk",
           "naq": "nama",
           "nb": "bokmål",
@@ -505,7 +501,6 @@
           "war": "waray",
           "was": "washo",
           "wo": "wolof",
-          "wuu": "wuu",
           "xal": "kalmykisk",
           "xh": "xhosa",
           "xog": "soga",

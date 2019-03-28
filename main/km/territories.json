@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "km"
       },
@@ -272,6 +272,7 @@
           "SX": "សីង​ម៉ាធីន",
           "SY": "ស៊ីរី",
           "SZ": "ស្វាស៊ីឡង់",
+          "SZ-alt-variant": "SZ",
           "TA": "ទ្រីស្តង់​ដា​ចូនហា",
           "TC": "កោះ​ទួគ និង កៃកូស",
           "TD": "ឆាដ",

@@ -3,8 +3,8 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "fa"
       },
@@ -46,6 +46,7 @@
           "Egyh": "کاهنی مصری",
           "Egyp": "هیروگلیف مصری",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "اتیوپیایی",
           "Geok": "گرجی خوتسوری",
           "Geor": "گرجی",
@@ -70,6 +71,7 @@
           "Hira": "هیراگانا",
           "Hluw": "هیروگلیف آناتولی",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "سیلابی‌های ژاپنی",
           "Hung": "مجاری باستان",
           "Inds": "ایندوس",
@@ -115,6 +117,7 @@
           "Mtei": "مایک میتی",
           "Mult": "Mult",
           "Mymr": "میانمار",
+          "Nand": "Nand",
           "Narb": "عربی شمالی باستان",
           "Nbat": "نبطی",
           "Newa": "Newa",
@@ -179,6 +182,7 @@
           "Vaii": "ویایی",
           "Visp": "گفتار قابل مشاهده",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "فارسی باستان",
           "Xsux": "میخی سومری‐اکدی",
           "Yiii": "یی",

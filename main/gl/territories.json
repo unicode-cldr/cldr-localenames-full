@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "gl"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Siria",
           "SZ": "Suazilandia",
+          "SZ-alt-variant": "Suacilandia",
           "TA": "Tristán da Cunha",
           "TC": "Illas Turks e Caicos",
           "TD": "Chad",

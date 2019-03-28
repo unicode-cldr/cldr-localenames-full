@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ga"
       },
@@ -113,6 +113,7 @@
             "hantfin": "Uimhreacha Airgeadúla sa tSínis Thraidisiúnta",
             "hebr": "Uimhreacha Eabhracha",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "Digití Iávacha",
             "jpan": "Uimhreacha Seapánacha",
             "jpanfin": "Uimhreacha Airgeadúla Seapánacha",
@@ -160,7 +161,8 @@
             "tibt": "Digití Tibéadacha",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

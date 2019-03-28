@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sk"
       },
@@ -166,6 +166,7 @@
             "hantfin": "finančné číslice tradičnej čínštiny",
             "hebr": "hebrejské číslice",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "japonské číslice",
             "jpanfin": "japonské finančné číslice",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Tradičné číslovky",
             "vaii": "Vaiské číslice",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

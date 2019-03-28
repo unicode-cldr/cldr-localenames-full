@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ne"
       },
@@ -113,6 +113,7 @@
             "hantfin": "परम्परागत चिनियाँ वित्तीय अङ्कहरू",
             "hebr": "हिब्रु अङ्कहरू",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "जापानी अङ्कहरू",
             "jpanfin": "जापानी वित्तीय अङ्कहरू",
@@ -160,7 +161,8 @@
             "tibt": "तिब्बती अङ्कहरू",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

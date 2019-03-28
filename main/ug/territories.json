@@ -3,8 +3,8 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ug"
       },
@@ -272,6 +272,7 @@
           "SX": "سىنت مارتېن",
           "SY": "سۇرىيە",
           "SZ": "سىۋېزىلاند",
+          "SZ-alt-variant": "SZ",
           "TA": "ترىستان داكۇنھا",
           "TC": "تۇركس ۋە كايكوس ئاراللىرى",
           "TD": "چاد",

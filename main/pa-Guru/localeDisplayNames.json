@@ -3,8 +3,8 @@
     "pa-Guru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "pa",
         "script": "Guru"
@@ -114,6 +114,7 @@
             "hantfin": "ਰਵਾਇਤੀ ਚੀਨੀ ਵਿੱਤੀ ਸੰਖਿਆਵਾਂ",
             "hebr": "ਹਿਬਰੂ ਸੰਖਿਆਵਾਂ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ਜਪਾਨੀ ਸੰਖਿਆਵਾਂ",
             "jpanfin": "ਜਪਾਨੀ ਵਿੱਤੀ ਸੰਖਿਆਵਾਂ",
@@ -161,7 +162,8 @@
             "tibt": "ਤਿੱਬਤੀ ਅੰਕ",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

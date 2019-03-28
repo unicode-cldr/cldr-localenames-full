@@ -3,8 +3,8 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Latn",
@@ -200,7 +200,7 @@
           "MF": "Sveti Martin (Francuska)",
           "MG": "Madagaskar",
           "MH": "Maršalska Ostrva",
-          "MK": "Makedonija",
+          "MK": "Severna Makedonija",
           "MK-alt-variant": "BJR Makedonija",
           "ML": "Mali",
           "MM": "Mijanmar (Burma)",
@@ -274,6 +274,7 @@
           "SX": "Sveti Martin (Holandija)",
           "SY": "Sirija",
           "SZ": "Svazilend",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Kunja",
           "TC": "Ostrva Turks i Kaikos",
           "TD": "Čad",

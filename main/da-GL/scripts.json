@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "da",
         "territory": "GL"
@@ -50,6 +50,7 @@
           "Egyh": "egyptisk hieratisk",
           "Egyp": "egyptiske hieroglyffer",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopisk",
           "Geok": "georgisk kutsuri",
           "Geor": "georgisk",
@@ -74,6 +75,7 @@
           "Hira": "hiragana",
           "Hluw": "anatolske hieroglyffer",
           "Hmng": "pahawh hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "japanske skrifttegn",
           "Hung": "oldungarsk",
           "Inds": "indus",
@@ -122,6 +124,7 @@
           "Mtei": "meitei-mayek",
           "Mult": "Mult",
           "Mymr": "burmesisk",
+          "Nand": "Nand",
           "Narb": "gammelt nordarabisk",
           "Nbat": "nabateisk",
           "Newa": "Newa",
@@ -188,6 +191,7 @@
           "Vaii": "vai",
           "Visp": "synlig tale",
           "Wara": "varang kshiti",
+          "Wcho": "Wcho",
           "Wole": "woleai",
           "Xpeo": "oldpersisk",
           "Xsux": "sumero-akkadisk cuneiform",

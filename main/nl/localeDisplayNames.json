@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14514 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "nl"
       },
@@ -166,6 +166,7 @@
             "hantfin": "traditioneel Chinese financiële cijfers",
             "hebr": "Hebreeuwse cijfers",
             "hmng": "Pahawh Hmong cijfers",
+            "hmnp": "Nyiakeng Puachue Hmong cijfers",
             "java": "Javaanse cijfers",
             "jpan": "Japanse cijfers",
             "jpanfin": "Japanse financiële cijfers",
@@ -215,7 +216,8 @@
             "tirh": "Tirhuta cijfers",
             "traditional": "Traditionele cijfers",
             "vaii": "Vai-cijfers",
-            "wara": "Warang Citi cijfers"
+            "wara": "Warang Citi cijfers",
+            "wcho": "Wancho cijfers"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14827 $",
+          "_cldrVersion": "35"
         },
         "language": "mk"
       },
@@ -113,6 +113,7 @@
             "hantfin": "Традиционални кинески финансиски броеви",
             "hebr": "Хебрејски броеви",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Јапонски броеви",
             "jpanfin": "Јапонски финансиски броеви",
@@ -160,7 +161,8 @@
             "tibt": "Тибетски цифри",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

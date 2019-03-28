@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "lt"
       },
@@ -49,6 +49,7 @@
           "Egyh": "Egipto žynių",
           "Egyp": "egipto hieroglifai",
           "Elba": "Elbasano",
+          "Elym": "Elym",
           "Ethi": "etiopų",
           "Geok": "gruzinų kutsuri",
           "Geor": "gruzinų",
@@ -73,6 +74,7 @@
           "Hira": "hiragana",
           "Hluw": "Anatolijaus hieroglifai",
           "Hmng": "pahav hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "katakana / hiragana",
           "Hung": "senasis vengrų",
           "Inds": "indus",
@@ -121,6 +123,7 @@
           "Mtei": "meitei majek",
           "Mult": "Mult",
           "Mymr": "birmiečių",
+          "Nand": "Nand",
           "Narb": "Senasis šiaurės arabų",
           "Nbat": "Nabatėjų",
           "Newa": "Newa",
@@ -187,6 +190,7 @@
           "Vaii": "vai",
           "Visp": "matoma kalba",
           "Wara": "Varang Kshiti",
+          "Wcho": "Wcho",
           "Wole": "Woleai",
           "Xpeo": "senieji persų",
           "Xsux": "Šumero Akado dantiraštis",

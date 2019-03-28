@@ -3,8 +3,8 @@
     "so": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "so"
       },
@@ -88,7 +88,7 @@
           "CG-alt-variant": "Jamhuuriyadda Kongo",
           "CH": "Swiiserlaand",
           "CI": "Ayfori Koost",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Aayforikoost",
           "CK": "Jasiiradda Kook",
           "CL": "Jili",
           "CM": "Kaameruun",
@@ -129,7 +129,7 @@
           "FR": "Faransiis",
           "GA": "Gaaboon",
           "GB": "Boqortooyada Midowday",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "UK",
           "GD": "Giriinaada",
           "GE": "Joorjiya",
           "GF": "Faransiis Gini",
@@ -199,7 +199,7 @@
           "MG": "Madagaskar",
           "MH": "Jasiiradda Maarshal",
           "MK": "Masedooniya",
-          "MK-alt-variant": "MK",
+          "MK-alt-variant": "Masedooniya (FYROM)",
           "ML": "Maali",
           "MM": "Miyanmar",
           "MN": "Mongooliya",
@@ -210,7 +210,7 @@
           "MR": "Muritaaniya",
           "MS": "Montserrat",
           "MT": "Maalta",
-          "MU": "Murishiyoos",
+          "MU": "Mawrishiyaas",
           "MV": "Maaldiqeen",
           "MW": "Malaawi",
           "MX": "Meksiko",
@@ -246,7 +246,7 @@
           "PY": "Baraguaay",
           "QA": "Qadar",
           "QO": "Dhulxeebeedka Osheeniya",
-          "RE": "Réunion",
+          "RE": "Riyuuniyon",
           "RO": "Rumaaniya",
           "RS": "Seerbiya",
           "RU": "Ruush",
@@ -258,7 +258,7 @@
           "SE": "Iswidhan",
           "SG": "Singaboor",
           "SH": "Saint Helena",
-          "SI": "islofeeniya",
+          "SI": "Islofeeniya",
           "SJ": "Jasiiradda Sfaldbaad & Jaan Mayen",
           "SK": "Islofaakiya",
           "SL": "Siraaliyoon",
@@ -271,7 +271,8 @@
           "SV": "El Salfadoor",
           "SX": "Siint Maarteen",
           "SY": "Suuriya",
-          "SZ": "Iswaasilaand",
+          "SZ": "Eswaatiini",
+          "SZ-alt-variant": "Iswaasilaan",
           "TA": "Tiristan da Kunha",
           "TC": "Turks & Kaikos Island",
           "TD": "Jaad",
@@ -290,7 +291,7 @@
           "TV": "Tufaalu",
           "TW": "Taywaan",
           "TZ": "Tansaaniya",
-          "UA": "Ukrayn",
+          "UA": "Yukrayn",
           "UG": "Ugaanda",
           "UM": "Jasiiradaha ka baxsan Maraykanka",
           "UN": "Qaramada Midoobay",
@@ -315,7 +316,7 @@
           "ZA": "Koonfur Afrika",
           "ZM": "Saambiya",
           "ZW": "Simbaabwe",
-          "ZZ": "Far aan la aqoon amase aan saxnayn"
+          "ZZ": "Gobol aan la aqoonin amase aan saxnayn"
         }
       }
     }

@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hant",
@@ -101,7 +101,7 @@
           "car": "加勒比文",
           "cay": "卡尤加文",
           "cch": "阿燦文",
-          "ccp": "ccp",
+          "ccp": "查克馬文",
           "ce": "車臣文",
           "ceb": "宿霧文",
           "cgg": "奇加文",

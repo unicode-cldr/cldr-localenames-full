@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14804 $",
+          "_cldrVersion": "35"
         },
         "language": "rm"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Siria",
           "SZ": "Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Inslas Turks e Caicos",
           "TD": "Tschad",

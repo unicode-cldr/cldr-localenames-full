@@ -3,8 +3,8 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "as"
       },
@@ -113,6 +113,7 @@
             "hantfin": "পৰম্পৰাগত চীনা বিত্তীয় সংখ্যা",
             "hebr": "হিব্ৰু সংখ্যা",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "জাপানী সংখ্যা",
             "jpanfin": "জাপানী বিত্তীয় সংখ্যা",
@@ -160,7 +161,8 @@
             "tibt": "তিব্বতী অংক",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

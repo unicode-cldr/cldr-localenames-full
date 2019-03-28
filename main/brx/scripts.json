@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "brx"
       },
@@ -47,6 +47,7 @@
           "Egyh": "मीस्री हैरैटीक्",
           "Egyp": "मीस्री हैरोग्लीफ़्",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ईथोपियाई",
           "Geok": "जोर्जीयन खुतसुरी",
           "Geor": "जोर्जीयन",
@@ -71,6 +72,7 @@
           "Hira": "हीरागाना",
           "Hluw": "Hluw",
           "Hmng": "पाहवाह ह्मौंग",
+          "Hmnp": "Hmnp",
           "Hrkt": "काताकाना या हीरागाना",
           "Hung": "पुरानी हंगैरीयन",
           "Inds": "सिन्धु",
@@ -116,6 +118,7 @@
           "Mtei": "मेतेई मयेक",
           "Mult": "Mult",
           "Mymr": "म्यानमार्",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "वाई",
           "Visp": "वीज़ीबल बोली",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "पुरानी फारसी",
           "Xsux": "सुमेरो अक्काड़ी कुनेईफॉर्म",
           "Yiii": "यी",

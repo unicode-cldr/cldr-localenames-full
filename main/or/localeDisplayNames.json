@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "or"
       },
@@ -113,6 +113,7 @@
             "hantfin": "ପାରମ୍ପରିକ ଚିନି ଆର୍ଥିକ ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "hebr": "ହିବୃ ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ଜାପାନୀ ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "jpanfin": "ଜାପାନୀ ଆର୍ଥିକ ସଂଖ୍ୟାଗୁଡ଼ିକ",
@@ -160,7 +161,8 @@
             "tibt": "ତିବତୀ ଅଙ୍କଗୁଡ଼ିକ",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

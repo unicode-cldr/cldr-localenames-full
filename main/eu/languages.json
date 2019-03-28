@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "eu"
       },
@@ -125,7 +125,6 @@
           "ga": "gaeliko",
           "gaa": "ga",
           "gag": "gagauzera",
-          "gan": "gan",
           "gd": "Eskoziako gaeliko",
           "gez": "ge’ez",
           "gil": "gilbertera",
@@ -138,7 +137,6 @@
           "gv": "manxera",
           "gwi": "gwichʼin",
           "ha": "hausa",
-          "hak": "hak",
           "haw": "hawaiiera",
           "he": "hebreera",
           "hi": "hindi",
@@ -146,7 +144,6 @@
           "hmn": "hmong",
           "hr": "kroaziera",
           "hsb": "goi-sorabiera",
-          "hsn": "hsn",
           "ht": "Haitiko kreolera",
           "hu": "hungariera",
           "hup": "hupera",
@@ -263,7 +260,6 @@
           "myv": "erziera",
           "mzn": "mazandarandera",
           "na": "nauruera",
-          "nan": "nan",
           "nap": "napoliera",
           "naq": "namera",
           "nb": "bokmål (norvegiera)",
@@ -404,7 +400,6 @@
           "wal": "welayta",
           "war": "samerera",
           "wo": "wolofera",
-          "wuu": "wuu",
           "xal": "kalmykera",
           "xh": "xhosera",
           "xog": "sogera",

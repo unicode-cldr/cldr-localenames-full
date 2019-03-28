@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "lb"
       },
@@ -47,6 +47,7 @@
           "Egyh": "Egyptesch-Hieratesch",
           "Egyp": "Egyptesch Hieroglyphen",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Ethiopesch",
           "Geok": "Khutsuri",
           "Geor": "Georgesch",
@@ -71,6 +72,7 @@
           "Hira": "Hiragana",
           "Hluw": "Hluw",
           "Hmng": "Pahawh Hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "Katakana oder Hiragana",
           "Hung": "Alungaresch",
           "Inds": "Indus-Schrëft",
@@ -116,6 +118,7 @@
           "Mtei": "Meitei Mayek",
           "Mult": "Mult",
           "Mymr": "Birmanesch",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "Vai",
           "Visp": "Siichtbar Sprooch",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Alpersesch",
           "Xsux": "Sumeresch-akkadesch Keilschrëft",
           "Yiii": "Yi",

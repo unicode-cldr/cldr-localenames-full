@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ga"
       },
@@ -44,6 +44,7 @@
           "Egyh": "Éigipteach cliarúil",
           "Egyp": "Iairiglifí Éigipteacha",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Aetópach",
           "Geor": "Seoirseach",
           "Glag": "Glagalach",
@@ -67,6 +68,7 @@
           "Hira": "Hireagánach",
           "Hluw": "Iairiglifí Anatólacha",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "Siollabraí Seapánacha",
           "Hung": "Sean-Ungárach",
           "Ital": "Sean-Iodáilic",
@@ -109,6 +111,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "Maenmarach",
+          "Nand": "Nand",
           "Narb": "Sean-Arabach Thuaidh",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -166,6 +169,7 @@
           "Ugar": "Úgairíteach",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Sean-Pheirseach",
           "Xsux": "Dingchruthach Suiméar-Acádach",
           "Yiii": "Ís",

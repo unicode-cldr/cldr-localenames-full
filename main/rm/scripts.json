@@ -3,8 +3,8 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14804 $",
+          "_cldrVersion": "35"
         },
         "language": "rm"
       },
@@ -47,6 +47,7 @@
           "Egyh": "egipzian ieratic",
           "Egyp": "ieroglifas egipzianas",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopic",
           "Geok": "kutsuri",
           "Geor": "georgian",
@@ -71,6 +72,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahawn hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "katanaka u hiragana",
           "Hung": "ungarais vegl",
           "Inds": "indus",
@@ -116,6 +118,7 @@
           "Mtei": "meetei mayek",
           "Mult": "Mult",
           "Mymr": "burmais",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "vaii",
           "Visp": "alfabet visibel",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "persian vegl",
           "Xsux": "scrittira a cugn sumeric-accadica",
           "Yiii": "yi",

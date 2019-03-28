@@ -3,8 +3,8 @@
     "ff-Latn-GH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14446 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14934 $",
+          "_cldrVersion": "35"
         },
         "language": "ff",
         "script": "Latn",
@@ -274,6 +274,7 @@
           "SX": "SX",
           "SY": "Sirii",
           "SZ": "Swaasilannda",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Duuɗe Turke e Keikoos",
           "TD": "Caad",

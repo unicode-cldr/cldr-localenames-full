@@ -3,8 +3,8 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14804 $",
+          "_cldrVersion": "35"
         },
         "language": "kok"
       },
@@ -272,6 +272,7 @@
           "SX": "सिंट मार्टेन",
           "SY": "सिरिया",
           "SZ": "स्वाजीलँड",
+          "SZ-alt-variant": "SZ",
           "TA": "त्रिस्तान दा कुन्हा",
           "TC": "तुर्क्स आनी कॅकोज आयलँड्स",
           "TD": "चाड",

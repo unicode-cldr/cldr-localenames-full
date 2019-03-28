@@ -3,8 +3,8 @@
     "sbp": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "sbp"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Siliya",
           "SZ": "Uswasi",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Figunguli fya Tuliki ni Kaiko",
           "TD": "Shadi",

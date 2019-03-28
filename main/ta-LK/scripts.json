@@ -3,8 +3,8 @@
     "ta-LK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ta",
         "territory": "LK"
@@ -49,6 +49,7 @@
           "Egyh": "எகிப்தியன் ஹைரேட்டிக்",
           "Egyp": "எகிப்தியன் ஹைரோகிளிப்ஸ்",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "எத்தியோபிக்",
           "Geok": "ஜியார்ஜியன் குட்சுரி",
           "Geor": "ஜார்ஜியன்",
@@ -73,6 +74,7 @@
           "Hira": "ஹிராகானா",
           "Hluw": "Hluw",
           "Hmng": "பஹாவ் மாங்க்",
+          "Hmnp": "Hmnp",
           "Hrkt": "ஜப்பானிய எழுத்துருக்கள்",
           "Hung": "பழைய ஹங்கேரியன்",
           "Inds": "சிந்து",
@@ -118,6 +120,7 @@
           "Mtei": "மெய்தெய் மயக்",
           "Mult": "Mult",
           "Mymr": "மியான்மர்",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -183,6 +186,7 @@
           "Vaii": "வை",
           "Visp": "விசிபிள் ஸ்பீச்",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "பழைய பெர்ஷியன்",
           "Xsux": "சுமெரோ-அக்கடியன் க்யூனிஃபார்ம்",
           "Yiii": "யீ",

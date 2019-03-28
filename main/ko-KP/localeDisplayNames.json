@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ko",
         "territory": "KP"
@@ -167,6 +167,7 @@
             "hantfin": "중국어 번체 재무 숫자",
             "hebr": "히브리 숫자",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "자바 숫자",
             "jpan": "일본 숫자",
             "jpanfin": "일본 재무 숫자",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "전통적인 숫자",
             "vaii": "바이 숫자",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

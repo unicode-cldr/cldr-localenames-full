@@ -3,8 +3,8 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "sw"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Uswazi",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Visiwa vya Turks na Caicos",
           "TD": "Chad",

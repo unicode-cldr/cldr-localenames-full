@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "uk"
       },
@@ -166,6 +166,7 @@
             "hantfin": "китайські фінансові символи чисел (традиційне письмо)",
             "hebr": "цифри івриту",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "японські цифри",
             "jpanfin": "японські фінансові цифри",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "традиційні символи чисел",
             "vaii": "цифри ваї",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

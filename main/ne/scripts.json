@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ne"
       },
@@ -46,6 +46,7 @@
           "Egyh": "इजिप्टियन हाइरटिक",
           "Egyp": "इजिप्टियन हाइरोग्लिफ्स",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "इथियोपिक",
           "Geok": "ग्रुजियाली खुट्सुरी",
           "Geor": "जर्जियाली",
@@ -70,6 +71,7 @@
           "Hira": "हिरागना",
           "Hluw": "Hluw",
           "Hmng": "पहावह हमोङ्ग",
+          "Hmnp": "Hmnp",
           "Hrkt": "काताकाना वा हिरागाना",
           "Hung": "पुरानो हङ्गेरियाली",
           "Inds": "इन्दुस",
@@ -115,6 +117,7 @@
           "Mtei": "माइटेइ मायेक",
           "Mult": "Mult",
           "Mymr": "म्यान्मार",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -180,6 +183,7 @@
           "Vaii": "भाइ",
           "Visp": "दृश्यमय वाणी",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "पुरानो पर्सियन",
           "Xsux": "Xsux",
           "Yiii": "यी",

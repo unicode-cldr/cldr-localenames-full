@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ms",
         "territory": "BN"
@@ -78,7 +78,7 @@
           "byv": "Medumba",
           "ca": "Catalonia",
           "cay": "Cayuga",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Chechen",
           "ceb": "Cebuano",
           "cgg": "Chiga",

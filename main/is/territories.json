@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "is"
       },
@@ -272,6 +272,7 @@
           "SX": "Sankti Martin",
           "SY": "Sýrland",
           "SZ": "Svasíland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks- og Caicoseyjar",
           "TD": "Tsjad",

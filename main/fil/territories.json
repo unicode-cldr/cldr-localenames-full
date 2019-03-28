@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "fil"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan de Cunha",
           "TC": "Turks & Caicos Islands",
           "TD": "Chad",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis & Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Mga Pseudo-Accent",
+          "XB": "Pseudo-Bidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

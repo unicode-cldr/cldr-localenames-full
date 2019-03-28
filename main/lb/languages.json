@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "lb"
       },
@@ -116,7 +116,6 @@
           "cps": "Capiznon",
           "cr": "Cree",
           "crh": "Krimtataresch",
-          "crs": "crs",
           "cs": "Tschechesch",
           "csb": "Kaschubesch",
           "cu": "Kiercheslawesch",
@@ -435,7 +434,6 @@
           "pap": "Papiamento",
           "pau": "Palau",
           "pcd": "Picardesch",
-          "pcm": "pcm",
           "pdc": "Pennsylvaniadäitsch",
           "pdt": "Plattdäitsch",
           "peo": "Alpersesch",

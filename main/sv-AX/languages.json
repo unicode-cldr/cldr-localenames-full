@@ -3,8 +3,8 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sv",
         "territory": "AX"
@@ -99,7 +99,7 @@
           "car": "karibiska",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "tjetjenska",
           "ceb": "cebuano",
           "cgg": "chiga",

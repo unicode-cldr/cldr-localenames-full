@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "my"
       },
@@ -272,6 +272,7 @@
           "SX": "စင့်မာတင်",
           "SY": "ဆီးရီးယား",
           "SZ": "ဆွာဇီလန်",
+          "SZ-alt-variant": "SZ",
           "TA": "ထရစ္စတန် ဒါ ကွန်ဟာ",
           "TC": "တခ်စ်နှင့်ကာအီကိုစ်ကျွန်းစု",
           "TD": "ချဒ်",

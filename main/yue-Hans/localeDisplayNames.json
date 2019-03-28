@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14880 $",
+          "_cldrVersion": "35"
         },
         "language": "yue",
         "script": "Hans"
@@ -167,6 +167,7 @@
             "hantfin": "大写繁体中文数字",
             "hebr": "希伯来数字",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "爪哇文数字",
             "jpan": "小写日文数字",
             "jpanfin": "大写日文数字",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "传统数字",
             "vaii": "瓦伊文数字",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

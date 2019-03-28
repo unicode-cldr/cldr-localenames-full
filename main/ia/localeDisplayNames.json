@@ -3,8 +3,8 @@
     "ia": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14415 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "ia"
       },
@@ -113,6 +113,7 @@
             "hantfin": "cifras financiari chinese traditional",
             "hebr": "cifras hebraic",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "cifras japonese",
             "jpanfin": "cifras financiari japonese",
@@ -160,7 +161,8 @@
             "tibt": "cifras tibetan",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "te"
       },
@@ -166,6 +166,7 @@
             "hantfin": "సాంప్రదాయ చైనీయుల ఆర్థిక సంఖ్యలు",
             "hebr": "హిబ్రూ సంఖ్యలు",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "జపానీయుల సంఖ్యలు",
             "jpanfin": "జపానీయలు ఆర్థిక సంఖ్యలు",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "సాంప్రదాయ సంఖ్యలు",
             "vaii": "వాయ్ అంకెలు",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

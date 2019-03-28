@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "fil"
       },
@@ -166,6 +166,7 @@
             "hantfin": "Traditional Chinese na Mga Numeral para sa Pananalapi",
             "hebr": "Mga Hebrew Numeral",
             "hmng": "Pahawh Hmong na Mga Digit",
+            "hmnp": "hmnp",
             "java": "Javanese na Mga Digit",
             "jpan": "Mga Japanese Numeral",
             "jpanfin": "Mga Japanese Numeral sa Pananalapi",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Mga Tradisyunal na Numeral",
             "vaii": "Mga Vai na Digit",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

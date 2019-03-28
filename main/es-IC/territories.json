@@ -3,8 +3,8 @@
     "es-IC": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "es",
         "territory": "IC"
@@ -272,7 +272,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Siria",
-          "SZ": "Suazilandia",
+          "SZ": "Esuatini",
+          "SZ-alt-variant": "Suazilandia",
           "TA": "Tristán de Acuña",
           "TC": "Islas Turcas y Caicos",
           "TD": "Chad",

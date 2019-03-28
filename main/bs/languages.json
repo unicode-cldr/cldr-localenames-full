@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "bs"
       },
@@ -171,7 +171,6 @@
           "ga": "irski",
           "gaa": "ga",
           "gag": "gagauški",
-          "gan": "gan",
           "gay": "gajo",
           "gba": "gbaja",
           "gd": "škotski galski",
@@ -193,7 +192,6 @@
           "gwi": "gvičin",
           "ha": "hausa",
           "hai": "haida",
-          "hak": "hak",
           "haw": "havajski",
           "he": "hebrejski",
           "hi": "hindi",
@@ -203,7 +201,6 @@
           "ho": "hiri motu",
           "hr": "hrvatski",
           "hsb": "gornjolužičkosrpski",
-          "hsn": "hsn",
           "ht": "haićanski kreolski",
           "hu": "mađarski",
           "hup": "hupa",
@@ -342,7 +339,6 @@
           "myv": "erzija",
           "mzn": "mazanderanski",
           "na": "nauru",
-          "nan": "nan",
           "nap": "napolitanski",
           "naq": "nama",
           "nb": "norveški (Bokmal)",
@@ -524,7 +520,6 @@
           "was": "vašo",
           "wbp": "varlpiri",
           "wo": "volof",
-          "wuu": "wuu",
           "xal": "kalmik",
           "xh": "hosa",
           "xog": "soga",

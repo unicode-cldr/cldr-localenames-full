@@ -3,8 +3,8 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "sd"
       },
@@ -113,6 +113,7 @@
             "hantfin": "روايتي چيني مالي انگ",
             "hebr": "عبراني انگ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "جاپاني انگ",
             "jpanfin": "جاپاني مالي انگ",
@@ -160,7 +161,8 @@
             "tibt": "تبتي عدد",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

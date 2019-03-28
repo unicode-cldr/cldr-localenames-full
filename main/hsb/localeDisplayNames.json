@@ -3,8 +3,8 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "hsb"
       },
@@ -113,6 +113,7 @@
             "hantfin": "tradicionalne chinske financne cyfry",
             "hebr": "hebrejske cyfry",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "japanske cyfry",
             "jpanfin": "japanske financne cyfry",
@@ -160,7 +161,8 @@
             "tibt": "tibetske cyfry",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

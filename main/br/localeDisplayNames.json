@@ -3,8 +3,8 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "br"
       },
@@ -113,6 +113,7 @@
             "hantfin": "niveroù sinaek hengounel an arcʼhant",
             "hebr": "niveroù hebraek",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "sifroù javanek",
             "jpan": "niveroù japanek",
             "jpanfin": "niveroù japanek an arcʼhant",
@@ -160,7 +161,8 @@
             "tibt": "sifroù tibetan",
             "tirh": "tirh",
             "vaii": "sifroù vai",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

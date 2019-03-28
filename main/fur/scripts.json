@@ -3,8 +3,8 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "fur"
       },
@@ -45,6 +45,7 @@
           "Egyh": "jeratic egjizian",
           "Egyp": "jeroglifics egjizians",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopic",
           "Geor": "georgjian",
           "Glag": "glagolitic",
@@ -68,6 +69,7 @@
           "Hira": "Hira",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "katakana o hiragana",
           "Hung": "vieri ongjarês",
           "Ital": "vieri italic",
@@ -111,6 +113,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "myanmar",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -171,6 +174,7 @@
           "Ugar": "ugaritic",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "vieri persian",
           "Xsux": "cuneiform sumeric-acadic",
           "Yiii": "Yiii",

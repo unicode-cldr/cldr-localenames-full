@@ -3,8 +3,8 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "or"
       },
@@ -47,6 +47,7 @@
           "Egyh": "ଇଜିପ୍ଟିଆନ୍ ହାଇଅରଟିକ୍",
           "Egyp": "ଇଜିପ୍ଟିଆନ୍ ହାଅରଗ୍ଲିପସ୍",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ଇଥିଓପିକ୍‌",
           "Geok": "ଜର୍ଜିଆନ୍ ଖୁଟସୁରୀ",
           "Geor": "ଜର୍ଜିୟ",
@@ -71,6 +72,7 @@
           "Hira": "ହିରାଗାନା",
           "Hluw": "Hluw",
           "Hmng": "ପାହୋ ହୋଙ୍ଗ",
+          "Hmnp": "Hmnp",
           "Hrkt": "ଜାପାନୀ ସିଲାବରିଜ୍‌",
           "Hung": "ପୁରୁଣା ହଙ୍ଗେରିଆନ୍",
           "Inds": "ସିନ୍ଧୁ",
@@ -116,6 +118,7 @@
           "Mtei": "ମାଏତି ମାୟେକ୍",
           "Mult": "Mult",
           "Mymr": "ମ୍ୟାନମାର୍",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "ୱାଇ",
           "Visp": "ଭିଜିବଲ୍ ସ୍ପିଚ୍",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "ପୁରୁଣା ଫରାସୀ",
           "Xsux": "ସୁମେରୋ-ଆକ୍କାଡିଆନ୍ ସୁନିଫର୍ମ",
           "Yiii": "ୟୀ",

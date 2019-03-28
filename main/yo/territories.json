@@ -3,8 +3,8 @@
     "yo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "yo"
       },
@@ -72,7 +72,7 @@
           "BN": "Orílẹ́ède Búrúnẹ́lì",
           "BO": "Orílẹ́ède Bọ̀lífíyà",
           "BQ": "BQ",
-          "BR": "Orílẹ́ède Bàràsílì",
+          "BR": "Orilẹ̀-èdè Bàràsílì",
           "BS": "Orílẹ́ède Bàhámásì",
           "BT": "Orílẹ́ède Bútánì",
           "BV": "BV",
@@ -92,7 +92,7 @@
           "CK": "Orílẹ́ède Etíokun Kùúkù",
           "CL": "Orílẹ́ède ṣílè",
           "CM": "Orílẹ́ède Kamerúúnì",
-          "CN": "Orílẹ́ède ṣáínà",
+          "CN": "Orilẹ̀-èdè Ṣáínà",
           "CO": "Orílẹ́ède Kòlómíbìa",
           "CP": "CP",
           "CR": "Orílẹ́ède Kuusita Ríkà",
@@ -103,7 +103,7 @@
           "CY": "Orílẹ́ède Kúrúsì",
           "CZ": "Orílẹ́ède ṣẹ́ẹ́kì",
           "CZ-alt-variant": "CZ",
-          "DE": "Orílẹ́ède Gemani",
+          "DE": "Orílẹèdè Jámánì",
           "DG": "DG",
           "DJ": "Orílẹ́ède Díbọ́ótì",
           "DK": "Orílẹ́ède Dẹ́mákì",
@@ -128,7 +128,7 @@
           "FO": "FO",
           "FR": "Orílẹ́ède Faranse",
           "GA": "Orílẹ́ède Gabon",
-          "GB": "Orílẹ́ède Omobabirin",
+          "GB": "Orílẹ́èdè Gẹ̀ẹ́sì",
           "GB-alt-short": "GB",
           "GD": "Orílẹ́ède Genada",
           "GE": "Orílẹ́ède Gọgia",
@@ -164,7 +164,7 @@
           "IQ": "Orílẹ́ède Iraki",
           "IR": "Orílẹ́ède Irani",
           "IS": "Orílẹ́ède Aṣilandi",
-          "IT": "Orílẹ́ède Italiyi",
+          "IT": "Orílẹ́ède Itáli",
           "JE": "JE",
           "JM": "Orílẹ́ède Jamaika",
           "JO": "Orílẹ́ède Jọdani",
@@ -220,7 +220,7 @@
           "NC": "Orílẹ́ède Kaledonia Titun",
           "NE": "Orílẹ́ède Nàìjá",
           "NF": "Orílẹ́ède Etikun Nọ́úfókì",
-          "NG": "Orílẹ́ède Nàìjíríà",
+          "NG": "Orilẹ̀-èdè Nàìjíríà",
           "NI": "Orílẹ́ède NIkaragua",
           "NL": "Orílẹ́ède Nedalandi",
           "NO": "Orílẹ́ède Nọọwii",
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Orílẹ́ède Siria",
           "SZ": "Orílẹ́ède Saṣiland",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Orílẹ́ède Tọọki ati Etikun Kakọsi",
           "TD": "Orílẹ́ède ṣààdì",
@@ -294,7 +295,7 @@
           "UG": "Orílẹ́ède Uganda",
           "UM": "UM",
           "UN": "UN",
-          "US": "Orílẹ́ède Orilẹede Amerika",
+          "US": "Orílẹ̀-èdè Amẹrikà",
           "US-alt-short": "US",
           "UY": "Orílẹ́ède Nruguayi",
           "UZ": "Orílẹ́ède Nṣibẹkisitani",
@@ -315,7 +316,7 @@
           "ZA": "Orílẹ́ède Ariwa Afirika",
           "ZM": "Orílẹ́ède ṣamibia",
           "ZW": "Orílẹ́ède ṣimibabe",
-          "ZZ": "ZZ"
+          "ZZ": "Àgbègbè àìmọ̀"
         }
       }
     }

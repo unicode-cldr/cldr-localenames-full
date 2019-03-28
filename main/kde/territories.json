@@ -3,8 +3,8 @@
     "kde": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "kde"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Silia",
           "SZ": "Uswazi",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Chisiwa cha Tuluchi na Kaiko",
           "TD": "Chadi",

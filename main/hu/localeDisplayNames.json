@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "hu"
       },
@@ -166,6 +166,7 @@
             "hantfin": "Hagyományos kínai pénzügyi számok",
             "hebr": "Héber számok",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Japán számok",
             "jpanfin": "Japán pénzügyi számok",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Hagyományos számok",
             "vaii": "Vai számjegyek",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

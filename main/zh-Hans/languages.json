@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hans"
@@ -83,7 +83,7 @@
           "car": "加勒比语",
           "cay": "卡尤加语",
           "cch": "阿灿语",
-          "ccp": "ccp",
+          "ccp": "查克玛语",
           "ce": "车臣语",
           "ceb": "宿务语",
           "cgg": "奇加语",

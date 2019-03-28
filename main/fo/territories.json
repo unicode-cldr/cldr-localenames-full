@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14809 $",
+          "_cldrVersion": "35"
         },
         "language": "fo"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Sýria",
           "SZ": "Svasiland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks- og Caicosoyggjar",
           "TD": "Kjad",

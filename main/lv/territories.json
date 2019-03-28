@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14843 $",
+          "_cldrVersion": "35"
         },
         "language": "lv"
       },
@@ -198,8 +198,8 @@
           "MF": "Senmartēna",
           "MG": "Madagaskara",
           "MH": "Māršala salas",
-          "MK": "Maķedonija",
-          "MK-alt-variant": "bijusī Dienvidslāvijas Maķedonijas Republika",
+          "MK": "Ziemeļmaķedonija",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mjanma (Birma)",
           "MN": "Mongolija",
@@ -272,6 +272,7 @@
           "SX": "Sintmārtena",
           "SY": "Sīrija",
           "SZ": "Svazilenda",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristana da Kuņas salas",
           "TC": "Tērksas un Kaikosas salas",
           "TD": "Čada",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Volisa un Futunas salas",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "pseidoakcenti",
+          "XB": "pseido-Bidi",
           "XK": "Kosova",
           "YE": "Jemena",
           "YT": "Majota",

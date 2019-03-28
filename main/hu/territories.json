@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "hu"
       },
@@ -198,8 +198,8 @@
           "MF": "Saint Martin",
           "MG": "Madagaszkár",
           "MH": "Marshall-szigetek",
-          "MK": "Macedónia",
-          "MK-alt-variant": "Macedónia (MVJK)",
+          "MK": "Észak-Macedónia",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar (Burma)",
           "MN": "Mongólia",
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Szíria",
           "SZ": "Szváziföld",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks- és Caicos-szigetek",
           "TD": "Csád",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis és Futuna",
           "WS": "Szamoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pszeudo-nyelvjárások",
+          "XB": "Pszeudo-kétirányú",
           "XK": "Koszovó",
           "YE": "Jemen",
           "YT": "Mayotte",

@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "tk"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint-Marten",
           "SY": "Siriýa",
           "SZ": "Swazilend",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan-da-Kunýa",
           "TC": "Terks we Kaýkos adalary",
           "TD": "Çad",
@@ -307,8 +308,8 @@
           "VU": "Wanuatu",
           "WF": "Uollis we Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "psewdo-şiweler",
+          "XB": "psewdo-bidi",
           "XK": "Kosowo",
           "YE": "Ýemen",
           "YT": "Maýotta",

@@ -3,8 +3,8 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "brx"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "सीरिया",
           "SZ": "स्वाज़ीलैंड",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "तुर्की एवं कैकोज़ द्वीप",
           "TD": "चाड",

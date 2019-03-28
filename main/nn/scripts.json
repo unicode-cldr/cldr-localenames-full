@@ -3,8 +3,8 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "nn"
       },
@@ -47,6 +47,7 @@
           "Egyh": "egyptisk hieratisk",
           "Egyp": "egyptiske hieroglyfar",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopisk",
           "Geok": "khutsuri (asomtavruli og nuskhuri)",
           "Geor": "georgisk",
@@ -71,6 +72,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahawk hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "japansk stavingsskrifter",
           "Hung": "gammalungarsk",
           "Inds": "indus",
@@ -116,6 +118,7 @@
           "Mtei": "meitei-mayek",
           "Mult": "Mult",
           "Mymr": "burmesisk",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -181,6 +184,7 @@
           "Vaii": "vai",
           "Visp": "synleg tale",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "gammalpersisk",
           "Xsux": "sumero-akkadisk kileskrift",
           "Yiii": "yi",

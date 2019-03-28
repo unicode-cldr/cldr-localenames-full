@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "si"
       },
@@ -272,6 +272,7 @@
           "SX": "ශාන්ත මාර්ටෙන්",
           "SY": "සිරියාව",
           "SZ": "ස්වාසිලන්තය",
+          "SZ-alt-variant": "SZ",
           "TA": "ට්‍රිස්ටන් ද කුන්හා",
           "TC": "ටර්ක්ස් සහ කයිකොස් දූපත්",
           "TD": "චැච්",

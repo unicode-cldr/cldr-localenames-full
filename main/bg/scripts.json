@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "bg"
       },
@@ -47,6 +47,7 @@
           "Egyh": "Египетско йератично писмо",
           "Egyp": "Египетски йероглифи",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "етиопска",
           "Geok": "Грузинска хуцури",
           "Geor": "грузинска",
@@ -71,6 +72,7 @@
           "Hira": "хирагана",
           "Hluw": "Hluw",
           "Hmng": "Пахау хмонг",
+          "Hmnp": "Hmnp",
           "Hrkt": "японска сричкова",
           "Hung": "Староунгарска",
           "Inds": "Харапска",
@@ -116,6 +118,7 @@
           "Mtei": "Манипури",
           "Mult": "Mult",
           "Mymr": "бирманска",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -180,6 +183,7 @@
           "Vaii": "Вайска",
           "Visp": "Видима реч",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Староперсийска",
           "Xsux": "Шумеро-акадски клинопис",
           "Yiii": "Йи",

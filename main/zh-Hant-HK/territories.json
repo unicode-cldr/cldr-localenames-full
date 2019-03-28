@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hant",
@@ -200,8 +200,8 @@
           "MF": "法屬聖馬丁",
           "MG": "馬達加斯加",
           "MH": "馬紹爾群島",
-          "MK": "馬其頓",
-          "MK-alt-variant": "前南斯拉夫馬其頓共和國",
+          "MK": "北馬其頓",
+          "MK-alt-variant": "MK",
           "ML": "馬里",
           "MM": "緬甸",
           "MN": "蒙古",
@@ -274,6 +274,7 @@
           "SX": "荷屬聖馬丁",
           "SY": "敘利亞",
           "SZ": "斯威士蘭",
+          "SZ-alt-variant": "SZ",
           "TA": "特里斯坦達庫尼亞群島",
           "TC": "特克斯和凱科斯群島",
           "TD": "乍得",
@@ -310,8 +311,8 @@
           "VU": "瓦努阿圖",
           "WF": "瓦利斯群島和富圖那群島",
           "WS": "薩摩亞",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "偽區域",
+          "XB": "偽比迪",
           "XK": "科索沃",
           "YE": "也門",
           "YT": "馬約特",

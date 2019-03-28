@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ms",
         "territory": "BN"
@@ -199,8 +199,8 @@
           "MF": "Saint Martin",
           "MG": "Madagaskar",
           "MH": "Kepulauan Marshall",
-          "MK": "Macedonia",
-          "MK-alt-variant": "Macedonia (FYROM)",
+          "MK": "Macedonia Utara",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -273,6 +273,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Kepulauan Turks dan Caicos",
           "TD": "Chad",

@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "hy"
       },
@@ -113,6 +113,7 @@
             "hantfin": "չինական ավանդական ֆինանսական թվեր",
             "hebr": "եբրայերեն թվեր",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ճապոնական թվեր",
             "jpanfin": "ճապոնական ֆինանսական թվեր",
@@ -160,7 +161,8 @@
             "tibt": "տիբեթական թվանշաններ",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

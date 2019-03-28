@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hans"
@@ -199,8 +199,8 @@
           "MF": "法属圣马丁",
           "MG": "马达加斯加",
           "MH": "马绍尔群岛",
-          "MK": "马其顿",
-          "MK-alt-variant": "马其顿（前南斯拉夫马其顿共和国）",
+          "MK": "北马其顿",
+          "MK-alt-variant": "MK",
           "ML": "马里",
           "MM": "缅甸",
           "MN": "蒙古",
@@ -273,6 +273,7 @@
           "SX": "荷属圣马丁",
           "SY": "叙利亚",
           "SZ": "斯威士兰",
+          "SZ-alt-variant": "SZ",
           "TA": "特里斯坦-达库尼亚群岛",
           "TC": "特克斯和凯科斯群岛",
           "TD": "乍得",
@@ -309,8 +310,8 @@
           "VU": "瓦努阿图",
           "WF": "瓦利斯和富图纳",
           "WS": "萨摩亚",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "伪地区",
+          "XB": "伪双向语言地区",
           "XK": "科索沃",
           "YE": "也门",
           "YT": "马约特",

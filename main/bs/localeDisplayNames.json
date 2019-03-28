@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "bs"
       },
@@ -121,6 +121,7 @@
             "hantfin": "tradicionalni kineski finansijski brojevi",
             "hebr": "hebrejski brojevi",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "japanski brojevi",
             "jpanfin": "japanski finansijski brojevi",
@@ -168,7 +169,8 @@
             "tibt": "tibetanski brojevi",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

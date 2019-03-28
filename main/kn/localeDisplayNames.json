@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "kn"
       },
@@ -166,6 +166,7 @@
             "hantfin": "ಸಾಂಪ್ರದಾಯಿಕ ಚೀನಿ ಆರ್ಥಿಕ ಸಂಖ್ಯೆಗಳು",
             "hebr": "ಹೀಬ್ರೂ ಸಂಖ್ಯೆಗಳು",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ಜಪಾನೀ ಸಂಖ್ಯೆಗಳು",
             "jpanfin": "ಜಪಾನೀ ಆರ್ಥಿಕ ಸಂಖ್ಯೆಗಳು",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "ಸಾಂಪ್ರದಾಯಿಕ ಸಂಖ್ಯೆಗಳು",
             "vaii": "ವಾಯ್ ಅಂಕೆಗಳು",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

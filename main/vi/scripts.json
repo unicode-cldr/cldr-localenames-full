@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "vi"
       },
@@ -49,6 +49,7 @@
           "Egyh": "Chữ Ai Cập thày tu",
           "Egyp": "Chữ tượng hình Ai Cập",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Chữ Ethiopia",
           "Geok": "Chữ Khutsuri Georgia",
           "Geor": "Chữ Gruzia",
@@ -73,6 +74,7 @@
           "Hira": "Chữ Hiragana",
           "Hluw": "Chữ tượng hình Anatolia",
           "Hmng": "Chữ Pahawh Hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "Bảng ký hiệu âm tiết Tiếng Nhật",
           "Hung": "Chữ Hungary cổ",
           "Inds": "Chữ Indus",
@@ -121,6 +123,7 @@
           "Mtei": "Chữ Meitei Mayek",
           "Mult": "Mult",
           "Mymr": "Chữ Myanmar",
+          "Nand": "Nand",
           "Narb": "Chữ Bắc Ả Rập cổ",
           "Nbat": "Chữ Nabataean",
           "Newa": "Newa",
@@ -187,6 +190,7 @@
           "Vaii": "Chữ Vai",
           "Visp": "Tiếng nói Nhìn thấy được",
           "Wara": "Chữ Varang Kshiti",
+          "Wcho": "Wcho",
           "Wole": "Chữ Woleai",
           "Xpeo": "Chữ Ba Tư cổ",
           "Xsux": "Chữ hình nêm Sumero-Akkadian",

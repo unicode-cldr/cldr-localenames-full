@@ -3,8 +3,8 @@
     "sw-UG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sw",
         "territory": "UG"
@@ -144,7 +144,6 @@
           "ga": "Kiayalandi",
           "gaa": "Ga",
           "gag": "Kigagauz",
-          "gan": "gan",
           "gba": "Kigbaya",
           "gd": "Kigaeli cha Uskoti",
           "gez": "Kige’ez",
@@ -159,7 +158,6 @@
           "gv": "Kimanx",
           "gwi": "Gwichʼin",
           "ha": "Kihausa",
-          "hak": "hak",
           "haw": "Kihawai",
           "he": "Kiebrania",
           "hi": "Kihindi",
@@ -168,7 +166,6 @@
           "hmn": "Kihmong",
           "hr": "Kikroeshia",
           "hsb": "Kisobia cha Ukanda wa Juu",
-          "hsn": "hsn",
           "ht": "Kihaiti",
           "hu": "Kihungaria",
           "hup": "Hupa",
@@ -290,7 +287,6 @@
           "myv": "Kierzya",
           "mzn": "Kimazanderani",
           "na": "Kinauru",
-          "nan": "nan",
           "nap": "Kinapoli",
           "naq": "Kinama",
           "nb": "Kinorwe cha Bokmal",
@@ -441,7 +437,6 @@
           "war": "Kiwaray",
           "wbp": "Kiwarlpiri",
           "wo": "Kiwolofu",
-          "wuu": "wuu",
           "xal": "Kikalmyk",
           "xh": "Kixhosa",
           "xog": "Kisoga",

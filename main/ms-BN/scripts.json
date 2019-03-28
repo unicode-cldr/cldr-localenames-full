@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ms",
         "territory": "BN"
@@ -44,6 +44,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Ethiopia",
           "Geor": "Georgia",
           "Glag": "Glag",
@@ -67,6 +68,7 @@
           "Hira": "Hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "Ejaan sukuan Jepun",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -107,6 +109,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "Myammar",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -164,6 +167,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

@@ -3,8 +3,8 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14405 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14796 $",
+          "_cldrVersion": "35"
         },
         "language": "es",
         "territory": "MX"
@@ -82,7 +82,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",

@@ -3,8 +3,8 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Latn",
@@ -50,6 +50,7 @@
           "Egyh": "egipatsko hijeratsko pismo",
           "Egyp": "egipatski hijeroglifi",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopsko pismo",
           "Geok": "gruzijsko khutsuri pismo",
           "Geor": "gruzijsko pismo",
@@ -74,6 +75,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahav hmong pismo",
+          "Hmnp": "Hmnp",
           "Hrkt": "japanska slogovna pisma",
           "Hung": "staromađarsko pismo",
           "Inds": "induško pismo",
@@ -119,6 +121,7 @@
           "Mtei": "meitei majek pismo",
           "Mult": "Mult",
           "Mymr": "mijanmarsko pismo",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -184,6 +187,7 @@
           "Vaii": "vai pismo",
           "Visp": "vidljivi govor",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "staropersijsko pismo",
           "Xsux": "sumersko-akadsko kuneiform pismo",
           "Yiii": "ji pismo",

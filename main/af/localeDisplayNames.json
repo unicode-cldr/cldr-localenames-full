@@ -3,8 +3,8 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "af"
       },
@@ -166,6 +166,7 @@
             "hantfin": "Tradisionele Sjinese finansiële syfers",
             "hebr": "Hebreeuse syfers",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Japannese syfers",
             "jpanfin": "Japannese finansiële syfers",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Tradisionele syfers",
             "vaii": "Vai-syfers",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

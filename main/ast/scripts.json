@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ast"
       },
@@ -48,6 +48,7 @@
           "Egyh": "hieráticu exipcianu",
           "Egyp": "xeroglíficos exipcianos",
           "Elba": "elbasan",
+          "Elym": "Elym",
           "Ethi": "etíope",
           "Geok": "khutsuri xeorxanu",
           "Geor": "xeorxanu",
@@ -72,6 +73,7 @@
           "Hira": "ḥiragana",
           "Hluw": "xeroglíficos anatolios",
           "Hmng": "pahawh hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "silabarios xaponeses",
           "Hung": "húngaru antiguu",
           "Inds": "indus",
@@ -120,6 +122,7 @@
           "Mtei": "meitei mayek",
           "Mult": "multani",
           "Mymr": "birmanu",
+          "Nand": "Nand",
           "Narb": "árabe del norte antiguu",
           "Nbat": "nabatéu",
           "Newa": "newa",
@@ -186,6 +189,7 @@
           "Vaii": "vai",
           "Visp": "fala visible",
           "Wara": "varang kshiti",
+          "Wcho": "Wcho",
           "Wole": "woleai",
           "Xpeo": "persa antiguu",
           "Xsux": "cuneiforme sumeriu acadiu",

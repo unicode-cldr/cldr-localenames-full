@@ -3,8 +3,8 @@
     "ksf": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ksf"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "sirí",
           "SZ": "swazilan",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "zǝ tirk ri kakɔs",
           "TD": "caád",

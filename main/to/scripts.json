@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "to"
       },
@@ -48,6 +48,7 @@
           "Egyh": "tohinima hielatika-fakaʻisipite",
           "Egyp": "tohinima tongitapu-fakaʻisipite",
           "Elba": "tohinima fakaʻelepasani",
+          "Elym": "Elym",
           "Ethi": "tohinima fakaʻītiōpia",
           "Geok": "tohinima fakakutusuli-seōsia",
           "Geor": "tohinima fakaseōsia",
@@ -72,6 +73,7 @@
           "Hira": "tohinima fakasiapani-hilakana",
           "Hluw": "tohinima tongitapu-fakaʻanatolia",
           "Hmng": "tohinima fakapahaumongi",
+          "Hmnp": "Hmnp",
           "Hrkt": "tohinima fakasilapa-siapani",
           "Hung": "tohinima fakahungakalia-motuʻa",
           "Inds": "tohinima fakaʻinitusi",
@@ -120,6 +122,7 @@
           "Mtei": "tohinima fakametei-maieki",
           "Mult": "Mult",
           "Mymr": "tohinima fakapema",
+          "Nand": "Nand",
           "Narb": "tohinima fakaʻalepea-tokelau-motuʻa",
           "Nbat": "tohinima fakanapatea",
           "Newa": "Newa",
@@ -186,6 +189,7 @@
           "Vaii": "tohinima fakavai",
           "Visp": "tohinima fakafonētiki-hāmai",
           "Wara": "tohinima fakavalangi-kisitī",
+          "Wcho": "Wcho",
           "Wole": "tohinima fakauoleai",
           "Xpeo": "tohinima fakapēsiamuʻa",
           "Xsux": "tohinima fakamataʻingahau-sumelo-akatia",

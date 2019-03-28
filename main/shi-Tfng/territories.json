@@ -3,8 +3,8 @@
     "shi-Tfng": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "shi",
         "script": "Tfng"
@@ -273,6 +273,7 @@
           "SX": "SX",
           "SY": "ⵙⵓⵔⵢⴰ",
           "SZ": "ⵙⵡⴰⵣⵉⵍⴰⵏⴷⴰ",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "ⵜⵉⴳⵣⵉⵔⵉⵏ ⵏ ⵜⵓⵔⴽⵢⴰ ⴷ ⴽⴰⵢⴽ",
           "TD": "ⵜⵛⴰⴷ",

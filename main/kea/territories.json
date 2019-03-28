@@ -3,8 +3,8 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14809 $",
+          "_cldrVersion": "35"
         },
         "language": "kea"
       },
@@ -272,6 +272,7 @@
           "SX": "Sãu Martinhu di Olanda",
           "SY": "Síria",
           "SZ": "Suazilándia",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Kunha",
           "TC": "Ilhas Turkas i Kaikus",
           "TD": "Txadi",

@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14880 $",
+          "_cldrVersion": "35"
         },
         "language": "yue",
         "script": "Hans"
@@ -50,6 +50,7 @@
           "Egyh": "古埃及僧侣体",
           "Egyp": "古埃及象形文字",
           "Elba": "爱尔巴桑文",
+          "Elym": "Elym",
           "Ethi": "衣索比亚文",
           "Geok": "乔治亚语系（阿索他路里和努斯克胡里文）",
           "Geor": "乔治亚文",
@@ -74,6 +75,7 @@
           "Hira": "平假名",
           "Hluw": "安那托利亚象形文字",
           "Hmng": "杨松录苗文",
+          "Hmnp": "Hmnp",
           "Hrkt": "片假名或平假名",
           "Hung": "古匈牙利文",
           "Inds": "印度河流域（哈拉帕文）",
@@ -122,6 +124,7 @@
           "Mtei": "曼尼普尔文",
           "Mult": "Mult",
           "Mymr": "缅甸文",
+          "Nand": "Nand",
           "Narb": "古北阿拉伯文",
           "Nbat": "纳巴泰文字",
           "Newa": "Newa",
@@ -188,6 +191,7 @@
           "Vaii": "瓦依文",
           "Visp": "视觉语音文字",
           "Wara": "瓦郎奇蒂文字",
+          "Wcho": "Wcho",
           "Wole": "沃雷艾文",
           "Xpeo": "古波斯文",
           "Xsux": "苏米鲁亚甲文楔形文字",

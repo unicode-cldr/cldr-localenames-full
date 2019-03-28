@@ -3,8 +3,8 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "az",
         "script": "Latn"
@@ -48,6 +48,7 @@
           "Egyh": "misir hiyeratik",
           "Egyp": "misir hiyeroqlif",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "efiop",
           "Geok": "gürcü xutsuri",
           "Geor": "gürcü",
@@ -72,6 +73,7 @@
           "Hira": "iraqana",
           "Hluw": "Hluw",
           "Hmng": "pahav monq",
+          "Hmnp": "Hmnp",
           "Hrkt": "hecalı yapon əlifbası",
           "Hung": "qədimi macar",
           "Inds": "hindistan",
@@ -117,6 +119,7 @@
           "Mtei": "meytey mayek",
           "Mult": "Mult",
           "Mymr": "myanmar",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -180,6 +183,7 @@
           "Vaii": "vay",
           "Visp": "danışma səsləri",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "qədimi fars",
           "Xsux": "sumer-akadyan kuneyform",
           "Yiii": "yi",

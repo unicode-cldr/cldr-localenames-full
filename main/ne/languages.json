@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ne"
       },
@@ -554,7 +554,6 @@
           "war": "वारे",
           "wbp": "वार्ल्पिरी",
           "wo": "वुलुफ",
-          "wuu": "wuu",
           "xal": "काल्मिक",
           "xh": "खोसा",
           "xmf": "मिनग्रेलियाली",

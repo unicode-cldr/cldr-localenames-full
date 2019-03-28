@@ -3,8 +3,8 @@
     "es-BZ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "es",
         "territory": "BZ"
@@ -273,6 +273,7 @@
           "SX": "Sint Maarten",
           "SY": "Siria",
           "SZ": "Suazilandia",
+          "SZ-alt-variant": "Suazilandia",
           "TA": "Tristán da Cunha",
           "TC": "Islas Turcas y Caicos",
           "TD": "Chad",

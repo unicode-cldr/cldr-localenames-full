@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "fil"
       },
@@ -58,7 +58,7 @@
           "bug": "Buginese",
           "byn": "Blin",
           "ca": "Catalan",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Chechen",
           "ceb": "Cebuano",
           "cgg": "Chiga",
@@ -126,7 +126,6 @@
           "ga": "Irish",
           "gaa": "Ga",
           "gag": "Gagauz",
-          "gan": "gan",
           "gd": "Scottish Gaelic",
           "gez": "Geez",
           "gil": "Gilbertese",
@@ -139,7 +138,6 @@
           "gv": "Manx",
           "gwi": "Gwichʼin",
           "ha": "Hausa",
-          "hak": "hak",
           "haw": "Hawaiian",
           "he": "Hebrew",
           "hi": "Hindi",
@@ -147,7 +145,6 @@
           "hmn": "Hmong",
           "hr": "Croatian",
           "hsb": "Upper Sorbian",
-          "hsn": "hsn",
           "ht": "Haitian",
           "hu": "Hungarian",
           "hup": "Hupa",
@@ -264,7 +261,6 @@
           "myv": "Erzya",
           "mzn": "Mazanderani",
           "na": "Nauru",
-          "nan": "nan",
           "nap": "Neapolitan",
           "naq": "Nama",
           "nb": "Norwegian Bokmål",
@@ -409,7 +405,6 @@
           "war": "Waray",
           "wbp": "Warlpiri",
           "wo": "Wolof",
-          "wuu": "wuu",
           "xal": "Kalmyk",
           "xh": "Xhosa",
           "xog": "Soga",

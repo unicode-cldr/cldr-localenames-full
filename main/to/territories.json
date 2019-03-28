@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "to"
       },
@@ -272,6 +272,7 @@
           "SX": "Sā Mātini (fakahōlani)",
           "SY": "Sīlia",
           "SZ": "Suasilani",
+          "SZ-alt-variant": "SZ",
           "TA": "Tulisitani ta Kunuha",
           "TC": "ʻOtumotu Tuki mo Kaikosi",
           "TD": "Sāti",

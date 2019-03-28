@@ -3,8 +3,8 @@
     "bas": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "bas"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Sirìà",
           "SZ": "Swàzìlând",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Bìòn bi Tûrks nì Kalkòs",
           "TD": "Câd",

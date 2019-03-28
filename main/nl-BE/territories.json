@@ -3,8 +3,8 @@
     "nl-BE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "nl",
         "territory": "BE"
@@ -199,8 +199,8 @@
           "MF": "Saint-Martin",
           "MG": "Madagaskar",
           "MH": "Marshalleilanden",
-          "MK": "Macedonië",
-          "MK-alt-variant": "Macedonië (FYROM)",
+          "MK": "Noord-Macedonië",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birma)",
           "MN": "Mongolië",
@@ -272,7 +272,8 @@
           "SV": "El Salvador",
           "SX": "Sint-Maarten",
           "SY": "Syrië",
-          "SZ": "Swaziland",
+          "SZ": "eSwatini",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Turks- en Caicoseilanden",
           "TD": "Tsjaad",
@@ -309,8 +310,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis en Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudo-Accenten",
+          "XB": "Pseudo-Bidi",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ne"
       },
@@ -272,6 +272,7 @@
           "SX": "सिन्ट मार्टेन",
           "SY": "सिरिया",
           "SZ": "स्वाजिल्याण्ड",
+          "SZ-alt-variant": "SZ",
           "TA": "ट्रिस्टान डा कुन्हा",
           "TC": "तुर्क र काइकोस टापु",
           "TD": "चाड",

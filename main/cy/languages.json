@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "cy"
       },
@@ -86,7 +86,7 @@
           "cad": "Cado",
           "car": "Caribeg",
           "cch": "Atsameg",
-          "ccp": "ccp",
+          "ccp": "Tsiacma",
           "ce": "Tsietsieneg",
           "ceb": "Cebuano",
           "cgg": "Tsiga",
@@ -171,7 +171,6 @@
           "ga": "Gwyddeleg",
           "gaa": "Ga",
           "gag": "Gagauz",
-          "gan": "gan",
           "gay": "Gaio",
           "gba": "Gbaia",
           "gbz": "Dareg y Zoroastriaid",
@@ -192,7 +191,6 @@
           "gwi": "Gwichʼin",
           "ha": "Hawsa",
           "hai": "Haida",
-          "hak": "hak",
           "haw": "Hawäieg",
           "he": "Hebraeg",
           "hi": "Hindi",
@@ -201,7 +199,6 @@
           "hmn": "Hmongeg",
           "hr": "Croateg",
           "hsb": "Sorbeg Uchaf",
-          "hsn": "hsn",
           "ht": "Creol Haiti",
           "hu": "Hwngareg",
           "hup": "Hupa",
@@ -334,7 +331,6 @@
           "myv": "Erzya",
           "mzn": "Masanderani",
           "na": "Nawrŵeg",
-          "nan": "nan",
           "nap": "Naplieg",
           "naq": "Nama",
           "nb": "Norwyeg Bokmål",
@@ -533,7 +529,6 @@
           "was": "Washo",
           "wbp": "Warlpiri",
           "wo": "Woloff",
-          "wuu": "wuu",
           "xal": "Calmyceg",
           "xh": "Xhosa",
           "xog": "Soga",

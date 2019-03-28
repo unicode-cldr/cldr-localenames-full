@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "ja"
       },
@@ -98,7 +98,7 @@
           "car": "カリブ語",
           "cay": "カユーガ語",
           "cch": "チャワイ語",
-          "ccp": "ccp",
+          "ccp": "チャクマ語",
           "ce": "チェチェン語",
           "ceb": "セブアノ語",
           "cgg": "チガ語",

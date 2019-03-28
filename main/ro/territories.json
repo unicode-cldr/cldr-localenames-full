@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "ro"
       },
@@ -203,7 +203,7 @@
           "ML": "Mali",
           "MM": "Myanmar (Birmania)",
           "MN": "Mongolia",
-          "MO": "R.A.S. Macao a Chinei",
+          "MO": "R.A.S. Macao, China",
           "MO-alt-short": "Macao",
           "MP": "Insulele Mariane de Nord",
           "MQ": "Martinica",
@@ -271,7 +271,8 @@
           "SV": "El Salvador",
           "SX": "Sint-Maarten",
           "SY": "Siria",
-          "SZ": "Swaziland",
+          "SZ": "eSwatini",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Insulele Turks și Caicos",
           "TD": "Ciad",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis și Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudo-accente",
+          "XB": "Pseudo-Bidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

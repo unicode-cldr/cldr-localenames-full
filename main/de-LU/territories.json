@@ -3,8 +3,8 @@
     "de-LU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "de",
         "territory": "LU"
@@ -199,8 +199,8 @@
           "MF": "St. Martin",
           "MG": "Madagaskar",
           "MH": "Marshallinseln",
-          "MK": "Mazedonien",
-          "MK-alt-variant": "Mazedonien (EJR)",
+          "MK": "Nordmazedonien",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",
           "MN": "Mongolei",
@@ -273,6 +273,7 @@
           "SX": "Sint Maarten",
           "SY": "Syrien",
           "SZ": "Swasiland",
+          "SZ-alt-variant": "Eswatini",
           "TA": "Tristan da Cunha",
           "TC": "Turks- und Caicosinseln",
           "TD": "Tschad",

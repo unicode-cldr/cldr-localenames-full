@@ -3,8 +3,8 @@
     "qu-EC": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "qu",
         "territory": "EC"
@@ -43,6 +43,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Ethi",
           "Geor": "Geor",
           "Glag": "Glag",
@@ -66,6 +67,7 @@
           "Hira": "Hira",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "Hrkt",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -106,6 +108,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "Mymr",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -163,6 +166,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

@@ -3,8 +3,8 @@
     "fr-TN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "fr",
         "territory": "TN"
@@ -49,6 +49,7 @@
           "Egyh": "hiératique égyptien",
           "Egyp": "hiéroglyphes égyptiens",
           "Elba": "Elba",
+          "Elym": "élymaïque",
           "Ethi": "éthiopique",
           "Geok": "géorgien khoutsouri",
           "Geor": "géorgien",
@@ -73,6 +74,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahawh hmong",
+          "Hmnp": "nyiakeng puachue hmong",
           "Hrkt": "katakana ou hiragana",
           "Hung": "ancien hongrois",
           "Inds": "indus",
@@ -118,6 +120,7 @@
           "Mtei": "meitei mayek",
           "Mult": "Mult",
           "Mymr": "birman",
+          "Nand": "nandinagari",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -183,6 +186,7 @@
           "Vaii": "vaï",
           "Visp": "parole visible",
           "Wara": "Wara",
+          "Wcho": "wantcho",
           "Xpeo": "cunéiforme persépolitain",
           "Xsux": "cunéiforme suméro-akkadien",
           "Yiii": "yi",

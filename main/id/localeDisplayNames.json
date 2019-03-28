@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14420 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "id"
       },
@@ -166,6 +166,7 @@
             "hantfin": "Angka Keuangan Tionghoa Tradisional",
             "hebr": "Angka Ibrani",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "Angka Jawa",
             "jpan": "Angka Jepang",
             "jpanfin": "Angka Keuangan Jepang",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Angka Tradisional",
             "vaii": "Angka Vai",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

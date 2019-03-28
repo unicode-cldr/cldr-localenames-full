@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14890 $",
+          "_cldrVersion": "35"
         },
         "language": "sv"
       },
@@ -98,7 +98,7 @@
           "car": "karibiska",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "tjetjenska",
           "ceb": "cebuano",
           "cgg": "chiga",

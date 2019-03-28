@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "si"
       },
@@ -113,6 +113,7 @@
             "hantfin": "සාම්ප්‍රදායික චීන මුල්‍යමය සංඛ්‍යාංකන",
             "hebr": "හීබෲ සංඛ්‍යාංකන",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ජපාන සංඛ්‍යාංකන",
             "jpanfin": "ජපාන මුල්‍යමය සංඛ්‍යාංකන",
@@ -160,7 +161,8 @@
             "tibt": "ටිබෙට ඉලක්කම්",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

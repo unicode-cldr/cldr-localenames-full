@@ -3,8 +3,8 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ee"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Siria nutome",
           "SZ": "Swaziland nutome",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Kunha nutome",
           "TC": "Tɛks kple Kaikos ƒudomekpowo nutome",
           "TD": "Tsad nutome",

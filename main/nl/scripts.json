@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14514 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "nl"
       },
@@ -49,6 +49,7 @@
           "Egyh": "Egyptisch hiëratisch",
           "Egyp": "Egyptische hiërogliefen",
           "Elba": "Elbasan",
+          "Elym": "Elymaisch",
           "Ethi": "Ethiopisch",
           "Geok": "Georgisch Khutsuri",
           "Geor": "Georgisch",
@@ -73,6 +74,7 @@
           "Hira": "Hiragana",
           "Hluw": "Anatolische hiërogliefen",
           "Hmng": "Pahawh Hmong",
+          "Hmnp": "Nyiakeng Puachue Hmong",
           "Hrkt": "Katakana of Hiragana",
           "Hung": "Oudhongaars",
           "Inds": "Indus",
@@ -121,6 +123,7 @@
           "Mtei": "Meitei",
           "Mult": "Multani",
           "Mymr": "Birmaans",
+          "Nand": "Nandinagari",
           "Narb": "Oud Noord-Arabisch",
           "Nbat": "Nabateaans",
           "Newa": "Newari",
@@ -187,6 +190,7 @@
           "Vaii": "Vai",
           "Visp": "Zichtbare spraak",
           "Wara": "Varang Kshiti",
+          "Wcho": "Wancho",
           "Wole": "Woleai",
           "Xpeo": "Oudperzisch",
           "Xsux": "Sumero-Akkadian Cuneiform",

@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14843 $",
+          "_cldrVersion": "35"
         },
         "language": "lv"
       },
@@ -81,7 +81,7 @@
           "car": "karību",
           "cay": "kajuga",
           "cch": "atsamu",
-          "ccp": "ccp",
+          "ccp": "čakmu",
           "ce": "čečenu",
           "ceb": "sebuāņu",
           "cgg": "kiga",
@@ -172,7 +172,6 @@
           "ga": "īru",
           "gaa": "ga",
           "gag": "gagauzu",
-          "gan": "gan",
           "gay": "gajo",
           "gba": "gbaju",
           "gd": "skotu gēlu",
@@ -194,7 +193,6 @@
           "gwi": "kučinu",
           "ha": "hausu",
           "hai": "haidu",
-          "hak": "hak",
           "haw": "havajiešu",
           "he": "ivrits",
           "hi": "hindi",
@@ -204,7 +202,6 @@
           "ho": "hirimotu",
           "hr": "horvātu",
           "hsb": "augšsorbu",
-          "hsn": "hsn",
           "ht": "haitiešu",
           "hu": "ungāru",
           "hup": "hupu",
@@ -342,7 +339,6 @@
           "myv": "erzju",
           "mzn": "mazanderāņu",
           "na": "nauruiešu",
-          "nan": "nan",
           "nap": "neapoliešu",
           "naq": "nama",
           "nb": "norvēģu bukmols",
@@ -523,7 +519,6 @@
           "was": "vašo",
           "wbp": "varlpirī",
           "wo": "volofu",
-          "wuu": "wuu",
           "xal": "kalmiku",
           "xh": "khosu",
           "xog": "sogu",

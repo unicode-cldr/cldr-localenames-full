@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sk"
       },
@@ -172,7 +172,6 @@
           "ga": "írčina",
           "gaa": "ga",
           "gag": "gagauzština",
-          "gan": "gan",
           "gay": "gayo",
           "gba": "gbaja",
           "gd": "škótska gaelčina",
@@ -194,7 +193,6 @@
           "gwi": "kučinčina",
           "ha": "hauština",
           "hai": "haida",
-          "hak": "hak",
           "haw": "havajčina",
           "he": "hebrejčina",
           "hi": "hindčina",
@@ -204,7 +202,6 @@
           "ho": "hiri motu",
           "hr": "chorvátčina",
           "hsb": "hornolužická srbčina",
-          "hsn": "hsn",
           "ht": "haitská kreolčina",
           "hu": "maďarčina",
           "hup": "hupčina",
@@ -342,7 +339,6 @@
           "myv": "erzjančina",
           "mzn": "mázandaránčina",
           "na": "nauruština",
-          "nan": "nan",
           "nap": "neapolčina",
           "naq": "nama",
           "nb": "nórčina (bokmal)",
@@ -523,7 +519,6 @@
           "was": "washo",
           "wbp": "warlpiri",
           "wo": "wolofčina",
-          "wuu": "wuu",
           "xal": "kalmyčtina",
           "xh": "xhoština",
           "xog": "soga",

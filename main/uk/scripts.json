@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "uk"
       },
@@ -49,6 +49,7 @@
           "Egyh": "єгипетський ієратичний",
           "Egyp": "єгипетський ієрогліфічний",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ефіопська",
           "Geok": "кхутсурі",
           "Geor": "грузинська",
@@ -73,6 +74,7 @@
           "Hira": "хірагана",
           "Hluw": "Hluw",
           "Hmng": "пахау хмонг",
+          "Hmnp": "Hmnp",
           "Hrkt": "японські силабарії",
           "Hung": "давньоугорський",
           "Inds": "харапський",
@@ -119,6 +121,7 @@
           "Mtei": "мейтей майєк",
           "Mult": "Mult",
           "Mymr": "мʼянмська",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "нева",
@@ -184,6 +187,7 @@
           "Vaii": "ваї",
           "Visp": "видиме мовлення",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "давньоперський",
           "Xsux": "шумеро-аккадський клінопис",
           "Yiii": "йї",

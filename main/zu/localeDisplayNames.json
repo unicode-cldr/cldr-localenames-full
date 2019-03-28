@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "zu"
       },
@@ -166,6 +166,7 @@
             "hantfin": "izinombolo zosiko zezezimali zesi-Chinese",
             "hebr": "izinombolo zesi-Hebrew",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "izinombolo zesi-Japanese",
             "jpanfin": "izinombolo zezezimali zesi-Japanese",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Izinombolo Ezijwayelekile",
             "vaii": "Izinhlazu Zezinombolo ze-Vai",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

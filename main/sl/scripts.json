@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sl"
       },
@@ -48,6 +48,7 @@
           "Egyh": "hieratska egipčanska pisava",
           "Egyp": "egipčanska slikovna pisava",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopski",
           "Geok": "cerkvenogruzijski",
           "Geor": "gruzijski",
@@ -72,6 +73,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahavhmonska zlogovna pisava",
+          "Hmnp": "Hmnp",
           "Hrkt": "japonska zlogovnica",
           "Hung": "staroogrski",
           "Inds": "induški",
@@ -117,6 +119,7 @@
           "Mtei": "manipurski",
           "Mult": "Mult",
           "Mymr": "mjanmarski",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -182,6 +185,7 @@
           "Vaii": "zlogovna pisava vai",
           "Visp": "vidni govor",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "staroperzijski",
           "Xsux": "sumersko-akadski klinopis",
           "Yiii": "Yiii",

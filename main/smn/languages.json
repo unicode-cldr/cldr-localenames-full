@@ -3,8 +3,8 @@
     "smn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "smn"
       },
@@ -123,7 +123,6 @@
           "fy": "viestârfriisi",
           "ga": "iirikielâ",
           "gaa": "gakielâ",
-          "gan": "gan",
           "gd": "skottilâš gaelikielâ",
           "gez": "ge’ez",
           "gil": "kiribatikielâ",
@@ -137,7 +136,6 @@
           "gv": "manks",
           "gwi": "gwich’inkielâ",
           "ha": "hausakielâ",
-          "hak": "hak",
           "haw": "hawaijikielâ",
           "he": "hepreakielâ",
           "hi": "hindikielâ",
@@ -145,7 +143,6 @@
           "hmn": "hmongkielâ",
           "hr": "kroatiakielâ",
           "hsb": "pajesorbi",
-          "hsn": "hsn",
           "ht": "Haiti kreoli",
           "hu": "uŋgarkielâ",
           "hup": "hupakielâ",
@@ -260,7 +257,6 @@
           "myv": "ersäkielâ",
           "mzn": "mazandarani",
           "na": "naurukielâ",
-          "nan": "nan",
           "nap": "napolikielâ",
           "naq": "nama",
           "nb": "tárukielâ bokmål",
@@ -401,7 +397,6 @@
           "wal": "wolaitakielâ",
           "war": "waraykielâ",
           "wo": "wolofkielâ",
-          "wuu": "wuu",
           "xal": "kalmukkielâ",
           "xh": "xhosakielâ",
           "xog": "soga",

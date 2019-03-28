@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14844 $",
+          "_cldrVersion": "35"
         },
         "language": "cs"
       },
@@ -98,7 +98,7 @@
           "car": "karibština",
           "cay": "kajugština",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "čakma",
           "ce": "čečenština",
           "ceb": "cebuánština",
           "cgg": "kiga",

@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "da",
         "territory": "GL"
@@ -272,7 +272,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Syrien",
-          "SZ": "Swaziland",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Turks- og Caicosøerne",
           "TD": "Tchad",

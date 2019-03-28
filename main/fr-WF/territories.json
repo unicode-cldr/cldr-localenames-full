@@ -3,8 +3,8 @@
     "fr-WF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "fr",
         "territory": "WF"
@@ -272,7 +272,8 @@
           "SV": "Salvador",
           "SX": "Saint-Martin (partie néerlandaise)",
           "SY": "Syrie",
-          "SZ": "Swaziland",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Îles Turques-et-Caïques",
           "TD": "Tchad",
@@ -309,8 +310,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis-et-Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "pseudo-accents",
+          "XB": "pseudo-bidi",
           "XK": "Kosovo",
           "YE": "Yémen",
           "YT": "Mayotte",

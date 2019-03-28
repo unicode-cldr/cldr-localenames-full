@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14843 $",
+          "_cldrVersion": "35"
         },
         "language": "lv"
       },
@@ -46,6 +46,7 @@
           "Egyh": "hierātiskais raksts",
           "Egyp": "ēģiptiešu hieroglifi",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopiešu",
           "Geor": "gruzīnu",
           "Glag": "Glag",
@@ -69,6 +70,7 @@
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "japāņu zilbju alfabēts",
           "Hung": "senungāru",
           "Ital": "vecitāļu",
@@ -111,6 +113,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "birmiešu",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -171,6 +174,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "senperiešu",
           "Xsux": "šumeru-akadiešu ķīļraksts",
           "Yiii": "ji",

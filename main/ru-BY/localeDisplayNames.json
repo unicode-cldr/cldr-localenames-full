@@ -3,8 +3,8 @@
     "ru-BY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ru",
         "territory": "BY"
@@ -167,6 +167,7 @@
             "hantfin": "китайские традиционные цифры (финансы)",
             "hebr": "цифры на иврите",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "яванские цифры",
             "jpan": "японские цифры",
             "jpanfin": "японские цифры (финансы)",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "Традиционная система нумерации",
             "vaii": "Цифры языка вай",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

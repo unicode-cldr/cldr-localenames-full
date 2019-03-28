@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Latn",
@@ -165,7 +165,6 @@
           "ga": "irski",
           "gaa": "ga",
           "gag": "gagauz",
-          "gan": "gan",
           "gay": "gajo",
           "gba": "gbaja",
           "gd": "škotski gelski",
@@ -187,7 +186,6 @@
           "gwi": "gvičinski",
           "ha": "hausa",
           "hai": "haida",
-          "hak": "hak",
           "haw": "havajski",
           "he": "hebrejski",
           "hi": "hindi",
@@ -197,7 +195,6 @@
           "ho": "hiri motu",
           "hr": "hrvatski",
           "hsb": "gornji lužičkosrpski",
-          "hsn": "hsn",
           "ht": "haićanski kreolski",
           "hu": "mađarski",
           "hup": "hupa",
@@ -332,7 +329,6 @@
           "myv": "erzja",
           "mzn": "mazanderanski",
           "na": "nauruski",
-          "nan": "nan",
           "nap": "napuljski",
           "naq": "nama",
           "nb": "norveški bukmol",
@@ -512,7 +508,6 @@
           "was": "vašo",
           "wbp": "varlpiri",
           "wo": "volof",
-          "wuu": "wuu",
           "xal": "kalmički",
           "xh": "isikosa",
           "xog": "soga",

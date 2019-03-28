@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "zu"
       },
@@ -272,6 +272,7 @@
           "SX": "i-Sint Maarten",
           "SY": "i-Syria",
           "SZ": "i-Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "i-Tristan da Cunha",
           "TC": "i-Turks ne-Caicos Islands",
           "TD": "i-Chad",
@@ -308,8 +309,8 @@
           "VU": "i-Vanuatu",
           "WF": "i-Wallis ne-Futuna",
           "WS": "i-Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudo-Accents",
+          "XB": "Pseudo-Bidi",
           "XK": "i-Kosovo",
           "YE": "i-Yemen",
           "YT": "i-Mayotte",

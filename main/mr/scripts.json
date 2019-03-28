@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "mr"
       },
@@ -48,6 +48,7 @@
           "Egyh": "इजिप्शियन हायरेटिक",
           "Egyp": "इजिप्शियन हायरोग्लिफ्स",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ईथिओपिक",
           "Geok": "जॉर्जियन खुत्सुरी",
           "Geor": "जॉर्जियन",
@@ -72,6 +73,7 @@
           "Hira": "हिरागाना",
           "Hluw": "Hluw",
           "Hmng": "पहाउ मंग",
+          "Hmnp": "Hmnp",
           "Hrkt": "जापानी स्वरलिपी",
           "Hung": "पुरातन हंगेरियन",
           "Inds": "सिन्धु",
@@ -117,6 +119,7 @@
           "Mtei": "मेइतेइ मायेक",
           "Mult": "Mult",
           "Mymr": "म्यानमार",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -182,6 +185,7 @@
           "Vaii": "वाई",
           "Visp": "दृश्य संवाद",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "पुरातन फारसी",
           "Xsux": "दृश्यमान भाषा",
           "Yiii": "यी",

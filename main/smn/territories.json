@@ -3,8 +3,8 @@
     "smn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "smn"
       },
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Swazieennâm",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks- já Caicossuolluuh",
           "TD": "Tšad",

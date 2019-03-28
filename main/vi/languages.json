@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "vi"
       },
@@ -95,7 +95,7 @@
           "car": "Tiếng Carib",
           "cay": "Tiếng Cayuga",
           "cch": "Tiếng Atsam",
-          "ccp": "ccp",
+          "ccp": "Tiếng Chakma",
           "ce": "Tiếng Chechen",
           "ceb": "Tiếng Cebuano",
           "cgg": "Tiếng Chiga",

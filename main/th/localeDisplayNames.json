@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14389 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "th"
       },
@@ -166,6 +166,7 @@
             "hantfin": "ตัวเลขทางการเงินแบบตัวเต็มของจีน",
             "hebr": "ตัวเลขฮิบรู",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "ตัวเลขชวา",
             "jpan": "ตัวเลขญี่ปุ่น",
             "jpanfin": "ตัวเลขทางการเงินของญี่ปุ่น",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "ตัวเลขแบบดั้งเดิม",
             "vaii": "ตัวเลขไว",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

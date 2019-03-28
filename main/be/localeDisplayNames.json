@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "be"
       },
@@ -113,6 +113,7 @@
             "hantfin": "кітайскія традыцыйныя лічбы (фінансы)",
             "hebr": "яўрэйскія лічбы",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "японскія лічбы",
             "jpanfin": "японскія лічбы (фінансы)",
@@ -160,7 +161,8 @@
             "tibt": "тыбецкія лічбы",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

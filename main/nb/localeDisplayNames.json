@@ -3,8 +3,8 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14402 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "nb"
       },
@@ -166,6 +166,7 @@
             "hantfin": "tradisjonelle kinesiske finanstall",
             "hebr": "hebraiske tall",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java-tall",
             "jpan": "japanske tall",
             "jpanfin": "japanske finanstall",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Tradisjonelle tall",
             "vaii": "vai-sifre",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sl"
       },
@@ -198,13 +198,13 @@
           "MF": "Saint Martin",
           "MG": "Madagaskar",
           "MH": "Marshallovi otoki",
-          "MK": "Makedonija",
-          "MK-alt-variant": "Makedonija (FYROM)",
+          "MK": "Severna Makedonija",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mjanmar (Burma)",
           "MN": "Mongolija",
           "MO": "Posebno administrativno območje LR Kitajske Macao",
-          "MO-alt-short": "Macao",
+          "MO-alt-short": "Posebno administrativno območje LR Kitajske Macao",
           "MP": "Severni Marianski otoki",
           "MQ": "Martinik",
           "MR": "Mavretanija",
@@ -272,6 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Sirija",
           "SZ": "Svazi",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Otoki Turks in Caicos",
           "TD": "Čad",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis in Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "psevdonaglasi",
+          "XB": "psevdobidi",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

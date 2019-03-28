@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "bn",
         "territory": "IN"
@@ -272,7 +272,8 @@
           "SV": "এল সালভেদর",
           "SX": "সিন্ট মার্টেন",
           "SY": "সিরিয়া",
-          "SZ": "সোয়াজিল্যান্ড",
+          "SZ": "ইসওয়াতিনি",
+          "SZ-alt-variant": "সোয়াজিল্যান্ড",
           "TA": "ট্রিস্টান ডা কুনহা",
           "TC": "তুর্কস ও কাইকোস দ্বীপপুঞ্জ",
           "TD": "চাদ",

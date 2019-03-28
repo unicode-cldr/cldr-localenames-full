@@ -3,8 +3,8 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ig"
       },
@@ -72,7 +72,7 @@
           "BN": "BN",
           "BO": "BO",
           "BQ": "BQ",
-          "BR": "BR",
+          "BR": "Mba Brazil",
           "BS": "BS",
           "BT": "BT",
           "BV": "BV",
@@ -92,7 +92,7 @@
           "CK": "CK",
           "CL": "CL",
           "CM": "CM",
-          "CN": "Chaina",
+          "CN": "Mba China",
           "CO": "CO",
           "CP": "CP",
           "CR": "CR",
@@ -103,7 +103,7 @@
           "CY": "CY",
           "CZ": "CZ",
           "CZ-alt-variant": "CZ",
-          "DE": "DE",
+          "DE": "Mba Germany",
           "DG": "DG",
           "DJ": "DJ",
           "DK": "DK",
@@ -126,9 +126,9 @@
           "FK-alt-variant": "FK",
           "FM": "FM",
           "FO": "FO",
-          "FR": "FR",
+          "FR": "Mba France",
           "GA": "GA",
-          "GB": "GB",
+          "GB": "Mba United Kingdom",
           "GB-alt-short": "GB",
           "GD": "GD",
           "GE": "GE",
@@ -159,16 +159,16 @@
           "IE": "IE",
           "IL": "IL",
           "IM": "IM",
-          "IN": "IN",
+          "IN": "Mba India",
           "IO": "IO",
           "IQ": "IQ",
           "IR": "IR",
           "IS": "IS",
-          "IT": "IT",
+          "IT": "Mba Italy",
           "JE": "JE",
           "JM": "JM",
           "JO": "JO",
-          "JP": "JP",
+          "JP": "Mba Japan",
           "KE": "KE",
           "KG": "KG",
           "KH": "KH",
@@ -249,7 +249,7 @@
           "RE": "RE",
           "RO": "RO",
           "RS": "RS",
-          "RU": "RU",
+          "RU": "Mba Russia",
           "RW": "RW",
           "SA": "SA",
           "SB": "SB",
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "SY",
           "SZ": "SZ",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "TC",
           "TD": "TD",
@@ -294,7 +295,7 @@
           "UG": "UG",
           "UM": "UM",
           "UN": "UN",
-          "US": "US",
+          "US": "Mba United States",
           "US-alt-short": "US",
           "UY": "UY",
           "UZ": "UZ",
@@ -315,7 +316,7 @@
           "ZA": "ZA",
           "ZM": "ZM",
           "ZW": "ZW",
-          "ZZ": "ZZ"
+          "ZZ": "Mpaghara Amaghị"
         }
       }
     }

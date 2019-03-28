@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "sk"
       },
@@ -198,8 +198,8 @@
           "MF": "Svätý Martin (fr.)",
           "MG": "Madagaskar",
           "MH": "Marshallove ostrovy",
-          "MK": "Macedónsko",
-          "MK-alt-variant": "Macedónsko (BJRM)",
+          "MK": "Severné Macedónsko",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mjanmarsko",
           "MN": "Mongolsko",
@@ -272,6 +272,7 @@
           "SX": "Svätý Martin (hol.)",
           "SY": "Sýria",
           "SZ": "Svazijsko",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks a Caicos",
           "TD": "Čad",

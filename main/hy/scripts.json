@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "hy"
       },
@@ -42,6 +42,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "եթովպական",
           "Geor": "վրացական",
           "Glag": "Glag",
@@ -65,6 +66,7 @@
           "Hira": "հիրագանա",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "ճապոնական վանկագիր",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -105,6 +107,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "մյանմարական",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -162,6 +165,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14420 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "id"
       },
@@ -91,7 +91,7 @@
           "car": "Karib",
           "cay": "Cayuga",
           "cch": "Atsam",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Chechen",
           "ceb": "Cebuano",
           "cgg": "Kiga",
@@ -170,8 +170,8 @@
           "fo": "Faroe",
           "fon": "Fon",
           "fr": "Prancis",
-          "fr-CA": "Prancis (Kanada)",
-          "fr-CH": "Prancis (Swiss)",
+          "fr-CA": "Perancis (Kanada)",
+          "fr-CH": "Perancis (Swiss)",
           "frc": "Prancis Cajun",
           "frm": "Prancis Abad Pertengahan",
           "fro": "Prancis Kuno",
@@ -183,7 +183,6 @@
           "ga": "Irlandia",
           "gaa": "Ga",
           "gag": "Gagauz",
-          "gan": "gan",
           "gay": "Gayo",
           "gba": "Gbaya",
           "gd": "Gaelik Skotlandia",
@@ -206,7 +205,6 @@
           "gwi": "Gwich’in",
           "ha": "Hausa",
           "hai": "Haida",
-          "hak": "hak",
           "haw": "Hawaii",
           "he": "Ibrani",
           "hi": "Hindi",
@@ -217,7 +215,6 @@
           "ho": "Hiri Motu",
           "hr": "Kroasia",
           "hsb": "Sorbia Hulu",
-          "hsn": "hsn",
           "ht": "Kreol Haiti",
           "hu": "Hungaria",
           "hup": "Hupa",
@@ -360,7 +357,6 @@
           "myv": "Eryza",
           "mzn": "Mazanderani",
           "na": "Nauru",
-          "nan": "nan",
           "nap": "Neapolitan",
           "naq": "Nama",
           "nb": "Bokmål Norwegia",
@@ -553,7 +549,6 @@
           "was": "Washo",
           "wbp": "Warlpiri",
           "wo": "Wolof",
-          "wuu": "wuu",
           "xal": "Kalmuk",
           "xh": "Xhosa",
           "xog": "Soga",

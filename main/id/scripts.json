@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14420 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "id"
       },
@@ -49,6 +49,7 @@
           "Egyh": "Hieratik Mesir",
           "Egyp": "Hieroglip Mesir",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Etiopia",
           "Geok": "Georgian Khutsuri",
           "Geor": "Georgia",
@@ -73,6 +74,7 @@
           "Hira": "Hiragana",
           "Hluw": "Hieroglif Anatolia",
           "Hmng": "Pahawh Hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "Katakana atau Hiragana",
           "Hung": "Hungaria Kuno",
           "Inds": "Indus",
@@ -121,6 +123,7 @@
           "Mtei": "Meitei Mayek",
           "Mult": "Mult",
           "Mymr": "Myanmar",
+          "Nand": "Nand",
           "Narb": "Arab Utara Kuno",
           "Nbat": "Nabataea",
           "Newa": "Newa",
@@ -187,6 +190,7 @@
           "Vaii": "Vai",
           "Visp": "Ucapan Terlihat",
           "Wara": "Varang Kshiti",
+          "Wcho": "Wcho",
           "Wole": "Woleai",
           "Xpeo": "Persia Kuno",
           "Xsux": "Cuneiform Sumero-Akkadia",

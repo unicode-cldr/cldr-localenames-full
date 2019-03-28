@@ -3,8 +3,8 @@
     "ar-SS": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13880 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "ar",
         "territory": "SS"
@@ -272,7 +272,8 @@
           "SV": "السلفادور",
           "SX": "سانت مارتن",
           "SY": "سوريا",
-          "SZ": "سوازيلاند",
+          "SZ": "إسواتيني",
+          "SZ-alt-variant": "SZ",
           "TA": "تريستان دا كونا",
           "TC": "جزر توركس وكايكوس",
           "TD": "تشاد",

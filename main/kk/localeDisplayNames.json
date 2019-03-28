@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "kk"
       },
@@ -113,6 +113,7 @@
             "hantfin": "Қаржы саласындағы дәстүрлі қытай сандары",
             "hebr": "Иврит сандары",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Жапон сандары",
             "jpanfin": "Қаржы саласындағы жапон сандары",
@@ -160,7 +161,8 @@
             "tibt": "Тибет сандары",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ms",
         "territory": "SG"
@@ -167,6 +167,7 @@
             "hantfin": "Angka Kewangan Cina Tradisional",
             "hebr": "Angka Ibrani",
             "hmng": "Digit Pahawh Hmong",
+            "hmnp": "hmnp",
             "java": "Digit Jawa",
             "jpan": "Angka Jepun",
             "jpanfin": "Angka Kewangan Jepun",
@@ -216,7 +217,8 @@
             "tirh": "Digit Tirhuta",
             "traditional": "Angka Tradisional",
             "vaii": "Digit Vai",
-            "wara": "Digit Warang Citi"
+            "wara": "Digit Warang Citi",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

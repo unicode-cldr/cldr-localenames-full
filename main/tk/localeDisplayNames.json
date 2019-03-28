@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "tk"
       },
@@ -113,6 +113,7 @@
             "hantfin": "Adaty hytaý maliýe sanlary",
             "hebr": "Ýewreý sanlary",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Ýapon sanlary",
             "jpanfin": "Ýapon maliýe sanlary",
@@ -160,7 +161,8 @@
             "tibt": "Tibet sanlary",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

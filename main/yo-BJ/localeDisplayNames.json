@@ -3,8 +3,8 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14453 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "yo",
         "territory": "BJ"
@@ -33,7 +33,7 @@
             "dangi": "dangi",
             "ethiopic": "ethiopic",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "gregorian",
+            "gregorian": "Kàlɛ́ńdà Gregory",
             "hebrew": "hebrew",
             "indian": "indian",
             "islamic": "islamic",
@@ -63,7 +63,7 @@
             "reformed": "reformed",
             "search": "search",
             "searchjl": "searchjl",
-            "standard": "standard",
+            "standard": "Ìlànà Onírúurú Ètò",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -114,6 +114,7 @@
             "hantfin": "hantfin",
             "hebr": "hebr",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "jpan",
             "jpanfin": "jpanfin",
@@ -123,7 +124,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "latn",
+            "latn": "Díjíítì Ìwɔ̀ Oòrùn",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -161,13 +162,14 @@
             "tibt": "tibt",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "Èdè: {0}",
+          "script": "ɔ̀nà ìgbàkɔ̀wé: {0}",
+          "territory": "Àgbègbè: {0}"
         }
       }
     }

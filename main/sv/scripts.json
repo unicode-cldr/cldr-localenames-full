@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14890 $",
+          "_cldrVersion": "35"
         },
         "language": "sv"
       },
@@ -48,6 +48,7 @@
           "Egyh": "hieratiska",
           "Egyp": "egyptiska hieroglyfer",
           "Elba": "elbasiska",
+          "Elym": "elymaiska",
           "Ethi": "etiopiska",
           "Geok": "kutsuri",
           "Geor": "georgiska",
@@ -72,6 +73,7 @@
           "Hira": "hiragana",
           "Hluw": "hittitiska hieroglyfer",
           "Hmng": "pahaw mong",
+          "Hmnp": "nyiakeng puachue hmong",
           "Hrkt": "katakana/hiragana",
           "Hung": "fornungerska",
           "Inds": "indus",
@@ -120,6 +122,7 @@
           "Mtei": "meitei-mayek",
           "Mult": "multaniska",
           "Mymr": "burmesiska",
+          "Nand": "nandinagari",
           "Narb": "fornnordarabiska",
           "Nbat": "nabateiska",
           "Newa": "newariska",
@@ -186,6 +189,7 @@
           "Vaii": "vaj",
           "Visp": "synligt tal",
           "Wara": "varang kshiti",
+          "Wcho": "wancho",
           "Wole": "woleai",
           "Xpeo": "fornpersiska",
           "Xsux": "sumero-akkadisk kilskrift",

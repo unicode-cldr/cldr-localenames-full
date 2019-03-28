@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "dz"
       },
@@ -113,6 +113,7 @@
             "hantfin": "སྔ་དུས་རྒྱ་མིའི་གི་དངུལ་འབྲེལ་ཨང་རྟགས",
             "hebr": "ཧེ་བྲུ་ཨང་རྟགས",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ཇཱ་པཱན་ནིས་ཨང་རྟགས",
             "jpanfin": "ཇཱ་པཱན་ནིས་དངུལ་འབྲེལ་ཨང་རྟགས",
@@ -160,7 +161,8 @@
             "tibt": "ང་བཅས་ཀྱི་ཨང་ཡིག",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

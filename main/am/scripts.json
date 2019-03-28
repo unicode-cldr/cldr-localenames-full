@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14818 $",
+          "_cldrVersion": "35"
         },
         "language": "am"
       },
@@ -43,6 +43,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ኢትዮፒክ",
           "Geor": "ጆርጂያዊ",
           "Glag": "Glag",
@@ -66,6 +67,7 @@
           "Hira": "ሂራጋና",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "ካታካና ወይንም ሂራጋና",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -106,6 +108,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "ምያንማር",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -163,6 +166,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

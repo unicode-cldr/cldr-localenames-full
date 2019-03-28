@@ -3,8 +3,8 @@
     "sw-UG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sw",
         "territory": "UG"
@@ -167,6 +167,7 @@
             "hantfin": "Nambari za Kifedha za Kichina cha Jadi",
             "hebr": "Nambari za Kiebrania",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "Nambari za Kijapani",
             "jpanfin": "Nambari za Kifedha za Kijapani",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "Tarakimu za Jadi",
             "vaii": "Dijiti za Vai",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

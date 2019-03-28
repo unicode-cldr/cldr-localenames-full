@@ -3,8 +3,8 @@
     "ff": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ff"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Sirii",
           "SZ": "Swaasilannda",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Duuɗe Turke e Keikoos",
           "TD": "Caad",

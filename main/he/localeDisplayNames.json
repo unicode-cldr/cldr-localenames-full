@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "he"
       },
@@ -166,6 +166,7 @@
             "hantfin": "ספרות פיננסיות סיניות מסורתיות",
             "hebr": "ספרות עבריות",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ספרות יפניות",
             "jpanfin": "ספרות פיננסיות יפניות",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "ספרות מסורתיות",
             "vaii": "ספרות ואי",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

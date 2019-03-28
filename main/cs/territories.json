@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14844 $",
+          "_cldrVersion": "35"
         },
         "language": "cs"
       },
@@ -198,8 +198,8 @@
           "MF": "Svatý Martin (Francie)",
           "MG": "Madagaskar",
           "MH": "Marshallovy ostrovy",
-          "MK": "Makedonie",
-          "MK-alt-variant": "Makedonie (FYROM)",
+          "MK": "Severní Makedonie",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Barma)",
           "MN": "Mongolsko",
@@ -272,6 +272,7 @@
           "SX": "Svatý Martin (Nizozemsko)",
           "SY": "Sýrie",
           "SZ": "Svazijsko",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks a Caicos",
           "TD": "Čad",
@@ -308,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis a Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "simulovaná diakritika",
+          "XB": "simulovaný obousměrný zápis",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

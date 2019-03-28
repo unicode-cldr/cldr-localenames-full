@@ -3,8 +3,8 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14880 $",
+          "_cldrVersion": "35"
         },
         "language": "yue",
         "script": "Hans"
@@ -200,7 +200,7 @@
           "MG": "马达加斯加",
           "MH": "马绍尔群岛",
           "MK": "马其顿",
-          "MK-alt-variant": "前南斯拉夫马其顿共和国",
+          "MK-alt-variant": "MK",
           "ML": "马利",
           "MM": "缅甸",
           "MN": "蒙古",
@@ -273,6 +273,7 @@
           "SX": "荷属圣马丁",
           "SY": "叙利亚",
           "SZ": "史瓦济兰",
+          "SZ-alt-variant": "SZ",
           "TA": "特里斯坦达库尼亚群岛",
           "TC": "土克斯及开科斯群岛",
           "TD": "查德",
@@ -308,7 +309,7 @@
           "VU": "万那杜",
           "WF": "瓦利斯同富图纳群岛",
           "WS": "萨摩亚",
-          "XA": "XA",
+          "XA": "伪口音",
           "XB": "XB",
           "XK": "科索沃",
           "YE": "叶门",

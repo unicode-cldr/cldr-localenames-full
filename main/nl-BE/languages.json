@@ -3,8 +3,8 @@
     "nl-BE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "nl",
         "territory": "BE"
@@ -99,7 +99,7 @@
           "car": "Caribisch",
           "cay": "Cayuga",
           "cch": "Atsam",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Tsjetsjeens",
           "ceb": "Cebuano",
           "cgg": "Chiga",

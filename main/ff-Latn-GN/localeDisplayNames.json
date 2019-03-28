@@ -3,8 +3,8 @@
     "ff-Latn-GN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14257 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ff",
         "script": "Latn",
@@ -115,6 +115,7 @@
             "hantfin": "hantfin",
             "hebr": "hebr",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "jpan",
             "jpanfin": "jpanfin",
@@ -162,7 +163,8 @@
             "tibt": "tibt",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

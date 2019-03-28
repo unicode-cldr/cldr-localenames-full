@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "gl"
       },
@@ -128,7 +128,6 @@
           "ga": "irlandés",
           "gaa": "ga",
           "gag": "gagauz",
-          "gan": "gan",
           "gd": "gaélico escocés",
           "gez": "ge’ez",
           "gil": "kiribatiano",
@@ -142,7 +141,6 @@
           "gv": "manx",
           "gwi": "gwichʼin",
           "ha": "hausa",
-          "hak": "hak",
           "haw": "hawaiano",
           "he": "hebreo",
           "hi": "hindi",
@@ -150,7 +148,6 @@
           "hmn": "hmong",
           "hr": "croata",
           "hsb": "alto sorbio",
-          "hsn": "hsn",
           "ht": "crioulo haitiano",
           "hu": "húngaro",
           "hup": "hupa",
@@ -266,7 +263,6 @@
           "myv": "erzya",
           "mzn": "mazandaraní",
           "na": "nauruano",
-          "nan": "nan",
           "nap": "napolitano",
           "naq": "nama",
           "nb": "noruegués bokmål",
@@ -409,7 +405,6 @@
           "war": "waray-waray",
           "wbp": "walrpiri",
           "wo": "wólof",
-          "wuu": "wuu",
           "xal": "calmuco",
           "xh": "xhosa",
           "xog": "soga",

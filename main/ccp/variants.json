@@ -3,8 +3,8 @@
     "ccp": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14888 $",
+          "_cldrVersion": "35"
         },
         "language": "ccp"
       },

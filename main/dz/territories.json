@@ -3,8 +3,8 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "dz"
       },
@@ -272,6 +272,7 @@
           "SX": "སིནཊ་ མཱར་ཊེན",
           "SY": "སི་རི་ཡ",
           "SZ": "སུ་ཝ་ཛི་ལེནཌ",
+          "SZ-alt-variant": "SZ",
           "TA": "ཏྲིས་ཏན་ད་ཀུན་ཧ",
           "TC": "ཏུརྐས྄་ ཨེནཌ་ ཀ་ཀོས་གླིང་ཚོམ",
           "TD": "ཅཱཌ",

@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "bn"
       },
@@ -166,6 +166,7 @@
             "hantfin": "ঐতিহ্যবাহী চৈনিক আর্থিক সংখ্যা",
             "hebr": "হিব্রু সংখ্যা",
             "hmng": "পাহয়া মং সংখ্যা",
+            "hmnp": "hmnp",
             "java": "জাভানিজ সংখ্যা",
             "jpan": "জাপানি সংখ্যা",
             "jpanfin": "জাপানি আর্থিক সংখ্যা",
@@ -215,7 +216,8 @@
             "tirh": "তিরহুতা সংখ্যা",
             "traditional": "ঐতিহ্যগত সংখ্যাসূচক",
             "vaii": "ভাই সংখ্যা",
-            "wara": "ওয়ারেং সিটি সংখ্যা"
+            "wara": "ওয়ারেং সিটি সংখ্যা",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "fy"
       },
@@ -49,6 +49,7 @@
           "Egyh": "Egyptysk hiëratysk",
           "Egyp": "Egyptyske hiërogliefen",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Ethiopysk",
           "Geok": "Georgysk Khutsuri",
           "Geor": "Georgysk",
@@ -73,6 +74,7 @@
           "Hira": "Hiragana",
           "Hluw": "Anatolyske hiërogliefen",
           "Hmng": "Pahawh Hmong",
+          "Hmnp": "Hmnp",
           "Hrkt": "Katakana of Hiragana",
           "Hung": "Aldhongaars",
           "Inds": "Indus",
@@ -121,6 +123,7 @@
           "Mtei": "Meitei",
           "Mult": "Mult",
           "Mymr": "Myanmar",
+          "Nand": "Nand",
           "Narb": "Ald Noard-Arabysk",
           "Nbat": "Nabateaansk",
           "Newa": "Newa",
@@ -187,6 +190,7 @@
           "Vaii": "Vai",
           "Visp": "Sichtbere spraak",
           "Wara": "Varang Kshiti",
+          "Wcho": "Wcho",
           "Wole": "Woleai",
           "Xpeo": "Aldperzysk",
           "Xsux": "Sumero-Akkadian Cuneiform",

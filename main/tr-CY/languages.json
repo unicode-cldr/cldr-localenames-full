@@ -3,8 +3,8 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "tr",
         "territory": "CY"
@@ -100,7 +100,7 @@
           "car": "Carib",
           "cay": "Kayuga dili",
           "cch": "Atsam",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Çeçence",
           "ceb": "Sebuano dili",
           "cgg": "Kigaca",

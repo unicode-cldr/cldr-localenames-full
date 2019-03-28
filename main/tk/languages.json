@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "tk"
       },
@@ -56,7 +56,7 @@
           "bug": "bugiý dili",
           "byn": "blin dili",
           "ca": "katalan dili",
-          "ccp": "ccp",
+          "ccp": "çakma dili",
           "ce": "çeçen dili",
           "ceb": "sebuan dili",
           "cgg": "kiga",
@@ -123,7 +123,6 @@
           "fy": "günbatar friz dili",
           "ga": "irland dili",
           "gaa": "ga dili",
-          "gan": "gan",
           "gd": "şotland kelt dili",
           "gez": "geez dili",
           "gil": "gilbert dili",
@@ -136,7 +135,6 @@
           "gv": "men dili",
           "gwi": "gwiçin dili",
           "ha": "hausa dili",
-          "hak": "hak",
           "haw": "gawaý dili",
           "he": "ýewreý dili",
           "hi": "hindi dili",
@@ -144,7 +142,6 @@
           "hmn": "hmong dili",
           "hr": "horwat dili",
           "hsb": "ýokarky lužits dili",
-          "hsn": "hsn",
           "ht": "gaiti kreol dili",
           "hu": "wenger dili",
           "hup": "hupa",
@@ -258,13 +255,12 @@
           "myv": "erzýan dili",
           "mzn": "mazanderan dili",
           "na": "nauru dili",
-          "nan": "nan",
           "nap": "neapolitan dili",
           "naq": "nama dili",
           "nb": "norwegiýa bukmol dili",
           "nd": "demirgazyk ndebele dili",
-          "nds": "nds",
-          "nds-NL": "nds (Niderlandlar)",
+          "nds": "aşaky nemes dili",
+          "nds-NL": "aşaky nemes dili (Niderlandlar)",
           "ne": "nepal dili",
           "new": "newari dili",
           "ng": "ndonga dili",
@@ -395,7 +391,6 @@
           "wal": "wolaýta dili",
           "war": "waraý dili",
           "wo": "wolof dili",
-          "wuu": "wuu",
           "xal": "galmyk dili",
           "xh": "kosa dili",
           "xog": "soga dili",

@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ka"
       },
@@ -272,6 +272,7 @@
           "SX": "სინტ-მარტენი",
           "SY": "სირია",
           "SZ": "სვაზილენდი",
+          "SZ-alt-variant": "სვაზილანდი",
           "TA": "ტრისტან-და-კუნია",
           "TC": "თერქს-ქაიქოსის კუნძულები",
           "TD": "ჩადი",

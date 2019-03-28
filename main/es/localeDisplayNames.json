@@ -3,8 +3,8 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "es"
       },
@@ -166,6 +166,7 @@
             "hantfin": "números financieros en chino tradicional",
             "hebr": "números en hebreo",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "números en japonés",
             "jpanfin": "números financieros en japonés",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Números tradicionales",
             "vaii": "Dígitos vai",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

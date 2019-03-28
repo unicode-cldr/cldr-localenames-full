@@ -3,8 +3,8 @@
     "bm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "bm"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Siri",
           "SZ": "Swazilandi",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Turiki Gun ni Kayiki",
           "TD": "Cadi",

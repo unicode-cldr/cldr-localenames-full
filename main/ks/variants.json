@@ -3,17 +3,17 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14783 $",
+          "_cldrVersion": "35"
         },
         "language": "ks"
       },
       "localeDisplayNames": {
         "variants": {
-          "1901": "رٮ۪وٲتی جٔرمَن عِلمہِ ہِجا",
+          "1901": "رؠوٲتی جٔرمَن عِلمہِ ہِجا",
           "1994": "مَیعٲری روٗسی عِلمہِ ہِجا",
           "1996": "جٔرمَن عِلمہِ ہِجا ۱۹۹۶سُک",
-          "1606NICT": "بعد وَقت وَسطی فرٛانس پٮ۪ٹھ ۱۶٠۶ تام",
+          "1606NICT": "بعد وَقت وَسطی فرانس پؠٹھ ۱۶٠۶ تام",
           "1694ACAD": "1694ACAD",
           "1959ACAD": "1959ACAD",
           "ABL1943": "ABL1943",
@@ -64,12 +64,12 @@
           "LAUKIKA": "LAUKIKA",
           "LEMOSIN": "LEMOSIN",
           "LENGADOC": "LENGADOC",
-          "LIPAW": "روٗسی زَبانہِ ہِنٛز لِپوواز بوٗلۍ",
+          "LIPAW": "روٗسی زَبانہِ ہِنز لِپوواز بوٗلۍ",
           "LUNA1918": "LUNA1918",
           "METELKO": "METELKO",
-          "MONOTON": "اَکٔے لہجہٕ واجٮ۪ن زَبان",
+          "MONOTON": "اَکٔے لہجہٕ واجؠن زَبان",
           "NDYUKA": "NDYUKA",
-          "NEDIS": "نٮ۪ٹِسون بوٗلۍ",
+          "NEDIS": "نؠٹِسون بوٗلۍ",
           "NEWFOUND": "NEWFOUND",
           "NICARD": "NICARD",
           "NJIVA": "نیجِوا بوٗلۍ",
@@ -82,7 +82,7 @@
           "PAMAKA": "PAMAKA",
           "PETR1708": "PETR1708",
           "PINYIN": "PINYIN",
-          "POLYTON": "واریاہ لہجہٕ واجٮ۪ن زَبان",
+          "POLYTON": "واریاہ لہجہٕ واجؠن زَبان",
           "POSIX": "کَمپیوٗٹَر",
           "PROVENC": "PROVENC",
           "PUTER": "PUTER",
@@ -91,7 +91,7 @@
           "ROZAJ": "روٗسی",
           "RUMGR": "RUMGR",
           "SAAHO": "سوہو",
-          "SCOTLAND": "سُکاٹِش مَیعٲری اَنٛگریٖزۍ",
+          "SCOTLAND": "سُکاٹِش مَیعٲری اَنگریٖزۍ",
           "SCOUSE": "سِکوس",
           "SIMPLE": "SIMPLE",
           "SOLBA": "ثٹولوِزا/سولبِکا بوٗلۍ",

@@ -3,14 +3,14 @@
     "eo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14933 $",
+          "_cldrVersion": "35"
         },
         "language": "eo"
       },
       "localeDisplayNames": {
         "territories": {
-          "001": "001",
+          "001": "Mondo",
           "002": "002",
           "003": "003",
           "005": "005",
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Sirio",
           "SZ": "Svazilando",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "TC",
           "TD": "Ĉado",

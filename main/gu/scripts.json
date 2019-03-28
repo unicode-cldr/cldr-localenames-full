@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14402 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "gu"
       },
@@ -48,6 +48,7 @@
           "Egyh": "ઇજિપ્શિયન હાઇરેટિક",
           "Egyp": "ઇજિપ્શિયન હાઇરોગ્લિફ્સ",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ઇથિયોપિક",
           "Geok": "જ્યોર્જિઅન ખુતસુરી",
           "Geor": "જ્યોર્જિઅન",
@@ -72,6 +73,7 @@
           "Hira": "હિરાગાના",
           "Hluw": "Hluw",
           "Hmng": "પહાઉ મોન્ગ",
+          "Hmnp": "Hmnp",
           "Hrkt": "જાપાનીઝ વર્ણમાળા",
           "Hung": "ઓલ્ડ હંગેરિયન",
           "Inds": "સિન્ધુ",
@@ -117,6 +119,7 @@
           "Mtei": "મેઇતેઇ માયેક",
           "Mult": "Mult",
           "Mymr": "મ્યાંમાર",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -182,6 +185,7 @@
           "Vaii": "વાઇ",
           "Visp": "વિસિબલ સ્પીચ",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "જુની ફારસી",
           "Xsux": "સુમેરો અક્કાદિયન સુનિફોર્મ",
           "Yiii": "યી",

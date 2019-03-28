@@ -3,8 +3,8 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "af",
         "territory": "NA"
@@ -44,6 +44,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "Etiopies",
           "Geor": "Georgies",
           "Glag": "Glag",
@@ -67,6 +68,7 @@
           "Hira": "Hiragana",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "Japannese lettergreepskrif",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -107,6 +109,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "Mianmar",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -164,6 +167,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

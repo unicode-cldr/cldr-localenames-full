@@ -3,8 +3,8 @@
     "ta-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ta",
         "territory": "SG"
@@ -167,6 +167,7 @@
             "hantfin": "பாரம்பரிய சீன நிதி எண்கள்",
             "hebr": "ஹீப்ரு எண்கள்",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "ஜப்பானிய எண்கள்",
             "jpanfin": "ஜப்பானிய நிதி எண்கள்",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "பாரம்பரிய எண்கள்",
             "vaii": "வை எண்கள்",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

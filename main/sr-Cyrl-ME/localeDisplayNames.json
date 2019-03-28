@@ -3,8 +3,8 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -168,6 +168,7 @@
             "hantfin": "традиционални кинески финансијски бројеви",
             "hebr": "хебрејски бројеви",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "јапански бројеви",
             "jpanfin": "јапански финансијски бројеви",
@@ -217,7 +218,8 @@
             "tirh": "tirh",
             "traditional": "Традиционални бројеви",
             "vaii": "Ваи цифре",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

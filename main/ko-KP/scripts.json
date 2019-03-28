@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ko",
         "territory": "KP"
@@ -50,6 +50,7 @@
           "Egyh": "고대 이집트 신관문자",
           "Egyp": "고대 이집트 신성문자",
           "Elba": "엘바산 문자",
+          "Elym": "Elym",
           "Ethi": "에티오피아 문자",
           "Geok": "그루지야 쿠츠리 문자",
           "Geor": "조지아 문자",
@@ -74,6 +75,7 @@
           "Hira": "히라가나",
           "Hluw": "아나톨리아 상형문자",
           "Hmng": "파하우 몽 문자",
+          "Hmnp": "Hmnp",
           "Hrkt": "가나",
           "Hung": "고대 헝가리 문자",
           "Inds": "인더스 문자",
@@ -122,6 +124,7 @@
           "Mtei": "메이테이 마옉 문자",
           "Mult": "Mult",
           "Mymr": "미얀마 문자",
+          "Nand": "Nand",
           "Narb": "옛 북부 아라비아 문자",
           "Nbat": "나바테아 문자",
           "Newa": "Newa",
@@ -188,6 +191,7 @@
           "Vaii": "바이 문자",
           "Visp": "시화법",
           "Wara": "바랑 크시티 문자",
+          "Wcho": "Wcho",
           "Wole": "울레아이",
           "Xpeo": "고대 페르시아 문자",
           "Xsux": "수메르-아카드어 설형문자",

@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "et"
       },
@@ -49,6 +49,7 @@
           "Egyh": "egiptuse hieraatiline",
           "Egyp": "egiptuse hieroglüüfkiri",
           "Elba": "Elbasani",
+          "Elym": "Elym",
           "Ethi": "etioopia",
           "Geok": "hutsuri",
           "Geor": "gruusia",
@@ -73,6 +74,7 @@
           "Hira": "hiragana",
           "Hluw": "Anatoolia hieroglüüfkiri",
           "Hmng": "phahau-hmongi kiri",
+          "Hmnp": "Hmnp",
           "Hrkt": "jaapani silpkirjad",
           "Hung": "vanaungari",
           "Inds": "Induse",
@@ -121,6 +123,7 @@
           "Mtei": "meitei",
           "Mult": "Multani",
           "Mymr": "birma",
+          "Nand": "Nand",
           "Narb": "Põhja-Araabia",
           "Nbat": "Nabatea",
           "Newa": "nevari",
@@ -187,6 +190,7 @@
           "Vaii": "vai",
           "Visp": "nähtava kõne",
           "Wara": "hoo",
+          "Wcho": "vantšo",
           "Wole": "voleai",
           "Xpeo": "vanapärsia",
           "Xsux": "sumeri-akadi kiilkiri",

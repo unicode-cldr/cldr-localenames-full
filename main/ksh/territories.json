@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "ksh"
       },
@@ -272,6 +272,7 @@
           "SX": "Zint Maarten",
           "SY": "Sürije",
           "SZ": "ẞwaasiland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunja",
           "TC": "de Enselle Turks un Kaikos",
           "TD": "der Tschadd",

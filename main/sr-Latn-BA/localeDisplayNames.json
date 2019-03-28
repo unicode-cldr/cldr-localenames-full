@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Latn",
@@ -168,6 +168,7 @@
             "hantfin": "tradicionalni kineski finansijski brojevi",
             "hebr": "hebrejski brojevi",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "japanski brojevi",
             "jpanfin": "japanski finansijski brojevi",
@@ -217,7 +218,8 @@
             "tirh": "tirh",
             "traditional": "Tradicionalni brojevi",
             "vaii": "Vai cifre",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

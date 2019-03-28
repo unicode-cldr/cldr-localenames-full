@@ -3,8 +3,8 @@
     "en": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14865 $",
+          "_cldrVersion": "35"
         },
         "language": "en"
       },
@@ -50,6 +50,7 @@
           "Egyh": "Egyptian hieratic",
           "Egyp": "Egyptian hieroglyphs",
           "Elba": "Elbasan",
+          "Elym": "Elymaic",
           "Ethi": "Ethiopic",
           "Geok": "Georgian Khutsuri",
           "Geor": "Georgian",
@@ -74,6 +75,7 @@
           "Hira": "Hiragana",
           "Hluw": "Anatolian Hieroglyphs",
           "Hmng": "Pahawh Hmong",
+          "Hmnp": "Nyiakeng Puachue Hmong",
           "Hrkt": "Japanese syllabaries",
           "Hung": "Old Hungarian",
           "Inds": "Indus",
@@ -122,6 +124,7 @@
           "Mtei": "Meitei Mayek",
           "Mult": "Multani",
           "Mymr": "Myanmar",
+          "Nand": "Nandinagari",
           "Narb": "Old North Arabian",
           "Nbat": "Nabataean",
           "Newa": "Newa",
@@ -188,6 +191,7 @@
           "Vaii": "Vai",
           "Visp": "Visible Speech",
           "Wara": "Varang Kshiti",
+          "Wcho": "Wancho",
           "Wole": "Woleai",
           "Xpeo": "Old Persian",
           "Xsux": "Sumero-Akkadian Cuneiform",

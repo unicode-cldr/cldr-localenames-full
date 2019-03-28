@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14890 $",
+          "_cldrVersion": "35"
         },
         "language": "sv"
       },
@@ -166,6 +166,7 @@
             "hantfin": "traditionellt kinesiskt finansiellt stavade tal",
             "hebr": "hebreiska taltecken",
             "hmng": "pahawh hmong-siffror",
+            "hmnp": "nyiakeng puachue hmong-siffror",
             "java": "javanesiska siffror",
             "jpan": "japanskt stavade tal",
             "jpanfin": "japanskt finansiellt stavade tal",
@@ -215,7 +216,8 @@
             "tirh": "tirhuta-siffror",
             "traditional": "Traditionella siffror",
             "vaii": "vai-siffror",
-            "wara": "varang kshiti-siffror"
+            "wara": "varang kshiti-siffror",
+            "wcho": "wanchosiffror"
           }
         },
         "codePatterns": {

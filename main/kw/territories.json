@@ -3,8 +3,8 @@
     "kw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14856 $",
+          "_cldrVersion": "35"
         },
         "language": "kw"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "SY",
           "SZ": "SZ",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "TC",
           "TD": "TD",

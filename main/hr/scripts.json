@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "hr"
       },
@@ -49,6 +49,7 @@
           "Egyh": "egipatsko hijeratsko pismo",
           "Egyp": "egipatski hijeroglifi",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "etiopsko pismo",
           "Geok": "gruzijsko khutsuri pismo",
           "Geor": "gruzijsko pismo",
@@ -73,6 +74,7 @@
           "Hira": "hiragana pismo",
           "Hluw": "anatolijski hijeroglifi",
           "Hmng": "pahawh hmong pismo",
+          "Hmnp": "Hmnp",
           "Hrkt": "japansko slogovno pismo",
           "Hung": "staro mađarsko pismo",
           "Inds": "indijsko pismo",
@@ -121,6 +123,7 @@
           "Mtei": "meitei mayek pismo",
           "Mult": "Mult",
           "Mymr": "mjanmarsko pismo",
+          "Nand": "Nand",
           "Narb": "staro sjevernoarapsko pismo",
           "Nbat": "nabatejsko pismo",
           "Newa": "Newa",
@@ -187,6 +190,7 @@
           "Vaii": "vai pismo",
           "Visp": "Visible Speech",
           "Wara": "varang kshiti pismo",
+          "Wcho": "Wcho",
           "Wole": "woleai pismo",
           "Xpeo": "staro perzijsko pismo",
           "Xsux": "sumersko-akadsko cuneiform pismo",

@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "hr"
       },
@@ -166,6 +166,7 @@
             "hantfin": "tradicionalni kineski financijski brojevi",
             "hebr": "hebrejski brojevi",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "japanski brojevi",
             "jpanfin": "japanski financijski brojevi",
@@ -215,7 +216,8 @@
             "tirh": "tirh",
             "traditional": "Tradicionalni brojevi",
             "vaii": "Vai znamenke",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

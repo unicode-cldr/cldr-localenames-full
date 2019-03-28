@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "mn"
       },
@@ -113,6 +113,7 @@
             "hantfin": "уламжлалт хятад санхүүгийн тоо",
             "hebr": "еврей тоо",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "япон тоо",
             "jpanfin": "япон санхүүгийн тоо",
@@ -160,7 +161,8 @@
             "tibt": "төвд тоо",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

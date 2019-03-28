@@ -3,8 +3,8 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "uz",
         "script": "Latn"
@@ -114,6 +114,7 @@
             "hantfin": "an’anaviy xitoy raqamlari (moliyaviy)",
             "hebr": "ivrit raqamlari",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "yapon raqamlari",
             "jpanfin": "yapon raqamlari (moliyaviy)",
@@ -161,7 +162,8 @@
             "tibt": "tibet raqamlari",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

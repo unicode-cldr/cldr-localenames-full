@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "pl"
       },
@@ -98,7 +98,7 @@
           "car": "karaibski",
           "cay": "kajuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "czakma",
           "ce": "czeczeński",
           "ceb": "cebuano",
           "cgg": "chiga",

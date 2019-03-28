@@ -3,8 +3,8 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14302 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "chr"
       },
@@ -42,6 +42,7 @@
           "Dupl": "Dupl",
           "Egyp": "Egyp",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "ᎢᏗᏯᏈᎩ",
           "Geor": "ᏦᏥᎠᏂ",
           "Glag": "Glag",
@@ -65,6 +66,7 @@
           "Hira": "ᎯᎳᎦᎾ",
           "Hluw": "Hluw",
           "Hmng": "Hmng",
+          "Hmnp": "Hmnp",
           "Hrkt": "ᏣᏩᏂᏏ ᏧᏃᏴᎩ",
           "Hung": "Hung",
           "Ital": "Ital",
@@ -105,6 +107,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "ᎹᎡᏂᎹᎳ",
+          "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -162,6 +165,7 @@
           "Ugar": "Ugar",
           "Vaii": "Vaii",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
           "Yiii": "Yiii",

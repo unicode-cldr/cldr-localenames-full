@@ -3,8 +3,8 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "af",
         "territory": "NA"
@@ -273,6 +273,7 @@
           "SX": "Sint Maarten",
           "SY": "Sirië",
           "SZ": "Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Turks- en Caicoseilande",
           "TD": "Tsjad",

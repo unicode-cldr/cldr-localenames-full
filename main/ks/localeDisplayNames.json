@@ -3,8 +3,8 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14134 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14783 $",
+          "_cldrVersion": "35"
         },
         "language": "ks"
       },
@@ -26,7 +26,7 @@
         },
         "types": {
           "calendar": {
-            "buddhist": "بُدَن ہُنٛد کیلنڑَر",
+            "buddhist": "بُدَن ہُند کیلنڑَر",
             "chinese": "چیٖنی کیلَنڑَر",
             "coptic": "coptic",
             "dangi": "dangi",
@@ -50,7 +50,7 @@
             "standard": "standard"
           },
           "collation": {
-            "big5han": "رٮ۪وٲتی چیٖنی تِرتیٖب",
+            "big5han": "رؠوٲتی چیٖنی تِرتیٖب",
             "compat": "compat",
             "dictionary": "dictionary",
             "ducet": "ducet",
@@ -63,8 +63,8 @@
             "search": "search",
             "searchjl": "searchjl",
             "standard": "standard",
-            "stroke": "رٮ۪وٲتی چیٖنی سٹروک تَرتیٖب",
-            "traditional": "رٮ۪وٲتی تَرتیٖب",
+            "stroke": "رؠوٲتی چیٖنی سٹروک تَرتیٖب",
+            "traditional": "رؠوٲتی تَرتیٖب",
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
@@ -113,6 +113,7 @@
             "hantfin": "hantfin",
             "hebr": "hebr",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "jpan",
             "jpanfin": "jpanfin",
@@ -160,7 +161,8 @@
             "tibt": "tibt",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

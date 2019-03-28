@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "mn"
       },
@@ -272,6 +272,7 @@
           "SX": "Синт Мартен",
           "SY": "Сири",
           "SZ": "Свазиланд",
+          "SZ-alt-variant": "SZ",
           "TA": "Тристан да Кунъя",
           "TC": "Турк ба Кайкосын Арлууд",
           "TD": "Чад",

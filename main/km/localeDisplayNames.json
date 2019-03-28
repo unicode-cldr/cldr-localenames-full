@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "km"
       },
@@ -113,6 +113,7 @@
             "hantfin": "លេខ​ហិរញ្ញវត្ថុ​ចិន​អក្សរ​ពេញ",
             "hebr": "លេខហេប្រឺ",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "លេខ​ជប៉ុន",
             "jpanfin": "លេខ​ហិរញ្ញវត្ថុ​ជប៉ុន",
@@ -160,7 +161,8 @@
             "tibt": "លេខទីបេ",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

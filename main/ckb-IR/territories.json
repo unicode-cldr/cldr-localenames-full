@@ -3,8 +3,8 @@
     "ckb-IR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "ckb",
         "territory": "IR"
@@ -273,6 +273,7 @@
           "SX": "سینت مارتن",
           "SY": "سووریا",
           "SZ": "سوازیلاند",
+          "SZ-alt-variant": "SZ",
           "TA": "تریستێن دا کوونا",
           "TC": "دوورگەکانی تورکس و کایکۆس",
           "TD": "چاد",

@@ -3,8 +3,8 @@
     "nmg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "nmg"
       },
@@ -272,6 +272,7 @@
           "SX": "SX",
           "SY": "Syria",
           "SZ": "Swaziland",
+          "SZ-alt-variant": "SZ",
           "TA": "TA",
           "TC": "Maŋ́ má Turk na Kaiko",
           "TD": "Tshad",

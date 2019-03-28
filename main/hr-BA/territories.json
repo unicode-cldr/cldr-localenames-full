@@ -3,8 +3,8 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "hr",
         "territory": "BA"
@@ -199,8 +199,8 @@
           "MF": "Saint Martin",
           "MG": "Madagaskar",
           "MH": "Maršalovi Otoci",
-          "MK": "Makedonija",
-          "MK-alt-variant": "Makedonija (BJRM)",
+          "MK": "Sjeverna Makedonija",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mjanmar (Burma)",
           "MN": "Mongolija",
@@ -273,6 +273,7 @@
           "SX": "Sint Maarten",
           "SY": "Sirija",
           "SZ": "Svazi",
+          "SZ-alt-variant": "SZ",
           "TA": "Tristan da Cunha",
           "TC": "Otoci Turks i Caicos",
           "TD": "Čad",
@@ -309,8 +310,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis i Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "pseudo naglasci",
+          "XB": "pseudo bidi",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

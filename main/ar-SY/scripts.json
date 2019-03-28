@@ -3,8 +3,8 @@
     "ar-SY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13880 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14936 $",
+          "_cldrVersion": "35"
         },
         "language": "ar",
         "territory": "SY"
@@ -49,6 +49,7 @@
           "Egyh": "الهيراطيقية",
           "Egyp": "الهيروغليفية",
           "Elba": "Elba",
+          "Elym": "Elym",
           "Ethi": "الأثيوبية",
           "Geok": "الأبجدية الجورجية - أسومتافرلي و نسخري",
           "Geor": "الجورجية",
@@ -73,6 +74,7 @@
           "Hira": "الهيراجانا",
           "Hluw": "Hluw",
           "Hmng": "الباهوه همونج",
+          "Hmnp": "Hmnp",
           "Hrkt": "أبجدية مقطعية يابانية",
           "Hung": "المجرية القديمة",
           "Inds": "اندس - هارابان",
@@ -118,6 +120,7 @@
           "Mtei": "Mtei",
           "Mult": "Mult",
           "Mymr": "الميانمار",
+          "Nand": "Nand",
           "Narb": "العربية الشمالية القديمة",
           "Nbat": "Nbat",
           "Newa": "Newa",
@@ -182,6 +185,7 @@
           "Vaii": "الفاي",
           "Visp": "الكلام المرئي",
           "Wara": "Wara",
+          "Wcho": "Wcho",
           "Xpeo": "الفارسية القديمة",
           "Xsux": "الكتابة المسمارية الأكدية السومرية",
           "Yiii": "اليي",

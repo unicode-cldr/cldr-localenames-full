@@ -3,8 +3,8 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "bs",
         "script": "Latn"
@@ -273,6 +273,7 @@
           "SX": "Sint Marten",
           "SY": "Sirija",
           "SZ": "Svazilend",
+          "SZ-alt-variant": "Svazi",
           "TA": "Tristan da Cunha",
           "TC": "Ostrva Turks i Kaikos",
           "TD": "Čad",

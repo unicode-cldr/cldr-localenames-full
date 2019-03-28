@@ -3,8 +3,8 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14804 $",
+          "_cldrVersion": "35"
         },
         "language": "kok"
       },
@@ -113,6 +113,7 @@
             "hantfin": "पारंपारीक चिनी महसूल संख्या",
             "hebr": "हिब्रू संख्या",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "जपानी संख्या",
             "jpanfin": "जपानी महसूल संख्या",
@@ -160,7 +161,8 @@
             "tibt": "तिबेतियन",
             "tirh": "tirh",
             "vaii": "vaii",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

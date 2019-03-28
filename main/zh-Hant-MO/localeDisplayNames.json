@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hant",
@@ -168,6 +168,7 @@
             "hantfin": "大寫繁體中文數字",
             "hebr": "希伯來數字",
             "hmng": "帕哈苗數字",
+            "hmnp": "hmnp",
             "java": "爪哇文數字",
             "jpan": "小寫日文數字",
             "jpanfin": "大寫日文數字",
@@ -217,7 +218,8 @@
             "tirh": "提爾胡塔數字",
             "traditional": "傳統數字",
             "vaii": "瓦伊文數字",
-            "wara": "瓦蘭齊地數字"
+            "wara": "瓦蘭齊地數字",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,8 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14843 $",
+          "_cldrVersion": "35"
         },
         "language": "ro",
         "territory": "MD"
@@ -167,6 +167,7 @@
             "hantfin": "numerale financiare chinezești tradiționale",
             "hebr": "numerale ebraice",
             "hmng": "hmng",
+            "hmnp": "hmnp",
             "java": "java",
             "jpan": "numerale japoneze",
             "jpanfin": "numerale financiare japoneze",
@@ -216,7 +217,8 @@
             "tirh": "tirh",
             "traditional": "Numere tradiționale",
             "vaii": "Cifre Vai",
-            "wara": "wara"
+            "wara": "wara",
+            "wcho": "wcho"
           }
         },
         "codePatterns": {
