@@ -3,8 +3,8 @@
     "wo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14784 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "wo"
       },
@@ -198,8 +198,8 @@
           "MF": "Saŋ Marteŋ",
           "MG": "Madagaskaar",
           "MH": "Duni Marsaal",
-          "MK": "Maseduwaan",
-          "MK-alt-variant": "Maseduwaan (Réewum yugoslawi gu yàgg ga)",
+          "MK": "Maseduwaan bëj Gànnaar",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Miyanmaar",
           "MN": "Mongoli",

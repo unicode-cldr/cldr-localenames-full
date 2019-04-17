@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "be"
       },
@@ -198,8 +198,8 @@
           "MF": "Сен-Мартэн",
           "MG": "Мадагаскар",
           "MH": "Маршалавы астравы",
-          "MK": "Македонія",
-          "MK-alt-variant": "Македонія (БЮРМ)",
+          "MK": "Паўночная Македонія",
+          "MK-alt-variant": "MK",
           "ML": "Малі",
           "MM": "М’янма (Бірма)",
           "MN": "Манголія",

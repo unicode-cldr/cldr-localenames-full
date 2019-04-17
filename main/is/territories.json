@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "is"
       },
@@ -198,8 +198,8 @@
           "MF": "St. Martin",
           "MG": "Madagaskar",
           "MH": "Marshalleyjar",
-          "MK": "Makedónía",
-          "MK-alt-variant": "Makedónía (Fyrrverandi lýðveldi Júgóslavíu)",
+          "MK": "Norður-Makedónía",
+          "MK-alt-variant": "MK",
           "ML": "Malí",
           "MM": "Mjanmar (Búrma)",
           "MN": "Mongólía",

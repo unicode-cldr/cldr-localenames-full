@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "az",
         "script": "Latn"
@@ -199,8 +199,8 @@
           "MF": "Sent Martin",
           "MG": "Madaqaskar",
           "MH": "Marşal adaları",
-          "MK": "Makedoniya",
-          "MK-alt-variant": "Makedoniya (KYRM)",
+          "MK": "Şimali Makedoniya",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanma",
           "MN": "Monqolustan",

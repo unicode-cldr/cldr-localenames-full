@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "ko"
       },
@@ -198,8 +198,8 @@
           "MF": "생마르탱",
           "MG": "마다가스카르",
           "MH": "마셜 제도",
-          "MK": "마케도니아",
-          "MK-alt-variant": "마케도니아(FYROM)",
+          "MK": "북마케도니아",
+          "MK-alt-variant": "MK",
           "ML": "말리",
           "MM": "미얀마",
           "MN": "몽골",

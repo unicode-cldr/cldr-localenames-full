@@ -3,8 +3,8 @@
     "tt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14785 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "tt"
       },
@@ -198,8 +198,8 @@
           "MF": "Сент-Мартин",
           "MG": "Мадагаскар",
           "MH": "Маршалл утраулары",
-          "MK": "MK",
-          "MK-alt-variant": "Македония (Македония Элекке Югославия Республикасы)",
+          "MK": "Төньяк Македония",
+          "MK-alt-variant": "MK",
           "ML": "Мали",
           "MM": "MM",
           "MN": "Монголия",

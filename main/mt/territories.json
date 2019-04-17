@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14772 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "mt"
       },
@@ -198,8 +198,8 @@
           "MF": "Saint Martin",
           "MG": "Madagascar",
           "MH": "Gżejjer Marshall",
-          "MK": "l-Eks-Repubblika Jugoslava tal-Maċedonia",
-          "MK-alt-variant": "l-Eks Repubblika Jugoslava tal-Maċedonia",
+          "MK": "il-Maċedonja ta’ Fuq",
+          "MK-alt-variant": "MK",
           "ML": "il-Mali",
           "MM": "il-Myanmar/Burma",
           "MN": "il-Mongolja",

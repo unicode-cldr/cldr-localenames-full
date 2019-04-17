@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "hy"
       },
@@ -198,8 +198,8 @@
           "MF": "Սեն Մարտեն",
           "MG": "Մադագասկար",
           "MH": "Մարշալյան կղզիներ",
-          "MK": "Մակեդոնիա",
-          "MK-alt-variant": "Մակեդոնիա (ՄՆՀՀ)",
+          "MK": "Հյուսիսային Մակեդոնիա",
+          "MK-alt-variant": "MK",
           "ML": "Մալի",
           "MM": "Մյանմա (Բիրմա)",
           "MN": "Մոնղոլիա",

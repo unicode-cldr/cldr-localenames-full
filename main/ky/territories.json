@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "ky"
       },
@@ -198,8 +198,8 @@
           "MF": "Сент-Мартин",
           "MG": "Мадагаскар",
           "MH": "Маршалл аралдары",
-          "MK": "Македония",
-          "MK-alt-variant": "Македония (Мур. Югосл.)",
+          "MK": "Түндүк Македония",
+          "MK-alt-variant": "MK",
           "ML": "Мали",
           "MM": "Мьянма (Бирма)",
           "MN": "Монголия",

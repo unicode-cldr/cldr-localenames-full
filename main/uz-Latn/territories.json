@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "uz",
         "script": "Latn"
@@ -199,8 +199,8 @@
           "MF": "Sent-Martin",
           "MG": "Madagaskar",
           "MH": "Marshall orollari",
-          "MK": "Makedoniya",
-          "MK-alt-variant": "Makedoniya (SYRM)",
+          "MK": "Shimoliy Makedoniya",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanma (Birma)",
           "MN": "Mongoliya",

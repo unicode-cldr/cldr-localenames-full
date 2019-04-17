@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "ro",
         "territory": "MD"
@@ -199,8 +199,8 @@
           "MF": "Sfântul Martin",
           "MG": "Madagascar",
           "MH": "Insulele Marshall",
-          "MK": "Republica Macedonia",
-          "MK-alt-variant": "Republica Macedonia (FRIM)",
+          "MK": "Macedonia de Nord",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",
           "MN": "Mongolia",

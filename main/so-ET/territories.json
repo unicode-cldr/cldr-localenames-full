@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "so",
         "territory": "ET"
@@ -199,8 +199,8 @@
           "MF": "St. Maartin",
           "MG": "Madagaskar",
           "MH": "Jasiiradda Maarshal",
-          "MK": "Masedooniya",
-          "MK-alt-variant": "Masedooniya (FYROM)",
+          "MK": "Masedooniya Waqooyi",
+          "MK-alt-variant": "MK",
           "ML": "Maali",
           "MM": "Miyanmar",
           "MN": "Mongooliya",

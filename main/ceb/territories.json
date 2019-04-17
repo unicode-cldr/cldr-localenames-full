@@ -3,8 +3,8 @@
     "ceb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14933 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "ceb"
       },
@@ -198,7 +198,7 @@
           "MF": "MF",
           "MG": "MG",
           "MH": "MH",
-          "MK": "MK",
+          "MK": "Amihanang Macedonia",
           "MK-alt-variant": "MK",
           "ML": "ML",
           "MM": "MM",

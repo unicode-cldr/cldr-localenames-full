@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "ga"
       },
@@ -198,8 +198,8 @@
           "MF": "Saint-Martin",
           "MG": "Madagascar",
           "MH": "Oileáin Marshall",
-          "MK": "an Mhacadóin",
-          "MK-alt-variant": "an Mhacadóin (PIIM)",
+          "MK": "an Mhacadóin Thuaidh",
+          "MK-alt-variant": "MK",
           "ML": "Mailí",
           "MM": "Maenmar (Burma)",
           "MN": "an Mhongóil",

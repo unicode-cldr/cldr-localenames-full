@@ -3,8 +3,8 @@
     "ti": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "ti"
       },
@@ -198,8 +198,8 @@
           "MF": "ሴንት ማርቲን",
           "MG": "ማዳጋስካር",
           "MH": "ማርሻል አይላንድ",
-          "MK": "ማከዶኒያ",
-          "MK-alt-variant": "መቄዶኒያ",
+          "MK": "ሰሜን መቆዶንያ",
+          "MK-alt-variant": "MK",
           "ML": "ማሊ",
           "MM": "ማያንማር",
           "MN": "ሞንጎሊያ",

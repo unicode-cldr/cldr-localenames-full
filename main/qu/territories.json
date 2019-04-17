@@ -3,8 +3,8 @@
     "qu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "qu"
       },
@@ -198,7 +198,7 @@
           "MF": "San Martín",
           "MG": "Madagascar",
           "MH": "Islas Marshall",
-          "MK": "ERY Macedonia",
+          "MK": "Macedonia del Norte",
           "MK-alt-variant": "MK",
           "ML": "Malí",
           "MM": "Myanmar",

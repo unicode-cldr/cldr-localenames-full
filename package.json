@@ -1,8 +1,8 @@
 {
   "name": "cldr-localenames-full",
-  "version": "35.0.0",
+  "version": "35.1.0",
   "peerDependencies": {
-    "cldr-core": "35.0.0"
+    "cldr-core": "35.1.0"
   },
   "homepage": "http://cldr.unicode.org",
   "author": "The Unicode Consortium",

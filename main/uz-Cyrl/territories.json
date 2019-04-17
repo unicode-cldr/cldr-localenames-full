@@ -3,8 +3,8 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -199,8 +199,8 @@
           "MF": "Сент-Мартин",
           "MG": "Мадагаскар",
           "MH": "Маршал ороллари",
-          "MK": "Македония",
-          "MK-alt-variant": "Македония (МСЮР)",
+          "MK": "Шимолий Македония",
+          "MK-alt-variant": "MK",
           "ML": "Мали",
           "MM": "Мьянма (Бирма)",
           "MN": "Монголия",

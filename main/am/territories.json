@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14818 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "am"
       },
@@ -198,8 +198,8 @@
           "MF": "ሴንት ማርቲን",
           "MG": "ማዳጋስካር",
           "MH": "ማርሻል አይላንድ",
-          "MK": "መቄዶንያ",
-          "MK-alt-variant": "መቄዶንያ (የቀድሞ የዩጎስላቭ መቄዶንያ ሪፐብሊክ)",
+          "MK": "ሰሜን መቄዶንያ",
+          "MK-alt-variant": "MK",
           "ML": "ማሊ",
           "MM": "ማይናማር(በርማ)",
           "MN": "ሞንጎሊያ",

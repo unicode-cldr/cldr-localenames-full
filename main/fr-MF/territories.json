@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "fr",
         "territory": "MF"
@@ -199,8 +199,8 @@
           "MF": "Saint-Martin",
           "MG": "Madagascar",
           "MH": "Îles Marshall",
-          "MK": "Macédoine",
-          "MK-alt-variant": "Macédoine (ARYM)",
+          "MK": "Macédoine du Nord",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birmanie)",
           "MN": "Mongolie",

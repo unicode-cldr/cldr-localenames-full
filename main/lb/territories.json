@@ -3,8 +3,8 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "lb"
       },
@@ -198,8 +198,8 @@
           "MF": "St. Martin",
           "MG": "Madagaskar",
           "MH": "Marshallinselen",
-          "MK": "Mazedonien",
-          "MK-alt-variant": "Mazedonien (EJR)",
+          "MK": "Nordmazedonien",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",
           "MN": "Mongolei",

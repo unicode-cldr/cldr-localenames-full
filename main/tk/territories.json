@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14886 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "tk"
       },
@@ -198,8 +198,8 @@
           "MF": "Sen-Marten",
           "MG": "Madagaskar",
           "MH": "Marşall adalary",
-          "MK": "Makedoniýa",
-          "MK-alt-variant": "Makedoniýa (ÖÝR)",
+          "MK": "Demirgazyk Makedoniýa",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mýanma (Burma)",
           "MN": "Mongoliýa",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "ur",
         "territory": "IN"
@@ -199,8 +199,8 @@
           "MF": "سینٹ مارٹن",
           "MG": "مڈغاسکر",
           "MH": "جزائر مارشل",
-          "MK": "مقدونیہ",
-          "MK-alt-variant": "مقدونیہ (FYROM)",
+          "MK": "شمالی مقدونیہ",
+          "MK-alt-variant": "MK",
           "ML": "مالی",
           "MM": "میانمار (برما)",
           "MN": "منگولیا",

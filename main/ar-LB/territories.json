@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35"
+          "_cldrVersion": "35.1"
         },
         "language": "ar",
         "territory": "LB"
@@ -199,8 +199,8 @@
           "MF": "سان مارتن",
           "MG": "مدغشقر",
           "MH": "جزر مارشال",
-          "MK": "مقدونيا",
-          "MK-alt-variant": "مقدونيا- جمهورية مقدونيا اليوغسلافية السابقة",
+          "MK": "مقدونيا الشمالية",
+          "MK-alt-variant": "MK",
           "ML": "مالي",
           "MM": "ميانمار (بورما)",
           "MN": "منغوليا",

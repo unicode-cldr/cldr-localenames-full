@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35"
+          "_number": "$Revision: 14982 $",
+          "_cldrVersion": "35.1"
         },
         "language": "gl"
       },
@@ -198,8 +198,8 @@
           "MF": "Saint Martin",
           "MG": "Madagascar",
           "MH": "Illas Marshall",
-          "MK": "Macedonia",
-          "MK-alt-variant": "Macedonia (ARIM)",
+          "MK": "Macedonia do Norte",
+          "MK-alt-variant": "MK",
           "ML": "Malí",
           "MM": "Myanmar (Birmania)",
           "MN": "Mongolia",
