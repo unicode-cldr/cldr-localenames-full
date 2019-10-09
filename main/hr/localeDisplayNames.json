@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Engleska",
-          "gbsct": "Škotska",
-          "gbwls": "Wales"
-        },
         "keys": {
           "calendar": "kalendar",
           "cf": "Format valute",

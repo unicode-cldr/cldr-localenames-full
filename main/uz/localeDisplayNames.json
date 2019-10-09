@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Angliya",
-          "gbsct": "Shotlandiya",
-          "gbwls": "Uels"
-        },
         "keys": {
           "calendar": "taqvim",
           "cf": "valyuta formati",

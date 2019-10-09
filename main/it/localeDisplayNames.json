@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Inghilterra",
-          "gbsct": "Scozia",
-          "gbwls": "Galles"
-        },
         "keys": {
           "calendar": "Calendario",
           "cf": "Formato valuta",

@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}:‏ {1}"
         },
-        "subdivisions": {
-          "gbeng": "אנגליה",
-          "gbsct": "סקוטלנד",
-          "gbwls": "וויילס"
-        },
         "keys": {
           "calendar": "לוח שנה",
           "cf": "תבנית מטבע",

@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "ఇంగ్లండ్",
-          "gbsct": "స్కాట్లాండ్",
-          "gbwls": "వేల్స్"
-        },
         "keys": {
           "calendar": "క్యాలెండర్",
           "cf": "కరెన్సీ ఫార్మాట్",

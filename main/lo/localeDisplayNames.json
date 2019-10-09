@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "ອັງກິດ",
-          "gbsct": "ສະກັອດແລນ",
-          "gbwls": "ເວລສ໌"
-        },
         "keys": {
           "calendar": "ປະຕິທິນ",
           "cf": "ຮູບແບບສະກຸນເງິນ",

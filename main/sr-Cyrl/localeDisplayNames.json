@@ -14,11 +14,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Енглеска",
-          "gbsct": "Шкотска",
-          "gbwls": "Велс"
-        },
         "keys": {
           "calendar": "календар",
           "cf": "формат валуте",

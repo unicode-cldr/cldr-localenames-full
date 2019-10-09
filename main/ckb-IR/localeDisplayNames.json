@@ -14,11 +14,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "ئینگلاند",
-          "gbsct": "سکۆتلەندا",
-          "gbwls": "وەیڵز"
-        },
         "keys": {
           "calendar": "calendar",
           "cf": "cf",

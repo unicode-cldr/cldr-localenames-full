@@ -14,11 +14,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Anglia",
-          "gbsct": "Scoția",
-          "gbwls": "Țara Galilor"
-        },
         "keys": {
           "calendar": "calendar",
           "cf": "Format monedă",

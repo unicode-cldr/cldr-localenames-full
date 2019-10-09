@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "ਇੰਗਲੈਂਡ",
-          "gbsct": "ਸਕਾਟਲੈਂਡ",
-          "gbwls": "ਵੇਲਸ"
-        },
         "keys": {
           "calendar": "ਕੈਲੰਡਰ",
           "cf": "ਮੁਦਰਾ ਬਣਤਰ",

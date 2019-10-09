@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Anglija",
-          "gbsct": "Skotija",
-          "gbwls": "Velsa"
-        },
         "keys": {
           "calendar": "Kalendārs",
           "cf": "valūtas formāts",

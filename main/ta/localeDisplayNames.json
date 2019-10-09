@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "இங்கிலாந்து",
-          "gbsct": "ஸ்காட்லாந்து",
-          "gbwls": "வேல்ஸ்"
-        },
         "keys": {
           "calendar": "நாள்காட்டி",
           "cf": "நாணய வடிவம்",

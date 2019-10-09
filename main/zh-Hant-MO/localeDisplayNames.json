@@ -15,11 +15,6 @@
           "localeSeparator": "{0}，{1}",
           "localeKeyTypePattern": "{0}：{1}"
         },
-        "subdivisions": {
-          "gbeng": "英格蘭",
-          "gbsct": "蘇格蘭",
-          "gbwls": "威爾斯"
-        },
         "keys": {
           "calendar": "曆法",
           "cf": "貨幣格式",

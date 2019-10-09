@@ -14,11 +14,6 @@
           "localeSeparator": "{0}，{1}",
           "localeKeyTypePattern": "{0}：{1}"
         },
-        "subdivisions": {
-          "gbeng": "英格兰",
-          "gbsct": "苏格兰",
-          "gbwls": "威尔士"
-        },
         "keys": {
           "calendar": "日历",
           "cf": "货币格式",

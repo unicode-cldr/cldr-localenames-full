@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0} : {1}"
         },
-        "subdivisions": {
-          "gbeng": "Bro-Saoz",
-          "gbsct": "Skos",
-          "gbwls": "Kembre"
-        },
         "keys": {
           "calendar": "deiziadur",
           "cf": "furmad moneiz",

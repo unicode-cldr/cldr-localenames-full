@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "ഇംഗ്ലണ്ട്",
-          "gbsct": "സ്‌കോട്ട്‌ലന്റ്",
-          "gbwls": "വെയിൽസ്"
-        },
         "keys": {
           "calendar": "കലണ്ടർ",
           "cf": "കറൻസി ഫോർമാറ്റ്",

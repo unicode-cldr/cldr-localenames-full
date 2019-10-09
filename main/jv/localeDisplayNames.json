@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Inggris",
-          "gbsct": "Skotlandia",
-          "gbwls": "Wales"
-        },
         "keys": {
           "calendar": "Tanggalan",
           "cf": "Format Mata Uang",

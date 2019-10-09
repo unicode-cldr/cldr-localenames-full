@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "ઈંગ્લેન્ડ",
-          "gbsct": "સ્કોટલેન્ડ",
-          "gbwls": "વોલ્સ"
-        },
         "keys": {
           "calendar": "કેલેન્ડર",
           "cf": "ચલણી બંધારણ",

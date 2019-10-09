@@ -14,11 +14,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Angli",
-          "gbsct": "Skoci",
-          "gbwls": "Uells"
-        },
         "keys": {
           "calendar": "Kalendari",
           "cf": "Formati valutor",

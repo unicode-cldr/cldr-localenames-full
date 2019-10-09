@@ -14,11 +14,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "잉글랜드",
-          "gbsct": "스코틀랜드",
-          "gbwls": "웨일즈"
-        },
         "keys": {
           "calendar": "달력",
           "cf": "통화 형식",

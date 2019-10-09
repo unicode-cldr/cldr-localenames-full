@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Ilẹ̀gẹ̀ẹ́sì",
-          "gbsct": "Skọ́tlándì",
-          "gbwls": "Wélsì"
-        },
         "keys": {
           "calendar": "calendar",
           "cf": "cf",

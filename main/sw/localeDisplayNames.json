@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "Uingereza",
-          "gbsct": "Uskoti",
-          "gbwls": "Welisi"
-        },
         "keys": {
           "calendar": "Kalenda",
           "cf": "Mpangilio wa Sarafu",

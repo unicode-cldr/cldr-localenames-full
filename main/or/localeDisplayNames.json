@@ -13,11 +13,6 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
-        "subdivisions": {
-          "gbeng": "ଇଂଲଣ୍ଡ",
-          "gbsct": "ସ୍କଟଲ୍ୟାଣ୍ଡ",
-          "gbwls": "ୱେଲ୍ସ"
-        },
         "keys": {
           "calendar": "କ୍ୟାଲେଣ୍ଡର୍",
           "cf": "ମୁଦ୍ରା ଫର୍ମାଟ୍‌",
