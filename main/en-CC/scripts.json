@@ -3,8 +3,7 @@
     "en-CC": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "CC"
@@ -148,7 +147,7 @@
           "Phnx": "Phoenician",
           "Plrd": "Pollard Phonetic",
           "Prti": "Inscriptional Parthian",
-          "Qaag": "Qaag",
+          "Qaag": "Zawgyi",
           "Rjng": "Rejang",
           "Rohg": "Hanifi Rohingya",
           "Roro": "Rongorongo",

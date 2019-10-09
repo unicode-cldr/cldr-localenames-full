@@ -3,8 +3,7 @@
     "chr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "chr"
       },
@@ -58,7 +57,7 @@
           "AW": "ᎠᎷᏆ",
           "AX": "ᎣᎴᏅᏓ ᏚᎦᏚᏛᎢ",
           "AZ": "ᎠᏎᏆᏣᏂ",
-          "BA": "ᏉᏏᏂᎠ & ᎲᏤᎪᏫ",
+          "BA": "ᏉᏏᏂᎠ & ᎲᏤᎪᏫᎾ",
           "BB": "ᏆᏇᏙᏍ",
           "BD": "ᏆᏂᎦᎵᏕᏍ",
           "BE": "ᏇᎵᏥᎥᎻ",

@@ -3,8 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14827 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mk"
       },
@@ -272,7 +271,7 @@
           "SX": "Свети Мартин",
           "SY": "Сирија",
           "SZ": "Свазиленд",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Свазиленд",
           "TA": "Тристан да Куња",
           "TC": "Острови Туркс и Каикос",
           "TD": "Чад",

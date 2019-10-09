@@ -3,8 +3,7 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zh",
         "script": "Hant",
@@ -37,6 +36,7 @@
           "BISKE": "聖喬治/比拉方言",
           "BOHORIC": "波赫力字母",
           "BOONT": "布恩特林方言",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "1945 年巴西葡萄牙文拼字標準",
           "CORNU": "CORNU",

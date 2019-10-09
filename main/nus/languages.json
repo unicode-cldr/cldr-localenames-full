@@ -3,8 +3,7 @@
     "nus": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nus"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Thok yurubani",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Thok cayna",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Thok cayna (Hans)",
+          "zh-Hans-alt-long": "Thok cayna (Hans)",
           "zh-Hant": "Thok cayna (Hant)",
+          "zh-Hant-alt-long": "Thok cayna (Hant)",
           "zu": "Thok dhuluni",
           "zxx": "zxx"
         }

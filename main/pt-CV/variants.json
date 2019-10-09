@@ -3,8 +3,7 @@
     "pt-CV": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt",
         "territory": "CV"
@@ -36,6 +35,7 @@
           "BISKE": "dialeto san giorgio/bila",
           "BOHORIC": "BOHORIC",
           "BOONT": "boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "Convenção Ortográfica Luso-Brasileira de 1945",
           "CORNU": "CORNU",

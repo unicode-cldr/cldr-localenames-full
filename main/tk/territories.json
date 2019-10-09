@@ -3,8 +3,7 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tk"
       },
@@ -204,7 +203,7 @@
           "MM": "Mýanma (Burma)",
           "MN": "Mongoliýa",
           "MO": "Makau AAS Hytaý",
-          "MO-alt-short": "Makau",
+          "MO-alt-short": "Makao",
           "MP": "Demirgazyk Mariana adalary",
           "MQ": "Martinika",
           "MR": "Mawritaniýa",
@@ -271,8 +270,8 @@
           "SV": "Salwador",
           "SX": "Sint-Marten",
           "SY": "Siriýa",
-          "SZ": "Swazilend",
-          "SZ-alt-variant": "SZ",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Swazilend",
           "TA": "Tristan-da-Kunýa",
           "TC": "Terks we Kaýkos adalary",
           "TD": "Çad",

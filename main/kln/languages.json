@@ -3,8 +3,7 @@
     "kln": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kln"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "kutitab Yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "kutitab China",
+          "zh-alt-menu": "zh",
           "zh-Hans": "kutitab China (Hans)",
+          "zh-Hans-alt-long": "kutitab China (Hans)",
           "zh-Hant": "kutitab China (Hant)",
+          "zh-Hant-alt-long": "kutitab China (Hant)",
           "zu": "kutitab Zulu",
           "zxx": "zxx"
         }

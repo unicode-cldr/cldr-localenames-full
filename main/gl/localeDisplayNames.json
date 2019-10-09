@@ -3,8 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gl"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Inglaterra",
+          "gbsct": "Escocia",
+          "gbwls": "Gales"
         },
         "keys": {
           "calendar": "calendario",
@@ -30,9 +34,9 @@
           "lb": "estilo de quebra de liña",
           "ms": "sistema internacional de unidades",
           "numbers": "números",
-          "timezone": "Fuso horario",
-          "va": "Variante local",
-          "x": "Uso privado"
+          "timezone": "fuso horario",
+          "va": "variante rexional",
+          "x": "uso privado"
         },
         "types": {
           "calendar": {
@@ -123,7 +127,7 @@
             "h24": "sistema de 24 horas (1–24)"
           },
           "lb": {
-            "loose": "estilo de quebra de liña separada",
+            "loose": "estilo de quebra de liña flexible",
             "normal": "estilo de quebra de liña normal",
             "strict": "estilo de quebra de liña estrita"
           },
@@ -138,8 +142,8 @@
           },
           "numbers": {
             "ahom": "ahom",
-            "arab": "díxitos arábigo-índicos",
-            "arabext": "díxitos arábigo-índicos ampliados",
+            "arab": "díxitos indoarábigos",
+            "arabext": "díxitos indoarábigos ampliados",
             "armn": "numeración armenia",
             "armnlow": "numeración armenia en minúscula",
             "bali": "bali",
@@ -157,7 +161,7 @@
             "gonm": "gonm",
             "grek": "numeración grega",
             "greklow": "numeración grega en minúscula",
-            "gujr": "díxitos guxaratís",
+            "gujr": "díxitos guxaratis",
             "guru": "díxitos do gurmukhi",
             "hanidec": "numeración decimal chinesa",
             "hans": "numeración chinesa simplificada",
@@ -172,7 +176,7 @@
             "jpanfin": "numeración financeira xaponesa",
             "kali": "kali",
             "khmr": "díxitos khmer",
-            "knda": "díxitos canareses",
+            "knda": "díxitos kannarás",
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "díxitos laosianos",
@@ -195,7 +199,7 @@
             "native": "Díxitos orixinais",
             "nkoo": "nkoo",
             "olck": "olck",
-            "orya": "díxitos do oriá",
+            "orya": "díxitos do odiá",
             "osma": "osma",
             "rohg": "rohg",
             "roman": "numeración romana",
@@ -222,7 +226,7 @@
         },
         "codePatterns": {
           "language": "Idioma: {0}",
-          "script": "Alfabeto: {0}",
+          "script": "Sistema de escritura: {0}",
           "territory": "Rexión: {0}"
         }
       }

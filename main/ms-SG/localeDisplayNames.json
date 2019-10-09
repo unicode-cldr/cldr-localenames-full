@@ -3,8 +3,7 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ms",
         "territory": "SG"
@@ -14,6 +13,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "England",
+          "gbsct": "Scotland",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "Kalendar",
@@ -154,7 +158,7 @@
             "finance": "Angka Kewangan",
             "fullwide": "Digit Lebar Penuh",
             "geor": "Angka Georgia",
-            "gong": "gong",
+            "gong": "Digit Gunjala Gondi",
             "gonm": "Digit Masaram Gondi",
             "grek": "Angka Greek",
             "greklow": "Angka Huruf Kecil Greek",
@@ -167,7 +171,7 @@
             "hantfin": "Angka Kewangan Cina Tradisional",
             "hebr": "Angka Ibrani",
             "hmng": "Digit Pahawh Hmong",
-            "hmnp": "hmnp",
+            "hmnp": "Digit Nyiakeng Puachue Hmong",
             "java": "Digit Jawa",
             "jpan": "Angka Jepun",
             "jpanfin": "Angka Kewangan Jepun",
@@ -198,7 +202,7 @@
             "olck": "Digit Ol Chiki",
             "orya": "Digit Oriya",
             "osma": "Digit Osmanya",
-            "rohg": "rohg",
+            "rohg": "Digit Hanifi Rohingya",
             "roman": "Angka Roman",
             "romanlow": "Angka Huruf Kecil Roman",
             "saur": "Digit Saurashtra",
@@ -218,7 +222,7 @@
             "traditional": "Angka Tradisional",
             "vaii": "Digit Vai",
             "wara": "Digit Warang Citi",
-            "wcho": "wcho"
+            "wcho": "Digit Wancho"
           }
         },
         "codePatterns": {

@@ -3,8 +3,7 @@
     "ca-IT": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ca",
         "territory": "IT"
@@ -61,7 +60,7 @@
           "AZ": "Azerbaidjan",
           "BA": "Bòsnia i Hercegovina",
           "BB": "Barbados",
-          "BD": "Bangla Desh",
+          "BD": "Bangladesh",
           "BE": "Bèlgica",
           "BF": "Burkina Faso",
           "BG": "Bulgària",
@@ -83,13 +82,13 @@
           "CA": "Canadà",
           "CC": "Illes Cocos",
           "CD": "Congo - Kinshasa",
-          "CD-alt-variant": "Congo (República Democràtica del Congo)",
+          "CD-alt-variant": "Congo (RDC)",
           "CF": "República Centreafricana",
           "CG": "Congo - Brazzaville",
           "CG-alt-variant": "Congo (República del Congo)",
           "CH": "Suïssa",
-          "CI": "Costa d’Ivori",
-          "CI-alt-variant": "CI",
+          "CI": "Côte d’Ivoire",
+          "CI-alt-variant": "Costa d’Ivori",
           "CK": "Illes Cook",
           "CL": "Xile",
           "CM": "Camerun",
@@ -137,7 +136,7 @@
           "GG": "Guernsey",
           "GH": "Ghana",
           "GI": "Gibraltar",
-          "GL": "Grenlàndia",
+          "GL": "Groenlàndia",
           "GM": "Gàmbia",
           "GN": "Guinea",
           "GP": "Guadeloupe",
@@ -240,7 +239,7 @@
           "PM": "Saint-Pierre-et-Miquelon",
           "PN": "Illes Pitcairn",
           "PR": "Puerto Rico",
-          "PS": "territoris palestins",
+          "PS": "Territoris palestins",
           "PS-alt-short": "Palestina",
           "PT": "Portugal",
           "PW": "Palau",
@@ -274,7 +273,7 @@
           "SY": "Síria",
           "SZ": "eSwatini",
           "SZ-alt-variant": "Swazilàndia",
-          "TA": "Tristão da Cunha",
+          "TA": "Tristan da Cunha",
           "TC": "Illes Turks i Caicos",
           "TD": "Txad",
           "TF": "Territoris Australs Francesos",
@@ -283,7 +282,7 @@
           "TJ": "Tadjikistan",
           "TK": "Tokelau",
           "TL": "Timor Oriental",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor Oriental",
           "TM": "Turkmenistan",
           "TN": "Tunísia",
           "TO": "Tonga",
@@ -310,15 +309,15 @@
           "VU": "Vanuatu",
           "WF": "Wallis i Futuna",
           "WS": "Samoa",
-          "XA": "Pseudo-Accents",
-          "XB": "Pseudo-Bidi",
+          "XA": "pseudoaccents",
+          "XB": "pseudobidi",
           "XK": "Kosovo",
           "YE": "Iemen",
           "YT": "Mayotte",
           "ZA": "República de Sud-àfrica",
           "ZM": "Zàmbia",
           "ZW": "Zimbàbue",
-          "ZZ": "Regió desconeguda"
+          "ZZ": "regió desconeguda"
         }
       }
     }

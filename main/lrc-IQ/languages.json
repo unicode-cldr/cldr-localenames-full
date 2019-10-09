@@ -3,8 +3,7 @@
     "lrc-IQ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lrc",
         "territory": "IQ"
@@ -269,10 +268,14 @@
           "yi": "yi",
           "yo": "یوروبا",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "تامازیغ مأراکئشی",
           "zh": "چینی",
+          "zh-alt-menu": "zh",
           "zh-Hans": "چینی سادە بیە",
+          "zh-Hans-alt-long": "چینی (سادە بیە)",
           "zh-Hant": "چینی سونأتی",
+          "zh-Hant-alt-long": "چینی (سونأتی)",
           "zu": "زولو",
           "zxx": "بی نئشوٙ"
         }

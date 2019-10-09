@@ -3,8 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hu"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Anglia",
+          "gbsct": "Skócia",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "Naptár",
@@ -81,7 +85,7 @@
             "compat": "Előző rendezési sorrend a kompatibilitás érdekében",
             "dictionary": "Szótári rendezési sorrend",
             "ducet": "Alapértelmezett Unicode rendezési sorrend",
-            "emoji": "emoji",
+            "emoji": "Emodzsi rendezési sorrend",
             "eor": "Európai rendezési szabályok",
             "gb2312han": "Egyszerűsített kínai sorrend - GB2312",
             "phonebook": "Telefonkönyv sorrend",

@@ -3,8 +3,7 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yue",
         "script": "Hans"
@@ -617,6 +616,7 @@
           "yo": "约鲁巴文",
           "yrl": "奈恩加图文",
           "yue": "粤语",
+          "yue-alt-menu": "中文 (粤语)",
           "za": "壮文",
           "zap": "萨波特克文",
           "zbl": "布列斯符号",
@@ -624,8 +624,11 @@
           "zen": "泽纳加文",
           "zgh": "标准摩洛哥塔马塞特文",
           "zh": "中文",
+          "zh-alt-menu": "中文 (普通话)",
           "zh-Hans": "简体中文",
+          "zh-Hans-alt-long": "简体中文 (普通话)",
           "zh-Hant": "繁体中文",
+          "zh-Hant-alt-long": "繁体中文 (普通话)",
           "zu": "祖鲁文",
           "zun": "祖尼文",
           "zxx": "无语言内容",

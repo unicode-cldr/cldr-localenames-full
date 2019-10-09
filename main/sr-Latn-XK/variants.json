@@ -3,8 +3,7 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -37,6 +36,7 @@
           "BISKE": "San Đorđio/Bila dijalekt",
           "BOHORIC": "BOHORIC",
           "BOONT": "Buntling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

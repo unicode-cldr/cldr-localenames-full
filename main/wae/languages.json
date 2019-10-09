@@ -3,8 +3,7 @@
     "wae": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "wae"
       },
@@ -263,10 +262,14 @@
           "yi": "yi",
           "yo": "Yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chinesiš",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Vereifačts Chinesiš",
+          "zh-Hans-alt-long": "Chinesiš (Vereifačt)",
           "zh-Hant": "Traditionells Chinesiš",
+          "zh-Hant-alt-long": "Chinesiš (Traditionell)",
           "zu": "Zulu",
           "zxx": "zxx"
         }

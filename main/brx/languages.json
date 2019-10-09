@@ -3,8 +3,7 @@
     "brx": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "brx"
       },
@@ -495,14 +494,18 @@
           "yi": "यीद्दीश",
           "yo": "योरूबा",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "za": "ज़ुआंग",
           "zap": "ज़ापोतेक",
           "zbl": "ब्लीस चिन्ह",
           "zen": "ज़ेनागा",
           "zgh": "zgh",
           "zh": "चीनी",
+          "zh-alt-menu": "zh",
           "zh-Hans": "चीनी (सरलीकृत)",
+          "zh-Hans-alt-long": "चीनी (सरलीकृत हान)",
           "zh-Hant": "चीनी (पारम्परिक)",
+          "zh-Hant-alt-long": "चीनी (पारम्परिक हान)",
           "zu": "ज़ुलू",
           "zun": "ज़ुनी",
           "zxx": "रिक्त",

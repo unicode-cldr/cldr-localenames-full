@@ -3,8 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "af"
       },
@@ -14,17 +13,22 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Engeland",
+          "gbsct": "Skotland",
+          "gbwls": "Wallis"
+        },
         "keys": {
           "calendar": "Kalender",
           "cf": "Geldeenheidformaat",
-          "colAlternate": "Ignoreer simboolsortering",
-          "colBackwards": "Omgekeerde aksentsortering",
-          "colCaseFirst": "Hoofletters/kleinletters-sortering",
-          "colCaseLevel": "Kassensitiewe sortering",
+          "colAlternate": "Ignoreer simboolrangskikking",
+          "colBackwards": "Omgekeerde aksentrangskikking",
+          "colCaseFirst": "Hoofletter-/kleinletter-rangskikking",
+          "colCaseLevel": "Kassensitiewe rangskikking",
           "collation": "Rangskikvolgorde",
-          "colNormalization": "Genormaliseerde sortering",
-          "colNumeric": "Numeriese sortering",
-          "colStrength": "Sorteringssterkte",
+          "colNormalization": "Genormaliseerde rangskikking",
+          "colNumeric": "Numeriese rangskikking",
+          "colStrength": "Rangskiksterkte",
           "currency": "Geldeenheid",
           "hc": "Uursiklus (12 vs 24)",
           "lb": "Reëlafbreek-styl",

@@ -3,8 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fi"
       },
@@ -14,15 +13,20 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Englanti",
+          "gbsct": "Skotlanti",
+          "gbwls": "Wales"
+        },
         "keys": {
           "calendar": "kalenteri",
           "cf": "valuuttojen esitysmuoto",
-          "colAlternate": "symbolien lajittelu",
+          "colAlternate": "symbolit ohittava lajittelu",
           "colBackwards": "painomerkkien lajittelu",
           "colCaseFirst": "isojen ja pienten kirjainten järjestys",
           "colCaseLevel": "aakkoslajien lajittelu",
           "collation": "lajittelujärjestys",
-          "colNormalization": "lajittelun normalisointi",
+          "colNormalization": "normalisoitu lajittelu",
           "colNumeric": "numeroiden lajittelu",
           "colStrength": "lajittelun taso",
           "currency": "valuutta",
@@ -154,7 +158,7 @@
             "fullwide": "ideografin levyiset numerot",
             "geor": "georgialaiset numerot",
             "gong": "gong",
-            "gonm": "gonm",
+            "gonm": "gondin masaram-numerot",
             "grek": "kreikkalaiset numerot",
             "greklow": "kreikkalaiset piennumerot",
             "gujr": "gudžaratilaiset numerot",
@@ -217,7 +221,7 @@
             "traditional": "perinteiset numerot",
             "vaii": "vai-numerot",
             "wara": "varang kshiti -numerot",
-            "wcho": "wcho"
+            "wcho": "wancholaiset numerot"
           }
         },
         "codePatterns": {

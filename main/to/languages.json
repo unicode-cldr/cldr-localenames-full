@@ -3,8 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "to"
       },
@@ -97,7 +96,7 @@
           "car": "lea fakakalipa",
           "cay": "lea fakakaiuka",
           "cch": "lea fakaʻatisami",
-          "ccp": "ccp",
+          "ccp": "lea fakasākima",
           "ce": "lea fakasese",
           "ceb": "lea fakasepuano",
           "cgg": "lea fakakika",
@@ -616,6 +615,7 @@
           "yo": "lea fakaʻiōlupa",
           "yrl": "lea fakaneʻēngatū",
           "yue": "lea fakakuangitongi",
+          "yue-alt-menu": "lea fakakuangitongi (Siaina)",
           "za": "lea fakasuangi",
           "zap": "lea fakasapoteki",
           "zbl": "lea fakaʻilonga-pilisi",
@@ -623,8 +623,11 @@
           "zen": "lea fakasenaka",
           "zgh": "lea fakatamasaiti-moloko",
           "zh": "lea fakasiaina",
+          "zh-alt-menu": "lea fakasiaina-mānitali",
           "zh-Hans": "lea fakasiaina-fakafaingofua",
+          "zh-Hans-alt-long": "lea fakasiaina-mānitali-fakafaingofua",
           "zh-Hant": "lea fakasiaina-tukufakaholo",
+          "zh-Hant-alt-long": "lea fakasiaina-mānitali-tukufakaholo",
           "zu": "lea fakasulu",
           "zun": "lea fakasuni",
           "zxx": "ʻikai ha lea",

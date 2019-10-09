@@ -3,8 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cs"
       },
@@ -272,7 +271,7 @@
           "SX": "Svatý Martin (Nizozemsko)",
           "SY": "Sýrie",
           "SZ": "Svazijsko",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Eswatini",
           "TA": "Tristan da Cunha",
           "TC": "Turks a Caicos",
           "TD": "Čad",
@@ -282,7 +281,7 @@
           "TJ": "Tádžikistán",
           "TK": "Tokelau",
           "TL": "Východní Timor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor-Leste",
           "TM": "Turkmenistán",
           "TN": "Tunisko",
           "TO": "Tonga",

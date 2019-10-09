@@ -3,8 +3,7 @@
     "sq-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sq",
         "territory": "XK"
@@ -409,10 +408,14 @@
           "yi": "jidisht",
           "yo": "jorubaisht",
           "yue": "kantonezisht",
+          "yue-alt-menu": "kinezishte kantoneze",
           "zgh": "tamaziatishte standarde marokene",
           "zh": "kinezisht",
+          "zh-alt-menu": "kinezishte mandarine",
           "zh-Hans": "kinezishte e thjeshtuar",
+          "zh-Hans-alt-long": "kinezisht (i thjeshtuar)",
           "zh-Hant": "kinezishte tradicionale",
+          "zh-Hant-alt-long": "kinezisht (tradicional)",
           "zu": "zuluisht",
           "zun": "zunisht",
           "zxx": "nuk ka përmbajtje gjuhësore",

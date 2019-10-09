@@ -3,8 +3,7 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14877 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -41,7 +40,7 @@
           "151": "Istočna Evropa",
           "154": "Severna Evropa",
           "155": "Zapadna Evropa",
-          "202": "Afrika južno od Sahare",
+          "202": "Podsaharska Afrika",
           "419": "Latinska Amerika",
           "AC": "Ostrvo Asension",
           "AD": "Andora",
@@ -120,7 +119,7 @@
           "ER": "Eritreja",
           "ES": "Španija",
           "ET": "Etiopija",
-          "EU": "Evropska Unija",
+          "EU": "Evropska unija",
           "EZ": "Evrozona",
           "FI": "Finska",
           "FJ": "Fidži",
@@ -201,7 +200,7 @@
           "MG": "Madagaskar",
           "MH": "Maršalska Ostrva",
           "MK": "Severna Makedonija",
-          "MK-alt-variant": "BJR Makedonija",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mijanmar (Burma)",
           "MN": "Mongolija",
@@ -274,7 +273,7 @@
           "SX": "Sveti Martin (Holandija)",
           "SY": "Sirija",
           "SZ": "Svazilend",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Svazilend",
           "TA": "Tristan da Kunja",
           "TC": "Ostrva Turks i Kaikos",
           "TD": "Čad",

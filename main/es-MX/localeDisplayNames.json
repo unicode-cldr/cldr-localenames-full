@@ -3,8 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14796 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "MX"
@@ -15,25 +14,30 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Inglaterra",
+          "gbsct": "Escocia",
+          "gbwls": "Gales"
+        },
         "keys": {
-          "calendar": "Calendario",
+          "calendar": "calendario",
           "cf": "formato de moneda",
           "colAlternate": "orden ignorando símbolos",
           "colBackwards": "orden de acentos con inversión",
           "colCaseFirst": "orden de mayúsculas/minúsculas",
           "colCaseLevel": "orden con distinción entre mayúsculas y minúsculas",
-          "collation": "Orden",
-          "colNormalization": "Orden con normalización",
-          "colNumeric": "Orden numérico",
-          "colStrength": "Intensidad de orden",
-          "currency": "Moneda",
+          "collation": "orden",
+          "colNormalization": "orden normalizado",
+          "colNumeric": "orden numérico",
+          "colStrength": "intensidad de orden",
+          "currency": "moneda",
           "hc": "ciclo horario (12 o 24 horas)",
-          "lb": "salto de línea",
-          "ms": "sm",
+          "lb": "estilo de salto de línea",
+          "ms": "sistema de medición",
           "numbers": "números",
-          "timezone": "Zona horaria",
-          "va": "Variante local",
-          "x": "Uso privado"
+          "timezone": "zona horaria",
+          "va": "variante local",
+          "x": "uso privado"
         },
         "types": {
           "calendar": {
@@ -43,7 +47,7 @@
             "dangi": "calendario dangi",
             "ethiopic": "calendario etíope",
             "ethiopic-amete-alem": "calendario etíope Amete Alem",
-            "gregorian": "Calendario gregoriano",
+            "gregorian": "calendario gregoriano",
             "hebrew": "calendario hebreo",
             "indian": "calendario nacional hindú",
             "islamic": "calendario islámico",
@@ -91,9 +95,9 @@
             "reformed": "orden de clasificación reformado",
             "search": "búsqueda de uso general",
             "searchjl": "Buscar por consonante inicial de hangul",
-            "standard": "Orden estándar",
+            "standard": "orden estándar",
             "stroke": "orden de los trazos",
-            "traditional": "Orden tradicional",
+            "traditional": "orden tradicional",
             "unihan": "orden de clasificación de trazos radicales",
             "zhuyin": "zhuyin"
           },
@@ -113,8 +117,8 @@
             "tertiary": "Ordenar acentos/mayúsculas y minúsculas/ancho"
           },
           "d0": {
-            "fwidth": "Ancho completo",
-            "hwidth": "Ancho medio",
+            "fwidth": "ancho completo",
+            "hwidth": "ancho medio",
             "npinyin": "Numérico"
           },
           "hc": {
@@ -124,13 +128,13 @@
             "h24": "sistema de 24 horas (1–24)"
           },
           "lb": {
-            "loose": "salto de línea flexible",
+            "loose": "estilo de salto de línea flexible",
             "normal": "salto de línea normal",
-            "strict": "salto de línea estricto"
+            "strict": "estilo de salto de línea estricto"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliteración USBGN",
+            "ungegn": "transliteración UNGEGN"
           },
           "ms": {
             "metric": "sistema métrico",
@@ -139,10 +143,10 @@
           },
           "numbers": {
             "ahom": "ahom",
-            "arab": "Dígitos en arábigo-índico",
-            "arabext": "Dígitos en árabigo-índico extendido",
-            "armn": "Números en armenio",
-            "armnlow": "Números en armenio en minúscula",
+            "arab": "dígitos indoarábigos",
+            "arabext": "dígitos indoarábigos extendidos",
+            "armn": "números en armenio",
+            "armnlow": "números en armenio en minúscula",
             "bali": "bali",
             "beng": "dígitos en bengalí",
             "brah": "brah",
@@ -150,33 +154,33 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "dígitos en devanagari",
-            "ethi": "Números en etíope",
+            "ethi": "números en etíope",
             "finance": "Números financieros",
             "fullwide": "dígitos de ancho completo",
-            "geor": "Números en georgiano",
+            "geor": "números en georgiano",
             "gong": "gong",
             "gonm": "gonm",
-            "grek": "Números en griego",
-            "greklow": "Números en griego en minúscula",
+            "grek": "números en griego",
+            "greklow": "números en griego en minúscula",
             "gujr": "dígitos en gujarati",
-            "guru": "Dígitos en gurmuji",
-            "hanidec": "Numeros decimales en chino",
-            "hans": "Números en chino simplificado",
-            "hansfin": "Números financieros en chino simplificado",
-            "hant": "Números en chino tradicional",
-            "hantfin": "Números financieros en chino tradicional",
-            "hebr": "Números en hebreo",
+            "guru": "dígitos en gurmuji",
+            "hanidec": "números decimales en chino",
+            "hans": "números en chino simplificado",
+            "hansfin": "números financieros en chino simplificado",
+            "hant": "números en chino tradicional",
+            "hantfin": "números financieros en chino tradicional",
+            "hebr": "números en hebreo",
             "hmng": "hmng",
             "hmnp": "hmnp",
             "java": "java",
             "jpan": "números en japonés",
-            "jpanfin": "Números financieros en japonés",
+            "jpanfin": "números financieros en japonés",
             "kali": "kali",
             "khmr": "dígitos en jemer",
-            "knda": "números en kannada",
+            "knda": "dígitos en canarés",
             "lana": "lana",
             "lanatham": "lanatham",
-            "laoo": "Dígitos en lao",
+            "laoo": "dígitos en lao",
             "latn": "dígitos occidentales",
             "lepc": "lepc",
             "limb": "limb",
@@ -185,7 +189,7 @@
             "mathmono": "mathmono",
             "mathsanb": "mathsanb",
             "mathsans": "mathsans",
-            "mlym": "Dígitos en malabar",
+            "mlym": "dígitos en malayalam",
             "modi": "modi",
             "mong": "dígitos en mongol",
             "mroo": "mroo",
@@ -209,11 +213,11 @@
             "sund": "sund",
             "takr": "takr",
             "talu": "talu",
-            "taml": "Números en tamil",
-            "tamldec": "Dígitos en tamil",
-            "telu": "Dígitos en telugú",
+            "taml": "números en tamil tradicional",
+            "tamldec": "dígitos en tamil",
+            "telu": "dígitos en telugu",
             "thai": "dígitos en tailandés",
-            "tibt": "Dígitos en tibetano",
+            "tibt": "dígitos en tibetano",
             "tirh": "dígitos en tirh",
             "traditional": "números traducionales",
             "vaii": "Dígitos vai",

@@ -3,8 +3,7 @@
     "nn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nn"
       },
@@ -511,14 +510,18 @@
           "yi": "jiddisk",
           "yo": "joruba",
           "yue": "kantonesisk",
+          "yue-alt-menu": "yue",
           "za": "zhuang",
           "zap": "zapotec",
           "zbl": "blissymbol",
           "zen": "zenaga",
           "zgh": "standard marokkansk tamazight",
           "zh": "kinesisk",
+          "zh-alt-menu": "zh",
           "zh-Hans": "forenkla kinesisk",
+          "zh-Hans-alt-long": "kinesisk (forenkla)",
           "zh-Hant": "tradisjonell kinesisk",
+          "zh-Hant-alt-long": "kinesisk (tradisjonell)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "utan språkleg innhald",

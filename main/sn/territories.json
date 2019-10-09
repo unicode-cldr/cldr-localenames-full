@@ -3,8 +3,7 @@
     "sn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sn"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "Madagascar",
           "MH": "Zvitsuwa zveMarshall",
-          "MK": "Macedonia",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",

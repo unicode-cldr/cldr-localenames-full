@@ -3,8 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zu"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "I-England",
+          "gbsct": "I-Scotland",
+          "gbwls": "I-Wales"
         },
         "keys": {
           "calendar": "Ikhalenda",
@@ -25,35 +29,35 @@
           "colNormalization": "Ukuhlelwa Okulinganisiwe",
           "colNumeric": "Ukuhlelwa Ngezinombolo",
           "colStrength": "Amandla Okuhlelwa",
-          "currency": "Ikharensi",
+          "currency": "Imali",
           "hc": "Umjikelezo wehora (12 vs 24",
           "lb": "I-Line Break Style",
           "ms": "Isistimu yokulinganisa",
           "numbers": "Izinombolo",
-          "timezone": "Izoni yesikhathi:",
+          "timezone": "Isikhathi Sendawo",
           "va": "Okokwehlukanisa Kwasendaweni",
-          "x": "i-Private-Use"
+          "x": "Yokusetshenziswa Ngasese"
         },
         "types": {
           "calendar": {
             "buddhist": "ikhalenda lesi-Buddhist",
-            "chinese": "ikhalenda lesi-Chinese",
+            "chinese": "Ikhalenda lesi-Chinese",
             "coptic": "i-Coptic Calender",
-            "dangi": "ikhalenda lesi-Dangi",
-            "ethiopic": "ikhalenda lesi-Ethiopic",
+            "dangi": "Ikhalenda lesi-Dangi",
+            "ethiopic": "Ikhalenda lesi-Ethiopic",
             "ethiopic-amete-alem": "i-Ethiopic Amete Alem Calender",
             "gregorian": "ikhalenda lesi-Gregorian",
-            "hebrew": "ikhalenda lesi-Hebrew",
+            "hebrew": "Ikhalenda lesi-Hebrew",
             "indian": "i-Indian National Calender",
-            "islamic": "ikhalenda lesi-Islamic",
+            "islamic": "Ikhalenda lesi-Islamic",
             "islamic-civil": "i-Islamic-Civil Calendar",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "ikhalenda le-ISO-8601",
-            "japanese": "ikhalenda lesi-Japanese",
-            "persian": "ikhalenda lesi-Persian",
-            "roc": "ikhalenda lesi-Minguo"
+            "iso8601": "Ikhalenda le-ISO-8601",
+            "japanese": "Ikhalenda lesi-Japanese",
+            "persian": "Ikhalenda lesi-Persian",
+            "roc": "Ikhalenda lesi-Minguo"
           },
           "cf": {
             "account": "Ifomethi yemali ye-Accounting",

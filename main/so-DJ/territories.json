@@ -3,8 +3,7 @@
     "so-DJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "so",
         "territory": "DJ"
@@ -94,7 +93,7 @@
           "CL": "Jili",
           "CM": "Kaameruun",
           "CN": "Shiinaha",
-          "CO": "Kolombiya",
+          "CO": "CO",
           "CP": "Jasiiradda Kilibarton",
           "CR": "Kosta Riika",
           "CU": "Kuuba",
@@ -147,7 +146,7 @@
           "GT": "Guwaatamaala",
           "GU": "Guaam",
           "GW": "Gini-Bisaaw",
-          "GY": "Guyana",
+          "GY": "GY",
           "HK": "Hong Kong",
           "HK-alt-short": "Hong Kong",
           "HM": "Jasiiradda Haad & MakDonald",

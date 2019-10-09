@@ -3,8 +3,7 @@
     "dsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "dsb"
       },
@@ -294,11 +293,15 @@
           "yi": "jidišćina",
           "yo": "jorubšćina",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "za": "zhuang",
           "zgh": "standardny marokkański tamazight",
           "zh": "chinšćina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "chinšćina (zjadnorjona)",
+          "zh-Hans-alt-long": "chinšćina (zjadnorjone)",
           "zh-Hant": "chinšćina (tradicionalna)",
+          "zh-Hant-alt-long": "chinšćina (tradionalne)",
           "zu": "zulu",
           "zxx": "žedno rěcne wopśimjeśe"
         }

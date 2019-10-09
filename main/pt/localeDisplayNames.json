@@ -3,8 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt"
       },
@@ -14,17 +13,22 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Inglaterra",
+          "gbsct": "Escócia",
+          "gbwls": "País de Gales"
+        },
         "keys": {
           "calendar": "Calendário",
           "cf": "Formato de moeda",
           "colAlternate": "Ignorar classificação de símbolos",
-          "colBackwards": "Classificação reversa de acentos",
+          "colBackwards": "Classificação de acentos invertida",
           "colCaseFirst": "Ordem de maiúsculas/minúsculas",
-          "colCaseLevel": "Ordem com diferenciação de maiúsculas e minúsculas",
+          "colCaseLevel": "Classificação com distinção entre maiúsculas e minúsculas",
           "collation": "Ordenação",
           "colNormalization": "Classificação normalizada",
           "colNumeric": "Classificação numérica",
-          "colStrength": "Intensidade da classificação",
+          "colStrength": "Prioridade da classificação",
           "currency": "Moeda",
           "hc": "Ciclo de horário (12 vs. 24)",
           "lb": "Estilo de quebra de linha",
@@ -112,8 +116,8 @@
             "tertiary": "Classificar acentos/maiúsculas e minúsculas/largura"
           },
           "d0": {
-            "fwidth": "Extensão total",
-            "hwidth": "Extensão total",
+            "fwidth": "Largura inteira",
+            "hwidth": "Meia largura",
             "npinyin": "Numérico"
           },
           "hc": {
@@ -139,7 +143,7 @@
           "numbers": {
             "ahom": "ahom",
             "arab": "Algarismos indo-arábicos",
-            "arabext": "Algarismos indo-arábicos por extenso",
+            "arabext": "Algarismos indo-arábicos estendidos",
             "armn": "Algarismos armênios",
             "armnlow": "Algarismos armênios minúsculos",
             "bali": "bali",

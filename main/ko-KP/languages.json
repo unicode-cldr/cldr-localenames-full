@@ -3,8 +3,7 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ko",
         "territory": "KP"
@@ -551,14 +550,18 @@
           "yi": "이디시어",
           "yo": "요루바어",
           "yue": "광둥어",
+          "yue-alt-menu": "중국어(광둥어)",
           "za": "주앙어",
           "zap": "사포테크어",
           "zbl": "블리스 심볼",
           "zen": "제나가어",
           "zgh": "표준 모로코 타마지트어",
           "zh": "중국어",
+          "zh-alt-menu": "중국어(만다린)",
           "zh-Hans": "중국어(간체)",
+          "zh-Hans-alt-long": "중국어(만다린, 간체)",
           "zh-Hant": "중국어(번체)",
+          "zh-Hant-alt-long": "중국어(만다린, 번체)",
           "zu": "줄루어",
           "zun": "주니어",
           "zxx": "언어 관련 내용 없음",

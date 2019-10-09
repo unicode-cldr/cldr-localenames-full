@@ -3,8 +3,7 @@
     "naq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "naq"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "Madagascari",
           "MH": "Marshall Islands",
-          "MK": "Macedoniab",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Malib",
           "MM": "Myanmar",

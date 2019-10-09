@@ -3,8 +3,7 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14877 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ha",
         "territory": "NE"
@@ -16,34 +15,34 @@
           "localeKeyTypePattern": "{0}: {1}"
         },
         "keys": {
-          "calendar": "calendar",
-          "cf": "cf",
+          "calendar": "Kalanda",
+          "cf": "Yanayin Kudi",
           "collation": "collation",
-          "currency": "currency",
-          "hc": "hc",
+          "currency": "Kudin Kasa",
+          "hc": "Zagayen Awowi",
           "lb": "lb",
           "ms": "ms",
-          "numbers": "numbers"
+          "numbers": "Lambobi"
         },
         "types": {
           "calendar": {
-            "buddhist": "buddhist",
-            "chinese": "chinese",
+            "buddhist": "Kalanda Buddist",
+            "chinese": "Kalanda Sin",
             "coptic": "coptic",
-            "dangi": "dangi",
-            "ethiopic": "ethiopic",
+            "dangi": "Kalanda Dangi",
+            "ethiopic": "Kalanda Etiofic",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
             "gregorian": "Gregorian Kalanda",
-            "hebrew": "hebrew",
+            "hebrew": "Kalanda Ibrananci",
             "indian": "indian",
-            "islamic": "islamic",
+            "islamic": "Kalandar Musulunci",
             "islamic-civil": "islamic-civil",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "iso8601",
-            "japanese": "japanese",
-            "persian": "persian",
+            "iso8601": "Kalanda ISO-8601",
+            "japanese": "Kalanda Jafan",
+            "persian": "Kalanda Farisa",
             "roc": "roc"
           },
           "cf": {
@@ -70,10 +69,10 @@
             "zhuyin": "zhuyin"
           },
           "hc": {
-            "h11": "h11",
-            "h12": "h12",
-            "h23": "h23",
-            "h24": "h24"
+            "h11": "Tsarin Awowi 12(0–11)",
+            "h12": "Tsarin Awowi 12(1–12)",
+            "h23": "Tsarin Awowi 24(0–23)",
+            "h24": "Tsarin Awowi 24(1–24)"
           },
           "lb": {
             "loose": "loose",

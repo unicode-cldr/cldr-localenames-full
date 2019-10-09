@@ -3,8 +3,7 @@
     "lag": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lag"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Kɨyorúuba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Kɨchíina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Kɨchíina (Hans)",
+          "zh-Hans-alt-long": "Kɨchíina (Hans)",
           "zh-Hant": "Kɨchíina (Hant)",
+          "zh-Hant-alt-long": "Kɨchíina (Hant)",
           "zu": "Kɨzúulu",
           "zxx": "zxx"
         }

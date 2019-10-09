@@ -3,8 +3,7 @@
     "ru-UA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ru",
         "territory": "UA"
@@ -89,7 +88,7 @@
           "CG-alt-variant": "Республика Конго",
           "CH": "Швейцария",
           "CI": "Кот-д’Ивуар",
-          "CI-alt-variant": "Берег Слоновой Кости",
+          "CI-alt-variant": "CI",
           "CK": "О-ва Кука",
           "CL": "Чили",
           "CM": "Камерун",

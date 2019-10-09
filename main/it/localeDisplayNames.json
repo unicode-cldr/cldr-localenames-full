@@ -3,8 +3,7 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "it"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Inghilterra",
+          "gbsct": "Scozia",
+          "gbwls": "Galles"
         },
         "keys": {
           "calendar": "Calendario",

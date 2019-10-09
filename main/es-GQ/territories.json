@@ -3,8 +3,7 @@
     "es-GQ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "GQ"
@@ -309,8 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis y Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudoacentos",
+          "XB": "Pseudobidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

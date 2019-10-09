@@ -3,8 +3,7 @@
     "zgh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zgh"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "ⵎⴰⴷⴰⵖⴰⵛⵇⴰⵔ",
           "MH": "ⵜⵉⴳⵣⵉⵔⵉⵏ ⵏ ⵎⴰⵔⵛⴰⵍ",
-          "MK": "ⵎⴰⵙⵉⴷⵓⵏⵢⴰ",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "ⵎⴰⵍⵉ",
           "MM": "ⵎⵢⴰⵏⵎⴰⵔ",

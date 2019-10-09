@@ -3,8 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sl"
       },
@@ -35,6 +34,7 @@
           "BISKE": "rezijansko narečje Bila (San Giorgio)",
           "BOHORIC": "BOHORIC",
           "BOONT": "boonvilski jezik",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

@@ -3,8 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14809 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kea"
       },
@@ -16,73 +15,73 @@
         },
         "keys": {
           "calendar": "Kalendáriu",
-          "cf": "cf",
-          "collation": "collation",
-          "currency": "currency",
-          "hc": "hc",
-          "lb": "lb",
-          "ms": "ms",
-          "numbers": "numbers"
+          "cf": "Formatu di mueda",
+          "collation": "Ordenason",
+          "currency": "Mueda",
+          "hc": "Siklu oráriu (12 o 24)",
+          "lb": "Stilu di kebra di linha",
+          "ms": "Sistema di midida",
+          "numbers": "Nunbru"
         },
         "types": {
           "calendar": {
-            "buddhist": "buddhist",
-            "chinese": "chinese",
+            "buddhist": "Kalendáriu budista",
+            "chinese": "Kalendáriu xines",
             "coptic": "coptic",
-            "dangi": "dangi",
-            "ethiopic": "ethiopic",
+            "dangi": "Kalendáriu dangi",
+            "ethiopic": "Kalendáriu etiópiku",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
             "gregorian": "Kalendáriu Gregorianu",
-            "hebrew": "hebrew",
+            "hebrew": "Kalendáriu ebraiku",
             "indian": "indian",
-            "islamic": "islamic",
+            "islamic": "Kalendáriu islámiku",
             "islamic-civil": "islamic-civil",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "iso8601",
-            "japanese": "japanese",
-            "persian": "persian",
-            "roc": "roc"
+            "iso8601": "Kalendáriu ISO-8601",
+            "japanese": "Kalendáriu japones",
+            "persian": "Kalendáriu persa",
+            "roc": "Kalendáriu di Repúblika di Xina"
           },
           "cf": {
-            "account": "account",
-            "standard": "standard"
+            "account": "Formatu di mueda kontabilístiku",
+            "standard": "Formatu di mueda padron"
           },
           "collation": {
             "big5han": "big5han",
             "compat": "compat",
             "dictionary": "dictionary",
-            "ducet": "ducet",
+            "ducet": "Órdi padron di Unicode",
             "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "gb2312han",
             "phonebook": "phonebook",
             "pinyin": "pinyin",
             "reformed": "reformed",
-            "search": "search",
+            "search": "Piskiza di uzu jeral",
             "searchjl": "searchjl",
-            "standard": "standard",
+            "standard": "Órdi padron",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
           "hc": {
-            "h11": "h11",
-            "h12": "h12",
-            "h23": "h23",
-            "h24": "h24"
+            "h11": "Sistema di 12 ora (0–11)",
+            "h12": "Sistema di 12 ora (1–12)",
+            "h23": "Sistema di 24 ora (0–23)",
+            "h24": "Sistema di 24 ora (1–24)"
           },
           "lb": {
-            "loose": "loose",
-            "normal": "normal",
-            "strict": "strict"
+            "loose": "Stilu fleksível di kebra di linha",
+            "normal": "Stilu padron di kebra di linha",
+            "strict": "Stilu ríjidu di kebra di linha"
           },
           "ms": {
-            "metric": "metric",
-            "uksystem": "uksystem",
-            "ussystem": "ussystem"
+            "metric": "Sistema métriku",
+            "uksystem": "Sistema di midida britániku",
+            "ussystem": "Sistema di midida merkanu"
           },
           "numbers": {
             "ahom": "ahom",
@@ -123,7 +122,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "Númerus Arábikus",
+            "latn": "Nunbru osidental",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -168,7 +167,7 @@
         "codePatterns": {
           "language": "Lingua: {0}",
           "script": "Skrita: {0}",
-          "territory": "Rejiãu: {0}"
+          "territory": "Rejion: {0}"
         }
       }
     }

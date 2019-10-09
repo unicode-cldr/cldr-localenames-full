@@ -3,8 +3,7 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ksh"
       },
@@ -198,8 +197,8 @@
           "MF": "de Zint-Määtes-Ensel",
           "MG": "Maddajaska",
           "MH": "de Machschall-Enselle",
-          "MK": "Mazedoonije",
-          "MK-alt-variant": "de vörmaals ens jugoßlaawesch jewääse Republik Mazedoonije",
+          "MK": "MK",
+          "MK-alt-variant": "MK",
           "ML": "Maali",
           "MM": "Birma",
           "MN": "Mongjolei",

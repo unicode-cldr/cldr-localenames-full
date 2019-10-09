@@ -3,8 +3,7 @@
     "nmg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nmg"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Yorúbâ",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Kiɛl bó chinois",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Kiɛl bó chinois (Hans)",
+          "zh-Hans-alt-long": "Kiɛl bó chinois (Hans)",
           "zh-Hant": "Kiɛl bó chinois (Hant)",
+          "zh-Hant-alt-long": "Kiɛl bó chinois (Hant)",
           "zu": "Zulu",
           "zxx": "zxx"
         }

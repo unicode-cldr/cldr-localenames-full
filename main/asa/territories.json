@@ -3,8 +3,7 @@
     "asa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "asa"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "Bukini",
           "MH": "Vithiwa vya Marshal",
-          "MK": "Mathedonia",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myama",

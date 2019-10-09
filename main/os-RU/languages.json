@@ -3,8 +3,7 @@
     "os-RU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "os",
         "territory": "RU"
@@ -269,10 +268,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "китайаг",
+          "zh-alt-menu": "zh",
           "zh-Hans": "ӕнцонгонд китайаг",
+          "zh-Hans-alt-long": "китайаг (Ӕнцонгонд китайаг)",
           "zh-Hant": "традицион китайаг",
+          "zh-Hant-alt-long": "китайаг (Традицион китайаг)",
           "zu": "zu",
           "zxx": "zxx"
         }

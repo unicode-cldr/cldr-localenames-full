@@ -3,8 +3,7 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14877 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yo",
         "territory": "BJ"
@@ -73,14 +72,14 @@
           "Ital": "Ital",
           "Jamo": "Jamo",
           "Java": "Java",
-          "Jpan": "Jpan",
+          "Jpan": "èdè jàpáànù",
           "Kali": "Kali",
           "Kana": "Kana",
           "Khar": "Khar",
           "Khmr": "Khmr",
           "Khoj": "Khoj",
           "Knda": "Knda",
-          "Kore": "Kore",
+          "Kore": "Kóríà",
           "Kthi": "Kthi",
           "Lana": "Lana",
           "Laoo": "Laoo",
@@ -177,7 +176,7 @@
           "Zsym": "Zsym",
           "Zxxx": "Aikɔsilɛ",
           "Zyyy": "Zyyy",
-          "Zzzz": "ɔ̀nà ìgbàkɔ̀wé àìmɔ̀"
+          "Zzzz": "Ìshɔwɔ́kɔ̀wé àìmɔ̀"
         }
       }
     }

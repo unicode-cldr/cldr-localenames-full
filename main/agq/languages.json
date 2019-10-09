@@ -3,8 +3,7 @@
     "agq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "agq"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Yulùba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chàenê",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Chàenê (Hans)",
+          "zh-Hans-alt-long": "Chàenê (Hans)",
           "zh-Hant": "Chàenê (Hant)",
+          "zh-Hant-alt-long": "Chàenê (Hant)",
           "zu": "Zulù",
           "zxx": "zxx"
         }

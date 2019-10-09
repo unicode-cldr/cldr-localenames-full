@@ -3,8 +3,7 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "az",
         "script": "Latn"
@@ -350,7 +349,6 @@
           "no": "norveç",
           "nog": "noqay",
           "non": "qədim nors",
-          "nqo": "nqo",
           "nr": "cənubi ndebele",
           "nso": "şimal soto",
           "nus": "nuer",
@@ -518,14 +516,18 @@
           "yi": "idiş",
           "yo": "yoruba",
           "yue": "kanton",
+          "yue-alt-menu": "Çin, kanton",
           "za": "çjuan",
           "zap": "zapotek",
           "zbl": "blisimbols",
           "zen": "zenaqa",
           "zgh": "tamazi",
           "zh": "çin",
+          "zh-alt-menu": "Çin, mandarin",
           "zh-Hans": "sadələşmiş çin",
+          "zh-Hans-alt-long": "sadələşmiş mandarin çincəsi",
           "zh-Hant": "ənənəvi çin",
+          "zh-Hant-alt-long": "ənənəvi mandarin çincəsi",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "dil məzmunu yoxdur",

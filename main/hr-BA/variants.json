@@ -3,8 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hr",
         "territory": "BA"
@@ -36,6 +35,7 @@
           "BISKE": "san giorgio/bila dijalekt",
           "BOHORIC": "BOHORIC",
           "BOONT": "boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

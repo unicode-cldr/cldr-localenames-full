@@ -3,8 +3,7 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fy"
       },
@@ -521,14 +520,18 @@
           "yi": "Jiddysk",
           "yo": "Yoruba",
           "yue": "Kantoneesk",
+          "yue-alt-menu": "yue",
           "za": "Zhuang",
           "zap": "Zapotec",
           "zbl": "Blissymbolen",
           "zen": "Zenaga",
           "zgh": "Standert Marokkaanske Tamazight",
           "zh": "Sineesk",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Ferienfâldich Sineesk",
+          "zh-Hans-alt-long": "Sineesk (Ferienfâldigd)",
           "zh-Hant": "Tradisjoneel Sineesk",
+          "zh-Hant-alt-long": "Sineesk (Traditjoneel)",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Gjin linguïstyske ynhâld",

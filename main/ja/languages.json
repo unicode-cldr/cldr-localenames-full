@@ -3,8 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ja"
       },
@@ -619,6 +618,7 @@
           "yo": "ヨルバ語",
           "yrl": "ニェエンガトゥ語",
           "yue": "広東語",
+          "yue-alt-menu": "中国語 (広東語)",
           "za": "チワン語",
           "zap": "サポテカ語",
           "zbl": "ブリスシンボル",
@@ -626,8 +626,11 @@
           "zen": "ゼナガ語",
           "zgh": "標準モロッコ タマジクト語",
           "zh": "中国語",
+          "zh-alt-menu": "中国語 (標準語)",
           "zh-Hans": "簡体中国語",
+          "zh-Hans-alt-long": "標準中国語 (簡体字)",
           "zh-Hant": "繁体中国語",
+          "zh-Hant-alt-long": "標準中国語 (繁体字)",
           "zu": "ズールー語",
           "zun": "ズニ語",
           "zxx": "言語的内容なし",

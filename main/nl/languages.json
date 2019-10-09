@@ -3,8 +3,7 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nl"
       },
@@ -618,6 +617,7 @@
           "yo": "Yoruba",
           "yrl": "Nheengatu",
           "yue": "Kantonees",
+          "yue-alt-menu": "Kantonees",
           "za": "Zhuang",
           "zap": "Zapotec",
           "zbl": "Blissymbolen",
@@ -625,8 +625,11 @@
           "zen": "Zenaga",
           "zgh": "Standaard Marokkaanse Tamazight",
           "zh": "Chinees",
+          "zh-alt-menu": "Mandarijn",
           "zh-Hans": "Chinees (vereenvoudigd)",
+          "zh-Hans-alt-long": "Mandarijn (vereenvoudigd)",
           "zh-Hant": "Chinees (traditioneel)",
+          "zh-Hant-alt-long": "Mandarijn (traditioneel)",
           "zu": "Zoeloe",
           "zun": "Zuni",
           "zxx": "geen linguïstische inhoud",

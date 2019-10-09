@@ -3,8 +3,7 @@
     "smn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "smn"
       },
@@ -405,10 +404,14 @@
           "yi": "jiddish",
           "yo": "yorubakielâ",
           "yue": "kantonkielâ",
+          "yue-alt-menu": "yue",
           "zgh": "standard tamazight",
           "zh": "mandarinkiinakielâ",
+          "zh-alt-menu": "zh",
           "zh-Hans": "oovtâkiärdánis kiinakielâ",
+          "zh-Hans-alt-long": "mandarinkiinakielâ (Hans)",
           "zh-Hant": "ärbivuáválâš kiinakielâ",
+          "zh-Hant-alt-long": "mandarinkiinakielâ (Hant)",
           "zu": "zulukielâ",
           "zun": "zunikielâ",
           "zxx": "ij kielâlâš siskáldâs",

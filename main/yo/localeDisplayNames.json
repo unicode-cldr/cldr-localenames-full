@@ -3,8 +3,7 @@
     "yo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yo"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Ilẹ̀gẹ̀ẹ́sì",
+          "gbsct": "Skọ́tlándì",
+          "gbwls": "Wélsì"
         },
         "keys": {
           "calendar": "calendar",
@@ -40,7 +44,7 @@
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "iso8601",
+            "iso8601": "Kàlẹ́ńdà ISO-8601",
             "japanese": "japanese",
             "persian": "persian",
             "roc": "roc"
@@ -167,7 +171,7 @@
         },
         "codePatterns": {
           "language": "Èdè: {0}",
-          "script": "ọ̀nà ìgbàkọ̀wé: {0}",
+          "script": "Ìṣọwọ́kọ̀wé: {0}",
           "territory": "Àgbègbè: {0}"
         }
       }

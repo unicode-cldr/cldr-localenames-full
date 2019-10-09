@@ -3,8 +3,7 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zh",
         "script": "Hant",
@@ -274,7 +273,7 @@
           "SX": "荷屬聖馬丁",
           "SY": "敘利亞",
           "SZ": "斯威士蘭",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "史瓦濟蘭",
           "TA": "特里斯坦達庫尼亞群島",
           "TC": "特克斯和凱科斯群島",
           "TD": "乍得",
@@ -284,7 +283,7 @@
           "TJ": "塔吉克",
           "TK": "托克勞群島",
           "TL": "東帝汶",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "東帝汶",
           "TM": "土庫曼",
           "TN": "突尼西亞",
           "TO": "湯加",

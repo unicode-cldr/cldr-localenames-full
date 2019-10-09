@@ -3,8 +3,7 @@
     "wo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "wo"
       },
@@ -274,10 +273,14 @@
           "yi": "Yidis",
           "yo": "Yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Sinuwaa",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Sinuwaa buñ woyofal",
+          "zh-Hans-alt-long": "Sinuwaa (Buñ woyofal)",
           "zh-Hant": "Sinuwaa bu cosaan",
+          "zh-Hant-alt-long": "Sinuwaa (Cosaan)",
           "zu": "zu",
           "zxx": "zxx"
         }

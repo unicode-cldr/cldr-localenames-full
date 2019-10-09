@@ -3,8 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt"
       },
@@ -43,7 +42,7 @@
           "awa": "awadhi",
           "ay": "aimará",
           "az": "azerbaijano",
-          "az-alt-short": "azeri",
+          "az-alt-short": "azerbaijano",
           "az-Arab": "azeri sul",
           "ba": "bashkir",
           "bal": "balúchi",
@@ -82,7 +81,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "Chakma",
+          "ccp": "chakma",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -536,14 +535,18 @@
           "yi": "iídiche",
           "yo": "iorubá",
           "yue": "cantonês",
+          "yue-alt-menu": "cantonês (tradicional)",
           "za": "zhuang",
           "zap": "zapoteco",
           "zbl": "símbolos blis",
           "zen": "zenaga",
           "zgh": "tamazirte marroqino padrão",
           "zh": "chinês",
+          "zh-alt-menu": "chinês, mandarim",
           "zh-Hans": "chinês simplificado",
+          "zh-Hans-alt-long": "chinês mandarim (simplificado)",
           "zh-Hant": "chinês tradicional",
+          "zh-Hant-alt-long": "chinês mandarim (tradicional)",
           "zu": "zulu",
           "zun": "zunhi",
           "zxx": "sem conteúdo linguístico",

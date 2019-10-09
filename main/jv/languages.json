@@ -3,8 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "jv"
       },
@@ -34,7 +33,7 @@
           "brx": "Bodo",
           "bs": "bs",
           "ca": "Katala",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Chechen",
           "ceb": "Cebuano",
           "cgg": "Chiga",
@@ -250,10 +249,14 @@
           "yi": "Yiddish",
           "yo": "Yoruba",
           "yue": "Kanton",
+          "yue-alt-menu": "Tyonghwa, Kanton",
           "zgh": "Tamazight Moroko Standar",
           "zh": "Tyonghwa",
+          "zh-alt-menu": "Tyonghwa, Mandarin",
           "zh-Hans": "Tyonghwa (Prasaja)",
+          "zh-Hans-alt-long": "Tyonghwa Mandarin (Ringkes)",
           "zh-Hant": "Tyonghwa (Tradisional)",
+          "zh-Hant-alt-long": "Tyonghwa Mandarin (Tradisional)",
           "zu": "Zulu",
           "zxx": "Konten tanpa linguistik"
         }

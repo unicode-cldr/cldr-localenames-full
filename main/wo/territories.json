@@ -3,8 +3,7 @@
     "wo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "wo"
       },
@@ -87,7 +86,7 @@
           "CG": "CG",
           "CG-alt-variant": "Réewum Kongo",
           "CH": "Siwis",
-          "CI": "Kodiwaar (Côte d’Ivoire)",
+          "CI": "Kodiwaar",
           "CI-alt-variant": "CI",
           "CK": "Duni Kuuk",
           "CL": "Sili",

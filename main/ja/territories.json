@@ -3,8 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ja"
       },
@@ -309,8 +308,8 @@
           "VU": "バヌアツ",
           "WF": "ウォリス・フツナ",
           "WS": "サモア",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "疑似アクセント",
+          "XB": "疑似 BIDI",
           "XK": "コソボ",
           "YE": "イエメン",
           "YT": "マヨット",

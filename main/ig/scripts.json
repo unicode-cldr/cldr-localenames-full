@@ -3,8 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14845 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ig"
       },
@@ -72,14 +71,14 @@
           "Ital": "Ital",
           "Jamo": "Jamo",
           "Java": "Java",
-          "Jpan": "Jpan",
+          "Jpan": "Japanese",
           "Kali": "Kali",
           "Kana": "Kana",
           "Khar": "Khar",
           "Khmr": "Khmr",
           "Khoj": "Khoj",
           "Knda": "Knda",
-          "Kore": "Kore",
+          "Kore": "Korea",
           "Kthi": "Kthi",
           "Lana": "Lana",
           "Laoo": "Laoo",

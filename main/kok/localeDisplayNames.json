@@ -3,8 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kok"
       },
@@ -22,7 +21,7 @@
           "hc": "वराचें चक्र (12 वि 24)",
           "lb": "रेग खंड करपाची शैली",
           "ms": "मापन प्रणाली",
-          "numbers": "क्रमांक"
+          "numbers": "संख्या"
         },
         "types": {
           "calendar": {
@@ -41,13 +40,13 @@
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
             "iso8601": "आयएसओ-8601 दिनदर्शिका",
-            "japanese": "जपानी",
+            "japanese": "जपानी दिनदर्शिका",
             "persian": "पर्शियन दिनदर्शिका",
             "roc": "मिंगुआ दिनदर्शिका (अणकाराची कुरू: जाका चिनी दिनदर्शिकेचें प्रजासत्ताक\\\", \\\"रिपब्लिकन दिनदर्शिका\\\")"
           },
           "cf": {
             "account": "लेखा चलन स्वरूप",
-            "standard": "प्रमाणित"
+            "standard": "प्रमाणित चलन स्वरुप"
           },
           "collation": {
             "big5han": "big5han",
@@ -60,7 +59,7 @@
             "phonebook": "phonebook",
             "pinyin": "pinyin",
             "reformed": "reformed",
-            "search": "सोद घेवचो",
+            "search": "सामान्य-उद्देशान केल्लो सोद",
             "searchjl": "searchjl",
             "standard": "प्रमाणित वर्गवारी क्रम",
             "stroke": "stroke",
@@ -75,13 +74,13 @@
             "h24": "24 वरांची यंत्रणा (1–24)"
           },
           "lb": {
-            "loose": "लूज रेग खंड शैली",
+            "loose": "सुटी रेग खंड शैली",
             "normal": "सामान्य रेग खंड शैली",
             "strict": "सक्तीची रेग खंड शैली"
           },
           "ms": {
             "metric": "मॅट्रीक प्रणाली",
-            "uksystem": "व्हडली मापन प्रणाली",
+            "uksystem": "भव्य मापन प्रणाली",
             "ussystem": "युएस मापन प्रणाली"
           },
           "numbers": {
@@ -123,7 +122,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "लाओ अंक",
-            "latn": "अस्तंत अंक",
+            "latn": "अस्तंतीय अंक",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -141,7 +140,7 @@
             "mymrtlng": "mymrtlng",
             "nkoo": "nkoo",
             "olck": "olck",
-            "orya": "ओडिया",
+            "orya": "ओडिया अंक",
             "osma": "osma",
             "rohg": "rohg",
             "roman": "रोमन संख्या",
@@ -158,7 +157,7 @@
             "tamldec": "तमिळ अंक",
             "telu": "तेलुगू अंक",
             "thai": "थाय अंक",
-            "tibt": "तिबेतियन",
+            "tibt": "तिबेतियन अंक",
             "tirh": "tirh",
             "vaii": "vaii",
             "wara": "wara",

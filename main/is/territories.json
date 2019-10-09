@@ -3,8 +3,7 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "is"
       },
@@ -88,7 +87,7 @@
           "CG-alt-variant": "Kongó (Lýðveldið)",
           "CH": "Sviss",
           "CI": "Fílabeinsströndin",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Fílabeinsströndin",
           "CK": "Cooks-eyjar",
           "CL": "Síle",
           "CM": "Kamerún",
@@ -102,7 +101,7 @@
           "CX": "Jólaey",
           "CY": "Kýpur",
           "CZ": "Tékkland",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tékkland",
           "DE": "Þýskaland",
           "DG": "Diego Garcia",
           "DJ": "Djíbútí",
@@ -195,7 +194,7 @@
           "MC": "Mónakó",
           "MD": "Moldóva",
           "ME": "Svartfjallaland",
-          "MF": "St. Martin",
+          "MF": "Saint-Martin",
           "MG": "Madagaskar",
           "MH": "Marshalleyjar",
           "MK": "Norður-Makedónía",
@@ -272,7 +271,7 @@
           "SX": "Sankti Martin",
           "SY": "Sýrland",
           "SZ": "Svasíland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Svasíland",
           "TA": "Tristan da Cunha",
           "TC": "Turks- og Caicoseyjar",
           "TD": "Tsjad",
@@ -309,8 +308,8 @@
           "VU": "Vanúatú",
           "WF": "Wallis- og Fútúnaeyjar",
           "WS": "Samóa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "gervihreimur",
+          "XB": "gervistaður",
           "XK": "Kósóvó",
           "YE": "Jemen",
           "YT": "Mayotte",

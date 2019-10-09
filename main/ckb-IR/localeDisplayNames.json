@@ -3,8 +3,7 @@
     "ckb-IR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14822 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ckb",
         "territory": "IR"
@@ -14,6 +13,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "ئینگلاند",
+          "gbsct": "سکۆتلەندا",
+          "gbwls": "وەیڵز"
         },
         "keys": {
           "calendar": "calendar",

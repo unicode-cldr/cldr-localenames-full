@@ -3,8 +3,7 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ga"
       },
@@ -271,8 +270,8 @@
           "SV": "an tSalvadóir",
           "SX": "Sint Maarten",
           "SY": "an tSiria",
-          "SZ": "an tSuasalainn",
-          "SZ-alt-variant": "Ríocht na Suasalainne",
+          "SZ": "eSuaitíní",
+          "SZ-alt-variant": "an tSuasalainn",
           "TA": "Tristan da Cunha",
           "TC": "Oileáin na dTurcach agus Caicos",
           "TD": "Sead",
@@ -294,7 +293,7 @@
           "UA": "an Úcráin",
           "UG": "Uganda",
           "UM": "Oileáin Imeallacha S.A.M.",
-          "UN": "na Náisiúin Aontaiteh",
+          "UN": "na Náisiúin Aontaithe",
           "UN-alt-short": "NA",
           "US": "Stáit Aontaithe Mheiriceá",
           "US-alt-short": "SAM",
@@ -309,8 +308,8 @@
           "VU": "Vanuatú",
           "WF": "Vailís agus Futúna",
           "WS": "Samó",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Bréagdhiaicriticí",
+          "XB": "Bréag-Bidi",
           "XK": "an Chosaiv",
           "YE": "Éimin",
           "YT": "Mayotte",

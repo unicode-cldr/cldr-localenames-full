@@ -3,8 +3,7 @@
     "ia": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14836 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ia"
       },
@@ -199,7 +198,7 @@
           "MG": "Madagascar",
           "MH": "Insulas Marshall",
           "MK": "Macedonia",
-          "MK-alt-variant": "Macedonia (ARYM)",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "MM",
           "MN": "Mongolia",

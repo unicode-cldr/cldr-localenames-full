@@ -3,8 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "jv"
       },
@@ -159,7 +158,7 @@
           "Tfng": "Tfng",
           "Tglg": "Tglg",
           "Thaa": "Thaana",
-          "Thai": "Thai",
+          "Thai": "Thailand",
           "Tibt": "Tibetan",
           "Tirh": "Tirh",
           "Ugar": "Ugar",

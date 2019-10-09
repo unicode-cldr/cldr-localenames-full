@@ -3,8 +3,7 @@
     "ak": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ak"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Kyaena kasa",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Kyaena kasa (Hans)",
+          "zh-Hans-alt-long": "Kyaena kasa (Hans)",
           "zh-Hant": "Kyaena kasa (Hant)",
+          "zh-Hant-alt-long": "Kyaena kasa (Hant)",
           "zu": "Zulu",
           "zxx": "zxx"
         }

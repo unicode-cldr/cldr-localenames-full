@@ -3,8 +3,7 @@
     "de-BE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "de",
         "territory": "BE"
@@ -14,6 +13,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "England",
+          "gbsct": "Schottland",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "Kalender",

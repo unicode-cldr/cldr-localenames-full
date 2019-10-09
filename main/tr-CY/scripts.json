@@ -3,8 +3,7 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tr",
         "territory": "CY"
@@ -62,7 +61,7 @@
           "Grek": "Yunan",
           "Gujr": "Gücerat",
           "Guru": "Gurmukhi",
-          "Hanb": "Hanb",
+          "Hanb": "Han - Bopomofo",
           "Hang": "Hangıl",
           "Hani": "Han",
           "Hano": "Hanunoo",
@@ -76,7 +75,7 @@
           "Hluw": "Anadolu Hiyeroglifleri",
           "Hmng": "Pahavh Hmong",
           "Hmnp": "Hmnp",
-          "Hrkt": "Katakana veya Hiragana",
+          "Hrkt": "Japon hece alfabeleri",
           "Hung": "Eski Macar",
           "Inds": "Indus",
           "Ital": "Eski İtalyan",

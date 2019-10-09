@@ -3,8 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fa",
         "territory": "AF"
@@ -36,8 +35,9 @@
           "BISKE": "BISKE",
           "BOHORIC": "BOHORIC",
           "BOONT": "BOONT",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
-          "COLB1945": "COLB1945",
+          "COLB1945": "کنوانسیون رسم‌الخط پرتغال و برزیل در ۱۹۴۵",
           "CORNU": "CORNU",
           "CREISS": "CREISS",
           "DAJNKO": "DAJNKO",
@@ -62,7 +62,7 @@
           "JYUTPING": "JYUTPING",
           "KKCOR": "KKCOR",
           "KOCIEWIE": "KOCIEWIE",
-          "KSCOR": "KSCOR",
+          "KSCOR": "رسم‌الخط استاندارد",
           "LAUKIKA": "LAUKIKA",
           "LEMOSIN": "LEMOSIN",
           "LENGADOC": "LENGADOC",
@@ -77,7 +77,7 @@
           "NJIVA": "NJIVA",
           "NULIK": "NULIK",
           "OSOJS": "OSOJS",
-          "OXENDICT": "OXENDICT",
+          "OXENDICT": "املای فرهنگ انگلیسی آکسفورد",
           "PAHAWH2": "PAHAWH2",
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",

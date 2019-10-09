@@ -3,8 +3,7 @@
     "om": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "om"
       },
@@ -253,10 +252,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chinese",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Chinese (Hans)",
+          "zh-Hans-alt-long": "Chinese (Hans)",
           "zh-Hant": "Chinese (Hant)",
+          "zh-Hant-alt-long": "Chinese (Hant)",
           "zu": "Afaan Zuulu",
           "zxx": "zxx"
         }

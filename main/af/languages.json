@@ -3,8 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "af"
       },
@@ -59,7 +58,7 @@
           "bug": "Buginees",
           "byn": "Blin",
           "ca": "Katalaans",
-          "ccp": "ccp",
+          "ccp": "Tsjaakma",
           "ce": "Tsjetsjeens",
           "ceb": "Cebuano",
           "cgg": "Kiga",
@@ -83,7 +82,7 @@
           "dav": "Taita",
           "de": "Duits",
           "de-AT": "Duits (Oostenryk)",
-          "de-CH": "Switserse hoog-Duits",
+          "de-CH": "Duits (Switserland)",
           "dgr": "Dogrib",
           "dje": "Zarma",
           "dsb": "Benedesorbies",
@@ -275,7 +274,7 @@
           "naq": "Nama",
           "nb": "Boeknoors",
           "nd": "Noord-Ndebele",
-          "nds": "Lae Duits",
+          "nds": "Nederduits",
           "nds-NL": "Nedersaksies",
           "ne": "Nepalees",
           "new": "Newari",
@@ -400,7 +399,7 @@
           "ug": "Uighur",
           "uk": "Oekraïens",
           "umb": "Umbundu",
-          "und": "Onbekende of ongeldige taal",
+          "und": "Onbekende taal",
           "ur": "Oerdoe",
           "uz": "Oezbeeks",
           "vai": "Vai",
@@ -423,10 +422,14 @@
           "yi": "Jiddisj",
           "yo": "Yoruba",
           "yue": "Kantonees",
+          "yue-alt-menu": "Kantonese Chinees",
           "zgh": "Standaard Marokkaanse Tamazight",
-          "zh": "Sjinees",
+          "zh": "Chinees",
+          "zh-alt-menu": "Mandarynse Chinees",
           "zh-Hans": "Chinees (Vereenvoudig)",
+          "zh-Hans-alt-long": "Mandarynse Chinees (Vereenvoudigd)",
           "zh-Hant": "Chinees (Tradisioneel)",
+          "zh-Hant-alt-long": "Mandarynse Chinees (Tradisioneel)",
           "zu": "Zoeloe",
           "zun": "Zuni",
           "zxx": "Geen taalinhoud nie",

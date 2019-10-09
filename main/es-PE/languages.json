@@ -3,8 +3,7 @@
     "es-PE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14783 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "PE"
@@ -139,7 +138,7 @@
           "en-AU": "inglés australiano",
           "en-CA": "inglés canadiense",
           "en-GB": "inglés británico",
-          "en-GB-alt-short": "inglés (R.U.)",
+          "en-GB-alt-short": "inglés (RU)",
           "en-US": "inglés estadounidense",
           "en-US-alt-short": "inglés (EE. UU.)",
           "enm": "inglés medio",
@@ -503,7 +502,7 @@
           "twq": "tasawaq",
           "ty": "tahitiano",
           "tyv": "tuvano",
-          "tzm": "tamazight del Marruecos Central",
+          "tzm": "tamazight del Atlas Central",
           "udm": "udmurt",
           "ug": "uigur",
           "ug-alt-variant": "uighur",
@@ -537,14 +536,18 @@
           "yi": "yidis",
           "yo": "yoruba",
           "yue": "cantonés",
+          "yue-alt-menu": "chino cantonés",
           "za": "zhuang",
           "zap": "zapoteco",
           "zbl": "símbolos Bliss",
           "zen": "zenaga",
           "zgh": "tamazight marroquí estándar",
           "zh": "chino",
+          "zh-alt-menu": "chino mandarín",
           "zh-Hans": "chino simplificado",
+          "zh-Hans-alt-long": "chino mandarín simplificado",
           "zh-Hant": "chino tradicional",
+          "zh-Hant-alt-long": "chino mandarín tradicional",
           "zu": "zulú",
           "zun": "zuni",
           "zxx": "sin contenido lingüístico",

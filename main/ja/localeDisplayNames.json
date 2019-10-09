@@ -3,8 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ja"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}、{1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "イングランド",
+          "gbsct": "スコットランド",
+          "gbwls": "ウェールズ"
         },
         "keys": {
           "calendar": "暦法",
@@ -90,7 +94,7 @@
             "reformed": "リフォーム",
             "search": "汎用検索",
             "searchjl": "ハングル語頭子音による並べ替え",
-            "standard": "標準ソート順序",
+            "standard": "標準並べ替え順序",
             "stroke": "画数順",
             "traditional": "トラディッショナル",
             "unihan": "部首順",
@@ -148,7 +152,7 @@
             "cakm": "チャクマ数字",
             "cham": "チャム数字",
             "cyrl": "cyrl",
-            "deva": "デーヴァナーガリー数字",
+            "deva": "デーバナーガリー数字",
             "ethi": "エチオピア数字",
             "finance": "財務用漢数字",
             "fullwide": "全角数字",
@@ -195,7 +199,7 @@
             "native": "独自の記数法",
             "nkoo": "ンコ数字",
             "olck": "オルチキ数字",
-            "orya": "オリヤー数字",
+            "orya": "オディア数字",
             "osma": "オスマニア数字",
             "rohg": "rohg",
             "roman": "ローマ数字",
@@ -208,7 +212,7 @@
             "sund": "スンダ数字",
             "takr": "タークリー数字",
             "talu": "新タイ・ルー数字",
-            "taml": "タミール数字",
+            "taml": "伝統的タミル数字",
             "tamldec": "タミル数字",
             "telu": "テルグ数字",
             "thai": "タイ数字",

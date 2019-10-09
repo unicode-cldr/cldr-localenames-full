@@ -3,8 +3,7 @@
     "ia": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14836 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ia"
       },
@@ -399,10 +398,14 @@
           "yi": "yiddish",
           "yo": "yoruba",
           "yue": "cantonese",
+          "yue-alt-menu": "yue",
           "zgh": "tamazight marocchin standard",
           "zh": "chinese",
+          "zh-alt-menu": "zh",
           "zh-Hans": "chinese simplificate",
+          "zh-Hans-alt-long": "chinese (simplificate)",
           "zh-Hant": "chinese traditional",
+          "zh-Hant-alt-long": "chinese (traditional)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "sin contento linguistic",

@@ -3,8 +3,7 @@
     "mi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mi"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Hainamana",
+          "zh-alt-menu": "Hainamana Manarini",
           "zh-Hans": "Hainamana Māmā",
+          "zh-Hans-alt-long": "Hainamana (Māmā)",
           "zh-Hant": "Hainamana Tukuiho",
+          "zh-Hant-alt-long": "Hainamana (Tukuiho)",
           "zu": "zu",
           "zxx": "zxx"
         }

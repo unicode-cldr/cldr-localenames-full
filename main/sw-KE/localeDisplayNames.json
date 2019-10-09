@@ -3,8 +3,7 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sw",
         "territory": "KE"
@@ -14,6 +13,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Uingereza",
+          "gbsct": "Uskoti",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "Kalenda",
@@ -27,12 +31,12 @@
           "colNumeric": "Upangaji wa Namba",
           "colStrength": "Nguvu ya Upangaji",
           "currency": "Sarafu",
-          "hc": "Kipindi cha saa (12 au 24)",
+          "hc": "Kipindi cha saa (12 dhidi ya 24)",
           "lb": "Mtindo wa Kukata Mstari",
           "ms": "Mfumo wa Vipimo",
           "numbers": "Nambari",
-          "timezone": "Ukanda Saa",
-          "va": "Tofauti ya Mandhari",
+          "timezone": "Saa za Eneo",
+          "va": "Tofauti ya Lugha",
           "x": "Matumizi ya Kibinafsi"
         },
         "types": {
@@ -40,11 +44,11 @@
             "buddhist": "Kalenda ya Kibuddha",
             "chinese": "Kalenda ya Kichina",
             "coptic": "Kalenda ya Koptiki",
-            "dangi": "Kalenda ya Dangi",
-            "ethiopic": "Kalenda ya Kiethiopia",
+            "dangi": "Kalenda ya Kidangi",
+            "ethiopic": "Kalenda ya Kihabeshi",
             "ethiopic-amete-alem": "Kalenda ya Kiethiopia ya Amete Alem",
             "gregorian": "Kalenda ya Kigregori",
-            "hebrew": "Kalenda ya Kiebrania",
+            "hebrew": "Kalenda ya kihibrania",
             "indian": "Kalenda ya Taifa ya India",
             "islamic": "Kalenda ya Kiislamu",
             "islamic-civil": "Kalenda ya Kiislamu/Rasmi",
@@ -150,10 +154,10 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Nambari za Kidevanagari",
-            "ethi": "Nambari za Kiethiopia",
+            "ethi": "Nambari za Kihabeshi",
             "finance": "Tarakimu za Kifedha",
             "fullwide": "Nambari za Upana Kamili",
-            "geor": "Nambari za Kigeorgia",
+            "geor": "Nambari za Kijiojia",
             "gong": "gong",
             "gonm": "gonm",
             "grek": "Nambari za Kigiriki",
@@ -165,7 +169,7 @@
             "hansfin": "Nambari za Kifedha za Kichina Rahisi",
             "hant": "Nambari za Kichina cha Jadi",
             "hantfin": "Nambari za Kifedha za Kichina cha Jadi",
-            "hebr": "Nambari za Kiebrania",
+            "hebr": "Nambari za Kihibrania",
             "hmng": "hmng",
             "hmnp": "hmnp",
             "java": "java",
@@ -185,12 +189,12 @@
             "mathmono": "mathmono",
             "mathsanb": "mathsanb",
             "mathsans": "mathsans",
-            "mlym": "Nambari za Malayalam",
+            "mlym": "Nambari za Kimalayalam",
             "modi": "modi",
             "mong": "Nambari za Kimongolia",
             "mroo": "mroo",
             "mtei": "mtei",
-            "mymr": "Nambari za Myanmar",
+            "mymr": "Nambari za Kimyama",
             "mymrshan": "mymrshan",
             "mymrtlng": "mymrtlng",
             "native": "Digiti Asili",
@@ -210,7 +214,7 @@
             "takr": "takr",
             "talu": "talu",
             "taml": "Nambari za Kitamil cha Jadi",
-            "tamldec": "Nambari za Kitamil",
+            "tamldec": "Nambari za Kitamili",
             "telu": "Nambari za Kitelugu",
             "thai": "Nambari za Kithai",
             "tibt": "Nambari za Kitibeti",

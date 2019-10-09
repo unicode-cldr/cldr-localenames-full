@@ -3,8 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "vi"
       },
@@ -28,9 +27,9 @@
           "034": "Nam Á",
           "035": "Đông Nam Á",
           "039": "Nam Âu",
-          "053": "Úc và New Zealand",
+          "053": "Australasia",
           "054": "Melanesia",
-          "057": "Vùng Micronesian",
+          "057": "Vùng Micronesia",
           "061": "Polynesia",
           "142": "Châu Á",
           "143": "Trung Á",
@@ -131,7 +130,7 @@
           "GB": "Vương quốc Anh",
           "GB-alt-short": "Vương quốc Anh",
           "GD": "Grenada",
-          "GE": "Gruzia",
+          "GE": "Georgia",
           "GF": "Guiana thuộc Pháp",
           "GG": "Guernsey",
           "GH": "Ghana",
@@ -272,7 +271,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Swaziland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Eswatini",
           "TA": "Tristan da Cunha",
           "TC": "Quần đảo Turks và Caicos",
           "TD": "Chad",
@@ -309,8 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis và Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudo-Accents",
+          "XB": "Pseudo-Bidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

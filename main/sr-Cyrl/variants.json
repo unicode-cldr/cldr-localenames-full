@@ -3,8 +3,7 @@
     "sr-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Cyrl"
@@ -36,6 +35,7 @@
           "BISKE": "Сан Ђорђио/Била дијалект",
           "BOHORIC": "BOHORIC",
           "BOONT": "Бунтлинг",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

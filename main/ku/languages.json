@@ -3,8 +3,7 @@
     "ku": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14783 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ku"
       },
@@ -325,10 +324,14 @@
           "yi": "yidîşî",
           "yo": "yorubayî",
           "yue": "kantonî",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "zh",
+          "zh-alt-menu": "zh",
           "zh-Hans": "zh (Hans)",
+          "zh-Hans-alt-long": "zh (Hans)",
           "zh-Hant": "zh (Hant)",
+          "zh-Hant-alt-long": "zh (Hant)",
           "zu": "zuluyî",
           "zxx": "zxx",
           "zza": "zazakî"

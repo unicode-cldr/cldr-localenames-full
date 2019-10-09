@@ -3,8 +3,7 @@
     "zgh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zgh"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "ⵜⴰⵢⵔⵓⴱⴰⵜ",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
           "zh": "ⵜⴰⵛⵉⵏⵡⵉⵜ",
+          "zh-alt-menu": "zh",
           "zh-Hans": "ⵜⴰⵛⵉⵏⵡⵉⵜ (Hans)",
+          "zh-Hans-alt-long": "ⵜⴰⵛⵉⵏⵡⵉⵜ (Hans)",
           "zh-Hant": "ⵜⴰⵛⵉⵏⵡⵉⵜ (Hant)",
+          "zh-Hant-alt-long": "ⵜⴰⵛⵉⵏⵡⵉⵜ (Hant)",
           "zu": "ⵜⴰⵣⵓⵍⵓⵜ",
           "zxx": "zxx"
         }

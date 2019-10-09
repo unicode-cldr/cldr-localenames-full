@@ -3,8 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pl"
       },
@@ -14,21 +13,26 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Anglia",
+          "gbsct": "Szkocja",
+          "gbwls": "Walia"
+        },
         "keys": {
           "calendar": "kalendarz",
           "cf": "format waluty",
           "colAlternate": "Sortowanie ignorujące symbole",
           "colBackwards": "Odwrotne sortowanie ze znakami akcentowanymi",
-          "colCaseFirst": "Porządek wielkie/małe litery",
+          "colCaseFirst": "Kolejność wielkie/małe litery",
           "colCaseLevel": "Sortowanie uwzględniające wielkość liter",
-          "collation": "porządek sortowania",
+          "collation": "kolejność sortowania",
           "colNormalization": "Sortowanie znormalizowane",
           "colNumeric": "Sortowanie numeryczne",
           "colStrength": "Siła sortowania",
           "currency": "waluta",
           "hc": "cykl (12- lub 24-godzinny)",
           "lb": "styl podziału wiersza",
-          "ms": "układ miar",
+          "ms": "system miar",
           "numbers": "cyfry",
           "timezone": "Strefa czasowa",
           "va": "Wariant regionalny",
@@ -39,13 +43,13 @@
             "buddhist": "kalendarz buddyjski",
             "chinese": "kalendarz chiński",
             "coptic": "Kalendarz koptyjski",
-            "dangi": "kalendarz dangi",
+            "dangi": "kalendarz koreański",
             "ethiopic": "kalendarz etiopski",
             "ethiopic-amete-alem": "Kalendarz etiopski Amete Alem",
             "gregorian": "kalendarz gregoriański",
             "hebrew": "kalendarz hebrajski",
             "indian": "narodowy kalendarz hinduski",
-            "islamic": "kalendarz islamski (metoda wzrokowa)",
+            "islamic": "kalendarz muzułmański",
             "islamic-civil": "kalendarz islamski (metoda obliczeniowa)",
             "islamic-rgsa": "kalendarz islamski (Arabia Saudyjska, metoda wzrokowa)",
             "islamic-tbla": "kalendarz islamski (metoda obliczeniowa, epoka astronomiczna)",
@@ -80,7 +84,7 @@
             "big5han": "chiński tradycyjny porządek sortowania - Big5",
             "compat": "poprzedni porządek sortowania, dla zgodności",
             "dictionary": "sortowanie słownikowe",
-            "ducet": "domyślne sortowanie Unicode",
+            "ducet": "domyślna kolejność sortowania Unicode",
             "emoji": "emoji",
             "eor": "europejskie reguły określania kolejności",
             "gb2312han": "chiński uproszczony porządek sortowania - GB2312",
@@ -88,9 +92,9 @@
             "phonetic": "sortowanie fonetyczne",
             "pinyin": "porządek sortowania pinyin",
             "reformed": "sortowanie zreformowane",
-            "search": "wyszukiwanie ogólnego użytku",
+            "search": "wyszukiwanie ogólnego zastosowania",
             "searchjl": "Wyszukiwanie według początkowej spółgłoski hangul",
-            "standard": "sortowanie standardowe",
+            "standard": "standardowa kolejność sortowania",
             "stroke": "porządek akcentów",
             "traditional": "tradycyjny porządek sortowania",
             "unihan": "sortowanie wg kluczy i ich liczby kresek",
@@ -128,8 +132,8 @@
             "strict": "ścisły styl podziału wiersza"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "transliteracja BGN",
+            "ungegn": "transliteracja UNGEGN"
           },
           "ms": {
             "metric": "system metryczny",

@@ -3,8 +3,7 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hr"
       },
@@ -14,17 +13,22 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Engleska",
+          "gbsct": "Škotska",
+          "gbwls": "Wales"
+        },
         "keys": {
           "calendar": "kalendar",
           "cf": "Format valute",
-          "colAlternate": "Zanemarivanje poredavanja simbola",
-          "colBackwards": "Obrnuto poredavanje po naglasku",
-          "colCaseFirst": "Poredavanje po velikim/malim slovima",
-          "colCaseLevel": "Poredavanje u skladu s veličinom slova",
+          "colAlternate": "Zanemarivanje razvrstavanja simbola",
+          "colBackwards": "Obrnuto razvrstavanje po naglasku",
+          "colCaseFirst": "Razvrstavanje po velikim/malim slovima",
+          "colCaseLevel": "Razvrstavanje prema veličini slova",
           "collation": "Redoslijed razvrstavanja",
-          "colNormalization": "Normalizirano poredavanje",
-          "colNumeric": "Numeričko poredavanje",
-          "colStrength": "Jačina poredavanja",
+          "colNormalization": "Normalizirano razvrstavanje",
+          "colNumeric": "Brojčano razvrstavanje",
+          "colStrength": "Jačina razvrstavanja",
           "currency": "valuta",
           "hc": "format vremena (12 ili 24)",
           "lb": "stil prijeloma retka",

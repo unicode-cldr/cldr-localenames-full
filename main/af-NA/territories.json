@@ -3,8 +3,7 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14822 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "af",
         "territory": "NA"
@@ -89,7 +88,7 @@
           "CG-alt-variant": "Kongo (Republiek die)",
           "CH": "Switserland",
           "CI": "Ivoorkus",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Cote d’Ivoire",
           "CK": "Cookeilande",
           "CL": "Chili",
           "CM": "Kameroen",
@@ -199,8 +198,8 @@
           "MF": "Sint Martin",
           "MG": "Madagaskar",
           "MH": "Marshalleilande",
-          "MK": "Macedonië",
-          "MK-alt-variant": "Macedonië (VJRM)",
+          "MK": "Noord-Macedonië",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar (Birma)",
           "MN": "Mongolië",
@@ -272,8 +271,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Sirië",
-          "SZ": "Swaziland",
-          "SZ-alt-variant": "SZ",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Eswatini",
           "TA": "Tristan da Cunha",
           "TC": "Turks- en Caicoseilande",
           "TD": "Tsjad",
@@ -283,7 +282,7 @@
           "TJ": "Tadjikistan",
           "TK": "Tokelau",
           "TL": "Oos-Timor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Oos-Timor",
           "TM": "Turkmenistan",
           "TN": "Tunisië",
           "TO": "Tonga",
@@ -310,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis en Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudoaksente",
+          "XB": "Pseudotweerigting",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

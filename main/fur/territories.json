@@ -3,8 +3,7 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fur"
       },
@@ -198,8 +197,8 @@
           "MF": "Sant Martin",
           "MG": "Madagascar",
           "MH": "Isulis Marshall",
-          "MK": "Macedonie",
-          "MK-alt-variant": "Macedonie (FYROM)",
+          "MK": "MK",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Birmanie",
           "MN": "Mongolie",

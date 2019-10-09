@@ -3,8 +3,7 @@
     "fur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fur"
       },
@@ -294,10 +293,14 @@
           "yi": "yiddish",
           "yo": "yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "cinês",
+          "zh-alt-menu": "zh",
           "zh-Hans": "cinês semplificât",
+          "zh-Hans-alt-long": "cinês (Han semplificât)",
           "zh-Hant": "cinês tradizionâl",
+          "zh-Hant-alt-long": "cinês (Han tradizionâl)",
           "zu": "zulu",
           "zxx": "zxx"
         }

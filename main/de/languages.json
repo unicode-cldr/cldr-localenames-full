@@ -3,8 +3,7 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "de"
       },
@@ -98,7 +97,7 @@
           "car": "Karibisch",
           "cay": "Cayuga",
           "cch": "Atsam",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Tschetschenisch",
           "ceb": "Cebuano",
           "cgg": "Rukiga",
@@ -617,6 +616,7 @@
           "yo": "Yoruba",
           "yrl": "Nheengatu",
           "yue": "Kantonesisch",
+          "yue-alt-menu": "Chinesisch (Kantonesisch)",
           "za": "Zhuang",
           "zap": "Zapotekisch",
           "zbl": "Bliss-Symbole",
@@ -624,8 +624,11 @@
           "zen": "Zenaga",
           "zgh": "Tamazight",
           "zh": "Chinesisch",
+          "zh-alt-menu": "Chinesisch (Mandarin)",
           "zh-Hans": "Chinesisch (vereinfacht)",
+          "zh-Hans-alt-long": "Mandarin (Vereinfacht)",
           "zh-Hant": "Chinesisch (traditionell)",
+          "zh-Hant-alt-long": "Chinesisch (Traditionell)",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Keine Sprachinhalte",

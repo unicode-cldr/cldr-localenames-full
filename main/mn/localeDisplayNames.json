@@ -3,8 +3,7 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mn"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Англи",
+          "gbsct": "Шотланд",
+          "gbwls": "Уэльс"
         },
         "keys": {
           "calendar": "цаглавар",
@@ -98,7 +102,7 @@
             "cyrl": "cyrl",
             "deva": "деванагари тоо",
             "ethi": "этиоп тоо",
-            "fullwide": "бүрэн хэмжээтэй тоо",
+            "fullwide": "бүтэн-өргөнтэй тоо",
             "geor": "гүрж тоо",
             "gong": "gong",
             "gonm": "gonm",

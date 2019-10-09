@@ -3,8 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sk"
       },
@@ -82,10 +81,10 @@
           "CA": "Kanada",
           "CC": "Kokosové ostrovy",
           "CD": "Konžská demokratická republika",
-          "CD-alt-variant": "CD",
+          "CD-alt-variant": "Kongo (DRK)",
           "CF": "Stredoafrická republika",
           "CG": "Konžská republika",
-          "CG-alt-variant": "CG",
+          "CG-alt-variant": "Kongo (republika)",
           "CH": "Švajčiarsko",
           "CI": "Pobrežie Slonoviny",
           "CI-alt-variant": "CI",
@@ -271,8 +270,8 @@
           "SV": "Salvádor",
           "SX": "Svätý Martin (hol.)",
           "SY": "Sýria",
-          "SZ": "Svazijsko",
-          "SZ-alt-variant": "SZ",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Svazijsko",
           "TA": "Tristan da Cunha",
           "TC": "Turks a Caicos",
           "TD": "Čad",
@@ -309,8 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis a Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "falošná diakritika",
+          "XB": "obrátenie sprava doľava",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

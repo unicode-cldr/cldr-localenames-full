@@ -3,8 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "id"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Inggris",
+          "gbsct": "Skotlandia",
+          "gbwls": "Wales"
         },
         "keys": {
           "calendar": "Kalender",
@@ -53,7 +57,7 @@
             "iso8601": "Kalender ISO-8601",
             "japanese": "Kalender Jepang",
             "persian": "Kalender Persia",
-            "roc": "Kalendar Minguo"
+            "roc": "Kalender Min-guo"
           },
           "cf": {
             "account": "Format Mata Uang Akuntansi",
@@ -94,7 +98,7 @@
             "stroke": "Urutan Sortir Guratan",
             "traditional": "Urutan Sortir Tradisional",
             "unihan": "Urutan Sortir Guratan Radikal",
-            "zhuyin": "zhuyin"
+            "zhuyin": "Aturan Pengurutan Zhuyin"
           },
           "colNormalization": {
             "no": "Sortir Tanpa Normalisasi",
@@ -128,8 +132,8 @@
             "strict": "Gaya Pemisah Baris Rapat"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "Transliterasi BGN AS",
+            "ungegn": "Transliterasi GEGN PBB"
           },
           "ms": {
             "metric": "Sistem Metrik",

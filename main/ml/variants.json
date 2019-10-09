@@ -3,8 +3,7 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ml"
       },
@@ -34,6 +33,7 @@
           "BISKE": "BISKE",
           "BOHORIC": "BOHORIC",
           "BOONT": "ബൂണ്ട്‌ലിങ്ങ്",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

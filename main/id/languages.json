@@ -3,8 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "id"
       },
@@ -559,14 +558,18 @@
           "yi": "Yiddish",
           "yo": "Yoruba",
           "yue": "Kanton",
+          "yue-alt-menu": "Tionghoa, Kanton",
           "za": "Zhuang",
           "zap": "Zapotek",
           "zbl": "Blissymbol",
           "zen": "Zenaga",
           "zgh": "Tamazight Maroko Standar",
           "zh": "Tionghoa",
+          "zh-alt-menu": "Tionghoa, Mandarin",
           "zh-Hans": "Tionghoa (Aksara Sederhana)",
+          "zh-Hans-alt-long": "Tionghoa (Sederhana)",
           "zh-Hant": "Tionghoa (Aksara Tradisional)",
+          "zh-Hant-alt-long": "Tionghoa (Tradisional)",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Tidak ada konten linguistik",

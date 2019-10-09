@@ -3,8 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "bs",
         "script": "Latn"
@@ -129,7 +128,7 @@
           "FO": "Farska ostrva",
           "FR": "Francuska",
           "GA": "Gabon",
-          "GB": "Velika Britanija",
+          "GB": "Ujedinjeno Kraljevstvo",
           "GB-alt-short": "UK",
           "GD": "Grenada",
           "GE": "Gruzija",
@@ -272,8 +271,8 @@
           "SV": "Salvador",
           "SX": "Sint Marten",
           "SY": "Sirija",
-          "SZ": "Svazilend",
-          "SZ-alt-variant": "Svazi",
+          "SZ": "Esvatini",
+          "SZ-alt-variant": "Svazilend",
           "TA": "Tristan da Cunha",
           "TC": "Ostrva Turks i Kaikos",
           "TD": "Čad",
@@ -297,7 +296,7 @@
           "UM": "Američka Vanjska Ostrva",
           "UN": "Ujedinjene Nacije",
           "UN-alt-short": "UN",
-          "US": "Sjedinjene Američke Države",
+          "US": "Sjedinjene Države",
           "US-alt-short": "SAD",
           "UY": "Urugvaj",
           "UZ": "Uzbekistan",

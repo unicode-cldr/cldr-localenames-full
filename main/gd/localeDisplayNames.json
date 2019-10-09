@@ -3,8 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gd"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Sasainn",
+          "gbsct": "Alba",
+          "gbwls": "A’ Chuimrigh"
         },
         "keys": {
           "calendar": "Mìosachan",
@@ -122,7 +126,7 @@
             "hantfin": "Àireamhan ionmhasail na Sìnise Thradaiseanta",
             "hebr": "Àireamhan na h-Eabhra",
             "hmng": "Àireamhan Pahawh Hmong",
-            "hmnp": "hmnp",
+            "hmnp": "Àireamhan Nyiakeng Puachue",
             "java": "Àireamhan na Deàbhanaise",
             "jpan": "Àireamhan na Seapanaise",
             "jpanfin": "Àireamhan ionmhasail na Seapanaise",
@@ -171,7 +175,7 @@
             "tirh": "Àireamhan Tirhuta",
             "vaii": "Àireamhan Vai",
             "wara": "Àireamhan Warang Citi",
-            "wcho": "wcho"
+            "wcho": "Àireamhan Wancho"
           }
         },
         "codePatterns": {

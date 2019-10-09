@@ -3,8 +3,7 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "is"
       },
@@ -75,7 +74,7 @@
           "car": "karíbamál",
           "cay": "kajúga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "tsjakma",
           "ce": "tsjetsjenska",
           "ceb": "kebúanó",
           "cgg": "kíga",
@@ -358,7 +357,7 @@
           "nus": "núer",
           "nv": "navahó",
           "nwc": "klassísk nevaríska",
-          "ny": "njanja; sísjeva; sjeva",
+          "ny": "nýanja",
           "nym": "njamvesí",
           "nyn": "nyankole",
           "nyo": "njóró",
@@ -522,14 +521,18 @@
           "yi": "jiddíska",
           "yo": "jórúba",
           "yue": "kantónska",
+          "yue-alt-menu": "kínverska, kantónska",
           "za": "súang",
           "zap": "sapótek",
           "zbl": "blisstákn",
           "zen": "senaga",
           "zgh": "staðlað marokkóskt tamazight",
           "zh": "kínverska",
+          "zh-alt-menu": "kínverska, mandarín",
           "zh-Hans": "kínverska (einfölduð)",
+          "zh-Hans-alt-long": "mandarín (einfölduð)",
           "zh-Hant": "kínverska (hefðbundin)",
+          "zh-Hant-alt-long": "mandarín (hefðbundin)",
           "zu": "súlú",
           "zun": "súní",
           "zxx": "ekkert tungumálaefni",

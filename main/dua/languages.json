@@ -3,8 +3,7 @@
     "dua": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "dua"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "zh",
+          "zh-alt-menu": "zh",
           "zh-Hans": "zh (Hans)",
+          "zh-Hans-alt-long": "zh (Hans)",
           "zh-Hant": "zh (Hant)",
+          "zh-Hant-alt-long": "zh (Hant)",
           "zu": "zu",
           "zxx": "zxx"
         }

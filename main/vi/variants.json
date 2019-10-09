@@ -3,8 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "vi"
       },
@@ -35,6 +34,7 @@
           "BISKE": "Phương ngữ San Giorgio/Bila",
           "BOHORIC": "Bảng chữ cái Bohorič",
           "BOONT": "Tiếng Boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

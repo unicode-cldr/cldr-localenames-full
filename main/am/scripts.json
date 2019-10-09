@@ -3,8 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "am"
       },
@@ -173,7 +172,7 @@
           "Zanb": "Zanb",
           "Zinh": "Zinh",
           "Zmth": "Zmth",
-          "Zsye": "Zsye",
+          "Zsye": "ኢሞጂ",
           "Zsym": "ምልክቶች",
           "Zxxx": "ያልተጻፈ",
           "Zyyy": "የጋራ",

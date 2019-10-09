@@ -3,8 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sk"
       },
@@ -14,25 +13,30 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Anglicko",
+          "gbsct": "Škótsko",
+          "gbwls": "Wales"
+        },
         "keys": {
           "calendar": "kalendár",
           "cf": "formát meny",
-          "colAlternate": "Ignorovať radenie symbolov",
-          "colBackwards": "Obrátené radenie akcentov",
-          "colCaseFirst": "Radenie veľkých a malých písmen",
-          "colCaseLevel": "Rozlišovanie veľkých a malých písmen pri radení",
+          "colAlternate": "ignorovať radenie symbolov",
+          "colBackwards": "obrátené radenie diakritiky",
+          "colCaseFirst": "radenie veľkých a malých písmen",
+          "colCaseLevel": "rozlišovanie veľkých a malých písmen pri radení",
           "collation": "zoradenie",
-          "colNormalization": "Normalizované radenie",
-          "colNumeric": "Číselné radenie",
-          "colStrength": "Sila radenia",
+          "colNormalization": "normálne radenie",
+          "colNumeric": "číselné radenie",
+          "colStrength": "sila radenia",
           "currency": "mena",
           "hc": "hodinový cyklus (12 vs 24)",
           "lb": "štýl koncov riadka",
           "ms": "merná sústava",
           "numbers": "čísla",
-          "timezone": "Časové pásmo",
-          "va": "Variant miestneho nastavenia",
-          "x": "Súkromné použitie"
+          "timezone": "časové pásmo",
+          "va": "variant miestneho nastavenia",
+          "x": "súkromné použitie"
         },
         "types": {
           "calendar": {

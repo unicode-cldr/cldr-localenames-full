@@ -3,8 +3,7 @@
     "ckb-IR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14822 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ckb",
         "territory": "IR"

@@ -3,8 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gd"
       },
@@ -71,7 +70,7 @@
           "bho": "Bhojpuri",
           "bi": "Bislama",
           "bik": "Bikol",
-          "bin": "Bini",
+          "bin": "Edo",
           "bjn": "Banjar",
           "bkm": "Kom",
           "bla": "Siksika",
@@ -96,7 +95,7 @@
           "car": "Carib",
           "cay": "Cayuga",
           "cch": "Atsam",
-          "ccp": "ccp",
+          "ccp": "Chakma",
           "ce": "Deideanais",
           "ceb": "Cebuano",
           "cgg": "Chiga",
@@ -594,6 +593,7 @@
           "yo": "Yoruba",
           "yrl": "Nheengatu",
           "yue": "Cantonais",
+          "yue-alt-menu": "Sìnis, Cantonais",
           "za": "Zhuang",
           "zap": "Zapotec",
           "zbl": "Comharran Bliss",
@@ -601,8 +601,11 @@
           "zen": "Zenaga",
           "zgh": "Tamazight Stannardach Moroco",
           "zh": "Sìnis",
+          "zh-alt-menu": "Sìnis, Mandairinis",
           "zh-Hans": "Sìnis Shimplichte",
+          "zh-Hans-alt-long": "Mandairinis Shimplichte",
           "zh-Hant": "Sìnis Thradaiseanta",
+          "zh-Hant-alt-long": "Mandairinis Thradaiseanta",
           "zu": "Zulu",
           "zun": "Zuñi",
           "zxx": "Susbaint nach eil ’na chànan",

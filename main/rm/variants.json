@@ -3,8 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "rm"
       },
@@ -35,6 +34,7 @@
           "BISKE": "dialect da San Giorgio",
           "BOHORIC": "BOHORIC",
           "BOONT": "dialect boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

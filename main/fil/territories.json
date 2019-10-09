@@ -3,8 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fil"
       },
@@ -272,7 +271,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Swaziland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan de Cunha",
           "TC": "Turks & Caicos Islands",
           "TD": "Chad",

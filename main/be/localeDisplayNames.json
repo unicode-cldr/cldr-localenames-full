@@ -3,8 +3,7 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "be"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Англія",
+          "gbsct": "Шатландыя",
+          "gbwls": "Уэльс"
         },
         "keys": {
           "calendar": "каляндар",

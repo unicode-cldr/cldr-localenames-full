@@ -3,8 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cs"
       },
@@ -617,6 +616,7 @@
           "yo": "jorubština",
           "yrl": "nheengatu",
           "yue": "kantonština",
+          "yue-alt-menu": "jüe",
           "za": "čuangština",
           "zap": "zapotéčtina",
           "zbl": "bliss systém",
@@ -624,8 +624,11 @@
           "zen": "zenaga",
           "zgh": "tamazight (standardní marocký)",
           "zh": "čínština",
+          "zh-alt-menu": "standardní čínština",
           "zh-Hans": "čínština (zjednodušená)",
+          "zh-Hans-alt-long": "standardní čínština (zjednodušená)",
           "zh-Hant": "čínština (tradiční)",
+          "zh-Hant-alt-long": "standardní čínština (tradiční)",
           "zu": "zuluština",
           "zun": "zunijština",
           "zxx": "žádný jazykový obsah",

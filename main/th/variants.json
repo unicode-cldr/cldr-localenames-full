@@ -3,8 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "th"
       },
@@ -35,6 +34,7 @@
           "BISKE": "ภาษาพื้นเมืองซานจอร์โจ/บิลา",
           "BOHORIC": "ตัวอักษรโบโฮริช",
           "BOONT": "บูนทลิ่ง",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

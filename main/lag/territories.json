@@ -3,8 +3,7 @@
     "lag": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lag"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "Bukíini",
           "MH": "Visíiwa vya Marisháali",
-          "MK": "Masedónia",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Máali",
           "MM": "Miáama",

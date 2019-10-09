@@ -3,8 +3,7 @@
     "az-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "az",
         "script": "Cyrl"
@@ -400,10 +399,14 @@
           "yi": "идиш",
           "yo": "јоруба",
           "yue": "кантон",
+          "yue-alt-menu": "yue",
           "zgh": "тамази",
           "zh": "чин",
+          "zh-alt-menu": "zh",
           "zh-Hans": "садәләшмиш чин",
+          "zh-Hans-alt-long": "чин (Hans)",
           "zh-Hant": "әнәнәви чин",
+          "zh-Hant-alt-long": "чин (Hant)",
           "zu": "зулу",
           "zun": "зуни",
           "zxx": "дил мәзмуну јохдур",

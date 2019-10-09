@@ -3,8 +3,7 @@
     "mzn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mzn"
       },
@@ -268,10 +267,14 @@
           "yi": "yi",
           "yo": "یوروبا",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "مراکش ِاستاندارد ِتامازیقتی",
           "zh": "چینی",
+          "zh-alt-menu": "zh",
           "zh-Hans": "ساده چینی",
+          "zh-Hans-alt-long": "چینی (ساده‌بَیی هان)",
           "zh-Hant": "سنتی چینی",
+          "zh-Hant-alt-long": "چینی (سنتی هانت)",
           "zu": "زولو",
           "zxx": "این زوون بشناسی‌یه نیّه"
         }

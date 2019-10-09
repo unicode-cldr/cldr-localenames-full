@@ -3,8 +3,7 @@
     "seh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "seh"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "Madagascar",
           "MH": "Ilhas Marshall",
-          "MK": "Macedônia",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar",

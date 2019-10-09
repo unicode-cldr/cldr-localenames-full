@@ -3,8 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "rm"
       },
@@ -198,7 +197,7 @@
           "MF": "Saint Martin",
           "MG": "Madagascar",
           "MH": "Inslas da Marshall",
-          "MK": "Macedonia",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",

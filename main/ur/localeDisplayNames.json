@@ -3,8 +3,7 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ur"
       },
@@ -14,6 +13,11 @@
           "localeSeparator": "{0}،{1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "انگلینڈ",
+          "gbsct": "اسکاٹ لینڈ",
+          "gbwls": "ویلز"
+        },
         "keys": {
           "calendar": "کیلنڈر",
           "cf": "کرنسی فارمیٹ",
@@ -22,9 +26,9 @@
           "colCaseFirst": "بڑے حروف/ چھوٹے حروف کی ترتیب بندی",
           "colCaseLevel": "حروف کے تئیں حساس چھٹائی",
           "collation": "چھٹائی کی ترتیب",
-          "colNormalization": "معمول کی چھٹائی",
-          "colNumeric": "عددی چھٹائی",
-          "colStrength": "چھٹائی کی قوت",
+          "colNormalization": "معمول کی چھانٹی",
+          "colNumeric": "عددی چھانٹی",
+          "colStrength": "چھانٹی کی قوت",
           "currency": "کرنسی",
           "hc": "گھنٹہ سائیکل (12 بنام 24)",
           "lb": "لائن بریک انداز",
@@ -80,7 +84,7 @@
             "big5han": "روایتی چینی کی چھٹائی کی ترتیب - Big5",
             "compat": "سابقہ چھٹائی کی ترتیب، مطابقت کیلئے",
             "dictionary": "لغت کی چھٹنی کی ترتیب",
-            "ducet": "ڈیفالٹ یونیکوڈ کی چھٹنی کی ترتیب",
+            "ducet": "ڈیفالٹ یونی کوڈ چھانٹی کی ترتیب",
             "emoji": "emoji",
             "eor": "یورپی ترتیبی قوانین",
             "gb2312han": "آسان چینی کی چھٹائی کی ترتیب - GB2312",
@@ -90,7 +94,7 @@
             "reformed": "دوبارہ تشکیل شدہ چھٹنی کی ترتیب",
             "search": "عام-مقصد کی تلاش",
             "searchjl": "Hangul Initial Consonant کے لحاظ سے تلاش کریں",
-            "standard": "معیاری چھنٹائی کی ترتیب",
+            "standard": "معیاری چھانٹی کی ترتیب",
             "stroke": "سٹروک کی چھٹنی کی ترتیب",
             "traditional": "روایتی چھٹنی کی ترتیب",
             "unihan": "اساسی-سٹروک کی چھٹنی کی ترتیب",
@@ -128,8 +132,8 @@
             "strict": "سخت لائن بریک انداز"
           },
           "m0": {
-            "bgn": "US BGN",
-            "ungegn": "UN GEGN"
+            "bgn": "US BGN ٹرانسلٹریشن",
+            "ungegn": "UN GEGN ٹرانسلٹریشن"
           },
           "ms": {
             "metric": "میٹرک نظام",

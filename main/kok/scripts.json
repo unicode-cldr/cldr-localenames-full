@@ -3,8 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kok"
       },
@@ -76,7 +75,7 @@
           "Kali": "Kali",
           "Kana": "काटकाना",
           "Khar": "Khar",
-          "Khmr": "खमेर",
+          "Khmr": "कंबोडियन",
           "Khoj": "Khoj",
           "Knda": "कन्नड",
           "Kore": "कोरियन",

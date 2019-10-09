@@ -3,8 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "rm"
       },
@@ -499,14 +498,18 @@
           "yi": "jiddic",
           "yo": "yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "za": "zhuang",
           "zap": "zapotec",
           "zbl": "simbols da Bliss",
           "zen": "zenaga",
           "zgh": "zgh",
           "zh": "chinais",
+          "zh-alt-menu": "zh",
           "zh-Hans": "chinais simplifitgà",
+          "zh-Hans-alt-long": "chinais (scrittira chinaisa simplifitgada)",
           "zh-Hant": "chinais tradiziunal",
+          "zh-Hant-alt-long": "chinais (scrittira chinaisa tradiziunala)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "nagins cuntegns linguistics",

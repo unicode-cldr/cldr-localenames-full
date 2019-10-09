@@ -3,8 +3,7 @@
     "es-PE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14783 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "PE"

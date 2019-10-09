@@ -3,8 +3,7 @@
     "twq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "twq"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Yorbance senni",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Sinuwa senni, Mandareŋ",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Sinuwa senni, Mandareŋ (Hans)",
+          "zh-Hans-alt-long": "Sinuwa senni, Mandareŋ (Hans)",
           "zh-Hant": "Sinuwa senni, Mandareŋ (Hant)",
+          "zh-Hant-alt-long": "Sinuwa senni, Mandareŋ (Hant)",
           "zu": "Zulu senni",
           "zxx": "zxx"
         }

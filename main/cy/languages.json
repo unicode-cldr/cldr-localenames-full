@@ -3,8 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cy"
       },
@@ -445,7 +444,7 @@
           "sm": "Samöeg",
           "sma": "Sami Deheuol",
           "smj": "Sami Lwle",
-          "smn": "Sami Inari",
+          "smn": "Inari Sami",
           "sms": "Sami Scolt",
           "sn": "Shona",
           "snk": "Soninceg",
@@ -482,7 +481,7 @@
           "ti": "Tigrinya",
           "tig": "Tigreg",
           "tiv": "Tifeg",
-          "tk": "Twrcmeneg",
+          "tk": "Tyrcmeneg",
           "tkl": "Tocelaweg",
           "tkr": "Tsakhureg",
           "tl": "Tagalog",
@@ -504,7 +503,7 @@
           "twq": "Tasawaq",
           "ty": "Tahitïeg",
           "tyv": "Twfwnieg",
-          "tzm": "Tamaseit Canolbarth Moroco",
+          "tzm": "Tamazight Canol yr Atlas",
           "udm": "Fotiaceg",
           "ug": "Uighur",
           "uga": "Wgariteg",
@@ -537,13 +536,17 @@
           "yi": "Iddew-Almaeneg",
           "yo": "Iorwba",
           "yue": "Cantoneeg",
+          "yue-alt-menu": "Tsieinëeg, Cantoneg",
           "zap": "Zapoteceg",
           "zbl": "Blisssymbols",
           "zea": "Zêlandeg",
           "zgh": "Tamaseit Safonol",
-          "zh": "Tsieineeg",
-          "zh-Hans": "Tsieineeg Symledig",
-          "zh-Hant": "Tsieineeg Traddodiadol",
+          "zh": "Tsieinëeg",
+          "zh-alt-menu": "Tsieinëeg, Mandarin",
+          "zh-Hans": "Tsieinëeg Symledig",
+          "zh-Hans-alt-long": "Tsieinëeg Mandarin Symledig",
+          "zh-Hant": "Tsieinëeg Traddodiadol",
+          "zh-Hant-alt-long": "Tsieinëeg Mandarin Traddodiadol",
           "zu": "Swlw",
           "zun": "Swni",
           "zxx": "Dim cynnwys ieithyddol",

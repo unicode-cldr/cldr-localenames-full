@@ -3,8 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14845 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ig"
       },
@@ -40,7 +39,7 @@
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "iso8601",
+            "iso8601": "Kalenda ISO-8601",
             "japanese": "japanese",
             "persian": "persian",
             "roc": "roc"

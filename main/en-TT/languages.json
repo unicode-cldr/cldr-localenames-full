@@ -3,8 +3,7 @@
     "en-TT": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "TT"
@@ -113,6 +112,7 @@
           "chp": "Chipewyan",
           "chr": "Cherokee",
           "chy": "Cheyenne",
+          "cic": "Chickasaw",
           "ckb": "Central Kurdish",
           "co": "Corsican",
           "cop": "Coptic",
@@ -400,7 +400,7 @@
           "nb": "Norwegian Bokmål",
           "nd": "North Ndebele",
           "nds": "Low German",
-          "nds-NL": "Low Saxon",
+          "nds-NL": "West Low German",
           "ne": "Nepali",
           "new": "Newari",
           "ng": "Ndonga",
@@ -624,6 +624,7 @@
           "yo": "Yoruba",
           "yrl": "Nheengatu",
           "yue": "Cantonese",
+          "yue-alt-menu": "Chinese, Cantonese",
           "za": "Zhuang",
           "zap": "Zapotec",
           "zbl": "Blissymbols",
@@ -632,8 +633,11 @@
           "zgh": "Standard Moroccan Tamazight",
           "zh": "Chinese",
           "zh-alt-long": "Mandarin Chinese",
+          "zh-alt-menu": "Chinese, Mandarin",
           "zh-Hans": "Simplified Chinese",
+          "zh-Hans-alt-long": "Simplified Mandarin Chinese",
           "zh-Hant": "Traditional Chinese",
+          "zh-Hant-alt-long": "Traditional Mandarin Chinese",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "No linguistic content",

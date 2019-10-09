@@ -3,8 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pl"
       },
@@ -58,16 +57,16 @@
           "Goth": "gotyckie",
           "Gran": "Gran",
           "Grek": "greckie",
-          "Gujr": "gudźarackie",
+          "Gujr": "gudżarati",
           "Guru": "gurmukhi",
-          "Hanb": "hanb",
-          "Hang": "hangyl",
-          "Hani": "han",
+          "Hanb": "chińskie z bopomofo",
+          "Hang": "hangul",
+          "Hani": "chińskie",
           "Hano": "hanunoo",
           "Hans": "uproszczone",
-          "Hans-alt-stand-alone": "uproszczone han",
+          "Hans-alt-stand-alone": "chińskie uproszczone",
           "Hant": "tradycyjne",
-          "Hant-alt-stand-alone": "tradycyjne han",
+          "Hant-alt-stand-alone": "chińskie tradycyjne",
           "Hatr": "Hatr",
           "Hebr": "hebrajskie",
           "Hira": "hiragana",
@@ -177,7 +176,7 @@
           "Teng": "tengwar",
           "Tfng": "tifinagh (berberski)",
           "Tglg": "tagalog",
-          "Thaa": "thaana",
+          "Thaa": "taana",
           "Thai": "tajskie",
           "Tibt": "tybetańskie",
           "Tirh": "Tirh",
@@ -192,11 +191,11 @@
           "Zanb": "Zanb",
           "Zinh": "dziedziczone",
           "Zmth": "notacja matematyczna",
-          "Zsye": "Emoji",
+          "Zsye": "emoji",
           "Zsym": "symbole",
           "Zxxx": "język bez systemu pisma",
           "Zyyy": "wspólne",
-          "Zzzz": "nieznany skrypt"
+          "Zzzz": "nieznane pismo"
         }
       }
     }

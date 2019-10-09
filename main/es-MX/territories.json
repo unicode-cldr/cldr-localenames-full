@@ -3,8 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14796 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "MX"
@@ -248,7 +247,7 @@
           "QA": "Catar",
           "QO": "Islas Ultramarinas",
           "RE": "Reunión",
-          "RO": "Rumanía",
+          "RO": "Rumania",
           "RS": "Serbia",
           "RU": "Rusia",
           "RW": "Ruanda",
@@ -295,7 +294,7 @@
           "UA": "Ucrania",
           "UG": "Uganda",
           "UM": "Islas menores alejadas de EE. UU.",
-          "UN": "UN",
+          "UN": "ONU",
           "US": "Estados Unidos",
           "US-alt-short": "EE. UU.",
           "UY": "Uruguay",
@@ -309,8 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis y Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudoacentos",
+          "XB": "Pseudobidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

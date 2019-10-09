@@ -3,8 +3,7 @@
     "it-SM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "it",
         "territory": "SM"
@@ -36,6 +35,7 @@
           "BISKE": "dialetto San Giorgio/Bila",
           "BOHORIC": "alfabeto bohorič",
           "BOONT": "boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

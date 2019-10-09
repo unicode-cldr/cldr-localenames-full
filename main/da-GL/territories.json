@@ -3,8 +3,7 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "da",
         "territory": "GL"
@@ -89,7 +88,7 @@
           "CG-alt-variant": "Republikken Congo",
           "CH": "Schweiz",
           "CI": "Elfenbenskysten",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Elfenbenskysten",
           "CK": "Cookøerne",
           "CL": "Chile",
           "CM": "Cameroun",
@@ -161,7 +160,7 @@
           "IL": "Israel",
           "IM": "Isle of Man",
           "IN": "Indien",
-          "IO": "Det britiske territorium i Det Indiske Ocean",
+          "IO": "Det Britiske Territorium i Det Indiske Ocean",
           "IQ": "Irak",
           "IR": "Iran",
           "IS": "Island",
@@ -277,7 +276,7 @@
           "TA": "Tristan da Cunha",
           "TC": "Turks- og Caicosøerne",
           "TD": "Tchad",
-          "TF": "De Franske Besiddelser i Det Sydlige Indiske Ocean",
+          "TF": "De Franske Besiddelser i Det Sydlige Indiske Ocean og Antarktis",
           "TG": "Togo",
           "TH": "Thailand",
           "TJ": "Tadsjikistan",
@@ -310,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis og Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "pseudo-accenter",
+          "XB": "pseudo-bidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

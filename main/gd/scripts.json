@@ -3,8 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gd"
       },
@@ -46,7 +45,7 @@
           "Dupl": "Gearr-sgrìobhadh Duployé",
           "Egyp": "Sealbh-sgrìobhadh Èipheiteach",
           "Elba": "Elbasan",
-          "Elym": "Elym",
+          "Elym": "Elymaidheach",
           "Ethi": "Ge’ez",
           "Geor": "Cairtbheilis",
           "Glag": "Glagoliticeach",
@@ -70,7 +69,7 @@
           "Hira": "Hiragana",
           "Hluw": "Dealbh-sgrìobhadh Anatolach",
           "Hmng": "Pahawh Hmong",
-          "Hmnp": "Hmnp",
+          "Hmnp": "Nyiakeng Puachue Hmong",
           "Hrkt": "Katakana no Hiragana",
           "Hung": "Seann-Ungarais",
           "Ital": "Seann-Eadailtis",
@@ -117,7 +116,7 @@
           "Mtei": "Meitei Mayek",
           "Mult": "Multani",
           "Mymr": "Miànmar",
-          "Nand": "Nand",
+          "Nand": "Nandinagari",
           "Narb": "Seann-Arabach Thuathach",
           "Nbat": "Nabataean",
           "Newa": "Newa",
@@ -181,7 +180,7 @@
           "Ugar": "Ugariticeach",
           "Vaii": "Vai",
           "Wara": "Varang Kshiti",
-          "Wcho": "Wcho",
+          "Wcho": "Wancho",
           "Wole": "Woleai",
           "Xpeo": "Seann-Pheirsis",
           "Xsux": "Gèinn-sgrìobhadh Sumer is Akkad",

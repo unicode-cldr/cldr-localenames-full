@@ -3,8 +3,7 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kn"
       },
@@ -60,7 +59,7 @@
           "Grek": "ಗ್ರೀಕ್",
           "Gujr": "ಗುಜರಾತಿ",
           "Guru": "ಗುರ್ಮುಖಿ",
-          "Hanb": "ಹಂಬ್",
+          "Hanb": "ಬೋಪೋಮೊಫೋ ಜೊತೆಗೆ ಹಾನ್",
           "Hang": "ಹ್ಯಾಂಗುಲ್",
           "Hani": "ಹಾನ್",
           "Hano": "ಹನೂನೂ",
@@ -128,7 +127,7 @@
           "Ogam": "ಓಘಮ್",
           "Olck": "ಓಲ್ ಚಿಕಿ",
           "Orkh": "ಓರ್ಖೋನ್",
-          "Orya": "ಒರಿಯಾ",
+          "Orya": "ಒಡಿಯಾ",
           "Osge": "Osge",
           "Osma": "ಓಸ್ಮಾನ್ಯಾ",
           "Palm": "Palm",

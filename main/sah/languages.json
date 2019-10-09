@@ -3,8 +3,7 @@
     "sah": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sah"
       },
@@ -253,10 +252,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Кытайдыы",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Кытайдыы (Hans)",
+          "zh-Hans-alt-long": "Кытайдыы (Hans)",
           "zh-Hant": "Кытайдыы (Hant)",
+          "zh-Hant-alt-long": "Кытайдыы (Hant)",
           "zu": "Зуулулуу",
           "zxx": "zxx"
         }

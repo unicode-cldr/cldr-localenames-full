@@ -3,8 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14809 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kea"
       },
@@ -67,7 +66,7 @@
           "Hluw": "Hluw",
           "Hmng": "Hmng",
           "Hmnp": "Hmnp",
-          "Hrkt": "Hrkt",
+          "Hrkt": "silabáriu japunes",
           "Hung": "Hung",
           "Ital": "Ital",
           "Jamo": "Jamo",
@@ -171,8 +170,8 @@
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",
-          "Zmth": "Zmth",
-          "Zsye": "Zsye",
+          "Zmth": "notason matimátiku",
+          "Zsye": "emoji",
           "Zsym": "símbulus",
           "Zxxx": "nãu skritu",
           "Zyyy": "komun",

@@ -3,8 +3,7 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lt"
       },
@@ -616,6 +615,7 @@
           "yo": "jorubų",
           "yrl": "njengatu",
           "yue": "kinų kalbos Kantono tarmė",
+          "yue-alt-menu": "kinų kalbos Kantono tarmė",
           "za": "chuang",
           "zap": "zapotekų",
           "zbl": "BLISS simbolių",
@@ -623,8 +623,11 @@
           "zen": "zenaga",
           "zgh": "standartinė Maroko tamazigtų",
           "zh": "kinų",
+          "zh-alt-menu": "kinų, mandarinų",
           "zh-Hans": "supaprastintoji kinų",
+          "zh-Hans-alt-long": "supaprastintoji mandarinų kinų",
           "zh-Hant": "tradicinė kinų",
+          "zh-Hant-alt-long": "tradicinė mandarinų kinų",
           "zu": "zulų",
           "zun": "Zuni",
           "zxx": "nėra kalbinio turinio",

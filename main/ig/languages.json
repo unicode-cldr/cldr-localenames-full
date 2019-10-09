@@ -3,8 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14845 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ig"
       },
@@ -15,7 +14,7 @@
           "ak": "Akan",
           "am": "Amariikị",
           "ar": "Arabiikị",
-          "ar-001": "Arabiikị (001)",
+          "ar-001": "Ụdị Arabiikị nke oge a",
           "as": "as",
           "asa": "asa",
           "ast": "ast",
@@ -59,7 +58,7 @@
           "en": "Asụsụ Bekee",
           "en-AU": "Bekee ndị Australia",
           "en-CA": "Bekee ndị Canada",
-          "en-GB": "Bekee ndị Britain",
+          "en-GB": "Asụsụ Bekee (Mba United Kingdom)",
           "en-GB-alt-short": "Bekee ndị UK",
           "en-US": "Bekee ndị America",
           "en-US-alt-short": "Bekee ndị US",
@@ -166,10 +165,10 @@
           "nb": "nb",
           "nd": "nd",
           "nds": "nds",
-          "nds-NL": "nds (NL)",
+          "nds-NL": "nds (Netherlands)",
           "ne": "Nepali",
           "nl": "Dọọch",
-          "nl-BE": "Dọọch (BE)",
+          "nl-BE": "Dọọch (Belgium)",
           "nmg": "nmg",
           "nn": "nn",
           "nnh": "nnh",
@@ -190,7 +189,7 @@
           "rm": "rm",
           "rn": "rn",
           "ro": "Rumenia",
-          "ro-MD": "Rumenia (MD)",
+          "ro-MD": "Rumenia (Moldova)",
           "rof": "rof",
           "root": "root",
           "ru": "Asụsụ Russian",
@@ -219,7 +218,7 @@
           "su": "su",
           "sv": "Sụwidiishi",
           "sw": "sw",
-          "sw-CD": "sw (CD)",
+          "sw-CD": "sw (Congo - Kinshasa)",
           "ta": "Tamụlụ",
           "te": "te",
           "teo": "teo",
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Mandarịịnị",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Asụsụ Chinese dị mfe",
+          "zh-Hans-alt-long": "Mandarịịnị (Nke dị mfe)",
           "zh-Hant": "Asụsụ Chinese Izugbe",
+          "zh-Hant-alt-long": "Mandarịịnị (Izugbe)",
           "zu": "Zulu",
           "zxx": "zxx"
         }

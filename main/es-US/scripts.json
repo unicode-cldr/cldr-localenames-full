@@ -3,8 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "US"
@@ -173,7 +172,7 @@
           "Taml": "tamil",
           "Tang": "Tang",
           "Tavt": "Tavt",
-          "Telu": "telugu",
+          "Telu": "telegu",
           "Teng": "tengwar",
           "Tfng": "tifinagh",
           "Tglg": "tagalo",

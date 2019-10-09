@@ -3,8 +3,7 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14890 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sv"
       },
@@ -282,7 +281,7 @@
           "kgp": "kaingang",
           "kha": "khasi",
           "kho": "khotanesiska",
-          "khq": "Timbuktu-songhoy",
+          "khq": "Timbuktu-songhai",
           "khw": "khowar",
           "ki": "kikuyu",
           "kiu": "kirmanjki",
@@ -314,7 +313,7 @@
           "kut": "kutenaj",
           "kv": "kome",
           "kw": "korniska",
-          "ky": "kirgisiska",
+          "ky": "kirgiziska",
           "la": "latin",
           "lad": "ladino",
           "lag": "langi",
@@ -498,7 +497,7 @@
           "seh": "sena",
           "sei": "seri",
           "sel": "selkup",
-          "ses": "Gao-songhay",
+          "ses": "Gao-songhai",
           "sg": "sango",
           "sga": "forniriska",
           "sgs": "samogitiska",
@@ -619,6 +618,7 @@
           "yo": "yoruba",
           "yrl": "nheengatu",
           "yue": "kantonesiska",
+          "yue-alt-menu": "kantonesiska",
           "za": "zhuang",
           "zap": "zapotek",
           "zbl": "blissymboler",
@@ -626,8 +626,11 @@
           "zen": "zenaga",
           "zgh": "marockansk standard-tamazight",
           "zh": "kinesiska",
+          "zh-alt-menu": "mandarin",
           "zh-Hans": "förenklad kinesiska",
+          "zh-Hans-alt-long": "förenklad kinesiska",
           "zh-Hant": "traditionell kinesiska",
+          "zh-Hant-alt-long": "traditionell kinesiska",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "inget språkligt innehåll",

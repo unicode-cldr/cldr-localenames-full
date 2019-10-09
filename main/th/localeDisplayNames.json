@@ -3,8 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "th"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "อังกฤษ",
+          "gbsct": "สกอตแลนด์",
+          "gbwls": "เวลส์"
         },
         "keys": {
           "calendar": "ปฏิทิน",
@@ -39,7 +43,7 @@
             "buddhist": "ปฏิทินพุทธ",
             "chinese": "ปฏิทินจีน",
             "coptic": "ปฏิทินคอปติก",
-            "dangi": "ปฏิทินทันกิ",
+            "dangi": "ปฏิทินเกาหลี",
             "ethiopic": "ปฏิทินเอธิโอเปีย",
             "ethiopic-amete-alem": "ปฏิทินปีโลกเอธิโอเปีย",
             "gregorian": "ปฏิทินเกรกอเรียน",
@@ -222,7 +226,7 @@
         },
         "codePatterns": {
           "language": "ภาษา: {0}",
-          "script": "สคริปต์: {0}",
+          "script": "ตัวอักษร: {0}",
           "territory": "ภูมิภาค: {0}"
         }
       }

@@ -3,8 +3,7 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yue",
         "script": "Hans"
@@ -89,7 +88,7 @@
           "CG-alt-variant": "刚果共和国",
           "CH": "瑞士",
           "CI": "象牙海岸",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "象牙海岸",
           "CK": "库克群岛",
           "CL": "智利",
           "CM": "喀麦隆",
@@ -273,7 +272,7 @@
           "SX": "荷属圣马丁",
           "SY": "叙利亚",
           "SZ": "史瓦济兰",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "斯威士兰",
           "TA": "特里斯坦达库尼亚群岛",
           "TC": "土克斯及开科斯群岛",
           "TD": "查德",
@@ -283,7 +282,7 @@
           "TJ": "塔吉克",
           "TK": "托克劳群岛",
           "TL": "东帝汶",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "东帝汶",
           "TM": "土库曼",
           "TN": "突尼西亚",
           "TO": "东加",
@@ -310,7 +309,7 @@
           "WF": "瓦利斯同富图纳群岛",
           "WS": "萨摩亚",
           "XA": "伪口音",
-          "XB": "XB",
+          "XB": "伪 Bidi",
           "XK": "科索沃",
           "YE": "叶门",
           "YT": "马约特",

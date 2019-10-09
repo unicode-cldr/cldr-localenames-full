@@ -3,8 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gd"
       },
@@ -35,6 +34,7 @@
           "BISKE": "Dual-chainnt San Giorgio/Bila",
           "BOHORIC": "Aibidil Bohorič",
           "BOONT": "Boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "Aonta litreachaidh eadar a’ Phortagail is Braisil 1945",
           "CORNU": "Beurla na Còirne",

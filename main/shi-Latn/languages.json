@@ -3,8 +3,7 @@
     "shi-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "shi",
         "script": "Latn"
@@ -250,10 +249,14 @@
           "yi": "yi",
           "yo": "Tayrubat",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Tacinwit",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Tacinwit (Hans)",
+          "zh-Hans-alt-long": "Tacinwit (Hans)",
           "zh-Hant": "Tacinwit (Hant)",
+          "zh-Hant-alt-long": "Tacinwit (Hant)",
           "zu": "Tazulut",
           "zxx": "zxx"
         }

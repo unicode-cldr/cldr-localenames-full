@@ -3,8 +3,7 @@
     "haw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "haw"
       },
@@ -251,10 +250,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Pākē",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Pākē Hoʻomaʻalahi ʻia",
+          "zh-Hans-alt-long": "Pākē (Hans)",
           "zh-Hant": "Pākē Kuʻuna",
+          "zh-Hant-alt-long": "Pākē (Hant)",
           "zu": "zu",
           "zxx": "zxx"
         }

@@ -3,8 +3,7 @@
     "yue": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yue"
       },
@@ -35,6 +34,7 @@
           "BISKE": "San Giorgio/Bila 方言",
           "BOHORIC": "BOHORIC",
           "BOONT": "布恩特林方言",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

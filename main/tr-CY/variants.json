@@ -3,8 +3,7 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tr",
         "territory": "CY"
@@ -36,6 +35,7 @@
           "BISKE": "San Giorgio/Bila Lehçesi",
           "BOHORIC": "BOHORIC",
           "BOONT": "Boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

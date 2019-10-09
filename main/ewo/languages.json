@@ -3,8 +3,7 @@
     "ewo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ewo"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "ǹkɔ́bɔ yorúba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Ǹkɔ́bɔ tsainís",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Ǹkɔ́bɔ tsainís (Hans)",
+          "zh-Hans-alt-long": "Ǹkɔ́bɔ tsainís (Hans)",
           "zh-Hant": "Ǹkɔ́bɔ tsainís (Hant)",
+          "zh-Hant-alt-long": "Ǹkɔ́bɔ tsainís (Hant)",
           "zu": "ǹkɔ́bɔ zulú",
           "zxx": "zxx"
         }

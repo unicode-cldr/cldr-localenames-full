@@ -3,8 +3,7 @@
     "eo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14933 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "eo"
       },
@@ -271,11 +270,15 @@
           "yi": "jida",
           "yo": "joruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "za": "ĝuanga",
           "zgh": "zgh",
           "zh": "ĉina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "ĉina simpligita",
+          "zh-Hans-alt-long": "ĉina (Hans)",
           "zh-Hant": "ĉina tradicia",
+          "zh-Hant-alt-long": "ĉina (Hant)",
           "zu": "zulua",
           "zxx": "nelingvaĵo"
         }

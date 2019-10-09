@@ -3,8 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fa",
         "territory": "AF"
@@ -14,6 +13,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}، {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "انگلستان",
+          "gbsct": "اسکاتلند",
+          "gbwls": "ویلز"
         },
         "keys": {
           "calendar": "تقویم",
@@ -28,7 +32,7 @@
           "colStrength": "قدرت مرتب‌سازی",
           "currency": "واحد پول",
           "hc": "دور ساعت (۱۲ در مقابل ۲۴)",
-          "lb": "شیوهٔ اعمال سرخط",
+          "lb": "شیوهٔ سطرشکنی",
           "ms": "دستگاه اندازه‌گیری",
           "numbers": "اعداد",
           "timezone": "منطقهٔ زمانی",
@@ -95,7 +99,7 @@
             "stroke": "ترتیب حرکتی",
             "traditional": "ترتیب سنتی",
             "unihan": "ترتیب رادیکالی-حرکتی",
-            "zhuyin": "zhuyin"
+            "zhuyin": "ترتیب ژویین"
           },
           "colNormalization": {
             "no": "مرتب‌سازی بدون عادی‌سازی",
@@ -124,9 +128,9 @@
             "h24": "سیستم ۲۴ ساعته (۱ تا ۲۴)"
           },
           "lb": {
-            "loose": "شیوهٔ ضعیف اعمال سرخط",
-            "normal": "شیوهٔ عادی اعمال سرخط",
-            "strict": "شیوهٔ قوی اعمال سرخط"
+            "loose": "شیوهٔ سطرشکنی سهل‌گیرانه",
+            "normal": "شیوهٔ سطرشکنی عادی",
+            "strict": "شیوهٔ سطرشکنی سخت‌گیرانه"
           },
           "m0": {
             "bgn": "ترانویسی انجمن نام‌های جغرافیایی ایالات متحده",
@@ -145,7 +149,7 @@
             "armnlow": "اعداد ارمنی با حروف کوچک",
             "bali": "ارقام بالیایی",
             "beng": "ارقام بنگالی",
-            "brah": "brah",
+            "brah": "ارقام برهمایی",
             "cakm": "cakm",
             "cham": "cham",
             "cyrl": "ارقام سیریلیک",
@@ -180,11 +184,11 @@
             "latn": "ارقام غربی",
             "lepc": "lepc",
             "limb": "limb",
-            "mathbold": "mathbold",
+            "mathbold": "ارقام ریاضی سیاه",
             "mathdbl": "mathdbl",
             "mathmono": "mathmono",
-            "mathsanb": "mathsanb",
-            "mathsans": "mathsans",
+            "mathsanb": "ارقام ریاضی سیاه بی‌سریف",
+            "mathsans": "ارقام ریاضی بی‌سریف",
             "mlym": "ارقام مالایالامی",
             "modi": "modi",
             "mong": "ارقام مغولی",

@@ -3,8 +3,7 @@
     "zh-Hans-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zh",
         "script": "Hans",
@@ -37,6 +36,7 @@
           "BISKE": "圣乔治/比拉方言",
           "BOHORIC": "BOHORIC",
           "BOONT": "布恩特林方言",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "1945年葡萄牙-巴西正写法协定",
           "CORNU": "科尔尼方言",

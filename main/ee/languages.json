@@ -3,8 +3,7 @@
     "ee": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ee"
       },
@@ -268,10 +267,14 @@
           "yi": "yi",
           "yo": "yorubagbe",
           "yue": "cantongbe",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chinagbe",
+          "zh-alt-menu": "zh",
           "zh-Hans": "tsainagbe",
+          "zh-Hans-alt-long": "Chinagbe (Chinesegbeŋɔŋlɔ)",
           "zh-Hant": "blema tsainagbe",
+          "zh-Hant-alt-long": "Chinagbe (Blema Chinesegbeŋɔŋlɔ)",
           "zu": "zulugbe",
           "zxx": "gbegbɔgblɔ manɔmee"
         }

@@ -3,8 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fi"
       },
@@ -621,6 +620,7 @@
           "yo": "joruba",
           "yrl": "ñeengatú",
           "yue": "kantoninkiina",
+          "yue-alt-menu": "kiina (kantonin)",
           "za": "zhuang",
           "zap": "zapoteekki",
           "zbl": "blisskieli",
@@ -628,8 +628,11 @@
           "zen": "zenaga",
           "zgh": "vakioitu tamazight",
           "zh": "kiina",
+          "zh-alt-menu": "kiina (mandariini)",
           "zh-Hans": "yksinkertaistettu kiina",
+          "zh-Hans-alt-long": "kiina (yksinkertaistettu)",
           "zh-Hant": "perinteinen kiina",
+          "zh-Hant-alt-long": "kiina (perinteinen)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "ei kielellistä sisältöä",

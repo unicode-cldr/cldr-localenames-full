@@ -3,8 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sl"
       },
@@ -511,13 +510,17 @@
           "yi": "jidiš",
           "yo": "jorubščina",
           "yue": "kantonščina",
+          "yue-alt-menu": "kitajščina (kantonščina)",
           "zap": "zapoteščina",
           "zbl": "znakovni jezik Bliss",
           "zen": "zenaščina",
           "zgh": "standardni maroški tamazig",
           "zh": "kitajščina",
+          "zh-alt-menu": "kitajščina (mandarinščina)",
           "zh-Hans": "poenostavljena kitajščina",
+          "zh-Hans-alt-long": "kitajščina (poenostavljena pisava han)",
           "zh-Hant": "tradicionalna kitajščina",
+          "zh-Hant-alt-long": "kitajščina (tradicionalna pisava han)",
           "zu": "zulujščina",
           "zun": "zunijščina",
           "zxx": "brez jezikoslovne vsebine",

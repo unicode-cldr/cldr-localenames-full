@@ -3,8 +3,7 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "da",
         "territory": "GL"
@@ -82,7 +81,7 @@
           "car": "caribisk",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "tjetjensk",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -537,14 +536,18 @@
           "yi": "jiddisch",
           "yo": "yoruba",
           "yue": "kantonesisk",
+          "yue-alt-menu": "kantonesisk (Kina)",
           "za": "zhuang",
           "zap": "zapotec",
           "zbl": "blissymboler",
           "zen": "zenaga",
           "zgh": "tamazight",
           "zh": "kinesisk",
+          "zh-alt-menu": "mandarin (Kina)",
           "zh-Hans": "forenklet kinesisk",
+          "zh-Hans-alt-long": "kinesisk (forenklet)",
           "zh-Hant": "traditionelt kinesisk",
+          "zh-Hant-alt-long": "kinesisk (traditionelt)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "intet sprogligt indhold",

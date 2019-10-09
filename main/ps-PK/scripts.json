@@ -3,8 +3,7 @@
     "ps-PK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14934 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ps",
         "territory": "PK"
@@ -61,7 +60,7 @@
           "Hans": "ساده شوی",
           "Hans-alt-stand-alone": "ساده هان",
           "Hant": "دودیزه",
-          "Hant-alt-stand-alone": "دودیز هان",
+          "Hant-alt-stand-alone": "دوديزه هان",
           "Hatr": "Hatr",
           "Hebr": "عبراني",
           "Hira": "هیراګانا",
@@ -117,7 +116,7 @@
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
-          "Orya": "اویا",
+          "Orya": "اوديا",
           "Osge": "Osge",
           "Osma": "Osma",
           "Palm": "Palm",
@@ -153,7 +152,7 @@
           "Takr": "Takr",
           "Tale": "Tale",
           "Talu": "Talu",
-          "Taml": "تامیل",
+          "Taml": "تامل",
           "Tang": "Tang",
           "Tavt": "Tavt",
           "Telu": "تیلیګو",

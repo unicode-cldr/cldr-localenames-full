@@ -3,8 +3,7 @@
     "se-SE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "se",
         "territory": "SE"
@@ -199,7 +198,7 @@
           "MF": "Frankriikka Saint Martin",
           "MG": "Madagaskar",
           "MH": "Marshallsullot",
-          "MK": "Makedonia",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Burma",

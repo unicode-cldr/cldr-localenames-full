@@ -3,8 +3,7 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ko",
         "territory": "KP"
@@ -14,6 +13,11 @@
           "localePattern": "{0}({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "잉글랜드",
+          "gbsct": "스코틀랜드",
+          "gbwls": "웨일즈"
         },
         "keys": {
           "calendar": "달력",

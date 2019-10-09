@@ -3,8 +3,7 @@
     "vai-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "vai",
         "script": "Latn"
@@ -250,10 +249,14 @@
           "yi": "yi",
           "yo": "Yóróbha",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chaniĩ",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Chaniĩ (Hans)",
+          "zh-Hans-alt-long": "Chaniĩ (Hans)",
           "zh-Hant": "Chaniĩ (Hant)",
+          "zh-Hant-alt-long": "Chaniĩ (Hant)",
           "zu": "Zúlu",
           "zxx": "zxx"
         }

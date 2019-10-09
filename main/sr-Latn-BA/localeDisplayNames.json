@@ -3,8 +3,7 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14877 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -16,6 +15,11 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Engleska",
+          "gbsct": "Škotska",
+          "gbwls": "Vels"
+        },
         "keys": {
           "calendar": "kalendar",
           "cf": "format valute",
@@ -24,9 +28,9 @@
           "colCaseFirst": "Ređanje prema malom/velikom slovu",
           "colCaseLevel": "Sortiranje prema malom/velikom slovu",
           "collation": "redosled sortiranja",
-          "colNormalization": "Normalizovano sortiranje",
-          "colNumeric": "Numeričko sortiranje",
-          "colStrength": "Sortiranje prema jačini",
+          "colNormalization": "normalizovano sortiranje",
+          "colNumeric": "numeričko sortiranje",
+          "colStrength": "sortiranje prema jačini",
           "currency": "valuta",
           "hc": "prikazivanje vremena (12- ili 24-časovno)",
           "lb": "stil preloma reda",

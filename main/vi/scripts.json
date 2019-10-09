@@ -3,8 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "vi"
       },
@@ -23,7 +22,7 @@
           "Bamu": "Chữ Bamum",
           "Bass": "Chữ Bassa Vah",
           "Batk": "Chữ Batak",
-          "Beng": "Chữ Bangladesh",
+          "Beng": "Chữ Bangla",
           "Bhks": "Bhks",
           "Blis": "Chữ Blissymbols",
           "Bopo": "Chữ Bopomofo",
@@ -52,7 +51,7 @@
           "Elym": "Elym",
           "Ethi": "Chữ Ethiopia",
           "Geok": "Chữ Khutsuri Georgia",
-          "Geor": "Chữ Gruzia",
+          "Geor": "Chữ Georgia",
           "Glag": "Chữ Glagolitic",
           "Gong": "Gong",
           "Gonm": "Gonm",
@@ -61,8 +60,8 @@
           "Grek": "Chữ Hy Lạp",
           "Gujr": "Chữ Gujarati",
           "Guru": "Chữ Gurmukhi",
-          "Hanb": "Chữ Hanb",
-          "Hang": "Chữ Hangul",
+          "Hanb": "Chữ Hán có chú âm",
+          "Hang": "Chữ Hàn",
           "Hani": "Chữ Hán",
           "Hano": "Chữ Hanunoo",
           "Hans": "Giản thể",

@@ -3,8 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sd"
       },
@@ -69,9 +68,9 @@
           "Hmnp": "Hmnp",
           "Hrkt": "جاپاني لکت",
           "Hung": "Hung",
-          "Ital": "Ital",
+          "Ital": "قديم اطالوي",
           "Jamo": "جامو",
-          "Java": "Java",
+          "Java": "جاوانيز",
           "Jpan": "جاپاني",
           "Kali": "Kali",
           "Kana": "ڪٽاڪانا",
@@ -105,7 +104,7 @@
           "Mong": "منگولي",
           "Mroo": "Mroo",
           "Mtei": "Mtei",
-          "Mult": "Mult",
+          "Mult": "ملتاني",
           "Mymr": "ميانمر",
           "Nand": "Nand",
           "Narb": "Narb",
@@ -133,7 +132,7 @@
           "Rohg": "Rohg",
           "Runr": "Runr",
           "Samr": "Samr",
-          "Sarb": "Sarb",
+          "Sarb": "قديم ڏاکڻي عربي",
           "Saur": "Saur",
           "Sgnw": "Sgnw",
           "Shaw": "Shaw",
@@ -166,7 +165,7 @@
           "Vaii": "Vaii",
           "Wara": "Wara",
           "Wcho": "Wcho",
-          "Xpeo": "Xpeo",
+          "Xpeo": "قديم فارسي",
           "Xsux": "Xsux",
           "Yiii": "Yiii",
           "Zanb": "Zanb",

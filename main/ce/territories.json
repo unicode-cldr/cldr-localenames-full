@@ -3,8 +3,7 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ce"
       },
@@ -198,7 +197,7 @@
           "MF": "Сен-Мартен",
           "MG": "Мадагаскар",
           "MH": "Маршаллан гӀайренаш",
-          "MK": "Македони",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Мали",
           "MM": "Мьянма (Бирма)",

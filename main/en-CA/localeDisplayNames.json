@@ -3,8 +3,7 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "CA"
@@ -15,6 +14,11 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "England",
+          "gbsct": "Scotland",
+          "gbwls": "Wales"
+        },
         "keys": {
           "calendar": "Calendar",
           "cf": "Currency Format",
@@ -23,7 +27,7 @@
           "colCaseFirst": "Uppercase/Lowercase Ordering",
           "colCaseLevel": "Case-Sensitive Sorting",
           "collation": "Sort Order",
-          "colNormalization": "Normalised Sorting",
+          "colNormalization": "Normalized Sorting",
           "colNumeric": "Numeric Sorting",
           "colReorder": "Script/Block Reordering",
           "colStrength": "Sorting Strength",

@@ -3,8 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cs"
       },
@@ -14,13 +13,18 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Anglie",
+          "gbsct": "Skotsko",
+          "gbwls": "Wales"
+        },
         "keys": {
           "calendar": "Kalendář",
           "cf": "Měnový formát",
           "colAlternate": "Ignorovat řazení symbolů",
           "colBackwards": "Obrácené řazení akcentů",
           "colCaseFirst": "Řazení velkých a malých písmen",
-          "colCaseLevel": "Rozlišovaní velkých a malých písmen při řazení",
+          "colCaseLevel": "Rozlišování velkých a malých písmen při řazení",
           "collation": "Řazení",
           "colNormalization": "Normalizované řazení",
           "colNumeric": "Číselné řazení",

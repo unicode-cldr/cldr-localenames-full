@@ -3,8 +3,7 @@
     "pt-GQ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt",
         "territory": "GQ"
@@ -83,7 +82,7 @@
           "car": "caribe",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "Chakma",
+          "ccp": "changma",
           "ce": "checheno",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -537,14 +536,18 @@
           "yi": "iídiche",
           "yo": "ioruba",
           "yue": "cantonês",
+          "yue-alt-menu": "cantonês (tradicional)",
           "za": "zhuang",
           "zap": "zapoteco",
           "zbl": "símbolos blis",
           "zen": "zenaga",
           "zgh": "tamazight marroquino padrão",
           "zh": "chinês",
+          "zh-alt-menu": "chinês mandarim",
           "zh-Hans": "chinês simplificado",
+          "zh-Hans-alt-long": "chinês mandarim simplificado",
           "zh-Hant": "chinês tradicional",
+          "zh-Hant-alt-long": "chinês mandarim tradicional",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "sem conteúdo linguístico",

@@ -3,8 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "vi"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Anh Quốc",
+          "gbsct": "Scotland",
+          "gbwls": "Xứ Wales"
         },
         "keys": {
           "calendar": "Lịch",
@@ -26,7 +30,7 @@
           "colNumeric": "Sắp xếp theo số",
           "colStrength": "Cường độ sắp xếp",
           "currency": "Tiền tệ",
-          "hc": "Chu kỳ giờ (12 vs 24)",
+          "hc": "Chu kỳ giờ (12 với 24)",
           "lb": "Kiểu xuống dòng",
           "ms": "Hệ thống đo lường",
           "numbers": "Số",
@@ -152,7 +156,7 @@
             "ethi": "Chữ số Ethiopia",
             "finance": "Chữ số dùng trong tài chính",
             "fullwide": "Chữ số có độ rộng đầy đủ",
-            "geor": "Chữ số Gruzia",
+            "geor": "Chữ số Georgia",
             "gong": "Chữ số Gong",
             "gonm": "Chữ số Gonm",
             "grek": "Chữ số Hy Lạp",

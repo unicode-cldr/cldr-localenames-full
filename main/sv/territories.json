@@ -3,8 +3,7 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14890 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sv"
       },
@@ -87,7 +86,7 @@
           "CG": "Kongo-Brazzaville",
           "CG-alt-variant": "Republiken Kongo",
           "CH": "Schweiz",
-          "CI": "Elfenbenskusten",
+          "CI": "Côte d’Ivoire",
           "CI-alt-variant": "Côte d’Ivoire",
           "CK": "Cooköarna",
           "CL": "Chile",
@@ -102,7 +101,7 @@
           "CX": "Julön",
           "CY": "Cypern",
           "CZ": "Tjeckien",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tjeckien",
           "DE": "Tyskland",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -123,7 +122,7 @@
           "FI": "Finland",
           "FJ": "Fiji",
           "FK": "Falklandsöarna",
-          "FK-alt-variant": "FK",
+          "FK-alt-variant": "Falklandsöarna",
           "FM": "Mikronesien",
           "FO": "Färöarna",
           "FR": "Frankrike",
@@ -272,7 +271,7 @@
           "SX": "Sint Maarten",
           "SY": "Syrien",
           "SZ": "Swaziland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Eswatini",
           "TA": "Tristan da Cunha",
           "TC": "Turks- och Caicosöarna",
           "TD": "Tchad",

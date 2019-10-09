@@ -3,8 +3,7 @@
     "lkt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14822 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lkt"
       },
@@ -281,10 +280,14 @@
           "yi": "yi",
           "yo": "Yoruba Iyápi",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Pȟečhókaŋ Háŋska Iyápi",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Pȟečhókaŋ Háŋska Iyápi Ikčéka",
+          "zh-Hans-alt-long": "Pȟečhókaŋ Háŋska Iyápi (Hans)",
           "zh-Hant": "Pȟečhókaŋ Háŋska Iyápi Ȟče",
+          "zh-Hant-alt-long": "Pȟečhókaŋ Háŋska Iyápi (Hant)",
           "zu": "Zulu Iyápi",
           "zxx": "zxx",
           "zza": "Zaza Iyápi"

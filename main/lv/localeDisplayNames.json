@@ -3,8 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lv"
       },
@@ -14,25 +13,30 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Anglija",
+          "gbsct": "Skotija",
+          "gbwls": "Velsa"
+        },
         "keys": {
           "calendar": "Kalendārs",
           "cf": "valūtas formāts",
-          "colAlternate": "Kārtošana, ignorējot simbolus",
-          "colBackwards": "Diakritisko zīmju kārtošana apgrieztā secībā",
-          "colCaseFirst": "Lielo/mazo burtu kārtošana",
-          "colCaseLevel": "Reģistrjutīgo rakstzīmju kārtošana",
+          "colAlternate": "kārtošana, ignorējot simbolus",
+          "colBackwards": "akcentēto burtu kārtošana apgrieztā secībā",
+          "colCaseFirst": "kārtošana pēc lielajiem/mazajiem burtiem",
+          "colCaseLevel": "reģistrjutīga kārtošana",
           "collation": "kārtošanas secība",
-          "colNormalization": "Normalizētā kārtošana",
-          "colNumeric": "Kārtošana skaitliskā secībā",
-          "colStrength": "Kārtošanas pakāpe",
-          "currency": "Valūta",
+          "colNormalization": "normalizēta kārtošana",
+          "colNumeric": "kārtošana skaitliskā secībā",
+          "colStrength": "kārtošanas pakāpe",
+          "currency": "valūta",
           "hc": "Stundu formāts (12 vai 24)",
           "lb": "Rindiņas pārtraukuma stils",
           "ms": "mērvienību sistēma",
           "numbers": "Cipari",
-          "timezone": "Laika josla",
-          "va": "Lokalizācijas variants",
-          "x": "Personīgai lietošanai"
+          "timezone": "laika josla",
+          "va": "lokalizācijas variants",
+          "x": "personīgai lietošanai"
         },
         "types": {
           "calendar": {

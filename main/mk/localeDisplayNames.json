@@ -3,8 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14827 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mk"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Англија",
+          "gbsct": "Шкотска",
+          "gbwls": "Велс"
         },
         "keys": {
           "calendar": "Календар",
@@ -119,7 +123,7 @@
             "jpanfin": "Јапонски финансиски броеви",
             "kali": "kali",
             "khmr": "Кмерски цифри",
-            "knda": "Канада цифри",
+            "knda": "Каннада цифри",
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "Лаошки цифри",

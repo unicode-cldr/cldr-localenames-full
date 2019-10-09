@@ -3,8 +3,7 @@
     "dz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "dz"
       },
@@ -260,10 +259,14 @@
           "yi": "yi",
           "yo": "ཡོ་རུ་བ་ཁ",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "རྒྱ་མི་ཁ",
+          "zh-alt-menu": "zh",
           "zh-Hans": "རྒྱ་མི་ཁ་འཇམ་སངམ",
+          "zh-Hans-alt-long": "རྒྱ་མི་ཁ། (རྒྱ་ཡིག་ ལུགས་གསར་།)",
           "zh-Hant": "སྔ་དུས་ཀྱི་རྒྱ་མི་ཁ",
+          "zh-Hant-alt-long": "རྒྱ་མི་ཁ། (ལུགས་རྙིང་ རྒྱ་ཡིག།)",
           "zu": "ཟུ་ལུ་ཁ",
           "zxx": "སྐད་རིག་ནང་དོན་མེདཔ"
         }

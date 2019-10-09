@@ -3,8 +3,7 @@
     "ksf": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ksf"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "riyúuba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "ricinɔá",
+          "zh-alt-menu": "zh",
           "zh-Hans": "ricinɔá (Hans)",
+          "zh-Hans-alt-long": "ricinɔá (Hans)",
           "zh-Hant": "ricinɔá (Hant)",
+          "zh-Hant-alt-long": "ricinɔá (Hant)",
           "zu": "rizúlu",
           "zxx": "zxx"
         }

@@ -3,8 +3,7 @@
     "lb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lb"
       },
@@ -393,7 +392,7 @@
           "nb": "Norwegesch Bokmål",
           "nd": "Nord-Ndebele-Sprooch",
           "nds": "Nidderdäitsch",
-          "nds-NL": "Nidderdäitsch (Holland)",
+          "nds-NL": "nds_NL",
           "ne": "Nepalesesch",
           "new": "Newari",
           "ng": "Ndonga",
@@ -611,6 +610,7 @@
           "yo": "Yoruba",
           "yrl": "Nheengatu",
           "yue": "Kantonesesch",
+          "yue-alt-menu": "yue",
           "za": "Zhuang",
           "zap": "Zapotekesch",
           "zbl": "Bliss-Symboler",
@@ -618,8 +618,11 @@
           "zen": "Zenaga",
           "zgh": "Marokkanescht Standard-Tamazight",
           "zh": "Chinesesch",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Chinesesch (vereinfacht)",
+          "zh-Hans-alt-long": "Chinesesch (Vereinfacht)",
           "zh-Hant": "Chinesesch (traditionell)",
+          "zh-Hant-alt-long": "Chinesesch (Traditionell)",
           "zu": "Zulu",
           "zun": "Zuni-Sprooch",
           "zxx": "Keng Sproochinhalter",

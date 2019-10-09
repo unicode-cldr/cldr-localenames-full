@@ -3,8 +3,7 @@
     "hsb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hsb"
       },
@@ -294,11 +293,15 @@
           "yi": "jidišćina",
           "yo": "jorubašćina",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "za": "zhuang",
           "zgh": "tamazight",
           "zh": "chinšćina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "chinšćina (zjednorjena)",
+          "zh-Hans-alt-long": "chinšćina (zjednorjene)",
           "zh-Hant": "chinšćina (tradicionalna)",
+          "zh-Hant-alt-long": "chinšćina (tradicionalne)",
           "zu": "zulušćina",
           "zxx": "žadyn rěčny wobsah"
         }

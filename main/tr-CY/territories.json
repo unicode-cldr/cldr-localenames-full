@@ -3,8 +3,7 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tr",
         "territory": "CY"
@@ -88,8 +87,8 @@
           "CG": "Kongo - Brazavil",
           "CG-alt-variant": "Kongo Cumhuriyeti",
           "CH": "İsviçre",
-          "CI": "Fildişi Sahili",
-          "CI-alt-variant": "CI",
+          "CI": "Côte d’Ivoire",
+          "CI-alt-variant": "Fildişi Sahili",
           "CK": "Cook Adaları",
           "CL": "Şili",
           "CM": "Kamerun",
@@ -247,7 +246,7 @@
           "PY": "Paraguay",
           "QA": "Katar",
           "QO": "Uzak Okyanusya",
-          "RE": "Réunion",
+          "RE": "Reunion",
           "RO": "Romanya",
           "RS": "Sırbistan",
           "RU": "Rusya",
@@ -268,7 +267,7 @@
           "SO": "Somali",
           "SR": "Surinam",
           "SS": "Güney Sudan",
-          "ST": "São Tomé ve Príncipe",
+          "ST": "Sao Tome ve Principe",
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Suriye",
@@ -310,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis ve Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Psödo Aksanlar",
+          "XB": "Psödo Bidi",
           "XK": "Kosova",
           "YE": "Yemen",
           "YT": "Mayotte",

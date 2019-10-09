@@ -3,8 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14886 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "br"
       },
@@ -83,7 +82,7 @@
           "cad": "caddo",
           "car": "karibeg",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakmaeg",
           "ce": "tchetcheneg",
           "ceb": "cebuano",
           "cgg": "chigaeg",
@@ -542,6 +541,7 @@
           "yi": "yiddish",
           "yo": "yorouba",
           "yue": "kantoneg",
+          "yue-alt-menu": "sinaeg, kantoneg",
           "za": "zhuang",
           "zap": "zapoteg",
           "zbl": "Bliss",
@@ -549,8 +549,11 @@
           "zen": "zenaga",
           "zgh": "tamacheg Maroko standart",
           "zh": "sinaeg",
+          "zh-alt-menu": "sinaeg, mandarineg",
           "zh-Hans": "sinaeg eeunaet",
+          "zh-Hans-alt-long": "sinaeg mandarinek eeunaet",
           "zh-Hant": "sinaeg hengounel",
+          "zh-Hant-alt-long": "sinaeg mandarinek hengounel",
           "zu": "zouloueg",
           "zun": "zuni",
           "zxx": "diyezh",

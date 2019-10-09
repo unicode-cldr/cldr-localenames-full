@@ -3,8 +3,7 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "uz",
         "script": "Latn"
@@ -273,7 +272,7 @@
           "SX": "Sint-Marten",
           "SY": "Suriya",
           "SZ": "Svazilend",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Svazilend",
           "TA": "Tristan-da-Kunya",
           "TC": "Turks va Kaykos orollari",
           "TD": "Chad",
@@ -310,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Uollis va Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Qalbaki urg‘u",
+          "XB": "Qalbaki Bidi",
           "XK": "Kosovo",
           "YE": "Yaman",
           "YT": "Mayotta",

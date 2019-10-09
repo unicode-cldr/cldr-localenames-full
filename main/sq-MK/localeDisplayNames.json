@@ -3,8 +3,7 @@
     "sq-MK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sq",
         "territory": "MK"
@@ -14,6 +13,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Angli",
+          "gbsct": "Skoci",
+          "gbwls": "Uells"
         },
         "keys": {
           "calendar": "Kalendari",

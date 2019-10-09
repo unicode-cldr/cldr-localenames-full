@@ -3,8 +3,7 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zh",
         "script": "Hant",
@@ -229,7 +228,7 @@
           "hak": "客家話",
           "haw": "夏威夷文",
           "he": "希伯來文",
-          "hi": "印度文",
+          "hi": "印地文",
           "hif": "斐濟印地文",
           "hil": "希利蓋農文",
           "hit": "赫梯文",
@@ -622,6 +621,7 @@
           "yo": "約魯巴文",
           "yrl": "奈恩加圖文",
           "yue": "廣東話",
+          "yue-alt-menu": "粵語",
           "za": "壯文",
           "zap": "薩波特克文",
           "zbl": "布列斯符號",
@@ -629,8 +629,11 @@
           "zen": "澤納加文",
           "zgh": "摩洛哥標準塔馬齊格特文",
           "zh": "中文",
+          "zh-alt-menu": "中文",
           "zh-Hans": "簡體中文",
+          "zh-Hans-alt-long": "中文（簡體字）",
           "zh-Hant": "繁體中文",
+          "zh-Hant-alt-long": "中文（繁體字）",
           "zu": "祖魯文",
           "zun": "祖尼文",
           "zxx": "無語言內容",

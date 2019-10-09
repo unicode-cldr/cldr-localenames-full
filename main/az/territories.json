@@ -3,8 +3,7 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "az"
       },
@@ -147,7 +146,7 @@
           "GU": "Quam",
           "GW": "Qvineya-Bisau",
           "GY": "Qayana",
-          "HK": "Honq Konq Xüsusi İnzibati Ərazi Çin",
+          "HK": "Honq Konq Xüsusi İnzibati Rayonu Çin",
           "HK-alt-short": "Honq Konq",
           "HM": "Herd və Makdonald adaları",
           "HN": "Honduras",
@@ -203,7 +202,7 @@
           "ML": "Mali",
           "MM": "Myanma",
           "MN": "Monqolustan",
-          "MO": "Makao Xüsusi İnzibati Ərazi Çin",
+          "MO": "Makao XİR Çin",
           "MO-alt-short": "Makao",
           "MP": "Şimali Marian adaları",
           "MQ": "Martinik",
@@ -282,7 +281,7 @@
           "TJ": "Tacikistan",
           "TK": "Tokelau",
           "TL": "Şərqi Timor",
-          "TL-alt-variant": "Doğu Timor",
+          "TL-alt-variant": "Şərqi Timor",
           "TM": "Türkmənistan",
           "TN": "Tunis",
           "TO": "Tonqa",

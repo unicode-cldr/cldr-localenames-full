@@ -3,8 +3,7 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kn"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "ಇಂಗ್ಲೆಂಡ್‌",
+          "gbsct": "ಸ್ಕಾಟ್ಲೆಂಡ್",
+          "gbwls": "ವೇಲ್ಸ್‌"
         },
         "keys": {
           "calendar": "ಕ್ಯಾಲೆಂಡರ್",
@@ -26,7 +30,7 @@
           "colNumeric": "ಸಂಖ್ಯೆ ವಿಂಗಡಣೆ",
           "colStrength": "ವಿಂಗಡಣೆ ಸಾಮರ್ಥ್ಯ",
           "currency": "ಕರೆನ್ಸಿ",
-          "hc": "ಗಂಟೆ ಚಕ್ರ (12 ವಿರುದ್ಧ 24)",
+          "hc": "ಕಾಲ ಚಕ್ರ (12 ವಿರುದ್ಧ 24)",
           "lb": "ಲೈನ್ ಬ್ರೇಕ್ ಶೈಲಿ",
           "ms": "ಮಾಪನ ವ್ಯವಸ್ಥೆ",
           "numbers": "ಸಂಖ್ಯೆಗಳು",
@@ -56,7 +60,7 @@
             "roc": "ಮಿಂಗೋ ಕ್ಯಾಲೆಂಡರ್"
           },
           "cf": {
-            "account": "ಲೆಕ್ಕಪರಿಶೋಧಕ ಕರೆನ್ಚಿ ಸ್ವರೂಪ",
+            "account": "ಅಕೌಂಟಿಂಗ್ ಕರೆನ್ಸಿ ಸ್ವರೂಪ",
             "standard": "ಪ್ರಮಾಣಿತ ಕರೆನ್ಸಿ ಸ್ವರೂಪ"
           },
           "colAlternate": {

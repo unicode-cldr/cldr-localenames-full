@@ -3,8 +3,7 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sw",
         "territory": "KE"
@@ -40,7 +39,7 @@
           "151": "Ulaya ya Mashariki",
           "154": "Ulaya ya Kaskazini",
           "155": "Ulaya ya Magharibi",
-          "202": "Afrika Kusine mwa Jangwa la Sahara",
+          "202": "Kusini mwa Jangwa la Sahara",
           "419": "Amerika ya Kilatini",
           "AC": "Kisiwa cha Ascension",
           "AD": "Andorra",
@@ -98,7 +97,7 @@
           "CP": "Kisiwa cha Clipperton",
           "CR": "Kostarika",
           "CU": "Cuba",
-          "CV": "Cape Verde",
+          "CV": "Kepuvede",
           "CW": "Curacao",
           "CX": "Kisiwa cha Krismasi",
           "CY": "Saiprasi",
@@ -200,7 +199,7 @@
           "MG": "Madagaska",
           "MH": "Visiwa vya Marshall",
           "MK": "Masedonia",
-          "MK-alt-variant": "Masedonia (FYROM)",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myama (Burma)",
           "MN": "Mongolia",
@@ -273,7 +272,7 @@
           "SX": "Sint Maarten",
           "SY": "Shamu",
           "SZ": "Uswazi",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Uswazi",
           "TA": "Tristan da Cunha",
           "TC": "Visiwa vya Turks na Caicos",
           "TD": "Chadi",
@@ -310,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis na Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Kiinitoni cha kigeni",
+          "XB": "Pseudo-Bidi",
           "XK": "Kosovo",
           "YE": "Yemeni",
           "YT": "Mayote",

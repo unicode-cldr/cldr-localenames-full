@@ -3,8 +3,7 @@
     "fy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fy"
       },
@@ -198,8 +197,8 @@
           "MF": "Saint-Martin",
           "MG": "Madeiaskar",
           "MH": "Marshalleilannen",
-          "MK": "Macedonië",
-          "MK-alt-variant": "Macedonië (FYROM)",
+          "MK": "MK",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birma)",
           "MN": "Mongolië",

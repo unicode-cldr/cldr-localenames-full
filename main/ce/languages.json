@@ -3,8 +3,7 @@
     "ce": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ce"
       },
@@ -403,10 +402,14 @@
           "yi": "идиш",
           "yo": "йоруба",
           "yue": "кантонийн",
+          "yue-alt-menu": "yue",
           "zgh": "мороккон стандартан тамазигхтийн",
           "zh": "цийн",
+          "zh-alt-menu": "zh",
           "zh-Hans": "атта цийн",
+          "zh-Hans-alt-long": "цийн (атта китайн)",
           "zh-Hant": "ламастан цийн",
+          "zh-Hant-alt-long": "цийн (ламастан китайн)",
           "zu": "зулу",
           "zun": "зуньи",
           "zxx": "меттан чулацам боцуш",

@@ -3,8 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "US"
@@ -15,6 +14,11 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Inglaterra",
+          "gbsct": "Escocia",
+          "gbwls": "Gales"
+        },
         "keys": {
           "calendar": "calendario",
           "cf": "formato de moneda",
@@ -23,17 +27,17 @@
           "colCaseFirst": "orden de mayúsculas/minúsculas",
           "colCaseLevel": "orden con distinción entre mayúsculas y minúsculas",
           "collation": "orden",
-          "colNormalization": "Orden con normalización",
-          "colNumeric": "Orden numérico",
-          "colStrength": "Intensidad de orden",
+          "colNormalization": "orden normalizado",
+          "colNumeric": "orden numérico",
+          "colStrength": "intensidad de orden",
           "currency": "moneda",
           "hc": "ciclo horario (12 o 24 horas)",
-          "lb": "salto de línea",
-          "ms": "sm",
+          "lb": "estilo de salto de línea",
+          "ms": "sistema de medición",
           "numbers": "números",
-          "timezone": "Zona horaria",
-          "va": "Variante local",
-          "x": "Uso privado"
+          "timezone": "zona horaria",
+          "va": "variante local",
+          "x": "uso privado"
         },
         "types": {
           "calendar": {
@@ -54,7 +58,7 @@
             "iso8601": "calendario ISO-8601",
             "japanese": "calendario japonés",
             "persian": "calendario persa",
-            "roc": "calendario de la República de China"
+            "roc": "calendario minguo"
           },
           "cf": {
             "account": "formato de moneda de contabilidad",
@@ -124,18 +128,18 @@
             "h24": "sistema de 24 horas (1–24)"
           },
           "lb": {
-            "loose": "salto de línea flexible",
+            "loose": "estilo de salto de línea flexible",
             "normal": "salto de línea normal",
-            "strict": "salto de línea estricto"
+            "strict": "estilo de salto de línea estricto"
           },
           "m0": {
             "bgn": "transliteración USBGN",
             "ungegn": "transliteración UNGEGN"
           },
           "ms": {
-            "metric": "Sistema Métrico de Unidades",
+            "metric": "sistema métrico",
             "uksystem": "sistema imperial",
-            "ussystem": "Sistema Anglosajón de Unidades"
+            "ussystem": "sistema estadounidense"
           },
           "numbers": {
             "ahom": "ahom",

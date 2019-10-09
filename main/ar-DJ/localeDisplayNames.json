@@ -3,8 +3,7 @@
     "ar-DJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ar",
         "territory": "DJ"
@@ -15,17 +14,22 @@
           "localeSeparator": "{0}، {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "إنجلترا",
+          "gbsct": "اسكتلندا",
+          "gbwls": "ويلز"
+        },
         "keys": {
           "calendar": "التقويم",
           "cf": "تنسيق العملة",
-          "colAlternate": "التصنيف بحسب تجاهل الرموز",
-          "colBackwards": "التصنيف بحسب اللكنة المعكوسة",
+          "colAlternate": "الفرز بحسب تجاهل الرموز",
+          "colBackwards": "الفرز بحسب اللكنة المعكوسة",
           "colCaseFirst": "الترتيب بحسب الأحرف الكبيرة/الصغيرة",
-          "colCaseLevel": "التصنيف بحسب حساسية حالة الأحرف",
+          "colCaseLevel": "الفرز بحسب حساسية حالة الأحرف",
           "collation": "ترتيب الفرز",
-          "colNormalization": "التصنيف الموحد",
-          "colNumeric": "التصنيف الرقمي",
-          "colStrength": "قوة التصنيف",
+          "colNormalization": "الفرز الموحد",
+          "colNumeric": "الفرز الرقمي",
+          "colStrength": "قوة الفرز",
           "currency": "العملة",
           "hc": "نظام التوقيت (12 مقابل 24)",
           "lb": "نمط فصل السطور",

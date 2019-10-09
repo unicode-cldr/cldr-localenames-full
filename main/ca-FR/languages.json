@@ -3,8 +3,7 @@
     "ca-FR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ca",
         "territory": "FR"
@@ -575,6 +574,7 @@
           "yi": "ídix",
           "yo": "ioruba",
           "yue": "cantonès",
+          "yue-alt-menu": "xinès, cantonès",
           "za": "zhuang",
           "zap": "zapoteca",
           "zbl": "símbols Bliss",
@@ -582,8 +582,11 @@
           "zen": "zenaga",
           "zgh": "amazic estàndard marroquí",
           "zh": "xinès",
+          "zh-alt-menu": "xinès, mandarí",
           "zh-Hans": "xinès simplificat",
+          "zh-Hans-alt-long": "xinès mandarí (simplificat)",
           "zh-Hant": "xinès tradicional",
+          "zh-Hant-alt-long": "xinès mandarí (tradicional)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "sense contingut lingüístic",

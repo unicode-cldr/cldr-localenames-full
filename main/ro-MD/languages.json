@@ -3,8 +3,7 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ro",
         "territory": "MD"
@@ -536,14 +535,18 @@
           "yi": "idiș",
           "yo": "yoruba",
           "yue": "cantoneză",
+          "yue-alt-menu": "chineză, cantoneză",
           "za": "zhuang",
           "zap": "zapotecă",
           "zbl": "simboluri Bilss",
           "zen": "zenaga",
           "zgh": "tamazight standard marocană",
           "zh": "chineză",
+          "zh-alt-menu": "chineză, mandarină",
           "zh-Hans": "chineză simplificată",
+          "zh-Hans-alt-long": "chineză mandarină simplificată",
           "zh-Hant": "chineză tradițională",
+          "zh-Hant-alt-long": "chineză mandarină tradițională",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "fară conținut lingvistic",

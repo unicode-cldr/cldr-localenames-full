@@ -3,8 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fa",
         "territory": "AF"
@@ -59,7 +58,7 @@
           "Grek": "یونانی",
           "Gujr": "گجراتی",
           "Guru": "گورومخی",
-          "Hanb": "هانبی",
+          "Hanb": "هان با بوموپوفو",
           "Hang": "هانگول",
           "Hani": "هان",
           "Hano": "هانونویی",

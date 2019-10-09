@@ -3,8 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gu"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "ઈંગ્લેન્ડ",
+          "gbsct": "સ્કોટલેન્ડ",
+          "gbwls": "વોલ્સ"
         },
         "keys": {
           "calendar": "કેલેન્ડર",

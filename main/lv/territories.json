@@ -3,8 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lv"
       },
@@ -203,7 +202,7 @@
           "ML": "Mali",
           "MM": "Mjanma (Birma)",
           "MN": "Mongolija",
-          "MO": "Ķīnas īpašās pārvaldes apgabals Makao",
+          "MO": "ĶTR īpašais administratīvais reģions Makao",
           "MO-alt-short": "Makao",
           "MP": "Ziemeļu Marianas salas",
           "MQ": "Martinika",
@@ -271,8 +270,8 @@
           "SV": "Salvadora",
           "SX": "Sintmārtena",
           "SY": "Sīrija",
-          "SZ": "Svazilenda",
-          "SZ-alt-variant": "SZ",
+          "SZ": "Svatini",
+          "SZ-alt-variant": "Svazilenda",
           "TA": "Tristana da Kuņas salas",
           "TC": "Tērksas un Kaikosas salas",
           "TD": "Čada",
@@ -282,7 +281,7 @@
           "TJ": "Tadžikistāna",
           "TK": "Tokelau",
           "TL": "Austrumtimora",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Austrumtimora",
           "TM": "Turkmenistāna",
           "TN": "Tunisija",
           "TO": "Tonga",
@@ -310,7 +309,7 @@
           "WF": "Volisa un Futunas salas",
           "WS": "Samoa",
           "XA": "pseidoakcenti",
-          "XB": "pseido-Bidi",
+          "XB": "pseidodivvirzienu",
           "XK": "Kosova",
           "YE": "Jemena",
           "YT": "Majota",

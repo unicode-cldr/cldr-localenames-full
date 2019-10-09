@@ -3,8 +3,7 @@
     "se-FI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14783 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "se",
         "territory": "FI"
@@ -273,10 +272,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "kantongiella",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "kiinnágiella",
+          "zh-alt-menu": "zh",
           "zh-Hans": "álkes kiinnágiella",
+          "zh-Hans-alt-long": "kiinnágiella (álkes kiinnálaš)",
           "zh-Hant": "árbevirolaš kiinnágiella",
+          "zh-Hant-alt-long": "kiinnágiella (árbevirolaš kiinnálaš)",
           "zu": "zu",
           "zxx": "zxx"
         }

@@ -3,8 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zu"
       },
@@ -149,7 +148,7 @@
           "GY": "i-Guyana",
           "HK": "i-Hong Kong SAR China",
           "HK-alt-short": "i-Hong Kong",
-          "HM": "i-Heard Island ne-McDonald Islands",
+          "HM": "I-Heard & McDonald Island",
           "HN": "i-Honduras",
           "HR": "i-Croatia",
           "HT": "i-Haiti",
@@ -198,8 +197,8 @@
           "MF": "i-Saint Martin",
           "MG": "i-Madagascar",
           "MH": "i-Marshall Islands",
-          "MK": "i-Macedonia",
-          "MK-alt-variant": "i-Macedonia (FYROM)",
+          "MK": "i-North Macedonia",
+          "MK-alt-variant": "MK",
           "ML": "iMali",
           "MM": "i-Myanmar (Burma)",
           "MN": "i-Mongolia",
@@ -293,7 +292,7 @@
           "TZ": "i-Tanzania",
           "UA": "i-Ukraine",
           "UG": "i-Uganda",
-          "UM": "i-U.S. Minor Outlying Islands",
+          "UM": "I-U.S. Outlying Islands",
           "UN": "I-United Nations",
           "UN-alt-short": "ifulegi",
           "US": "i-United States",

@@ -3,8 +3,7 @@
     "dje": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "dje"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Yorbance senni",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Sinuwa senni",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Sinuwa senni (Hans)",
+          "zh-Hans-alt-long": "Sinuwa senni (Hans)",
           "zh-Hant": "Sinuwa senni (Hant)",
+          "zh-Hant-alt-long": "Sinuwa senni (Hant)",
           "zu": "Zulu senni",
           "zxx": "zxx"
         }

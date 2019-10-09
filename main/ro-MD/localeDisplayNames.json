@@ -3,8 +3,7 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ro",
         "territory": "MD"
@@ -15,25 +14,30 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Anglia",
+          "gbsct": "Scoția",
+          "gbwls": "Țara Galilor"
+        },
         "keys": {
           "calendar": "calendar",
           "cf": "Format monedă",
-          "colAlternate": "Ordonare cu simbolurile ignorate",
-          "colBackwards": "Ordonare inversă după accent",
-          "colCaseFirst": "Ordonare după majuscule/minuscule",
-          "colCaseLevel": "Ordonare care ține seama de majuscule/minuscule",
+          "colAlternate": "sortare cu ignorarea simbolurilo",
+          "colBackwards": "sortare inversă după accent",
+          "colCaseFirst": "sortare după majuscule/minuscule",
+          "colCaseLevel": "sortare care ține seama de majuscule/minuscule",
           "collation": "ordine de sortare",
-          "colNormalization": "Ordonare normalizată",
-          "colNumeric": "Ordonare numerică",
-          "colStrength": "Puterea ordonării",
+          "colNormalization": "sortare normalizată",
+          "colNumeric": "sortare numerică",
+          "colStrength": "puterea sortării",
           "currency": "monedă",
           "hc": "ciclu orar (12 sau 24)",
           "lb": "stil de întrerupere a liniei",
           "ms": "sistem de unități de măsură",
           "numbers": "numere",
-          "timezone": "Fusul orar",
-          "va": "Varianta locală",
-          "x": "Utilizare privată"
+          "timezone": "fus orar",
+          "va": "variantă locală",
+          "x": "utilizare privată"
         },
         "types": {
           "calendar": {

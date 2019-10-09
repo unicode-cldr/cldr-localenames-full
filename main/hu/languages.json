@@ -3,8 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hu"
       },
@@ -512,7 +511,7 @@
           "uz": "üzbég",
           "vai": "vai",
           "ve": "venda",
-          "vi": "vietnami",
+          "vi": "vietnámi",
           "vo": "volapük",
           "vot": "votják",
           "vun": "vunjo",
@@ -534,14 +533,18 @@
           "yi": "jiddis",
           "yo": "joruba",
           "yue": "kantoni",
+          "yue-alt-menu": "kantoni kínai",
           "za": "zsuang",
           "zap": "zapoték",
           "zbl": "Bliss jelképrendszer",
           "zen": "zenaga",
           "zgh": "marokkói tamazight",
           "zh": "kínai",
+          "zh-alt-menu": "mandarin",
           "zh-Hans": "egyszerűsített kínai",
+          "zh-Hans-alt-long": "kínai (egyszerűsített)",
           "zh-Hant": "hagyományos kínai",
+          "zh-Hant-alt-long": "kínai (hagyományos)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "nincs nyelvészeti tartalom",

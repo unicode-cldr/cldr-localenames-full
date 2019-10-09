@@ -3,8 +3,7 @@
     "tzm": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tzm"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "Madaɣacqar",
           "MH": "Tigzirin n Marcal",
-          "MK": "Maqdunya",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",

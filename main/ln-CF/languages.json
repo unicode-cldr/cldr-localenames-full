@@ -3,8 +3,7 @@
     "ln-CF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ln",
         "territory": "CF"
@@ -250,10 +249,14 @@
           "yi": "yi",
           "yo": "yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "lisinwa",
+          "zh-alt-menu": "zh",
           "zh-Hans": "lisinwa (Hans)",
+          "zh-Hans-alt-long": "lisinwa (Hans)",
           "zh-Hant": "lisinwa (Hant)",
+          "zh-Hant-alt-long": "lisinwa (Hant)",
           "zu": "zulu",
           "zxx": "zxx"
         }

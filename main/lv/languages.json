@@ -3,8 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lv"
       },
@@ -314,7 +313,7 @@
           "mg": "malagasu",
           "mga": "vidusīru",
           "mgh": "makua",
-          "mgo": "mgo",
+          "mgo": "metu",
           "mh": "māršaliešu",
           "mi": "maoru",
           "mic": "mikmaku",
@@ -529,14 +528,18 @@
           "yi": "jidišs",
           "yo": "jorubu",
           "yue": "kantoniešu",
+          "yue-alt-menu": "ķīniešu (kantoniešu)",
           "za": "džuanu",
           "zap": "sapoteku",
           "zbl": "blissimbolika",
           "zen": "zenagu",
           "zgh": "standarta tamazigtu (Maroka)",
           "zh": "ķīniešu",
+          "zh-alt-menu": "ķīniešu (mandarīnu)",
           "zh-Hans": "ķīniešu vienkāršotā",
+          "zh-Hans-alt-long": "ķīniešu vienkāršotā (mandarīnu)",
           "zh-Hant": "ķīniešu tradicionālā",
+          "zh-Hant-alt-long": "ķīniešu tradicionālā (mandarīnu)",
           "zu": "zulu",
           "zun": "zunju",
           "zxx": "bez lingvistiska satura",

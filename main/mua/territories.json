@@ -3,8 +3,7 @@
     "mua": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mua"
       },
@@ -198,7 +197,7 @@
           "MF": "MF",
           "MG": "Madagaskar",
           "MH": "Sǝr Marshall ma laŋne",
-          "MK": "Macedoniya",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "Sǝr Mali",
           "MM": "Sǝr Myanmar",

@@ -3,8 +3,7 @@
     "yi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yi"
       },
@@ -292,10 +291,14 @@
           "yi": "ייִדיש",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "כינעזיש",
+          "zh-alt-menu": "zh",
           "zh-Hans": "כינעזיש (Hans)",
+          "zh-Hans-alt-long": "כינעזיש (Hans)",
           "zh-Hant": "כינעזיש (Hant)",
+          "zh-Hant-alt-long": "כינעזיש (Hant)",
           "zu": "זולו",
           "zxx": "zxx"
         }

@@ -3,8 +3,7 @@
     "gsw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gsw"
       },
@@ -499,14 +498,18 @@
           "yi": "Jiddisch",
           "yo": "Yoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "za": "Zhuang",
           "zap": "Zapotekisch",
           "zbl": "Bliss-Symbool",
           "zen": "Zenaga",
           "zgh": "zgh",
           "zh": "Chineesisch",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Veräifachts Chineesisch",
+          "zh-Hans-alt-long": "Chineesisch (Veräifachti Chineesischi Schrift)",
           "zh-Hant": "Tradizionells Chineesisch",
+          "zh-Hant-alt-long": "Chineesisch (Tradizionelli Chineesischi Schrift)",
           "zu": "Zulu",
           "zun": "Zuni-Schpraach",
           "zxx": "Kän schpraachliche Inhalt",

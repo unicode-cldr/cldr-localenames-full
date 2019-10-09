@@ -3,8 +3,7 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr"
       },
@@ -14,6 +13,11 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Енглеска",
+          "gbsct": "Шкотска",
+          "gbwls": "Велс"
+        },
         "keys": {
           "calendar": "календар",
           "cf": "формат валуте",
@@ -22,9 +26,9 @@
           "colCaseFirst": "Ређање према малом/великом слову",
           "colCaseLevel": "Сортирање према малом/великом слову",
           "collation": "редослед сортирања",
-          "colNormalization": "Нормализовано сортирање",
-          "colNumeric": "Нумеричко сортирање",
-          "colStrength": "Сортирање према јачини",
+          "colNormalization": "нормализовано сортирање",
+          "colNumeric": "нумеричко сортирање",
+          "colStrength": "сортирање према јачини",
           "currency": "валута",
           "hc": "приказивање времена (12- или 24-часовно)",
           "lb": "стил прелома реда",

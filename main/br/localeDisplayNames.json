@@ -3,8 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14886 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "br"
       },
@@ -13,6 +12,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0} : {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Bro-Saoz",
+          "gbsct": "Skos",
+          "gbwls": "Kembre"
         },
         "keys": {
           "calendar": "deiziadur",
@@ -161,14 +165,14 @@
             "tibt": "sifroù tibetan",
             "tirh": "tirh",
             "vaii": "sifroù vai",
-            "wara": "wara",
-            "wcho": "wcho"
+            "wara": "sifroù warang",
+            "wcho": "sifroù wantcho"
           }
         },
         "codePatterns": {
-          "language": "{0}",
-          "script": "{0}",
-          "territory": "{0}"
+          "language": "yezh : {0}",
+          "script": "skritur : {0}",
+          "territory": "rannved : {0}"
         }
       }
     }

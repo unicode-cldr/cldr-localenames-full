@@ -3,8 +3,7 @@
     "mas": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mas"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "nkʉtʉ́k ɔ́ɔ̄ lyoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "nkʉtʉ́k ɔ́ɔ̄ lchina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "nkʉtʉ́k ɔ́ɔ̄ lchina (Hans)",
+          "zh-Hans-alt-long": "nkʉtʉ́k ɔ́ɔ̄ lchina (Hans)",
           "zh-Hant": "nkʉtʉ́k ɔ́ɔ̄ lchina (Hant)",
+          "zh-Hant-alt-long": "nkʉtʉ́k ɔ́ɔ̄ lchina (Hant)",
           "zu": "nkʉtʉ́k ɔ́ɔ̄ lzulu",
           "zxx": "zxx"
         }

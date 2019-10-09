@@ -3,8 +3,7 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14877 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yo",
         "territory": "BJ"
@@ -14,6 +13,11 @@
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
+        },
+        "subdivisions": {
+          "gbeng": "Ilɛ̀gɛ̀ɛ́sì",
+          "gbsct": "Skɔ́tlándì",
+          "gbwls": "Wélsì"
         },
         "keys": {
           "calendar": "calendar",
@@ -41,7 +45,7 @@
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "iso8601",
+            "iso8601": "Kàlɛ́ńdà ISO-8601",
             "japanese": "japanese",
             "persian": "persian",
             "roc": "roc"
@@ -168,7 +172,7 @@
         },
         "codePatterns": {
           "language": "Èdè: {0}",
-          "script": "ɔ̀nà ìgbàkɔ̀wé: {0}",
+          "script": "Ìshɔwɔ́kɔ̀wé: {0}",
           "territory": "Àgbègbè: {0}"
         }
       }

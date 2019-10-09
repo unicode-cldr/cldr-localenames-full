@@ -3,8 +3,7 @@
     "shi-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "shi",
         "script": "Latn"
@@ -199,7 +198,7 @@
           "MF": "MF",
           "MG": "madaɣacqar",
           "MH": "tigzirin n marcal",
-          "MK": "masidunya",
+          "MK": "MK",
           "MK-alt-variant": "MK",
           "ML": "mali",
           "MM": "myanmar",

@@ -3,8 +3,7 @@
     "kab": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kab"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Tayurubit",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Tacinwat, Tamundarint",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Tacinwat, Tamundarint (Hans)",
+          "zh-Hans-alt-long": "Tacinwat, Tamundarint (Hans)",
           "zh-Hant": "Tacinwat, Tamundarint (Hant)",
+          "zh-Hant-alt-long": "Tacinwat, Tamundarint (Hant)",
           "zu": "Tazulut",
           "zxx": "zxx"
         }

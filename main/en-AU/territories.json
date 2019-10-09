@@ -3,8 +3,7 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "AU"
@@ -239,7 +238,7 @@
           "PH": "Philippines",
           "PK": "Pakistan",
           "PL": "Poland",
-          "PM": "St. Pierre & Miquelon",
+          "PM": "St Pierre & Miquelon",
           "PN": "Pitcairn Islands",
           "PR": "Puerto Rico",
           "PS": "Palestinian Territories",
@@ -260,7 +259,7 @@
           "SD": "Sudan",
           "SE": "Sweden",
           "SG": "Singapore",
-          "SH": "St. Helena",
+          "SH": "St Helena",
           "SI": "Slovenia",
           "SJ": "Svalbard & Jan Mayen",
           "SK": "Slovakia",
@@ -296,7 +295,7 @@
           "TZ": "Tanzania",
           "UA": "Ukraine",
           "UG": "Uganda",
-          "UM": "U.S. Outlying Islands",
+          "UM": "US Outlying Islands",
           "UN": "United Nations",
           "UN-alt-short": "UN",
           "US": "United States",
@@ -307,7 +306,7 @@
           "VC": "St. Vincent & Grenadines",
           "VE": "Venezuela",
           "VG": "British Virgin Islands",
-          "VI": "U.S. Virgin Islands",
+          "VI": "US Virgin Islands",
           "VN": "Vietnam",
           "VU": "Vanuatu",
           "WF": "Wallis & Futuna",

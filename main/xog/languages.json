@@ -3,8 +3,7 @@
     "xog": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "xog"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Oluyoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Olucayina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Olucayina (Hans)",
+          "zh-Hans-alt-long": "Olucayina (Hans)",
           "zh-Hant": "Olucayina (Hant)",
+          "zh-Hant-alt-long": "Olucayina (Hant)",
           "zu": "Oluzzulu",
           "zxx": "zxx"
         }

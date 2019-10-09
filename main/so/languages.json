@@ -3,8 +3,7 @@
     "so": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "so"
       },
@@ -249,10 +248,14 @@
           "yi": "Yadhish",
           "yo": "Yoruuba",
           "yue": "Kantoneese",
+          "yue-alt-menu": "yue",
           "zgh": "Morokaanka Tamasayt Rasmiga",
           "zh": "Shiinaha Mandarin",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Shiinaha Rasmiga ah",
+          "zh-Hans-alt-long": "Shiinaha Mandarin (La fududeeyay)",
           "zh-Hant": "Shiinahii Hore",
+          "zh-Hant-alt-long": "Shiinaha Mandarin (Hore)",
           "zu": "Zuulu",
           "zxx": "Luuqad Looma Hayo"
         }

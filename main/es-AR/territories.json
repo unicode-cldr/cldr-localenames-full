@@ -3,8 +3,7 @@
     "es-AR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "AR"
@@ -31,7 +30,7 @@
           "039": "Europa del Sur",
           "053": "Australasia",
           "054": "Melanesia",
-          "057": "región de Micronesia",
+          "057": "Región de Micronesia",
           "061": "Polinesia",
           "142": "Asia",
           "143": "Asia central",
@@ -272,7 +271,7 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Siria",
-          "SZ": "Suazilandia",
+          "SZ": "Esuatini",
           "SZ-alt-variant": "Suazilandia",
           "TA": "Tristán de Acuña",
           "TC": "Islas Turcas y Caicos",
@@ -309,8 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis y Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudoacentos",
+          "XB": "Pseudobidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

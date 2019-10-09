@@ -3,8 +3,7 @@
     "az-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "az",
         "script": "Cyrl"
@@ -200,7 +199,7 @@
           "MG": "Мадагаскар",
           "MH": "Маршал адалары",
           "MK": "MK",
-          "MK-alt-variant": "Македонија (КЈРМ)",
+          "MK-alt-variant": "MK",
           "ML": "Мали",
           "MM": "Мјанма",
           "MN": "Монголустан",

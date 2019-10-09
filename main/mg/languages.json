@@ -3,8 +3,7 @@
     "mg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14804 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mg"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Yôrobà",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Sinoa, Mandarin",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Sinoa, Mandarin (Hans)",
+          "zh-Hans-alt-long": "Sinoa, Mandarin (Hans)",
           "zh-Hant": "Sinoa, Mandarin (Hant)",
+          "zh-Hant-alt-long": "Sinoa, Mandarin (Hant)",
           "zu": "Zolò",
           "zxx": "zxx"
         }

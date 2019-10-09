@@ -3,8 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14902 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ms"
       },
@@ -452,10 +451,14 @@
           "yi": "Yiddish",
           "yo": "Yoruba",
           "yue": "Kantonis",
+          "yue-alt-menu": "Cina, Kantonis",
           "zgh": "Tamazight Maghribi Standard",
           "zh": "Cina",
+          "zh-alt-menu": "Cina, Mandarin",
           "zh-Hans": "Cina Ringkas",
+          "zh-Hans-alt-long": "Cina Mandarin Ringkas",
           "zh-Hant": "Cina Tradisional",
+          "zh-Hant-alt-long": "Cina Mandarin Tradisional",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Tiada kandungan linguistik",

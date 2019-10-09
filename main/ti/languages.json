@@ -3,8 +3,7 @@
     "ti": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ti"
       },
@@ -255,10 +254,14 @@
           "yi": "ዪዲሽ",
           "yo": "yo",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "zh",
+          "zh-alt-menu": "zh",
           "zh-Hans": "zh (Hans)",
+          "zh-Hans-alt-long": "zh (Hans)",
           "zh-Hant": "zh (Hant)",
+          "zh-Hant-alt-long": "zh (Hant)",
           "zu": "ዙሉኛ",
           "zxx": "zxx"
         }

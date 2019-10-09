@@ -3,8 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hu"
       },
@@ -152,11 +151,11 @@
           "Sgnw": "Jelírás",
           "Shaw": "Shaw ábécé",
           "Shrd": "Shrd",
-          "Sidd": "Sidd",
+          "Sidd": "Sziddham",
           "Sind": "Sind",
           "Sinh": "Szingaléz",
-          "Sogd": "Sogd",
-          "Sogo": "Sogo",
+          "Sogd": "Szogd",
+          "Sogo": "Ószogd",
           "Sora": "Sora",
           "Soyo": "Soyo",
           "Sund": "Szundanéz",

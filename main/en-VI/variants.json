@@ -3,8 +3,7 @@
     "en-VI": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "VI"
@@ -36,6 +35,7 @@
           "BISKE": "San Giorgio/Bila dialect",
           "BOHORIC": "Bohorič alphabet",
           "BOONT": "Boontling",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "Portuguese-Brazilian Orthographic Convention of 1945",
           "CORNU": "CORNU",

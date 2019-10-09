@@ -3,8 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "US"
@@ -272,9 +271,9 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Siria",
-          "SZ": "Suazilandia",
+          "SZ": "Esuatini",
           "SZ-alt-variant": "Suazilandia",
-          "TA": "Tristán da Cunha",
+          "TA": "Tristán de Acuña",
           "TC": "Islas Turcas y Caicos",
           "TD": "Chad",
           "TF": "Territorios Australes Franceses",
@@ -295,7 +294,7 @@
           "UA": "Ucrania",
           "UG": "Uganda",
           "UM": "Islas menores alejadas de EE. UU.",
-          "UN": "Naciones Unidas",
+          "UN": "UN",
           "US": "Estados Unidos",
           "US-alt-short": "EE. UU.",
           "UY": "Uruguay",
@@ -309,8 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis y Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudoacentos",
+          "XB": "Pseudobidi",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

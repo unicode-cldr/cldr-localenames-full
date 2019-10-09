@@ -3,8 +3,7 @@
     "pt-GW": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt",
         "territory": "GW"
@@ -15,12 +14,17 @@
           "localeSeparator": "{0}, {1}",
           "localeKeyTypePattern": "{0}: {1}"
         },
+        "subdivisions": {
+          "gbeng": "Inglaterra",
+          "gbsct": "Escócia",
+          "gbwls": "País de Gales"
+        },
         "keys": {
           "calendar": "Calendário",
           "cf": "Formato monetário",
-          "colAlternate": "Ignorar classificação de símbolos",
+          "colAlternate": "Ignorar ordenação de símbolos",
           "colBackwards": "Ordenação de acentos invertida",
-          "colCaseFirst": "Ordem de maiúsculas/minúsculas",
+          "colCaseFirst": "Ordenação de maiúsculas/minúsculas",
           "colCaseLevel": "Ordenação sensível a maiúsculas e minúsculas",
           "collation": "Ordenação",
           "colNormalization": "Ordenação normalizada",
@@ -32,8 +36,8 @@
           "ms": "Sistema de medida",
           "numbers": "Números",
           "timezone": "Fuso horário",
-          "va": "Variante de localidade",
-          "x": "Utilização privada"
+          "va": "Variante de região",
+          "x": "Uso privado"
         },
         "types": {
           "calendar": {

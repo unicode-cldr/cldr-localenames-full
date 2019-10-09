@@ -3,8 +3,7 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lt"
       },
@@ -272,7 +271,7 @@
           "SX": "Sint Martenas",
           "SY": "Sirija",
           "SZ": "Svazilandas",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Svazilandas",
           "TA": "Tristanas da Kunja",
           "TC": "Terkso ir Kaikoso Salos",
           "TD": "Čadas",

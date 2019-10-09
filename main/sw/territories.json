@@ -3,8 +3,7 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sw"
       },
@@ -39,7 +38,7 @@
           "151": "Ulaya ya Mashariki",
           "154": "Ulaya ya Kaskazini",
           "155": "Ulaya ya Magharibi",
-          "202": "Afrika Kusine mwa Jangwa la Sahara",
+          "202": "Afrika Kusini mwa Jangwa la Sahara",
           "419": "Amerika ya Kilatini",
           "AC": "Kisiwa cha Ascension",
           "AD": "Andorra",
@@ -198,13 +197,13 @@
           "MF": "St. Martin",
           "MG": "Madagaska",
           "MH": "Visiwa vya Marshall",
-          "MK": "Macedonia",
-          "MK-alt-variant": "Macedonia (FYROM)",
+          "MK": "Masedonia ya Kaskazini",
+          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
-          "MO": "Macau SAR China",
-          "MO-alt-short": "Macau",
+          "MO": "Makau SAR China",
+          "MO-alt-short": "Makau",
           "MP": "Visiwa vya Mariana vya Kaskazini",
           "MQ": "Martinique",
           "MR": "Moritania",
@@ -272,7 +271,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Uswazi",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Uswazi",
           "TA": "Tristan da Cunha",
           "TC": "Visiwa vya Turks na Caicos",
           "TD": "Chad",
@@ -309,8 +308,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis na Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Lafudhi Bandia",
+          "XB": "Lafudhi Bidi",
           "XK": "Kosovo",
           "YE": "Yemeni",
           "YT": "Mayotte",

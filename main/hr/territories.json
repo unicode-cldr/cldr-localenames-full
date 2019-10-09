@@ -3,8 +3,7 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hr"
       },
@@ -82,7 +81,7 @@
           "CA": "Kanada",
           "CC": "Kokosovi (Keelingovi) otoci",
           "CD": "Kongo - Kinshasa",
-          "CD-alt-variant": "Kongo (DRK)",
+          "CD-alt-variant": "Kongo (DR)",
           "CF": "Srednjoafrička Republika",
           "CG": "Kongo - Brazzaville",
           "CG-alt-variant": "Kongo (RK)",
@@ -236,7 +235,7 @@
           "PH": "Filipini",
           "PK": "Pakistan",
           "PL": "Poljska",
-          "PM": "Sveti Petar i Mikelon",
+          "PM": "Saint-Pierre-et-Miquelon",
           "PN": "Otoci Pitcairn",
           "PR": "Portoriko",
           "PS": "Palestinsko područje",
@@ -271,8 +270,8 @@
           "SV": "Salvador",
           "SX": "Sint Maarten",
           "SY": "Sirija",
-          "SZ": "Svazi",
-          "SZ-alt-variant": "SZ",
+          "SZ": "Esvatini",
+          "SZ-alt-variant": "Svazi",
           "TA": "Tristan da Cunha",
           "TC": "Otoci Turks i Caicos",
           "TD": "Čad",

@@ -3,8 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sk"
       },
@@ -81,7 +80,7 @@
           "car": "karibčina",
           "cay": "kajugčina",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "čakma",
           "ce": "čečenčina",
           "ceb": "cebuánčina",
           "cgg": "kiga",
@@ -529,14 +528,18 @@
           "yi": "jidiš",
           "yo": "jorubčina",
           "yue": "kantončina",
+          "yue-alt-menu": "čínština (kantonská)",
           "za": "čuangčina",
           "zap": "zapotéčtina",
           "zbl": "systém Bliss",
           "zen": "zenaga",
-          "zgh": "tuaregčina (štandardná marocká)",
+          "zgh": "tuaregčina (marocká štandardná)",
           "zh": "čínština",
+          "zh-alt-menu": "čínština (mandarínska)",
           "zh-Hans": "čínština (zjednodušená)",
+          "zh-Hans-alt-long": "čínština (mandarínska zjednodušená)",
           "zh-Hant": "čínština (tradičná)",
+          "zh-Hant-alt-long": "čínština (mandarínska tradičná)",
           "zu": "zuluština",
           "zun": "zuniština",
           "zxx": "bez jazykového obsahu",

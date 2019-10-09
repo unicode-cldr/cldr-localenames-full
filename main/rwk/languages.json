@@ -3,8 +3,7 @@
     "rwk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "rwk"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Kyiyoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Kyichina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Kyichina (Hans)",
+          "zh-Hans-alt-long": "Kyichina (Hans)",
           "zh-Hant": "Kyichina (Hant)",
+          "zh-Hant-alt-long": "Kyichina (Hant)",
           "zu": "Kyizulu",
           "zxx": "zxx"
         }

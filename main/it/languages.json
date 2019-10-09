@@ -3,8 +3,7 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "it"
       },
@@ -611,6 +610,7 @@
           "yo": "yoruba",
           "yrl": "nheengatu",
           "yue": "cantonese",
+          "yue-alt-menu": "yue",
           "za": "zhuang",
           "zap": "zapotec",
           "zbl": "blissymbol",
@@ -618,8 +618,11 @@
           "zen": "zenaga",
           "zgh": "tamazight del Marocco standard",
           "zh": "cinese",
+          "zh-alt-menu": "cinese (mandarino)",
           "zh-Hans": "cinese semplificato",
+          "zh-Hans-alt-long": "cinese mandarino semplificato",
           "zh-Hant": "cinese tradizionale",
+          "zh-Hant-alt-long": "cinese mandarino tradizionale",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "nessun contenuto linguistico",

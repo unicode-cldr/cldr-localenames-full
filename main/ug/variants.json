@@ -3,8 +3,7 @@
     "ug": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ug"
       },
@@ -35,6 +34,7 @@
           "BISKE": "سان گىيورگىيو/بىلا شىۋەسى",
           "BOHORIC": "بوخورىچ ئېلىپبەسى",
           "BOONT": "بۇنتلىڭچە",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",

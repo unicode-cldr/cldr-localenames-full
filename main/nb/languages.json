@@ -3,8 +3,7 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nb"
       },
@@ -98,7 +97,7 @@
           "car": "karibisk",
           "cay": "cayuga",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "chakma",
           "ce": "tsjetsjensk",
           "ceb": "cebuansk",
           "cgg": "kiga",
@@ -618,6 +617,7 @@
           "yo": "joruba",
           "yrl": "nheengatu",
           "yue": "kantonesisk",
+          "yue-alt-menu": "yue",
           "za": "zhuang",
           "zap": "zapotekisk",
           "zbl": "blissymboler",
@@ -625,8 +625,11 @@
           "zen": "zenaga",
           "zgh": "standard marrokansk tamazight",
           "zh": "kinesisk",
+          "zh-alt-menu": "kinesisk, mandarin",
           "zh-Hans": "forenklet kinesisk",
+          "zh-Hans-alt-long": "forenklet mandarinkinesisk",
           "zh-Hant": "tradisjonell kinesisk",
+          "zh-Hant-alt-long": "tradisjonell mandarinkinesisk",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "uten språklig innhold",

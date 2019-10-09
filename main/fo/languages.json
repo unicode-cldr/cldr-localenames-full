@@ -3,8 +3,7 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14809 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fo"
       },
@@ -58,7 +57,7 @@
           "bug": "buginesiskt",
           "byn": "blin",
           "ca": "katalani",
-          "ccp": "ccp",
+          "ccp": "khakma",
           "ce": "tjetjenskt",
           "ceb": "cebuano",
           "cgg": "chiga",
@@ -416,10 +415,14 @@
           "yi": "jiddiskt",
           "yo": "yoruba",
           "yue": "kantonesiskt",
+          "yue-alt-menu": "kinesiskt, kantonesiskt",
           "zgh": "vanligt marokanskt tamazight",
           "zh": "kinesiskt",
+          "zh-alt-menu": "kinesiskt, mandarin",
           "zh-Hans": "einkult kinesiskt",
+          "zh-Hans-alt-long": "mandarin kinesiskt (einkult)",
           "zh-Hant": "vanligt kinesiskt",
+          "zh-Hant-alt-long": "mandarin kinesiskt (vanligt)",
           "zu": "sulu",
           "zun": "zuni",
           "zxx": "einki málsligt innihald",

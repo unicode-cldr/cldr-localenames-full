@@ -1,8 +1,8 @@
 {
   "name": "cldr-localenames-full",
-  "version": "35.1.0",
+  "version": "36.0.0",
   "peerDependencies": {
-    "cldr-core": "35.1.0"
+    "cldr-core": "36.0.0"
   },
   "homepage": "http://cldr.unicode.org",
   "author": "The Unicode Consortium",
@@ -23,5 +23,5 @@
       "url": "http://www.unicode.org/copyright.html"
     }
   ],
-  "bugs": "http://unicode.org/cldr/trac/newticket"
+  "bugs": "https://unicode-org.atlassian.net/projects/CLDR/issues"
 }

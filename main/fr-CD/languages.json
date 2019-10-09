@@ -3,8 +3,7 @@
     "fr-CD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fr",
         "territory": "CD"
@@ -620,6 +619,7 @@
           "yo": "yoruba",
           "yrl": "nheengatou",
           "yue": "cantonais",
+          "yue-alt-menu": "chinois cantonais",
           "za": "zhuang",
           "zap": "zapotèque",
           "zbl": "symboles Bliss",
@@ -627,8 +627,11 @@
           "zen": "zenaga",
           "zgh": "amazighe standard marocain",
           "zh": "chinois",
+          "zh-alt-menu": "chinois mandarin",
           "zh-Hans": "chinois simplifié",
+          "zh-Hans-alt-long": "mandarin simplifié",
           "zh-Hant": "chinois traditionnel",
+          "zh-Hant-alt-long": "mandarin traditionnel",
           "zu": "zoulou",
           "zun": "zuñi",
           "zxx": "sans contenu linguistique",

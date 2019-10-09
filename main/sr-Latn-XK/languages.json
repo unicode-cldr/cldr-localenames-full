@@ -3,8 +3,7 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -112,7 +111,7 @@
           "din": "dinka",
           "dje": "zarma",
           "doi": "dogri",
-          "dsb": "donji lužičkosrpski",
+          "dsb": "donjolužičkosrpski",
           "dua": "duala",
           "dum": "srednjeholandski",
           "dv": "maldivski",
@@ -194,7 +193,7 @@
           "hmn": "hmonški",
           "ho": "hiri motu",
           "hr": "hrvatski",
-          "hsb": "gornji lužičkosrpski",
+          "hsb": "gornjolužičkosrpski",
           "ht": "haićanski kreolski",
           "hu": "mađarski",
           "hup": "hupa",
@@ -518,14 +517,18 @@
           "yi": "jidiš",
           "yo": "joruba",
           "yue": "kantonski",
+          "yue-alt-menu": "kantonski kineski",
           "za": "džuanški",
           "zap": "zapotečki",
           "zbl": "blisimboli",
           "zen": "zenaga",
           "zgh": "standardni marokanski tamašek",
           "zh": "kineski",
+          "zh-alt-menu": "mandarinski kineski",
           "zh-Hans": "pojednostavljeni kineski",
+          "zh-Hans-alt-long": "kineski (pojednostavljeno kinesko pismo)",
           "zh-Hant": "tradicionalni kineski",
+          "zh-Hant-alt-long": "kineski (tradicionalno kinesko pismo)",
           "zu": "isizulu",
           "zun": "zuni",
           "zxx": "bez lingvističkog sadržaja",

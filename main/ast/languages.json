@@ -3,8 +3,7 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ast"
       },
@@ -616,6 +615,7 @@
           "yo": "yoruba",
           "yrl": "nheengatu",
           "yue": "cantonés",
+          "yue-alt-menu": "yue",
           "za": "zhuang",
           "zap": "zapoteca",
           "zbl": "simbólicu Bliss",
@@ -623,8 +623,11 @@
           "zen": "zenaga",
           "zgh": "tamazight estándar de Marruecos",
           "zh": "chinu",
+          "zh-alt-menu": "zh",
           "zh-Hans": "chinu simplificáu",
+          "zh-Hans-alt-long": "chinu (simplificáu)",
           "zh-Hant": "chinu tradicional",
+          "zh-Hant-alt-long": "chinu (tradicional)",
           "zu": "zulú",
           "zun": "zuni",
           "zxx": "ensin conteníu llingüísticu",

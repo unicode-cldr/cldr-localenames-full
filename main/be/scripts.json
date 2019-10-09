@@ -3,8 +3,7 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "be"
       },
@@ -106,7 +105,7 @@
           "Mroo": "Mroo",
           "Mtei": "Mtei",
           "Mult": "Mult",
-          "Mymr": "м’янмарскае",
+          "Mymr": "бірманскае",
           "Nand": "Nand",
           "Narb": "Narb",
           "Nbat": "Nbat",
@@ -175,7 +174,7 @@
           "Zsye": "эмодзі",
           "Zsym": "сімвалы",
           "Zxxx": "беспісьменная",
-          "Zyyy": "звычайнае",
+          "Zyyy": "агульнае",
           "Zzzz": "невядомае пісьмо"
         }
       }

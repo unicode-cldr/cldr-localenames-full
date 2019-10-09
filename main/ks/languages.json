@@ -3,8 +3,7 @@
     "ks": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14783 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ks"
       },
@@ -498,13 +497,17 @@
           "yi": "یِدِش",
           "yo": "یورُبا",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "za": "زُہانگ",
           "zap": "زَپوتیک",
           "zen": "زیناگا",
           "zgh": "zgh",
           "zh": "چیٖنی",
+          "zh-alt-menu": "zh",
           "zh-Hans": "سیود چیٖنی",
+          "zh-Hans-alt-long": "چیٖنی (سِمپلِفایِڑ ہان)",
           "zh-Hant": "رِوٲجی چیٖنی",
+          "zh-Hant-alt-long": "چیٖنی (ٹریڑِشَنَل)",
           "zu": "زُلوٗ",
           "zun": "زوٗنی",
           "zxx": "کانہہ تہِ لِسانیاتی مواد نہٕ",

@@ -3,8 +3,7 @@
     "qu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "qu"
       },
@@ -33,6 +32,7 @@
           "BISKE": "BISKE",
           "BOHORIC": "BOHORIC",
           "BOONT": "BOONT",
+          "BORNHOLM": "BORNHOLM",
           "CISAUP": "CISAUP",
           "COLB1945": "COLB1945",
           "CORNU": "CORNU",
@@ -105,7 +105,7 @@
           "ULSTER": "ULSTER",
           "UNIFON": "UNIFON",
           "VAIDIKA": "VAIDIKA",
-          "VALENCIA": "Valenciano Simi",
+          "VALENCIA": "VALENCIA",
           "VALLADER": "VALLADER",
           "VIVARAUP": "VIVARAUP",
           "WADEGILE": "WADEGILE",

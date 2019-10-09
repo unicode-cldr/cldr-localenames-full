@@ -3,8 +3,7 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "he"
       },
@@ -55,7 +54,7 @@
           "Grek": "יווני",
           "Gujr": "גוג׳רטי",
           "Guru": "גורמוקי",
-          "Hanb": "האנב",
+          "Hanb": "האן עם בופומופו",
           "Hang": "האנגול",
           "Hani": "האן",
           "Hano": "Hano",
@@ -85,7 +84,7 @@
           "Kore": "קוריאני",
           "Kthi": "Kthi",
           "Lana": "Lana",
-          "Laoo": "לאית",
+          "Laoo": "לאי",
           "Latg": "לטיני גאלי",
           "Latn": "לטיני",
           "Lepc": "Lepc",
@@ -121,7 +120,7 @@
           "Ogam": "Ogam",
           "Olck": "Olck",
           "Orkh": "Orkh",
-          "Orya": "אורייה",
+          "Orya": "אודייה",
           "Osge": "Osge",
           "Osma": "Osma",
           "Palm": "Palm",

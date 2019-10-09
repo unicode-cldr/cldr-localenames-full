@@ -3,8 +3,7 @@
     "ki": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ki"
       },
@@ -249,10 +248,14 @@
           "yi": "yi",
           "yo": "Kiyoruba",
           "yue": "yue",
+          "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Kĩcaina",
+          "zh-alt-menu": "zh",
           "zh-Hans": "Kĩcaina (Hans)",
+          "zh-Hans-alt-long": "Kĩcaina (Hans)",
           "zh-Hant": "Kĩcaina (Hant)",
+          "zh-Hant-alt-long": "Kĩcaina (Hant)",
           "zu": "Kizulu",
           "zxx": "zxx"
         }

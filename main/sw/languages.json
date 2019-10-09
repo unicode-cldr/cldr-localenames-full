@@ -3,8 +3,7 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sw"
       },
@@ -69,7 +68,7 @@
           "byn": "Kiblin",
           "byv": "Kimedumba",
           "ca": "Kikatalani",
-          "ccp": "ccp",
+          "ccp": "Kichakma",
           "ce": "Kichechenia",
           "ceb": "Kichebuano",
           "cgg": "Kichiga",
@@ -340,7 +339,7 @@
           "rm": "Kiromanshi",
           "rn": "Kirundi",
           "ro": "Kiromania",
-          "ro-MD": "Kiromania (Moldova)",
+          "ro-MD": "Kimoldova cha Romania",
           "rof": "Kirombo",
           "root": "Kiroot",
           "ru": "Kirusi",
@@ -445,10 +444,14 @@
           "yi": "Kiyiddi",
           "yo": "Kiyoruba",
           "yue": "Kikantoni",
+          "yue-alt-menu": "Kichina, Kikantoni",
           "zgh": "Kiberber Sanifu cha Moroko",
           "zh": "Kichina",
+          "zh-alt-menu": "Kichina sanifu",
           "zh-Hans": "Kichina (Kilichorahisishwa)",
+          "zh-Hans-alt-long": "Kichina (Rahisi)",
           "zh-Hant": "Kichina cha Jadi",
+          "zh-Hant-alt-long": "Kichina (cha jadi)",
           "zu": "Kizulu",
           "zun": "Kizuni",
           "zxx": "Hakuna maudhui ya lugha",

@@ -3,8 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fil"
       },
@@ -413,10 +412,14 @@
           "yi": "Yiddish",
           "yo": "Yoruba",
           "yue": "Cantonese",
+          "yue-alt-menu": "Chinese, Cantonese",
           "zgh": "Standard Moroccan Tamazight",
           "zh": "Chinese",
+          "zh-alt-menu": "Chinese, Mandarin",
           "zh-Hans": "Pinasimpleng Chinese",
+          "zh-Hans-alt-long": "Pinasimpleng Mandarin Chinese",
           "zh-Hant": "Tradisyonal na Chinese",
+          "zh-Hant-alt-long": "Tradisyonal na Mandarin Chinese",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Walang nilalaman na ukol sa wika",

@@ -3,8 +3,7 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yue",
         "script": "Hant"
@@ -89,7 +88,7 @@
           "CG-alt-variant": "剛果共和國",
           "CH": "瑞士",
           "CI": "象牙海岸",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "象牙海岸",
           "CK": "庫克群島",
           "CL": "智利",
           "CM": "喀麥隆",
@@ -273,7 +272,7 @@
           "SX": "荷屬聖馬丁",
           "SY": "敘利亞",
           "SZ": "史瓦濟蘭",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "斯威士蘭",
           "TA": "特里斯坦達庫尼亞群島",
           "TC": "土克斯及開科斯群島",
           "TD": "查德",
@@ -283,7 +282,7 @@
           "TJ": "塔吉克",
           "TK": "托克勞群島",
           "TL": "東帝汶",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "東帝汶",
           "TM": "土庫曼",
           "TN": "突尼西亞",
           "TO": "東加",
@@ -310,7 +309,7 @@
           "WF": "瓦利斯同富圖納群島",
           "WS": "薩摩亞",
           "XA": "偽口音",
-          "XB": "XB",
+          "XB": "偽 Bidi",
           "XK": "科索沃",
           "YE": "葉門",
           "YT": "馬約特",
