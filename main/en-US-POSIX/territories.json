@@ -3,7 +3,7 @@
     "en-US-POSIX": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "en",
         "territory": "US",
@@ -100,6 +100,7 @@
           "CR": "Costa Rica",
           "CU": "Cuba",
           "CV": "Cape Verde",
+          "CV-alt-variant": "Cabo Verde",
           "CW": "Curaçao",
           "CX": "Christmas Island",
           "CY": "Cyprus",
@@ -201,7 +202,6 @@
           "MG": "Madagascar",
           "MH": "Marshall Islands",
           "MK": "North Macedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MM-alt-short": "Myanmar",

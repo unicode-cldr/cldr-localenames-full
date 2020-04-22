@@ -3,7 +3,7 @@
     "ro": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ro"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "cifre devanagari",
+            "diak": "diak",
             "ethi": "numerale etiopiene",
             "finance": "Sistemul numeric financiar",
             "fullwide": "cifre cu lățimea întreagă",

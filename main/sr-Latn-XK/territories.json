@@ -3,7 +3,7 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sr",
         "script": "Latn",
@@ -200,7 +200,6 @@
           "MG": "Madagaskar",
           "MH": "Maršalska Ostrva",
           "MK": "Severna Makedonija",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mijanmar (Burma)",
           "MN": "Mongolija",
@@ -310,8 +309,8 @@
           "VU": "Vanuatu",
           "WF": "Valis i Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Pseudoakcenti",
+          "XB": "Pseudobidi",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Majot",

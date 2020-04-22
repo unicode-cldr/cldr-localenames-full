@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bg"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "арабска",
           "Arab-alt-variant": "персийско-арабска",
+          "Aran": "Aran",
           "Armi": "Арамейска",
           "Armn": "арменска",
           "Avst": "Авестанска",
@@ -34,11 +35,13 @@
           "Cari": "Карийска",
           "Cham": "Хамитска",
           "Cher": "Чероки",
+          "Chrs": "Chrs",
           "Cirt": "Кирт",
           "Copt": "Коптска",
           "Cprt": "Кипърска",
           "Cyrl": "кирилица",
           "Deva": "деванагари",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Дезерет",
           "Dupl": "Dupl",
@@ -84,6 +87,7 @@
           "Khar": "Кхароштхи",
           "Khmr": "кхмерска",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "каннада",
           "Kore": "корейска",
           "Kthi": "Кайтхи",
@@ -185,6 +189,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Староперсийска",
           "Xsux": "Шумеро-акадски клинопис",
+          "Yezi": "Yezi",
           "Yiii": "Йи",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

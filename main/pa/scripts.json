@@ -3,7 +3,7 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pa"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "ਅਰਬੀ",
+          "Aran": "ਨਸਤਾਲੀਕ",
           "Armi": "Armi",
           "Armn": "ਅਰਮੀਨੀਆਈ",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "ਸਿਰੀਲਿਕ",
           "Deva": "ਦੇਵਨਾਗਰੀ",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "ਖਮੇਰ",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "ਕੰਨੜ",
           "Kore": "ਕੋਰੀਆਈ",
           "Kthi": "Kthi",
@@ -167,6 +171,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

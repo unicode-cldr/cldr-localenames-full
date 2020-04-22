@@ -3,7 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zu"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "isi-Arabic",
           "Arab-alt-variant": "isi-Perso-Arabic",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "isi-Armenian",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "isi-Cyrillic",
           "Deva": "isi-Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "isi-Khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "isi-Kannada",
           "Kore": "isi-Korean",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

@@ -3,7 +3,7 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "dsb"
       },
@@ -101,7 +101,7 @@
           "CX": "Gódowne kupy",
           "CY": "Cypriska",
           "CZ": "Česka republika",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Česka republika",
           "DE": "Nimska",
           "DG": "Diego Garcia",
           "DJ": "Džibuti",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshallowe kupy",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",
           "MN": "Mongolska",
@@ -271,7 +270,7 @@
           "SX": "Sint Maarten",
           "SY": "Syriska",
           "SZ": "Swasiska",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swasiska",
           "TA": "Tristan da Cunha",
           "TC": "Turks a Caicos kupy",
           "TD": "Čad",

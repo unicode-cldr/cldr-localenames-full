@@ -3,7 +3,7 @@
     "ckb-IR": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ckb",
         "territory": "IR"
@@ -14,6 +14,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "عەرەبی",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "ئەرمەنی",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "سریلیک",
           "Deva": "دەڤەناگەری",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "خمێر",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "کاننادا",
           "Kore": "کۆری",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

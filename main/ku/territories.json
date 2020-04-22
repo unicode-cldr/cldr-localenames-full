@@ -3,7 +3,7 @@
     "ku": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ku"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Kongo (Komar)",
           "CH": "Swîsre",
           "CI": "Peravê Diranfîl",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Peravê Diranfîl",
           "CK": "Giravên Cook",
           "CL": "Şîle",
           "CM": "Kamerûn",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Giravên Marşal",
           "MK": "Makedonya",
-          "MK-alt-variant": "MK",
           "ML": "Malî",
           "MM": "Myanmar (Birmanya)",
           "MN": "Mongolya",
@@ -271,7 +270,7 @@
           "SX": "SX",
           "SY": "Sûrî",
           "SZ": "Swazîlenda",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swazîlenda",
           "TA": "TA",
           "TC": "Giravên Turk û Kaîkos",
           "TD": "Çad",

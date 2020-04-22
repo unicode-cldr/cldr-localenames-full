@@ -3,7 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "am"
       },
@@ -155,6 +155,7 @@
           "eu": "ባስክኛ",
           "ewo": "ኤዎንዶ",
           "fa": "ፐርሺያኛ",
+          "fa-AF": "ዳሪኛ",
           "ff": "ፉላህ",
           "fi": "ፊኒሽ",
           "fil": "ፊሊፒንኛ",

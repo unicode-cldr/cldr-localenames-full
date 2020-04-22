@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fi"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshallinsaaret",
           "MK": "Pohjois-Makedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -308,8 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis ja Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "pseudoaksentit",
+          "XB": "kaksisuuntainen pseudo",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

@@ -3,7 +3,7 @@
     "os-RU": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "os",
         "territory": "RU"
@@ -25,7 +25,7 @@
           "ast": "ast",
           "av": "авайраг",
           "az": "тӕтӕйраг",
-          "az-alt-short": "az",
+          "az-alt-short": "тӕтӕйраг",
           "ba": "башкираг",
           "bas": "bas",
           "be": "be",
@@ -70,9 +70,9 @@
           "en-AU": "австралиаг англисаг",
           "en-CA": "канадӕйаг англисаг",
           "en-GB": "бритайнаг англисаг",
-          "en-GB-alt-short": "англисаг (GB)",
+          "en-GB-alt-short": "бритайнаг англисаг",
           "en-US": "америкаг англисаг",
-          "en-US-alt-short": "англисаг (US)",
+          "en-US-alt-short": "америкаг англисаг",
           "eo": "есперанто",
           "es": "испайнаг",
           "es-419": "латинаг америкаг англисаг",
@@ -82,6 +82,7 @@
           "eu": "баскаг",
           "ewo": "ewo",
           "fa": "персайнаг",
+          "fa-AF": "персайнаг (AF)",
           "ff": "ff",
           "fi": "финнаг",
           "fil": "филиппинаг",
@@ -163,6 +164,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "lv",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -173,6 +175,7 @@
           "mk": "мӕчъидон",
           "ml": "ml",
           "mn": "mn",
+          "mni": "mni",
           "mr": "mr",
           "ms": "ms",
           "mt": "mt",
@@ -198,6 +201,7 @@
           "or": "or",
           "os": "ирон",
           "pa": "pa",
+          "pcm": "pcm",
           "pl": "pl",
           "prg": "prg",
           "ps": "ps",
@@ -218,6 +222,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",
@@ -271,11 +276,11 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "китайаг",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "китайаг",
           "zh-Hans": "ӕнцонгонд китайаг",
-          "zh-Hans-alt-long": "китайаг (Ӕнцонгонд китайаг)",
+          "zh-Hans-alt-long": "ӕнцонгонд китайаг",
           "zh-Hant": "традицион китайаг",
-          "zh-Hant-alt-long": "китайаг (Традицион китайаг)",
+          "zh-Hant-alt-long": "традицион китайаг",
           "zu": "zu",
           "zxx": "zxx"
         }

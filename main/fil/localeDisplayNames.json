@@ -3,7 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fil"
       },
@@ -148,6 +148,7 @@
             "cham": "Cham na Mga Digit",
             "cyrl": "Cyrillic na Mga Numero",
             "deva": "Mga Devanagari Digit",
+            "diak": "diak",
             "ethi": "Mga Ethiopic Numeral",
             "finance": "Mga Pampinansyang Numeral",
             "fullwide": "Mga Full-Width Digit",

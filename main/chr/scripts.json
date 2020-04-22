@@ -3,7 +3,7 @@
     "chr": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "chr"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "ᎡᎳᏈᎩ",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "ᎠᎳᎻᎠᏂ",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "ᏣᎳᎩ",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "ᏲᏂᎢ ᏗᎪᏪᎵ",
           "Deva": "ᏕᏫᎾᎦᎵ",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "ᎩᎻᎷ",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "ᎧᎾᏓ",
           "Kore": "ᎪᎵᎠᏂ",
           "Kthi": "Kthi",
@@ -167,6 +171,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

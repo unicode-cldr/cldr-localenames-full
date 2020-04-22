@@ -3,7 +3,7 @@
     "om": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "om"
       },
@@ -19,7 +19,7 @@
           "asa": "asa",
           "ast": "ast",
           "az": "Afaan Azerbaijani",
-          "az-alt-short": "az",
+          "az-alt-short": "Afaan Azerbaijani",
           "bas": "bas",
           "be": "Afaan Belarusia",
           "bem": "bem",
@@ -59,9 +59,9 @@
           "en-AU": "Ingliffa (AU)",
           "en-CA": "Ingliffa (CA)",
           "en-GB": "Ingliffa (United Kingdom)",
-          "en-GB-alt-short": "Ingliffa (GB)",
+          "en-GB-alt-short": "Ingliffa (United Kingdom)",
           "en-US": "Ingliffa (United States)",
-          "en-US-alt-short": "Ingliffa (US)",
+          "en-US-alt-short": "Ingliffa (United States)",
           "eo": "Afaan Esperantoo",
           "es": "Afaan Ispeen",
           "es-419": "Afaan Ispeen (419)",
@@ -71,6 +71,7 @@
           "eu": "Afaan Baskuu",
           "ewo": "ewo",
           "fa": "Afaan Persia",
+          "fa-AF": "Afaan Persia (AF)",
           "ff": "ff",
           "fi": "Afaan Fiilaandi",
           "fil": "Afaan Filippinii",
@@ -145,6 +146,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "Afaan Lativiyaa",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -155,6 +157,7 @@
           "mk": "Afaan Macedooniyaa",
           "ml": "Malayaalamiffaa",
           "mn": "mn",
+          "mni": "mni",
           "mr": "Afaan Maratii",
           "ms": "Malaayiffaa",
           "mt": "Afaan Maltesii",
@@ -182,6 +185,7 @@
           "or": "or",
           "os": "os",
           "pa": "Afaan Punjabii",
+          "pcm": "pcm",
           "pl": "Afaan Polandii",
           "prg": "prg",
           "ps": "ps",
@@ -201,6 +205,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",
@@ -255,7 +260,7 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chinese",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Chinese",
           "zh-Hans": "Chinese (Hans)",
           "zh-Hans-alt-long": "Chinese (Hans)",
           "zh-Hant": "Chinese (Hant)",

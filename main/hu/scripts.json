@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hu"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "Arab",
           "Arab-alt-variant": "Perzsa-arab",
+          "Aran": "Nasztalik",
           "Armi": "Birodalmi arámi",
           "Armn": "Örmény",
           "Avst": "Avesztán",
@@ -34,11 +35,13 @@
           "Cari": "Kari",
           "Cham": "Csám",
           "Cher": "Cseroki",
+          "Chrs": "Chrs",
           "Copt": "Kopt",
           "Cprt": "Ciprusi",
           "Cyrl": "Cirill",
           "Cyrs": "Óegyházi szláv cirill",
           "Deva": "Devanagári",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Dupl",
@@ -58,7 +61,7 @@
           "Grek": "Görög",
           "Gujr": "Gudzsaráti",
           "Guru": "Gurmuki",
-          "Hanb": "Hanb",
+          "Hanb": "Han bopomofóval",
           "Hang": "Hangul",
           "Hani": "Han",
           "Hano": "Hanunoo",
@@ -84,6 +87,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Koreai",
           "Kthi": "Kaithi",
@@ -139,7 +143,7 @@
           "Phnx": "Főniciai",
           "Plrd": "Pollard fonetikus",
           "Prti": "Feliratos parthian",
-          "Qaag": "Qaag",
+          "Qaag": "Zawgyi",
           "Rjng": "Redzsang",
           "Rohg": "Rohg",
           "Roro": "Rongorongo",
@@ -186,6 +190,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Óperzsa",
           "Xsux": "Ékírásos suméro-akkád",
+          "Yezi": "Yezi",
           "Yiii": "Ji",
           "Zanb": "Zanb",
           "Zinh": "Származtatott",

@@ -3,7 +3,7 @@
     "mr": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mr"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "देवनागरी अंक",
+            "diak": "diak",
             "ethi": "इथिओपिक अंक",
             "finance": "वित्तीय संख्‍या",
             "fullwide": "पूर्ण रुंदीचे अंक",

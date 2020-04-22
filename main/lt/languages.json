@@ -3,7 +3,7 @@
     "lt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lt"
       },
@@ -156,9 +156,9 @@
           "en-AU": "Australijos anglų",
           "en-CA": "Kanados anglų",
           "en-GB": "Didžiosios Britanijos anglų",
-          "en-GB-alt-short": "anglų (JK)",
+          "en-GB-alt-short": "Didžiosios Britanijos anglų",
           "en-US": "Jungtinių Valstijų anglų",
-          "en-US-alt-short": "anglų (JAV)",
+          "en-US-alt-short": "Jungtinių Valstijų anglų",
           "enm": "Vidurio Anglijos",
           "eo": "esperanto",
           "es": "ispanų",
@@ -171,6 +171,7 @@
           "ewo": "evondo",
           "ext": "ispanų kalbos Ekstremadūros tarmė",
           "fa": "persų",
+          "fa-AF": "persų (Afganistanas)",
           "fan": "fangų",
           "fat": "fanti",
           "ff": "fulahų",

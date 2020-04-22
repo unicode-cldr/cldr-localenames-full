@@ -3,7 +3,7 @@
     "nb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nb"
       },
@@ -15,6 +15,7 @@
           "Ahom": "ahom",
           "Arab": "arabisk",
           "Arab-alt-variant": "persisk-arabisk",
+          "Aran": "nastaliq",
           "Armi": "arameisk",
           "Armn": "armensk",
           "Avst": "avestisk",
@@ -35,12 +36,14 @@
           "Cari": "karisk",
           "Cham": "cham",
           "Cher": "cherokee",
+          "Chrs": "Chrs",
           "Cirt": "cirth",
           "Copt": "koptisk",
           "Cprt": "kypriotisk",
           "Cyrl": "kyrillisk",
           "Cyrs": "kirkeslavisk kyrillisk",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "duployan stenografi",
@@ -87,6 +90,7 @@
           "Khar": "kharoshthi",
           "Khmr": "khmer",
           "Khoj": "khojki",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "koreansk",
           "Kpel": "kpelle",
@@ -145,7 +149,7 @@
           "Phnx": "fønikisk",
           "Plrd": "pollard-fonetisk",
           "Prti": "inskripsjonsparthisk",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "Rohg",
           "Roro": "rongorongo",
@@ -193,6 +197,7 @@
           "Wole": "woleai",
           "Xpeo": "gammelpersisk",
           "Xsux": "sumersk-akkadisk kileskrift",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "nedarvet",

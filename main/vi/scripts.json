@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "vi"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "Chữ Ả Rập",
           "Arab-alt-variant": "Chữ Ba Tư-Ả Rập",
+          "Aran": "Chữ Nastaliq",
           "Armi": "Chữ Imperial Aramaic",
           "Armn": "Chữ Armenia",
           "Avst": "Chữ Avestan",
@@ -35,12 +36,14 @@
           "Cari": "Chữ Caria",
           "Cham": "Chữ Chăm",
           "Cher": "Chữ Cherokee",
+          "Chrs": "Chrs",
           "Cirt": "Chữ Cirth",
           "Copt": "Chữ Coptic",
           "Cprt": "Chứ Síp",
           "Cyrl": "Chữ Kirin",
           "Cyrs": "Chữ Kirin Slavơ Nhà thờ cổ",
           "Deva": "Chữ Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Chữ Deseret",
           "Dupl": "Chữ tốc ký Duployan",
@@ -87,6 +90,7 @@
           "Khar": "Chữ Kharoshthi",
           "Khmr": "Chữ Khơ-me",
           "Khoj": "Chữ Khojki",
+          "Kits": "Kits",
           "Knda": "Chữ Kannada",
           "Kore": "Chữ Hàn Quốc",
           "Kpel": "Chữ Kpelle",
@@ -145,7 +149,7 @@
           "Phnx": "Chữ Phoenicia",
           "Plrd": "Ngữ âm Pollard",
           "Prti": "Chữ Parthia Văn bia",
-          "Qaag": "Qaag",
+          "Qaag": "Chữ Zawgyi",
           "Rjng": "Chữ Rejang",
           "Rohg": "Rohg",
           "Roro": "Chữ Rongorongo",
@@ -193,6 +197,7 @@
           "Wole": "Chữ Woleai",
           "Xpeo": "Chữ Ba Tư cổ",
           "Xsux": "Chữ hình nêm Sumero-Akkadian",
+          "Yezi": "Yezi",
           "Yiii": "Chữ Di",
           "Zanb": "Zanb",
           "Zinh": "Chữ Kế thừa",

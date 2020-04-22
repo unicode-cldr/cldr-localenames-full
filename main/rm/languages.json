@@ -3,7 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "rm"
       },
@@ -41,7 +41,7 @@
           "awa": "awadhi",
           "ay": "aymara",
           "az": "aserbeidschanic",
-          "az-alt-short": "az",
+          "az-alt-short": "aserbeidschanic",
           "ba": "baschkir",
           "bal": "belutschi",
           "ban": "balinais",
@@ -125,9 +125,9 @@
           "en-AU": "englais australian",
           "en-CA": "englais canadais",
           "en-GB": "englais britannic",
-          "en-GB-alt-short": "englais (GB)",
+          "en-GB-alt-short": "englais britannic",
           "en-US": "englais american",
-          "en-US-alt-short": "englais (US)",
+          "en-US-alt-short": "englais american",
           "enm": "englais mesaun",
           "eo": "esperanto",
           "es": "spagnol",
@@ -138,6 +138,7 @@
           "eu": "basc",
           "ewo": "ewondo",
           "fa": "persian",
+          "fa-AF": "persian (Afghanistan)",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulah",
@@ -362,6 +363,7 @@
           "pam": "pampanga",
           "pap": "papiamento",
           "pau": "palau",
+          "pcm": "pcm",
           "peo": "persian vegl",
           "phn": "fenizian",
           "pi": "pali",
@@ -505,11 +507,11 @@
           "zen": "zenaga",
           "zgh": "zgh",
           "zh": "chinais",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "chinais",
           "zh-Hans": "chinais simplifitgà",
-          "zh-Hans-alt-long": "chinais (scrittira chinaisa simplifitgada)",
+          "zh-Hans-alt-long": "chinais simplifitgà",
           "zh-Hant": "chinais tradiziunal",
-          "zh-Hant-alt-long": "chinais (scrittira chinaisa tradiziunala)",
+          "zh-Hant-alt-long": "chinais tradiziunal",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "nagins cuntegns linguistics",

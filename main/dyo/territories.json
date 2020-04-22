@@ -3,7 +3,7 @@
     "dyo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "dyo"
       },
@@ -81,13 +81,13 @@
           "CA": "Kanada",
           "CC": "CC",
           "CD": "Mofam demokratik mati Kongo",
-          "CD-alt-variant": "CD",
+          "CD-alt-variant": "Mofam demokratik mati Kongo",
           "CF": "CF",
           "CG": "Kongo",
-          "CG-alt-variant": "CG",
+          "CG-alt-variant": "Kongo",
           "CH": "CH",
           "CI": "Koddiwar",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Koddiwar",
           "CK": "CK",
           "CL": "Cili",
           "CM": "Kamerun",
@@ -101,7 +101,7 @@
           "CX": "CX",
           "CY": "Siipr",
           "CZ": "Mofam mati Cek",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Mofam mati Cek",
           "DE": "Almaañ",
           "DG": "DG",
           "DJ": "Jibuti",
@@ -198,7 +198,6 @@
           "MG": "Madagaskaar",
           "MH": "MH",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "MM",
           "MN": "MN",

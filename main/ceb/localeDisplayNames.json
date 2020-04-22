@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ceb"
       },
@@ -61,7 +61,7 @@
             "reformed": "reformed",
             "search": "search",
             "searchjl": "searchjl",
-            "standard": "Standard nga Paagi sa Pagpihig",
+            "standard": "Tamdanang Paagi sa Paghan-ay",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "deva",
+            "diak": "diak",
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",
@@ -122,7 +123,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "Kasadpanhong mga Digit",
+            "latn": "Mga Western Digit",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -165,9 +166,9 @@
           }
         },
         "codePatterns": {
-          "language": "Pinulongan: {0}",
-          "script": "Alpabeto {0}",
-          "territory": "Rehiyon {0}"
+          "language": "Lengguwahe: {0}",
+          "script": "Script: {0}",
+          "territory": "Rehiyon: {0}"
         }
       }
     }

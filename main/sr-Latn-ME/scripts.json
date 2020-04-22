@@ -3,7 +3,7 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sr",
         "script": "Latn",
@@ -16,6 +16,7 @@
           "Ahom": "Ahom",
           "Arab": "arapsko pismo",
           "Arab-alt-variant": "persijsko-arapsko pismo",
+          "Aran": "Aran",
           "Armi": "imperijsko aramejsko pismo",
           "Armn": "jermensko pismo",
           "Avst": "avestansko pismo",
@@ -36,12 +37,14 @@
           "Cari": "karijsko pismo",
           "Cham": "čamsko pismo",
           "Cher": "Čeroki",
+          "Chrs": "Chrs",
           "Cirt": "cirt pismo",
           "Copt": "koptičko pismo",
           "Cprt": "kiparsko pismo",
           "Cyrl": "ćirilica",
           "Cyrs": "Staroslovenska crkvena ćirilica",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dezeret",
           "Dupl": "Dupl",
@@ -87,6 +90,7 @@
           "Khar": "karošti pismo",
           "Khmr": "kmersko pismo",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kanada pismo",
           "Kore": "korejsko pismo",
           "Kthi": "kaiti",
@@ -189,6 +193,7 @@
           "Wcho": "Wcho",
           "Xpeo": "staropersijsko pismo",
           "Xsux": "sumersko-akadsko kuneiform pismo",
+          "Yezi": "Yezi",
           "Yiii": "ji pismo",
           "Zanb": "Zanb",
           "Zinh": "nasledno pismo",

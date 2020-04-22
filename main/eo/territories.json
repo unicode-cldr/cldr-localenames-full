@@ -3,7 +3,7 @@
     "eo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eo"
       },
@@ -84,10 +84,10 @@
           "CD-alt-variant": "CD",
           "CF": "Centr-Afrika Respubliko",
           "CG": "Kongolo",
-          "CG-alt-variant": "CG",
+          "CG-alt-variant": "Kongolo",
           "CH": "Svisujo",
           "CI": "Ebur-Bordo",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Ebur-Bordo",
           "CK": "Kukinsuloj",
           "CL": "Ĉilio",
           "CM": "Kameruno",
@@ -101,7 +101,7 @@
           "CX": "CX",
           "CY": "Kipro",
           "CZ": "Ĉeĥujo",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Ĉeĥujo",
           "DE": "Germanujo",
           "DG": "DG",
           "DJ": "Ĝibutio",
@@ -128,7 +128,7 @@
           "FR": "Francujo",
           "GA": "Gabono",
           "GB": "Unuiĝinta Reĝlando",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "Unuiĝinta Reĝlando",
           "GD": "Grenado",
           "GE": "Kartvelujo",
           "GF": "Franca Gviano",
@@ -198,7 +198,6 @@
           "MG": "Madagaskaro",
           "MH": "Marŝaloj",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Malio",
           "MM": "Mjanmao",
           "MN": "Mongolujo",
@@ -271,7 +270,7 @@
           "SX": "SX",
           "SY": "Sirio",
           "SZ": "Svazilando",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Svazilando",
           "TA": "TA",
           "TC": "TC",
           "TD": "Ĉado",
@@ -295,7 +294,7 @@
           "UM": "Usonaj malgrandaj insuloj",
           "UN": "UN",
           "US": "Usono",
-          "US-alt-short": "US",
+          "US-alt-short": "Usono",
           "UY": "Urugvajo",
           "UZ": "Uzbekujo",
           "VA": "Vatikano",

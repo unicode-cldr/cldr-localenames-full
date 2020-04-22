@@ -3,7 +3,7 @@
     "qu-BO": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "qu",
         "territory": "BO"
@@ -148,7 +148,7 @@
           "GW": "Guinea-Bisáu",
           "GY": "Guyana",
           "HK": "Hong Kong (RAE)",
-          "HK-alt-short": "HK",
+          "HK-alt-short": "Hong Kong (RAE)",
           "HM": "Islas Heard y McDonald",
           "HN": "Honduras",
           "HR": "Croacia",
@@ -199,12 +199,11 @@
           "MG": "Madagascar",
           "MH": "Islas Marshall",
           "MK": "Macedonia del Norte",
-          "MK-alt-variant": "MK",
           "ML": "Malí",
           "MM": "Myanmar",
           "MN": "Mongolia",
           "MO": "Macao RAE",
-          "MO-alt-short": "MO",
+          "MO-alt-short": "Macao RAE",
           "MP": "Islas Marianas del Norte",
           "MQ": "Martinica",
           "MR": "Mauritania",
@@ -240,7 +239,7 @@
           "PN": "Islas Pitcairn",
           "PR": "Puerto Rico",
           "PS": "Palestina Kamachikuq",
-          "PS-alt-short": "PS",
+          "PS-alt-short": "Palestina Kamachikuq",
           "PT": "Portugal",
           "PW": "Palaos",
           "PY": "Paraguay",

@@ -3,7 +3,7 @@
     "zh-Hans-SG": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh",
         "script": "Hans",
@@ -150,6 +150,7 @@
             "cham": "占文数字",
             "cyrl": "斯拉夫数字",
             "deva": "梵文数字",
+            "diak": "迪维西阿库鲁数字",
             "ethi": "埃塞俄比亚数字",
             "finance": "金融数字",
             "fullwide": "全角数字",
@@ -192,7 +193,7 @@
             "mtei": "曼尼普尔数字",
             "mymr": "缅甸数字",
             "mymrshan": "缅甸掸文数字",
-            "mymrtlng": "mymrtlng",
+            "mymrtlng": "缅甸泰兰数字",
             "native": "当地数字",
             "nkoo": "曼德数字",
             "olck": "桑塔利文数字",
@@ -218,7 +219,7 @@
             "traditional": "传统数字",
             "vaii": "瓦伊文数字",
             "wara": "瓦郎奇蒂数字",
-            "wcho": "wcho"
+            "wcho": "万秋数字"
           }
         },
         "codePatterns": {

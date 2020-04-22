@@ -3,7 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mk"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Деванагарски цифри",
+            "diak": "diak",
             "ethi": "Етиопски броеви",
             "fullwide": "Цифри со целосна ширина",
             "geor": "Грузиски броеви",

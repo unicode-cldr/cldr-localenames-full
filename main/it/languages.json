@@ -3,7 +3,7 @@
     "it": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "it"
       },
@@ -159,7 +159,7 @@
           "en-GB": "inglese britannico",
           "en-GB-alt-short": "inglese (GB)",
           "en-US": "inglese americano",
-          "en-US-alt-short": "inglese (USA)",
+          "en-US-alt-short": "inglese americano",
           "enm": "inglese medio",
           "eo": "esperanto",
           "es": "spagnolo",
@@ -172,6 +172,7 @@
           "ewo": "ewondo",
           "ext": "estremegno",
           "fa": "persiano",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulah",
@@ -610,7 +611,7 @@
           "yo": "yoruba",
           "yrl": "nheengatu",
           "yue": "cantonese",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "cantonese",
           "za": "zhuang",
           "zap": "zapotec",
           "zbl": "blissymbol",

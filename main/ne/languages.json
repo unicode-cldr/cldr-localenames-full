@@ -3,7 +3,7 @@
     "ne": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ne"
       },
@@ -169,6 +169,7 @@
           "ewo": "इवोन्डो",
           "ext": "एक्सट्रेमादुराली",
           "fa": "फारसी",
+          "fa-AF": "दारी",
           "fan": "फाङ",
           "fat": "फान्टी",
           "ff": "फुलाह",

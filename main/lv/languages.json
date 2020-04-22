@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lv"
       },
@@ -150,6 +150,7 @@
           "eu": "basku",
           "ewo": "evondu",
           "fa": "persiešu",
+          "fa-AF": "darī",
           "fan": "fangu",
           "fat": "fantu",
           "ff": "fulu",
@@ -222,7 +223,7 @@
           "iu": "inuītu",
           "ja": "japāņu",
           "jbo": "ložbans",
-          "jgo": "jgo",
+          "jgo": "ngomba",
           "jmc": "mačamu",
           "jpr": "jūdpersiešu",
           "jrb": "jūdarābu",

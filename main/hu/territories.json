@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hu"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Kongó (Köztársaság)",
           "CH": "Svájc",
           "CI": "Elefántcsontpart",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Elefántcsontpart",
           "CK": "Cook-szigetek",
           "CL": "Chile",
           "CM": "Kamerun",
@@ -198,7 +198,6 @@
           "MG": "Madagaszkár",
           "MH": "Marshall-szigetek",
           "MK": "Észak-Macedónia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar",
           "MN": "Mongólia",

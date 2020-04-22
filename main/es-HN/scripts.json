@@ -3,7 +3,7 @@
     "es-HN": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "HN"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "árabe",
           "Arab-alt-variant": "perso-árabe",
+          "Aran": "nastaliq",
           "Armi": "Armi",
           "Armn": "armenio",
           "Avst": "avéstico",
@@ -35,12 +36,14 @@
           "Cari": "cario",
           "Cham": "cham",
           "Cher": "cherokee",
+          "Chrs": "Chrs",
           "Cirt": "cirth",
           "Copt": "copto",
           "Cprt": "chipriota",
           "Cyrl": "cirílico",
           "Cyrs": "cirílico del antiguo eslavo eclesiástico",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
@@ -86,6 +89,7 @@
           "Khar": "kharosthi",
           "Khmr": "jemer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "canarés",
           "Kore": "coreano",
           "Kthi": "Kthi",
@@ -126,7 +130,7 @@
           "Nkoo": "n’ko",
           "Nshu": "Nshu",
           "Ogam": "ogham",
-          "Olck": "ol ciki",
+          "Olck": "ol chiki",
           "Orkh": "orkhon",
           "Orya": "oriya",
           "Osge": "Osge",
@@ -140,7 +144,7 @@
           "Phnx": "fenicio",
           "Plrd": "Pollard Miao",
           "Prti": "Prti",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "Rohg",
           "Roro": "rongo-rongo",
@@ -187,6 +191,7 @@
           "Wcho": "Wcho",
           "Xpeo": "persa antiguo",
           "Xsux": "cuneiforme sumerio-acadio",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "heredado",

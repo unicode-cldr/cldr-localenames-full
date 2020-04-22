@@ -3,7 +3,7 @@
     "de-LU": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "de",
         "territory": "LU"
@@ -199,7 +199,6 @@
           "MG": "Madagaskar",
           "MH": "Marshallinseln",
           "MK": "Nordmazedonien",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",
           "MN": "Mongolei",

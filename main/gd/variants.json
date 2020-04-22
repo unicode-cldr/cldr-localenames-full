@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gd"
       },
@@ -16,14 +16,14 @@
           "1694ACAD": "Nua-Fhraingis thràth",
           "1959ACAD": "Bealaruisis Acadamaigeach",
           "ABL1943": "Gnàthas-litreachaidh 1943",
-          "AKUAPEM": "AKUAPEM",
+          "AKUAPEM": "Akuapem",
           "ALALC97": "Ròmanachadh ALA-LC 1997",
           "ALUKU": "Dual-chainnt Aluku",
           "AO1990": "Aonta litreachadh na Portagailise 1990",
           "ARANES": "ARANES",
           "AREVELA": "Airmeinis an Ear",
           "AREVMDA": "Airmeinis an Iar",
-          "ASANTE": "ASANTE",
+          "ASANTE": "Asante",
           "AUVERN": "AUVERN",
           "BAKU1926": "Abidil Laideann aonaichte na Turcaise",
           "BALANKA": "Dual-chainnt Balanka de Anii",
@@ -44,19 +44,19 @@
           "EMODENG": "Nua-Bheurla thràth",
           "FONIPA": "Comharran fuaim-eòlais an IPA",
           "FONKIRSH": "FONKIRSH",
-          "FONNAPA": "FONNAPA",
+          "FONNAPA": "Aibidil Fhuaim-eòlach Aimeireaga a Tuath",
           "FONUPA": "Comharran fuaim-eòlais an UPA",
-          "FONXSAMP": "FONXSAMP",
+          "FONXSAMP": "Tar-sgrìobhadh X-SAMPA",
           "GASCON": "GASCON",
           "GRCLASS": "GRCLASS",
           "GRITAL": "GRITAL",
           "GRMISTR": "GRMISTR",
           "HEPBURN": "Ròmanachadh Hepburn",
           "HOGNORSK": "Høgnorsk",
-          "HSISTEMO": "HSISTEMO",
+          "HSISTEMO": "Roghainn-èiginn stannardach litreachadh na h-Esperanto le h",
           "IJEKAVSK": "Sèirbis le fuaimneachadh Ijekavia",
           "ITIHASA": "Itihasa",
-          "IVANCHOV": "IVANCHOV",
+          "IVANCHOV": "Bulgarian in 1899 orthography = Bulgairis le litreachadh na bliadhna 1899",
           "JAUER": "Jauer",
           "JYUTPING": "Jyutping",
           "KKCOR": "Litreachadh coitcheann",
@@ -66,7 +66,7 @@
           "LEMOSIN": "LEMOSIN",
           "LENGADOC": "LENGADOC",
           "LIPAW": "Dual-chainnt Lipovaz Resia",
-          "LUNA1918": "LUNA1918",
+          "LUNA1918": "Litreachadh na Ruisise às dèidh 1917",
           "METELKO": "Aibidil Metelko",
           "MONOTON": "Greugais mhonotonach",
           "NDYUKA": "Dual-chainnt Ndyuka",
@@ -94,7 +94,7 @@
           "SAAHO": "Saho",
           "SCOTLAND": "Beurla Stannardach na h-Alba",
           "SCOUSE": "Scouse",
-          "SIMPLE": "SIMPLE",
+          "SIMPLE": "Samhlaidhean sìmplichte",
           "SOLBA": "Dual-chainnt Stolvizza/Solbica",
           "SOTAV": "Dual-chainntean Sotavento de Kabuverdianu",
           "SPANGLIS": "Spanglish",
@@ -111,7 +111,7 @@
           "VALLADER": "Vallader",
           "VIVARAUP": "VIVARAUP",
           "WADEGILE": "Ròmanachadh Wade-Giles",
-          "XSISTEMO": "XSISTEMO"
+          "XSISTEMO": "Roghainn-èiginn stannardach litreachadh na h-Esperanto le x"
         }
       }
     }

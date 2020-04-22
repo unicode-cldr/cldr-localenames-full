@@ -3,7 +3,7 @@
     "ne-IN": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ne",
         "territory": "IN"
@@ -14,6 +14,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "अरबी",
+          "Aran": "Aran",
           "Armi": "आर्मी",
           "Armn": "आर्मेनियाली",
           "Avst": "आभेस्टान",
@@ -34,11 +35,13 @@
           "Cari": "कारियन",
           "Cham": "चाम",
           "Cher": "चेरोकी",
+          "Chrs": "Chrs",
           "Cirt": "किर्थ",
           "Copt": "कप्टिक",
           "Cprt": "कप्रियट",
           "Cyrl": "सिरिलिक",
           "Deva": "देवानागरी",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "डेसेरेट",
           "Dupl": "Dupl",
@@ -84,6 +87,7 @@
           "Khar": "खारोस्थिति",
           "Khmr": "खमेर",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "कान्नाडा",
           "Kore": "कोरियन",
           "Kthi": "क्थी",
@@ -186,11 +190,12 @@
           "Wcho": "Wcho",
           "Xpeo": "पुरानो पर्सियन",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "यी",
           "Zanb": "Zanb",
           "Zinh": "इन्हेरिटेड",
-          "Zmth": "Zmth",
-          "Zsye": "Zsye",
+          "Zmth": "गणितीय चिन्ह",
+          "Zsye": "इमोजी",
           "Zsym": "प्रतीकहरू",
           "Zxxx": "नलेखिएको",
           "Zyyy": "साझा",

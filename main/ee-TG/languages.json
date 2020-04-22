@@ -3,7 +3,7 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ee",
         "territory": "TG"
@@ -22,7 +22,7 @@
           "ast": "ast",
           "ay": "aymargbe",
           "az": "azerbaijangbe",
-          "az-alt-short": "az",
+          "az-alt-short": "azerbaijangbe",
           "bas": "bas",
           "be": "belarusiagbe",
           "bem": "bembagbe",
@@ -76,6 +76,7 @@
           "eu": "basqugbe",
           "ewo": "ewo",
           "fa": "persiagbe",
+          "fa-AF": "persiagbe (Afghanistan nutome)",
           "ff": "ff",
           "fi": "finlanɖgbe",
           "fil": "filipingbe",
@@ -152,6 +153,7 @@
           "luo": "luo",
           "luy": "luyiagbe",
           "lv": "latviagbe",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -162,6 +164,7 @@
           "mk": "makedoniagbe",
           "ml": "malayagbe",
           "mn": "mongoliagbe",
+          "mni": "mni",
           "mr": "marathiagbe",
           "ms": "malaygbe",
           "mt": "maltagbe",
@@ -189,6 +192,7 @@
           "or": "oriyagbe",
           "os": "ossetiagbe",
           "pa": "pundzabgbe",
+          "pcm": "pcm",
           "pl": "Polishgbe",
           "prg": "prg",
           "ps": "pashtogbe",
@@ -208,6 +212,7 @@
           "sa": "sanskrigbe",
           "sah": "sakagbe",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sindhgbe",
           "se": "dziehe samigbe",
@@ -268,14 +273,14 @@
           "yi": "yi",
           "yo": "yorubagbe",
           "yue": "cantongbe",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "cantongbe",
           "zgh": "zgh",
           "zh": "Chinagbe",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Chinagbe",
           "zh-Hans": "tsainagbe",
-          "zh-Hans-alt-long": "Chinagbe (Chinesegbeŋɔŋlɔ)",
+          "zh-Hans-alt-long": "tsainagbe",
           "zh-Hant": "blema tsainagbe",
-          "zh-Hant-alt-long": "Chinagbe (Blema Chinesegbeŋɔŋlɔ)",
+          "zh-Hant-alt-long": "blema tsainagbe",
           "zu": "zulugbe",
           "zxx": "gbegbɔgblɔ manɔmee"
         }

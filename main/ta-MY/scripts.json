@@ -3,7 +3,7 @@
     "ta-MY": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ta",
         "territory": "MY"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "அரபிக்",
           "Arab-alt-variant": "பெர்சோ அரபிக்",
+          "Aran": "Aran",
           "Armi": "இம்பேரியல் அரமெய்க்",
           "Armn": "அர்மேனியன்",
           "Avst": "அவெஸ்தான்",
@@ -35,12 +36,14 @@
           "Cari": "கரியன்",
           "Cham": "சாம்",
           "Cher": "செரோக்கி",
+          "Chrs": "Chrs",
           "Cirt": "கிர்த்",
           "Copt": "காப்டிக்",
           "Cprt": "சைப்ரியாட்",
           "Cyrl": "சிரிலிக்",
           "Cyrs": "பழைய சர்ச் ஸ்லவோனிக் சிரிலிக்",
           "Deva": "தேவநாகரி",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "டெசராட்",
           "Dupl": "Dupl",
@@ -86,6 +89,7 @@
           "Khar": "கரோஷ்டி",
           "Khmr": "கமெர்",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "கன்னடம்",
           "Kore": "கொரியன்",
           "Kthi": "காய்தி",
@@ -188,6 +192,7 @@
           "Wcho": "Wcho",
           "Xpeo": "பழைய பெர்ஷியன்",
           "Xsux": "சுமெரோ-அக்கடியன் க்யூனிஃபார்ம்",
+          "Yezi": "Yezi",
           "Yiii": "யீ",
           "Zanb": "Zanb",
           "Zinh": "பாரம்பரியமான",

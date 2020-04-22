@@ -3,7 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "am"
       },
@@ -198,7 +198,6 @@
           "MG": "ማዳጋስካር",
           "MH": "ማርሻል አይላንድ",
           "MK": "ሰሜን መቄዶንያ",
-          "MK-alt-variant": "MK",
           "ML": "ማሊ",
           "MM": "ማይናማር(በርማ)",
           "MN": "ሞንጎሊያ",

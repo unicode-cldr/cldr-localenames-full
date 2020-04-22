@@ -3,7 +3,7 @@
     "rw": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "rw"
       },
@@ -19,7 +19,7 @@
           "asa": "asa",
           "ast": "ast",
           "az": "Inyazeribayijani",
-          "az-alt-short": "az",
+          "az-alt-short": "Inyazeribayijani",
           "bas": "bas",
           "be": "Ikibelarusiya",
           "bem": "bem",
@@ -71,6 +71,7 @@
           "eu": "Ikibasiki",
           "ewo": "ewo",
           "fa": "Inyeperisi",
+          "fa-AF": "Inyeperisi (AF)",
           "ff": "ff",
           "fi": "Igifinilande",
           "fil": "Ikinyafilipine",
@@ -146,6 +147,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "Ikinyaletoviyani",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -156,6 +158,7 @@
           "mk": "Ikimasedoniya",
           "ml": "Ikimalayalami",
           "mn": "Ikimongoli",
+          "mni": "mni",
           "mr": "Ikimarati",
           "ms": "Ikimalayi",
           "mt": "Ikimaliteze",
@@ -183,6 +186,7 @@
           "or": "Inyoriya",
           "os": "os",
           "pa": "Igipunjabi",
+          "pcm": "pcm",
           "pl": "Igipolone",
           "prg": "prg",
           "ps": "Impashito",
@@ -202,6 +206,7 @@
           "sa": "Igisansikiri",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "Igisindi",
           "se": "se",

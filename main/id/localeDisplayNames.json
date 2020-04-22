@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "id"
       },
@@ -148,6 +148,7 @@
             "cham": "Angka Cham",
             "cyrl": "cyrl",
             "deva": "Angka Devanagari",
+            "diak": "diak",
             "ethi": "Angka Etiopia",
             "finance": "Angka Finansial",
             "fullwide": "Angka Lebar Penuh",

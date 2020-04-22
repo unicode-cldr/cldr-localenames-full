@@ -3,7 +3,7 @@
     "bo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bo"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "Arab",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Armn",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "Cyrl",
           "Deva": "Deva",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -57,9 +60,9 @@
           "Hani": "Hani",
           "Hano": "Hano",
           "Hans": "རྒྱ་ཡིག་གསར་པ།",
-          "Hans-alt-stand-alone": "Hans",
+          "Hans-alt-stand-alone": "རྒྱ་ཡིག་གསར་པ།",
           "Hant": "རྒྱ་ཡིག་རྙིང་པ།",
-          "Hant-alt-stand-alone": "Hant",
+          "Hant-alt-stand-alone": "རྒྱ་ཡིག་རྙིང་པ།",
           "Hatr": "Hatr",
           "Hebr": "Hebr",
           "Hira": "Hira",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "Khmr",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Knda",
           "Kore": "Kore",
           "Kthi": "Kthi",
@@ -167,6 +171,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

@@ -3,7 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kea"
       },
@@ -65,9 +65,9 @@
           "en-AU": "ingles australianu",
           "en-CA": "ingles kanadianu",
           "en-GB": "ingles britániku",
-          "en-GB-alt-short": "ingles (R.U.)",
+          "en-GB-alt-short": "ingles britániku",
           "en-US": "ingles merkanu",
-          "en-US-alt-short": "ingles (S.U.)",
+          "en-US-alt-short": "ingles merkanu",
           "eo": "sperantu",
           "es": "spanhol",
           "es-419": "spanhol latinu-merkanu",
@@ -77,6 +77,7 @@
           "eu": "basku",
           "ewo": "ewondo",
           "fa": "persa",
+          "fa-AF": "persa (Afeganistãu)",
           "ff": "fula",
           "fi": "finlandes",
           "fil": "filipinu",
@@ -155,6 +156,7 @@
           "luo": "luo",
           "luy": "luyia",
           "lv": "letãu",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -165,6 +167,7 @@
           "mk": "masedóniu",
           "ml": "malaialam",
           "mn": "mn",
+          "mni": "mni",
           "mr": "marati",
           "ms": "maláiu",
           "mt": "maltes",
@@ -190,6 +193,7 @@
           "or": "odía",
           "os": "osétiku",
           "pa": "pandjabi",
+          "pcm": "pcm",
           "pl": "pulaku",
           "prg": "prusianu",
           "ps": "paxto",
@@ -210,6 +214,7 @@
           "sa": "sánskritu",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sindi",
           "se": "se",

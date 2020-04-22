@@ -3,7 +3,7 @@
     "ia": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ia"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "cifras devanagari",
+            "diak": "diak",
             "ethi": "cifras ethiope",
             "fullwide": "cifras a latitude integre",
             "geor": "cifras georgian",

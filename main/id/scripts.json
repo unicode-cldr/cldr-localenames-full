@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "id"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "Arab",
           "Arab-alt-variant": "Arab Persia",
+          "Aran": "Nastaliq",
           "Armi": "Aram Imperial",
           "Armn": "Armenia",
           "Avst": "Avesta",
@@ -35,12 +36,14 @@
           "Cari": "Karia",
           "Cham": "Cham",
           "Cher": "Cherokee",
+          "Chrs": "Chrs",
           "Cirt": "Cirth",
           "Copt": "Koptik",
           "Cprt": "Siprus",
           "Cyrl": "Sirilik",
           "Cyrs": "Gereja Slavonia Sirilik Lama",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Stenografi Duployan",
@@ -87,6 +90,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Khmer",
           "Khoj": "Khojki",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Korea",
           "Kpel": "Kpelle",
@@ -145,7 +149,7 @@
           "Phnx": "Phoenix",
           "Plrd": "Fonetik Pollard",
           "Prti": "Prasasti Parthia",
-          "Qaag": "Qaag",
+          "Qaag": "Zawgyi",
           "Rjng": "Rejang",
           "Rohg": "Rohg",
           "Roro": "Rongorongo",
@@ -193,6 +197,7 @@
           "Wole": "Woleai",
           "Xpeo": "Persia Kuno",
           "Xsux": "Cuneiform Sumero-Akkadia",
+          "Yezi": "Yezi",
           "Yiii": "Yi",
           "Zanb": "Zanb",
           "Zinh": "Warisan",

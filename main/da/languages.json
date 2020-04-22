@@ -3,7 +3,7 @@
     "da": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "da"
       },
@@ -34,6 +34,7 @@
           "arn": "mapudungun",
           "arp": "arapaho",
           "ars": "Najd-arabisk",
+          "ars-alt-menu": "arabisk, najdi",
           "arw": "arawak",
           "as": "assamesisk",
           "asa": "asu",
@@ -95,6 +96,7 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "sorani",
+          "ckb-alt-menu": "kurdisk, sorani",
           "co": "korsikansk",
           "cop": "koptisk",
           "cr": "cree",
@@ -137,9 +139,9 @@
           "en-AU": "australsk engelsk",
           "en-CA": "canadisk engelsk",
           "en-GB": "britisk engelsk",
-          "en-GB-alt-short": "engelsk (UK)",
+          "en-GB-alt-short": "britisk engelsk",
           "en-US": "amerikansk engelsk",
-          "en-US-alt-short": "engelsk (USA)",
+          "en-US-alt-short": "amerikansk engelsk",
           "enm": "middelengelsk",
           "eo": "esperanto",
           "es": "spansk",
@@ -150,6 +152,7 @@
           "eu": "baskisk",
           "ewo": "ewondo",
           "fa": "persisk",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulah",
@@ -544,9 +547,9 @@
           "zh": "kinesisk",
           "zh-alt-menu": "mandarin (Kina)",
           "zh-Hans": "forenklet kinesisk",
-          "zh-Hans-alt-long": "kinesisk (forenklet)",
+          "zh-Hans-alt-long": "forenklet kinesisk",
           "zh-Hant": "traditionelt kinesisk",
-          "zh-Hant-alt-long": "kinesisk (traditionelt)",
+          "zh-Hant-alt-long": "traditionelt kinesisk",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "intet sprogligt indhold",

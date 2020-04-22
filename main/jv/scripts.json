@@ -3,7 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "jv"
       },
@@ -12,7 +12,8 @@
           "Adlm": "Adlm",
           "Aghb": "Aghb",
           "Ahom": "Ahom",
-          "Arab": "Arab",
+          "Arab": "hija’iyah",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Armenia",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "Sirilik",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "Khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Korea",
           "Kthi": "Kthi",
@@ -154,7 +158,7 @@
           "Taml": "Tamil",
           "Tang": "Tang",
           "Tavt": "Tavt",
-          "Telu": "Telu",
+          "Telu": "Telugu",
           "Tfng": "Tfng",
           "Tglg": "Tglg",
           "Thaa": "Thaana",
@@ -167,6 +171,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

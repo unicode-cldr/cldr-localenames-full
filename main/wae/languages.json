@@ -3,7 +3,7 @@
     "wae": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "wae"
       },
@@ -21,7 +21,7 @@
           "ast": "ast",
           "ay": "Aymara",
           "az": "Serbaidšaniš",
-          "az-alt-short": "az",
+          "az-alt-short": "Serbaidšaniš",
           "bas": "bas",
           "be": "Wísrussiš",
           "bem": "bem",
@@ -63,9 +63,9 @@
           "en-AU": "Auštrališes Engliš",
           "en-CA": "Kanadišes Engliš",
           "en-GB": "Britišes Engliš",
-          "en-GB-alt-short": "Engliš (GB)",
+          "en-GB-alt-short": "Britišes Engliš",
           "en-US": "Amerikanišes Engliš",
-          "en-US-alt-short": "Engliš (US)",
+          "en-US-alt-short": "Amerikanišes Engliš",
           "eo": "eo",
           "es": "Schpaniš",
           "es-419": "Latiamerikanišes Schpaniš",
@@ -75,6 +75,7 @@
           "eu": "Baskiš",
           "ewo": "ewo",
           "fa": "Persiš",
+          "fa-AF": "Persiš (Afganištan)",
           "ff": "ff",
           "fi": "Finiš",
           "fil": "Filipiniš",
@@ -150,6 +151,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "Lettiš",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -160,6 +162,7 @@
           "mk": "Mazedoniš",
           "ml": "Malayalam",
           "mn": "Mongoliš",
+          "mni": "mni",
           "mr": "Marathi",
           "ms": "Malaíš",
           "mt": "Maltesiš",
@@ -186,6 +189,7 @@
           "or": "Oriya",
           "os": "Osétiš",
           "pa": "Pandšabiš",
+          "pcm": "pcm",
           "pl": "Polniš",
           "prg": "prg",
           "ps": "Paštu",
@@ -205,6 +209,7 @@
           "sa": "Sanskrit",
           "sah": "Jakutiš",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "Sindhi",
           "se": "Nordsamiš",
@@ -265,11 +270,11 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chinesiš",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Chinesiš",
           "zh-Hans": "Vereifačts Chinesiš",
-          "zh-Hans-alt-long": "Chinesiš (Vereifačt)",
+          "zh-Hans-alt-long": "Vereifačts Chinesiš",
           "zh-Hant": "Traditionells Chinesiš",
-          "zh-Hant-alt-long": "Chinesiš (Traditionell)",
+          "zh-Hant-alt-long": "Traditionells Chinesiš",
           "zu": "Zulu",
           "zxx": "zxx"
         }

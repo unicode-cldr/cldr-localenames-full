@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hr",
         "territory": "BA"
@@ -35,6 +35,7 @@
           "arn": "mapuche",
           "arp": "arapaho",
           "ars": "najdi arapski",
+          "ars-alt-menu": "arapski, najdi",
           "arw": "aravački",
           "as": "asamski",
           "asa": "asu",
@@ -97,6 +98,7 @@
           "chr": "čerokijski",
           "chy": "čejenski",
           "ckb": "soranski kurdski",
+          "ckb-alt-menu": "kurdski, sorani",
           "co": "korzički",
           "cop": "koptski",
           "cr": "cree",
@@ -139,9 +141,9 @@
           "en-AU": "australski engleski",
           "en-CA": "kanadski engleski",
           "en-GB": "britanski engleski",
-          "en-GB-alt-short": "engleski (UK)",
+          "en-GB-alt-short": "britanski engleski",
           "en-US": "američki engleski",
-          "en-US-alt-short": "engleski (SAD)",
+          "en-US-alt-short": "američki engleski",
           "enm": "srednjoengleski",
           "eo": "esperanto",
           "es": "španjolski",
@@ -152,6 +154,7 @@
           "eu": "baskijski",
           "ewo": "ewondo",
           "fa": "perzijski",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fula",

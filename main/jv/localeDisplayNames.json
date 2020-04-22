@@ -3,7 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "jv"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Digit Devanagari",
+            "diak": "diak",
             "ethi": "Angka Etiopia",
             "fullwide": "Digit Amba Kebak",
             "geor": "Angka Georgian",

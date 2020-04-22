@@ -3,7 +3,7 @@
     "nb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nb"
       },
@@ -148,6 +148,7 @@
             "cham": "cham-tall",
             "cyrl": "cyrl",
             "deva": "devanagari-sifre",
+            "diak": "diak",
             "ethi": "etiopiske tall",
             "finance": "Finansielle tall",
             "fullwide": "sifre med full bredde",

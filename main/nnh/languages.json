@@ -3,7 +3,7 @@
     "nnh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nnh"
       },
@@ -78,6 +78,7 @@
           "eu": "eu",
           "ewo": "Shwóŋò pʉa Yɔɔnmendi",
           "fa": "fa",
+          "fa-AF": "fa (AF)",
           "ff": "Shwóŋò menkesaŋ",
           "fi": "fi",
           "fil": "fil",
@@ -151,6 +152,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "lv",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -161,6 +163,7 @@
           "mk": "mk",
           "ml": "ml",
           "mn": "mn",
+          "mni": "mni",
           "mr": "mr",
           "ms": "ms",
           "mt": "mt",
@@ -186,6 +189,7 @@
           "or": "or",
           "os": "os",
           "pa": "pa",
+          "pcm": "pcm",
           "pl": "pl",
           "prg": "prg",
           "ps": "ps",
@@ -205,6 +209,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",

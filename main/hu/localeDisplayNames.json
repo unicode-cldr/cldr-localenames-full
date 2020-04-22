@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hu"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Dévanágari számjegyek",
+            "diak": "diak",
             "ethi": "Etióp számok",
             "finance": "Pénzügyi számok",
             "fullwide": "Teljes szélességű számjegyek",

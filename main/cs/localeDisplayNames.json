@@ -3,7 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cs"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Číslice písma dévanágarí",
+            "diak": "diak",
             "ethi": "Etiopské číslice",
             "finance": "Finanční zápis čísel",
             "fullwide": "Číslice – plná šířka",

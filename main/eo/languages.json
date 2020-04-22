@@ -3,7 +3,7 @@
     "eo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eo"
       },
@@ -22,7 +22,7 @@
           "ast": "ast",
           "ay": "ajmara",
           "az": "azerbajĝana",
-          "az-alt-short": "az",
+          "az-alt-short": "azerbajĝana",
           "ba": "baŝkira",
           "bas": "bas",
           "be": "belorusa",
@@ -66,9 +66,9 @@
           "en-AU": "angla (Aŭstralio)",
           "en-CA": "angla (Kanado)",
           "en-GB": "angla (Unuiĝinta Reĝlando)",
-          "en-GB-alt-short": "angla (GB)",
+          "en-GB-alt-short": "angla (Unuiĝinta Reĝlando)",
           "en-US": "angla (Usono)",
-          "en-US-alt-short": "angla (US)",
+          "en-US-alt-short": "angla (Usono)",
           "eo": "esperanto",
           "es": "hispana",
           "es-419": "hispana (419)",
@@ -78,6 +78,7 @@
           "eu": "eŭska",
           "ewo": "ewo",
           "fa": "persa",
+          "fa-AF": "persa (Afganujo)",
           "ff": "ff",
           "fi": "finna",
           "fil": "filipina",
@@ -156,6 +157,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "latva",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -166,6 +168,7 @@
           "mk": "makedona",
           "ml": "malajalama",
           "mn": "mongola",
+          "mni": "mni",
           "mr": "marata",
           "ms": "malaja",
           "mt": "malta",
@@ -194,6 +197,7 @@
           "or": "orijo",
           "os": "os",
           "pa": "panĝaba",
+          "pcm": "pcm",
           "pl": "pola",
           "prg": "prg",
           "ps": "paŝtoa",
@@ -213,6 +217,7 @@
           "sa": "sanskrito",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sinda",
           "se": "se",
@@ -250,7 +255,6 @@
           "tr": "turka",
           "ts": "conga",
           "tt": "tatara",
-          "tw": "tw",
           "twq": "twq",
           "tzm": "tzm",
           "ug": "ujgura",
@@ -274,11 +278,11 @@
           "za": "ĝuanga",
           "zgh": "zgh",
           "zh": "ĉina",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "ĉina",
           "zh-Hans": "ĉina simpligita",
-          "zh-Hans-alt-long": "ĉina (Hans)",
+          "zh-Hans-alt-long": "ĉina simpligita",
           "zh-Hant": "ĉina tradicia",
-          "zh-Hant-alt-long": "ĉina (Hant)",
+          "zh-Hant-alt-long": "ĉina tradicia",
           "zu": "zulua",
           "zxx": "nelingvaĵo"
         }

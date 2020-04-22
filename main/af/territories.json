@@ -3,7 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "af"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshalleilande",
           "MK": "Noord-Macedonië",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar (Birma)",
           "MN": "Mongolië",

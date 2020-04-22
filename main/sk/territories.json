@@ -3,7 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sk"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Kongo (republika)",
           "CH": "Švajčiarsko",
           "CI": "Pobrežie Slonoviny",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Pobrežie Slonoviny",
           "CK": "Cookove ostrovy",
           "CL": "Čile",
           "CM": "Kamerun",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshallove ostrovy",
           "MK": "Severné Macedónsko",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mjanmarsko",
           "MN": "Mongolsko",
@@ -281,7 +280,7 @@
           "TJ": "Tadžikistan",
           "TK": "Tokelau",
           "TL": "Východný Timor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Východný Timor",
           "TM": "Turkménsko",
           "TN": "Tunisko",
           "TO": "Tonga",

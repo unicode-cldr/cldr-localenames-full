@@ -3,7 +3,7 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "dsb"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "devanagari-cyfry",
+            "diak": "diak",
             "ethi": "etiopiske cyfry",
             "fullwide": "połnošyroke cyfry",
             "geor": "georgiske cyfry",

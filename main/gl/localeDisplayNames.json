@@ -3,7 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gl"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "díxitos devanagáricos",
+            "diak": "diak",
             "ethi": "numeración etíope",
             "finance": "Números financeiros",
             "fullwide": "díxitos de ancho completo",

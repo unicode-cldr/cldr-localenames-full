@@ -3,7 +3,7 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "or"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "ଆରବିକ୍",
+          "Aran": "Aran",
           "Armi": "ଇମ୍ପେରିଆଲ୍ ଆରମିକ୍",
           "Armn": "ଆର୍ମେନୀୟ",
           "Avst": "ଆବେସ୍ଥାନ୍",
@@ -33,12 +34,14 @@
           "Cari": "କୈରନ୍",
           "Cham": "ଛମ୍",
           "Cher": "ଚିରୁକୀ",
+          "Chrs": "Chrs",
           "Cirt": "ସିର୍ଥ",
           "Copt": "କପଟିକ୍",
           "Cprt": "ସିପ୍ରଅଟ୍",
           "Cyrl": "ସିରିଲିକ୍",
           "Cyrs": "ଓଲ୍ଡ ଚର୍ଚ୍ଚ ସାଲଭୋନିକ୍ ସିରିଲିକ୍",
           "Deva": "ଦେବନଗରୀ",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "ଡେସର୍ଟ",
           "Dupl": "Dupl",
@@ -84,6 +87,7 @@
           "Khar": "ଖାରୋସ୍ଥି",
           "Khmr": "ଖମେର୍",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "କନ୍ନଡ଼",
           "Kore": "କୋରିଆନ୍",
           "Kthi": "କୈଥି",
@@ -186,6 +190,7 @@
           "Wcho": "Wcho",
           "Xpeo": "ପୁରୁଣା ଫରାସୀ",
           "Xsux": "ସୁମେରୋ-ଆକ୍କାଡିଆନ୍ ସୁନିଫର୍ମ",
+          "Yezi": "Yezi",
           "Yiii": "ୟୀ",
           "Zanb": "Zanb",
           "Zinh": "ବଂଶଗତ",

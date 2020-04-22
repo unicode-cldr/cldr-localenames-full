@@ -3,7 +3,7 @@
     "en-US-POSIX": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "en",
         "territory": "US",
@@ -281,6 +281,7 @@
             "cham": "Cham Digits",
             "cyrl": "Cyrillic Numerals",
             "deva": "Devanagari Digits",
+            "diak": "Dives Akuru Digits",
             "ethi": "Ethiopic Numerals",
             "finance": "Financial Numerals",
             "fullwide": "Full-Width Digits",
@@ -336,6 +337,7 @@
             "roman": "Roman Numerals",
             "romanlow": "Roman Lowercase Numerals",
             "saur": "Saurashtra Digits",
+            "segment": "Segmented Digits",
             "shrd": "Sharada Digits",
             "sind": "Khudawadi Digits",
             "sinh": "Sinhala Lith Digits",

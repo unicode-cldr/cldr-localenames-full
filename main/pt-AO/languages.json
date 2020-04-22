@@ -3,7 +3,7 @@
     "pt-AO": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pt",
         "territory": "AO"
@@ -97,6 +97,8 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "sorani curdo",
+          "ckb-alt-menu": "curdo sorani",
+          "ckb-alt-variant": "curdo sorâni",
           "co": "córsico",
           "cop": "copta",
           "cr": "cree",
@@ -141,7 +143,7 @@
           "en-GB": "inglês britânico",
           "en-GB-alt-short": "inglês (RU)",
           "en-US": "inglês americano",
-          "en-US-alt-short": "inglês (EUA)",
+          "en-US-alt-short": "inglês americano",
           "enm": "inglês médio",
           "eo": "esperanto",
           "es": "espanhol",
@@ -152,6 +154,7 @@
           "eu": "basco",
           "ewo": "ewondo",
           "fa": "persa",
+          "fa-AF": "dari",
           "fan": "fangue",
           "fat": "fanti",
           "ff": "fula",
@@ -411,7 +414,7 @@
           "ro-MD": "moldávio",
           "rof": "rombo",
           "rom": "romani",
-          "root": "root",
+          "root": "raiz",
           "ru": "russo",
           "rup": "aromeno",
           "rw": "quiniaruanda",

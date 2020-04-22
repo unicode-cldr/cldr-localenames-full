@@ -3,7 +3,7 @@
     "kn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kn"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "ಅರೇಬಿಕ್",
           "Arab-alt-variant": "ಪರ್ಸೊ-ಅರೇಬಿಕ್",
+          "Aran": "Aran",
           "Armi": "ಇಂಪೀರಿಯಲ್ ಅರೆಮಾಯಿಕ್",
           "Armn": "ಅರ್ಮೇನಿಯನ್",
           "Avst": "ಅವೆಸ್ತಾನ್",
@@ -34,12 +35,14 @@
           "Cari": "ಕರೇನ್",
           "Cham": "ಚಾಮ್",
           "Cher": "ಚೆರೋಕೀ",
+          "Chrs": "Chrs",
           "Cirt": "ಸಿರ್ಥ್",
           "Copt": "ಕಾಪ್ಟಿಕ್",
           "Cprt": "ಸಿಪ್ರಿಯಾಟ್",
           "Cyrl": "ಸಿರಿಲಿಕ್",
           "Cyrs": "ಪ್ರಾಚೀನ ಚರ್ಚ್ ಸ್ಲೋವಾನಿಕ್ ಸಿರಿಲಿಕ್",
           "Deva": "ದೇವನಾಗರಿ",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "ಡಸರ್ಟ್",
           "Dupl": "Dupl",
@@ -85,6 +88,7 @@
           "Khar": "ಖರೋಶ್ತಿ",
           "Khmr": "ಖಮೇರ್",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "ಕನ್ನಡ",
           "Kore": "ಕೊರಿಯನ್",
           "Kthi": "ಕೈಥಿ",
@@ -187,6 +191,7 @@
           "Wcho": "Wcho",
           "Xpeo": "ಪ್ರಾಚೀನ ಪರ್ಶಿಯನ್",
           "Xsux": "ಸುಮೇರೋ-ಅಕ್ಕಾಡಿಯನ್ ಕ್ಯೂನಿಫಾರ್ಮ್",
+          "Yezi": "Yezi",
           "Yiii": "ಯಿ",
           "Zanb": "Zanb",
           "Zinh": "ಇನ್‍ಹೆರಿಟೆಡ್",

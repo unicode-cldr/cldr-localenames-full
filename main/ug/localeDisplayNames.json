@@ -3,7 +3,7 @@
     "ug": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ug"
       },
@@ -96,6 +96,7 @@
             "cham": "چامچە رەقەملەر",
             "cyrl": "cyrl",
             "deva": "دېۋاناگارىچە رەقەملەر",
+            "diak": "diak",
             "ethi": "ئېفىيوپىيەچە رەقەملەر",
             "fullwide": "تولۇق كەڭلىكتىكى رەقەملەر",
             "geor": "گىرۇزىنچە رەقەملەر",

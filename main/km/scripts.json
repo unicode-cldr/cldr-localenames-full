@@ -3,7 +3,7 @@
     "km": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "km"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "អារ៉ាប់",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "អាមេនី",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "ស៊ីរីលីក",
           "Deva": "ដាវ៉ាន់ណាការិ",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "ខ្មែរ",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "ខាណាដា",
           "Kore": "កូរ៉េ",
           "Kthi": "Kthi",
@@ -167,6 +171,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

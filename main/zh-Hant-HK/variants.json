@@ -3,7 +3,7 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh",
         "script": "Hant",
@@ -17,7 +17,7 @@
           "1606NICT": "中世紀晚期法文（至1606年）",
           "1694ACAD": "早期現代法文",
           "1959ACAD": "白俄羅斯文（學術）",
-          "ABL1943": "ABL1943",
+          "ABL1943": "1943 年拼字標準",
           "AKUAPEM": "AKUAPEM",
           "ALALC97": "美國國會圖書館標準方案羅馬化（1997年版）",
           "ALUKU": "阿魯庫方言",
@@ -98,7 +98,7 @@
           "SCOUSE": "利物浦方言",
           "SIMPLE": "SIMPLE",
           "SOLBA": "雷西亞史托維薩方言",
-          "SOTAV": "SOTAV",
+          "SOTAV": "卡布佛得鲁背風群島方言",
           "SPANGLIS": "SPANGLIS",
           "SURMIRAN": "瑞士蘇邁拉方言",
           "SURSILV": "瑞士蘇瑟瓦方言",

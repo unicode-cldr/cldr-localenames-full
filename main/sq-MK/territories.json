@@ -3,7 +3,7 @@
     "sq-MK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sq",
         "territory": "MK"
@@ -199,7 +199,6 @@
           "MG": "Madagaskar",
           "MH": "Ishujt Marshall",
           "MK": "Maqedonia e Veriut",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar (Burmë)",
           "MN": "Mongoli",

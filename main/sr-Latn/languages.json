@@ -3,7 +3,7 @@
     "sr-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sr",
         "script": "Latn"
@@ -72,7 +72,7 @@
           "cad": "kado",
           "car": "karipski",
           "cch": "atsam",
-          "ccp": "ccp",
+          "ccp": "čakma",
           "ce": "čečenski",
           "ceb": "sebuanski",
           "cgg": "čiga",
@@ -129,9 +129,9 @@
           "en-AU": "engleski (Australija)",
           "en-CA": "engleski (Kanada)",
           "en-GB": "engleski (Velika Britanija)",
-          "en-GB-alt-short": "engleski (UK)",
+          "en-GB-alt-short": "engleski (Velika Britanija)",
           "en-US": "engleski (Sjedinjene Američke Države)",
-          "en-US-alt-short": "engleski (SAD)",
+          "en-US-alt-short": "engleski (Sjedinjene Američke Države)",
           "enm": "srednjeengleski",
           "eo": "esperanto",
           "es": "španski",
@@ -142,6 +142,7 @@
           "eu": "baskijski",
           "ewo": "evondo",
           "fa": "persijski",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fula",
@@ -525,9 +526,9 @@
           "zh": "kineski",
           "zh-alt-menu": "mandarinski kineski",
           "zh-Hans": "pojednostavljeni kineski",
-          "zh-Hans-alt-long": "kineski (pojednostavljeno kinesko pismo)",
+          "zh-Hans-alt-long": "pojednostavljeni kineski",
           "zh-Hant": "tradicionalni kineski",
-          "zh-Hant-alt-long": "kineski (tradicionalno kinesko pismo)",
+          "zh-Hant-alt-long": "tradicionalni kineski",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "bez lingvističkog sadržaja",

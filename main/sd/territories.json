@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sd"
       },
@@ -198,7 +198,6 @@
           "MG": "مداگيسڪر",
           "MH": "مارشل ڀيٽ",
           "MK": "شمالي مقدونيا",
-          "MK-alt-variant": "MK",
           "ML": "مالي",
           "MM": "ميانمار (برما)",
           "MN": "منگوليا",

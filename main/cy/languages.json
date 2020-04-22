@@ -3,7 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cy"
       },
@@ -134,9 +134,9 @@
           "en-AU": "Saesneg Awstralia",
           "en-CA": "Saesneg Canada",
           "en-GB": "Saesneg Prydain",
-          "en-GB-alt-short": "Saesneg (DU)",
+          "en-GB-alt-short": "Saesneg Prydain",
           "en-US": "Saesneg America",
-          "en-US-alt-short": "Saesneg (UDA)",
+          "en-US-alt-short": "Saesneg America",
           "enm": "Saesneg Canol",
           "eo": "Esperanto",
           "es": "Sbaeneg",
@@ -148,6 +148,7 @@
           "ewo": "Ewondo",
           "ext": "Extremadureg",
           "fa": "Perseg",
+          "fa-AF": "Dari",
           "fat": "Ffanti",
           "ff": "Ffwla",
           "fi": "Ffinneg",

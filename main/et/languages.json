@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "et"
       },
@@ -170,6 +170,7 @@
           "ewo": "evondo",
           "ext": "estremenju",
           "fa": "pärsia",
+          "fa-AF": "dari",
           "fan": "fangi",
           "fat": "fanti",
           "ff": "fula",
@@ -191,7 +192,6 @@
           "fur": "friuuli",
           "fy": "läänefriisi",
           "ga": "iiri",
-          "gaa": "gaa",
           "gag": "gagauusi",
           "gan": "kani",
           "gay": "gajo",

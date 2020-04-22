@@ -3,7 +3,7 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uz",
         "script": "Latn"
@@ -199,7 +199,6 @@
           "MG": "Madagaskar",
           "MH": "Marshall orollari",
           "MK": "Shimoliy Makedoniya",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanma (Birma)",
           "MN": "Mongoliya",

@@ -3,7 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cy"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Digidau Devanagarig",
+            "diak": "diak",
             "ethi": "Rhifolion Ethiopig",
             "fullwide": "Digidau Lled Llawn",
             "geor": "Rhifolion Georgaidd",

@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pl"
       },
@@ -112,6 +112,7 @@
           "chr": "czirokeski",
           "chy": "czejeński",
           "ckb": "sorani",
+          "ckb-alt-menu": "kurdyjski sorani",
           "co": "korsykański",
           "cop": "koptyjski",
           "cps": "capiznon",
@@ -157,9 +158,9 @@
           "en-AU": "australijski angielski",
           "en-CA": "kanadyjski angielski",
           "en-GB": "brytyjski angielski",
-          "en-GB-alt-short": "angielski (Wlk. Bryt.)",
+          "en-GB-alt-short": "brytyjski angielski",
           "en-US": "amerykański angielski",
-          "en-US-alt-short": "angielski (USA)",
+          "en-US-alt-short": "amerykański angielski",
           "enm": "średnioangielski",
           "eo": "esperanto",
           "es": "hiszpański",
@@ -172,6 +173,7 @@
           "ewo": "ewondo",
           "ext": "estremadurski",
           "fa": "perski",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulani",
@@ -617,7 +619,7 @@
           "yo": "joruba",
           "yrl": "nheengatu",
           "yue": "kantoński",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "kantoński",
           "za": "czuang",
           "zap": "zapotecki",
           "zbl": "bliss",

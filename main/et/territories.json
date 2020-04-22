@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "et"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshalli Saared",
           "MK": "Põhja-Makedoonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birma)",
           "MN": "Mongoolia",

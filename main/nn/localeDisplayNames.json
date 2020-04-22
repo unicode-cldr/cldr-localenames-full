@@ -3,7 +3,7 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nn"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "devanagari-siffer",
+            "diak": "diak",
             "ethi": "etiopiske tal",
             "fullwide": "siffer med full breidd",
             "geor": "georgiske tal",

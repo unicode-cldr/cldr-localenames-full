@@ -3,7 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nb",
         "territory": "SJ"
@@ -40,6 +40,7 @@
           "arp": "arapaho",
           "arq": "algerisk arabisk",
           "ars": "najdi-arabisk",
+          "ars-alt-menu": "arabisk (najd)",
           "arw": "arawak",
           "ary": "marokkansk-arabisk",
           "arz": "egyptisk arabisk",
@@ -173,6 +174,7 @@
           "ewo": "ewondo",
           "ext": "ekstremaduransk",
           "fa": "persisk",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulfulde",
@@ -618,7 +620,7 @@
           "yo": "joruba",
           "yrl": "nheengatu",
           "yue": "kantonesisk",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "kantonesisk",
           "za": "zhuang",
           "zap": "zapotekisk",
           "zbl": "blissymboler",

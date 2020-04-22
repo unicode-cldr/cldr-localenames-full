@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "US"
@@ -138,9 +138,9 @@
           "en-AU": "inglés australiano",
           "en-CA": "inglés canadiense",
           "en-GB": "inglés británico",
-          "en-GB-alt-short": "inglés (RU)",
+          "en-GB-alt-short": "inglés británico",
           "en-US": "inglés estadounidense",
-          "en-US-alt-short": "inglés (EE. UU.)",
+          "en-US-alt-short": "inglés estadounidense",
           "enm": "inglés medieval",
           "eo": "esperanto",
           "es": "español",
@@ -151,6 +151,7 @@
           "eu": "euskera",
           "ewo": "ewondo",
           "fa": "persa",
+          "fa-AF": "darí",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fula",
@@ -194,7 +195,7 @@
           "gwi": "kutchin",
           "ha": "hausa",
           "hai": "haida",
-          "hak": "hak",
+          "hak": "chino hakka",
           "haw": "hawaiano",
           "he": "hebreo",
           "hi": "hindi",
@@ -342,7 +343,7 @@
           "myv": "erzya",
           "mzn": "mazandaraní",
           "na": "nauruano",
-          "nan": "nan",
+          "nan": "chino min nan",
           "nap": "napolitano",
           "naq": "nama",
           "nb": "noruego bokmal",
@@ -386,7 +387,7 @@
           "pam": "pampanga",
           "pap": "papiamento",
           "pau": "palauano",
-          "pcm": "pcm",
+          "pcm": "pidgin de Nigeria",
           "peo": "persa antiguo",
           "phn": "fenicio",
           "pi": "pali",
@@ -525,7 +526,7 @@
           "was": "washo",
           "wbp": "warlpiri",
           "wo": "wolof",
-          "wuu": "wuu",
+          "wuu": "wu",
           "xal": "kalmyk",
           "xh": "xhosa",
           "xog": "soga",

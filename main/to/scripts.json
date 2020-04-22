@@ -3,7 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "to"
       },
@@ -14,6 +14,7 @@
           "Aghb": "tohinima fakaʻalapēnia-kaukasia",
           "Ahom": "Ahom",
           "Arab": "tohinima fakaʻalepea",
+          "Aran": "Aran",
           "Armi": "tohinima fakaʻalāmiti-ʻemipaea",
           "Armn": "tohinima fakaʻāmenia",
           "Avst": "tohinima fakaʻavesitani",
@@ -34,12 +35,14 @@
           "Cari": "tohinima fakakali",
           "Cham": "tohinima fakasami",
           "Cher": "tohinima fakaselokī",
+          "Chrs": "Chrs",
           "Cirt": "tohinima fakakīliti",
           "Copt": "tohinima fakakopitika",
           "Cprt": "tohinima fakasaipalesi",
           "Cyrl": "tohinima fakalūsia",
           "Cyrs": "tohinima fakalūsia-lotu-motuʻa",
           "Deva": "tohinima fakaʻinitia-tevanākalī",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "tohinima fakateseleti",
           "Dupl": "tohinimanounou fakatupoloiē",
@@ -86,6 +89,7 @@
           "Khar": "tohinima fakakalositī",
           "Khmr": "tohinima fakakamipōtia",
           "Khoj": "tohinima fakakosikī",
+          "Kits": "Kits",
           "Knda": "tohinima fakaʻinitia-kanata",
           "Kore": "tohinima fakakōlea",
           "Kpel": "tohinima fakakepele",
@@ -192,6 +196,7 @@
           "Wole": "tohinima fakauoleai",
           "Xpeo": "tohinima fakapēsiamuʻa",
           "Xsux": "tohinima fakamataʻingahau-sumelo-akatia",
+          "Yezi": "Yezi",
           "Yiii": "tohinima fakaīī",
           "Zanb": "Zanb",
           "Zinh": "tohinima hokosi",

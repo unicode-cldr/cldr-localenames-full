@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fi"
       },
@@ -112,6 +112,7 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "sorani",
+          "ckb-alt-menu": "kurdi – soranî",
           "co": "korsika",
           "cop": "kopti",
           "cps": "capiznon",
@@ -158,9 +159,9 @@
           "en-AU": "australianenglanti",
           "en-CA": "kanadanenglanti",
           "en-GB": "britannianenglanti",
-          "en-GB-alt-short": "englanti (Britannia)",
+          "en-GB-alt-short": "britannianenglanti",
           "en-US": "amerikanenglanti",
-          "en-US-alt-short": "englanti (USA)",
+          "en-US-alt-short": "amerikanenglanti",
           "enm": "keskienglanti",
           "eo": "esperanto",
           "es": "espanja",
@@ -173,7 +174,7 @@
           "ewo": "ewondo",
           "ext": "extremadura",
           "fa": "persia",
-          "fa-alt-secondary": "persia",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulani",
@@ -630,9 +631,9 @@
           "zh": "kiina",
           "zh-alt-menu": "kiina (mandariini)",
           "zh-Hans": "yksinkertaistettu kiina",
-          "zh-Hans-alt-long": "kiina (yksinkertaistettu)",
+          "zh-Hans-alt-long": "yksinkertaistettu kiina",
           "zh-Hant": "perinteinen kiina",
-          "zh-Hant-alt-long": "kiina (perinteinen)",
+          "zh-Hant-alt-long": "perinteinen kiina",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "ei kielellistä sisältöä",

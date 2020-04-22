@@ -3,7 +3,7 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "brx"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "अरबी",
+          "Aran": "Aran",
           "Armi": "शहनशाही आरामाईक",
           "Armn": "अर्मेनियाई",
           "Avst": "अवस्तन्",
@@ -33,12 +34,14 @@
           "Cari": "कारियन",
           "Cham": "कॅम",
           "Cher": "चिरूकी",
+          "Chrs": "Chrs",
           "Cirt": "सिर्थ",
           "Copt": "कॉप्ट",
           "Cprt": "सीप्रीओट्",
           "Cyrl": "सिरिलिक्",
           "Cyrs": "पुरानी चर्च सिरिलिक्",
           "Deva": "देवनागरी",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "देसेरट्",
           "Dupl": "Dupl",
@@ -63,9 +66,9 @@
           "Hani": "हान",
           "Hano": "हानुनु",
           "Hans": "सरलीकृत हान",
-          "Hans-alt-stand-alone": "Hans",
+          "Hans-alt-stand-alone": "सरलीकृत हान",
           "Hant": "पारम्परिक हान",
-          "Hant-alt-stand-alone": "Hant",
+          "Hant-alt-stand-alone": "पारम्परिक हान",
           "Hatr": "Hatr",
           "Hebr": "हिब्रू",
           "Hira": "हीरागाना",
@@ -84,6 +87,7 @@
           "Khar": "खरोष्टी",
           "Khmr": "ख्मेर",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "कन्नड़",
           "Kore": "कोरियाई",
           "Kthi": "Kthi",
@@ -186,6 +190,7 @@
           "Wcho": "Wcho",
           "Xpeo": "पुरानी फारसी",
           "Xsux": "सुमेरो अक्काड़ी कुनेईफॉर्म",
+          "Yezi": "Yezi",
           "Yiii": "यी",
           "Zanb": "Zanb",
           "Zinh": "विरासत",

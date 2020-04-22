@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eu"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Kongoko Errepublika",
           "CH": "Suitza",
           "CI": "Boli Kosta",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "C¨ôte d’Ivore",
           "CK": "Cook uharteak",
           "CL": "Txile",
           "CM": "Kamerun",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshall Uharteak",
           "MK": "Ipar Mazedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birmania)",
           "MN": "Mongolia",
@@ -271,7 +270,7 @@
           "SX": "Sint Maarten",
           "SY": "Siria",
           "SZ": "Swazilandia",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swazilandia",
           "TA": "Tristan da Cunha",
           "TC": "Turk eta Caico uharteak",
           "TD": "Txad",
@@ -281,7 +280,7 @@
           "TJ": "Tajikistan",
           "TK": "Tokelau",
           "TL": "Ekialdeko Timor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Ekialdeko Timor",
           "TM": "Turkmenistan",
           "TN": "Tunisia",
           "TO": "Tonga",
@@ -308,7 +307,7 @@
           "WF": "Wallis eta Futuna",
           "WS": "Samoa",
           "XA": "Sasiazentuak",
-          "XB": "XB",
+          "XB": "pseudobidia",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

@@ -3,7 +3,7 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nn"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Republikken Kongo",
           "CH": "Sveits",
           "CI": "Elfenbeinskysten",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Elfenbeinskysten",
           "CK": "Cookøyane",
           "CL": "Chile",
           "CM": "Kamerun",
@@ -101,7 +101,7 @@
           "CX": "Christmasøya",
           "CY": "Kypros",
           "CZ": "Tsjekkia",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tsjekkia",
           "DE": "Tyskland",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshalløyane",
           "MK": "Nord-Makedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -271,7 +270,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Swaziland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Turks- og Caicosøyane",
           "TD": "Tsjad",

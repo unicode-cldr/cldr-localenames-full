@@ -3,7 +3,7 @@
     "km": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "km"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "លេខ​ឌីវ៉ាណាការី",
+            "diak": "diak",
             "ethi": "លេខ​អេត្យូពី",
             "fullwide": "លេខ​ទទឹង​ពេញ",
             "geor": "លេខ​ហ្សកហ្សី",

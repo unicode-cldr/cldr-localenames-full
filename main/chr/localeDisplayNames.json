@@ -3,7 +3,7 @@
     "chr": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "chr"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "ᏕᏫᎾᎦᎵ ᏗᏎᏍᏗ",
+            "diak": "diak",
             "ethi": "ᎢᏗᏯᏈᎩ ᏗᏎᏍᏗ",
             "fullwide": "ᎧᎵᎢ-ᎾᏯᏛᏒ ᏗᏎᏍᏗ",
             "geor": "ᎩᎴᎪᎵᎠᏂ ᏗᏎᏍᏗ",

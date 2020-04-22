@@ -3,7 +3,7 @@
     "ur": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ur"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "عربی",
           "Arab-alt-variant": "فارسی عربی",
+          "Aran": "نستعلیق",
           "Armi": "Armi",
           "Armn": "آرمینیائی",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "سیریلک",
           "Deva": "دیوناگری",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "خمیر",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "کنڑ",
           "Kore": "کوریائی",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

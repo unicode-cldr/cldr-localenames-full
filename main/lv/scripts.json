@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lv"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "arābu",
           "Arab-alt-variant": "persiešu-arābu",
+          "Aran": "Aran",
           "Armi": "aramiešu",
           "Armn": "armēņu",
           "Avst": "Avst",
@@ -33,11 +34,13 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "irokēzu",
+          "Chrs": "Chrs",
           "Copt": "koptu",
           "Cprt": "Cprt",
           "Cyrl": "kirilica",
           "Cyrs": "senslāvu",
           "Deva": "dēvanāgari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -81,6 +84,7 @@
           "Khar": "Khar",
           "Khmr": "khmeru",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannadu",
           "Kore": "korejiešu",
           "Kthi": "Kthi",
@@ -176,6 +180,7 @@
           "Wcho": "Wcho",
           "Xpeo": "senperiešu",
           "Xsux": "šumeru-akadiešu ķīļraksts",
+          "Yezi": "Yezi",
           "Yiii": "ji",
           "Zanb": "Zanb",
           "Zinh": "mantotā",

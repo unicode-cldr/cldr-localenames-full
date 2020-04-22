@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "et"
       },
@@ -148,6 +148,7 @@
             "cham": "tšaami numbrid",
             "cyrl": "kirillitsa numbrid",
             "deva": "devanaagari numbrid",
+            "diak": "diak",
             "ethi": "etioopia numbrid",
             "finance": "finantsnumbrid",
             "fullwide": "täislaiusega numbrid",

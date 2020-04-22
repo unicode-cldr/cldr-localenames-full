@@ -3,7 +3,7 @@
     "wae": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "wae"
       },
@@ -101,7 +101,7 @@
           "CX": "Wienäčtsinslä",
           "CY": "Zypre",
           "CZ": "Tšečie",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tšečie",
           "DE": "Titšland",
           "DG": "Diego Garcia",
           "DJ": "Dšibuti",
@@ -128,7 +128,7 @@
           "FR": "Frankrič",
           "GA": "Gabon",
           "GB": "England",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "England",
           "GD": "Grenada",
           "GE": "Georgie",
           "GF": "Französiš Guiana",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Maršalinslä",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Burma",
           "MN": "Mongolei",
@@ -239,7 +238,7 @@
           "PN": "Pitcairn",
           "PR": "Puerto Rico",
           "PS": "Paleština",
-          "PS-alt-short": "PS",
+          "PS-alt-short": "Paleština",
           "PT": "Portugal",
           "PW": "Palau",
           "PY": "Paraguai",
@@ -271,7 +270,7 @@
           "SX": "SX",
           "SY": "Sürie",
           "SZ": "Swasiland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swasiland",
           "TA": "Tristan da Cunha",
           "TC": "Turks- und Caicosinslä",
           "TD": "Tšad",
@@ -295,7 +294,7 @@
           "UM": "Amerikaniš Ozeanie",
           "UN": "UN",
           "US": "Amerika",
-          "US-alt-short": "US",
+          "US-alt-short": "Amerika",
           "UY": "Urugauy",
           "UZ": "Usbekištan",
           "VA": "Vatikan",

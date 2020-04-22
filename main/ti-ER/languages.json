@@ -3,7 +3,7 @@
     "ti-ER": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ti",
         "territory": "ER"
@@ -20,7 +20,7 @@
           "asa": "asa",
           "ast": "ast",
           "az": "አዜርባይጃንኛ",
-          "az-alt-short": "az",
+          "az-alt-short": "አዜርባይጃንኛ",
           "bas": "bas",
           "be": "ቤላራሻኛ",
           "bem": "bem",
@@ -72,6 +72,7 @@
           "eu": "ባስክኛ",
           "ewo": "ewo",
           "fa": "ፐርሲያኛ",
+          "fa-AF": "ፐርሲያኛ (አፍጋኒስታን)",
           "ff": "ff",
           "fi": "ፊኒሽ",
           "fil": "ታጋሎገኛ",
@@ -146,6 +147,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "ላቲቪያን",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -156,6 +158,7 @@
           "mk": "ማክዶኒኛ",
           "ml": "ማላያላምኛ",
           "mn": "mn",
+          "mni": "mni",
           "mr": "ማራቲኛ",
           "ms": "ማላይኛ",
           "mt": "ማልቲስኛ",
@@ -183,6 +186,7 @@
           "or": "ኦሪያ",
           "os": "os",
           "pa": "ፑንጃቢኛ",
+          "pcm": "pcm",
           "pl": "ፖሊሽ",
           "prg": "prg",
           "ps": "ፓሽቶ",
@@ -202,6 +206,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",

@@ -3,7 +3,7 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ms",
         "territory": "BN"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "Arab",
           "Arab-alt-variant": "Perso-Arab",
+          "Aran": "Nastaliq",
           "Armi": "Aramia Imperial",
           "Armn": "Armenia",
           "Avst": "Avestan",
@@ -30,14 +31,16 @@
           "Bugi": "Bugis",
           "Buhd": "Buhid",
           "Cakm": "Chakma",
-          "Cans": "Cans",
+          "Cans": "Suku Kata Orang Asli Kanada Bersatu",
           "Cari": "Carian",
           "Cham": "Cham",
           "Cher": "Cherokee",
+          "Chrs": "Chrs",
           "Copt": "Coptic",
           "Cprt": "Cypriot",
           "Cyrl": "Cyril",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogra",
           "Dsrt": "Deseret",
           "Dupl": "Trengkas Duployan",
@@ -79,6 +82,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Khmer",
           "Khoj": "Khojki",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Korea",
           "Kthi": "Kaithi",
@@ -169,6 +173,7 @@
           "Wcho": "Wancho",
           "Xpeo": "Parsi Lama",
           "Xsux": "Aksara Paku Sumero-Akkadia",
+          "Yezi": "Yezi",
           "Yiii": "Yi",
           "Zanb": "Segi Empat Zanabazar",
           "Zinh": "Diwarisi",

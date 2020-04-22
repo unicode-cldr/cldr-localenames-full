@@ -3,7 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gl"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagascar",
           "MH": "Illas Marshall",
           "MK": "Macedonia do Norte",
-          "MK-alt-variant": "MK",
           "ML": "Malí",
           "MM": "Myanmar (Birmania)",
           "MN": "Mongolia",
@@ -281,7 +280,7 @@
           "TJ": "Taxiquistán",
           "TK": "Tokelau",
           "TL": "Timor Leste",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor Leste",
           "TM": "Turkmenistán",
           "TN": "Tunisia",
           "TO": "Tonga",

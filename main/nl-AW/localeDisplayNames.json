@@ -3,7 +3,7 @@
     "nl-AW": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nl",
         "territory": "AW"
@@ -149,6 +149,7 @@
             "cham": "Cham cijfers",
             "cyrl": "Cyrillische cijfers",
             "deva": "Devanagari cijfers",
+            "diak": "Dives Akuru cijfers",
             "ethi": "Ethiopische cijfers",
             "finance": "Financiële cijfers",
             "fullwide": "cijfers met volledige breedte",

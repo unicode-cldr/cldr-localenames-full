@@ -3,7 +3,7 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "or"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "ଦେବନାଗରୀ ଅଙ୍କଗୁଡ଼ିକ",
+            "diak": "diak",
             "ethi": "ଇଥିଓପିକ୍‌ ସଂଖ୍ୟାଗୁଡ଼ିକ",
             "fullwide": "ପୂର୍ଣ୍ଣ-ପ୍ରସ୍ଥ ଅଙ୍କଗୁଡ଼ିକ",
             "geor": "ଜର୍ଜିଆନ୍‌ ସଂଖ୍ୟାଗୁଡ଼ିକ",
@@ -132,7 +133,7 @@
             "mathsans": "mathsans",
             "mlym": "ମଲୟାଲମ୍ ଅଙ୍କଗୁଡ଼ିକ",
             "modi": "modi",
-            "mong": "mong",
+            "mong": "ମଙ୍ଗୋଲୀୟ ଡିଜିଟ୍",
             "mroo": "mroo",
             "mtei": "mtei",
             "mymr": "ମିଆଁମାର୍‌ ଅଙ୍କଗୁଡ଼ିକ",

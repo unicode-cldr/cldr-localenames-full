@@ -3,7 +3,7 @@
     "fr-GP": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fr",
         "territory": "GP"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "arabe",
           "Arab-alt-variant": "arabo-persan",
+          "Aran": "nastaliq",
           "Armi": "araméen impérial",
           "Armn": "arménien",
           "Avst": "avestique",
@@ -35,12 +36,14 @@
           "Cari": "carien",
           "Cham": "cham",
           "Cher": "cherokee",
+          "Chrs": "Chrs",
           "Cirt": "cirth",
           "Copt": "copte",
           "Cprt": "syllabaire chypriote",
           "Cyrl": "cyrillique",
           "Cyrs": "cyrillique (variante slavonne)",
           "Deva": "dévanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "déséret",
           "Dupl": "Dupl",
@@ -86,6 +89,7 @@
           "Khar": "kharochthî",
           "Khmr": "khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannara",
           "Kore": "coréen",
           "Kthi": "kaithî",
@@ -141,7 +145,7 @@
           "Phnx": "phénicien",
           "Plrd": "phonétique de Pollard",
           "Prti": "parthe des inscriptions",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "Rohg",
           "Roro": "rongorongo",
@@ -188,6 +192,7 @@
           "Wcho": "wantcho",
           "Xpeo": "cunéiforme persépolitain",
           "Xsux": "cunéiforme suméro-akkadien",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "hérité",

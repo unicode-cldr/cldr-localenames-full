@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "vi"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagascar",
           "MH": "Quần đảo Marshall",
           "MK": "Bắc Macedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Miến Điện)",
           "MN": "Mông Cổ",
@@ -294,7 +293,6 @@
           "UG": "Uganda",
           "UM": "Các tiểu đảo xa của Hoa Kỳ",
           "UN": "Liên hiệp quốc",
-          "UN-alt-short": "Liên hiệp quốc",
           "US": "Hoa Kỳ",
           "US-alt-short": "Hoa Kỳ",
           "UY": "Uruguay",

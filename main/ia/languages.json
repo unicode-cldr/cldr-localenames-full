@@ -3,7 +3,7 @@
     "ia": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ia"
       },
@@ -96,9 +96,9 @@
           "en-AU": "anglese australian",
           "en-CA": "anglese canadian",
           "en-GB": "anglese britannic",
-          "en-GB-alt-short": "anglese (GB)",
+          "en-GB-alt-short": "anglese britannic",
           "en-US": "anglese american",
-          "en-US-alt-short": "anglese (SUA)",
+          "en-US-alt-short": "anglese american",
           "eo": "esperanto",
           "es": "espaniol",
           "es-419": "espaniol latinoamerican",
@@ -108,6 +108,7 @@
           "eu": "basco",
           "ewo": "ewondo",
           "fa": "persa",
+          "fa-AF": "persa (Afghanistan)",
           "ff": "fula",
           "fi": "finnese",
           "fil": "filipino",
@@ -398,14 +399,14 @@
           "yi": "yiddish",
           "yo": "yoruba",
           "yue": "cantonese",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "cantonese",
           "zgh": "tamazight marocchin standard",
           "zh": "chinese",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "chinese",
           "zh-Hans": "chinese simplificate",
-          "zh-Hans-alt-long": "chinese (simplificate)",
+          "zh-Hans-alt-long": "chinese simplificate",
           "zh-Hant": "chinese traditional",
-          "zh-Hant-alt-long": "chinese (traditional)",
+          "zh-Hant-alt-long": "chinese traditional",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "sin contento linguistic",

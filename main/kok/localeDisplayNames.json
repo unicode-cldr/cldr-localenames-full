@@ -3,7 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kok"
       },
@@ -31,7 +31,7 @@
             "dangi": "डांगी दिनदर्शिका",
             "ethiopic": "इथियोपिक दिनदर्शिका",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "ग्रेगोरियन दिनदर्शिका",
+            "gregorian": "ग्रेगोरियन कॅलेन्डर",
             "hebrew": "हिब्रू दिनदर्शिका",
             "indian": "indian",
             "islamic": "ईस्लामीक दिनदर्शिका",
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "देवनागरी अंक",
+            "diak": "diak",
             "ethi": "इथियोपिक संख्या",
             "fullwide": "पूर्ण-रुंदी अंक",
             "geor": "जॉर्जियन संख्या",
@@ -165,7 +166,7 @@
           }
         },
         "codePatterns": {
-          "language": "भाशा: {0}",
+          "language": "भासः{0}",
           "script": "लिपी: {0}",
           "territory": "प्रांत: {0}"
         }

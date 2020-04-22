@@ -3,7 +3,7 @@
     "sw-UG": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sw",
         "territory": "UG"
@@ -119,7 +119,7 @@
           "ES": "Uhispania",
           "ET": "Ethiopia",
           "EU": "Umoja wa Ulaya",
-          "EZ": "EZ",
+          "EZ": "Jumuiya ya Ulaya",
           "FI": "Ufini",
           "FJ": "Fiji",
           "FK": "Visiwa vya Falkland",
@@ -199,7 +199,6 @@
           "MG": "Madagaska",
           "MH": "Visiwa vya Marshall",
           "MK": "Masedonia ya Kaskazini",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -295,7 +294,6 @@
           "UG": "Uganda",
           "UM": "Visiwa Vidogo vya Nje vya Marekani",
           "UN": "Umoja wa Mataifa",
-          "UN-alt-short": "Umoja wa Mataifa",
           "US": "Marekani",
           "US-alt-short": "US",
           "UY": "Uruguay",

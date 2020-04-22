@@ -3,7 +3,7 @@
     "it-CH": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "it",
         "territory": "CH"
@@ -149,6 +149,7 @@
             "cham": "Cifre cham",
             "cyrl": "cyrl",
             "deva": "Cifre devanagari",
+            "diak": "diak",
             "ethi": "Numeri etiopi",
             "finance": "Numeri finanziari",
             "fullwide": "Cifre a larghezza intera",

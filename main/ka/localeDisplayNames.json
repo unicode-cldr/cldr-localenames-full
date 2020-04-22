@@ -3,7 +3,7 @@
     "ka": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ka"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "დევანაგარის ციფრები",
+            "diak": "diak",
             "ethi": "ეთიოპიური რიცხვები",
             "fullwide": "სრულსიგანიანი ციფრები",
             "geor": "ქართული რიცხვები",

@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "US"
@@ -88,7 +88,7 @@
           "CG-alt-variant": "Congo (República)",
           "CH": "Suiza",
           "CI": "Côte d’Ivoire",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Costa de Marfil",
           "CK": "Islas Cook",
           "CL": "Chile",
           "CM": "Camerún",
@@ -199,7 +199,6 @@
           "MG": "Madagascar",
           "MH": "Islas Marshall",
           "MK": "Macedonia del Norte",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birmania)",
           "MN": "Mongolia",
@@ -282,7 +281,7 @@
           "TJ": "Tayikistán",
           "TK": "Tokelau",
           "TL": "Timor-Leste",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor Oriental",
           "TM": "Turkmenistán",
           "TN": "Túnez",
           "TO": "Tonga",
@@ -294,7 +293,7 @@
           "UA": "Ucrania",
           "UG": "Uganda",
           "UM": "Islas menores alejadas de EE. UU.",
-          "UN": "UN",
+          "UN": "Naciones Unidas",
           "US": "Estados Unidos",
           "US-alt-short": "EE. UU.",
           "UY": "Uruguay",

@@ -3,7 +3,7 @@
     "rn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "rn"
       },
@@ -59,9 +59,9 @@
           "en-AU": "Icongereza (Ositaraliya)",
           "en-CA": "Icongereza (Kanada)",
           "en-GB": "Icongereza (Ubwongereza)",
-          "en-GB-alt-short": "Icongereza (GB)",
+          "en-GB-alt-short": "Icongereza (Ubwongereza)",
           "en-US": "Icongereza (Leta Zunze Ubumwe za Amerika)",
-          "en-US-alt-short": "Icongereza (US)",
+          "en-US-alt-short": "Icongereza (Leta Zunze Ubumwe za Amerika)",
           "eo": "eo",
           "es": "Icesipanyolo",
           "es-419": "Icesipanyolo (419)",
@@ -71,6 +71,7 @@
           "eu": "eu",
           "ewo": "ewo",
           "fa": "Igiperisi",
+          "fa-AF": "Igiperisi (Afuganisitani)",
           "ff": "ff",
           "fi": "fi",
           "fil": "fil",
@@ -144,6 +145,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "lv",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -154,6 +156,7 @@
           "mk": "mk",
           "ml": "ml",
           "mn": "mn",
+          "mni": "mni",
           "mr": "mr",
           "ms": "Ikinyamaleziya",
           "mt": "mt",
@@ -179,6 +182,7 @@
           "or": "or",
           "os": "os",
           "pa": "Igipunjabi",
+          "pcm": "pcm",
           "pl": "Ikinyapolonye",
           "prg": "prg",
           "ps": "ps",
@@ -198,6 +202,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",
@@ -251,7 +256,7 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Igishinwa",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Igishinwa",
           "zh-Hans": "Igishinwa (Hans)",
           "zh-Hans-alt-long": "Igishinwa (Hans)",
           "zh-Hant": "Igishinwa (Hant)",

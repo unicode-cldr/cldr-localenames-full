@@ -3,7 +3,7 @@
     "yue": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yue"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "阿拉伯文",
           "Arab-alt-variant": "波斯阿拉伯文字",
+          "Aran": "Aran",
           "Armi": "皇室亞美尼亞文",
           "Armn": "亞美尼亞文",
           "Avst": "阿維斯陀文",
@@ -35,12 +36,14 @@
           "Cari": "卡里亞文",
           "Cham": "占文",
           "Cher": "柴羅基文",
+          "Chrs": "Chrs",
           "Cirt": "色斯文",
           "Copt": "科普特文",
           "Cprt": "塞浦路斯文",
           "Cyrl": "斯拉夫文",
           "Cyrs": "西里爾文（古教會斯拉夫文變體）",
           "Deva": "天城文",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "德瑟雷特文",
           "Dupl": "杜普洛伊速記",
@@ -87,6 +90,7 @@
           "Khar": "卡羅須提文",
           "Khmr": "高棉文",
           "Khoj": "克吉奇文字",
+          "Kits": "Kits",
           "Knda": "坎那達文",
           "Kore": "韓文",
           "Kpel": "克培列文",
@@ -193,6 +197,7 @@
           "Wole": "沃雷艾文",
           "Xpeo": "古波斯文",
           "Xsux": "蘇米魯亞甲文楔形文字",
+          "Yezi": "Yezi",
           "Yiii": "彞文",
           "Zanb": "Zanb",
           "Zinh": "繼承文字（Unicode）",

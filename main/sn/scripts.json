@@ -3,7 +3,7 @@
     "sn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sn"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "Arab",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Armn",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "Cyrl",
           "Deva": "Deva",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "Khmr",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Knda",
           "Kore": "Kore",
           "Kthi": "Kthi",
@@ -167,6 +171,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

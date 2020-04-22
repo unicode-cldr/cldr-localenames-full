@@ -3,7 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sk"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "arabské",
           "Arab-alt-variant": "perzsko-arabské",
+          "Aran": "nastaliq",
           "Armi": "Armi",
           "Armn": "arménske",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "cyrilika",
           "Deva": "dévanágarí",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "khmérske",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannadské",
           "Kore": "kórejské",
           "Kthi": "Kthi",
@@ -105,7 +109,7 @@
           "Modi": "Modi",
           "Mong": "mongolské",
           "Mroo": "Mroo",
-          "Mtei": "Mtei",
+          "Mtei": "mejtej majek (manipurské)",
           "Mult": "Mult",
           "Mymr": "barmské",
           "Nand": "Nand",
@@ -115,7 +119,7 @@
           "Nkoo": "Nkoo",
           "Nshu": "Nshu",
           "Ogam": "Ogam",
-          "Olck": "Olck",
+          "Olck": "santálske (ol chiki)",
           "Orkh": "Orkh",
           "Orya": "uríjske",
           "Osge": "Osge",
@@ -129,7 +133,7 @@
           "Phnx": "Phnx",
           "Plrd": "Plrd",
           "Prti": "Prti",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "Rjng",
           "Rohg": "Rohg",
           "Runr": "Runové písmo",
@@ -169,6 +173,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

@@ -3,7 +3,7 @@
     "kk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kk"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Деванагари сандары",
+            "diak": "diak",
             "ethi": "Эфиопия сандары",
             "fullwide": "Толық енді цифрлар",
             "geor": "Грузин сандары",

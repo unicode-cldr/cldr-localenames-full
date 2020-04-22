@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pt"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagascar",
           "MH": "Ilhas Marshall",
           "MK": "Macedônia do Norte",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mianmar (Birmânia)",
           "MN": "Mongólia",

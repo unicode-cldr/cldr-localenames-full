@@ -3,7 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bs",
         "script": "Latn"
@@ -111,7 +111,7 @@
           "dav": "taita",
           "de": "njemački",
           "de-AT": "njemački (Austrija)",
-          "de-CH": "njemački (Švicarska)",
+          "de-CH": "visoki njemački (Švicarska)",
           "del": "delaver",
           "den": "slave",
           "dgr": "dogrib",
@@ -150,6 +150,7 @@
           "eu": "baskijski",
           "ewo": "evondo",
           "fa": "perzijski",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulah",

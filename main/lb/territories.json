@@ -3,7 +3,7 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lb"
       },
@@ -101,7 +101,7 @@
           "CX": "Chrëschtdagsinsel",
           "CY": "Zypern",
           "CZ": "Tschechien",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tschechien",
           "DE": "Däitschland",
           "DG": "Diego Garcia",
           "DJ": "Dschibuti",
@@ -122,7 +122,7 @@
           "FI": "Finnland",
           "FJ": "Fidschi",
           "FK": "Falklandinselen",
-          "FK-alt-variant": "FK",
+          "FK-alt-variant": "Falklandinselen",
           "FM": "Mikronesien",
           "FO": "Färöer",
           "FR": "Frankräich",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshallinselen",
           "MK": "Nordmazedonien",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar",
           "MN": "Mongolei",
@@ -271,7 +270,7 @@
           "SX": "Sint Maarten",
           "SY": "Syrien",
           "SZ": "Swasiland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swasiland",
           "TA": "Tristan da Cunha",
           "TC": "Turks- a Caicosinselen",
           "TD": "Tschad",
@@ -281,7 +280,7 @@
           "TJ": "Tadschikistan",
           "TK": "Tokelau",
           "TL": "Osttimor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Osttimor",
           "TM": "Turkmenistan",
           "TN": "Tunesien",
           "TO": "Tonga",

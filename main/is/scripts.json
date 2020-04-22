@@ -3,7 +3,7 @@
     "is": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "is"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "arabískt",
           "Arab-alt-variant": "persneskt-arabískt",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "armenskt",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "koptíska",
           "Cprt": "Cprt",
           "Cyrl": "kyrillískt",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "kmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "kóreskt",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

@@ -3,7 +3,7 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ur",
         "territory": "IN"
@@ -149,6 +149,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "دیوناگری ہندسے",
+            "diak": "diak",
             "ethi": "ایتھوپیائی اعداد",
             "finance": "مالیاتی ہندسے",
             "fullwide": "پورے عرض والے ہندسے",

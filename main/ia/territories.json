@@ -3,7 +3,7 @@
     "ia": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ia"
       },
@@ -84,7 +84,7 @@
           "CD-alt-variant": "CD",
           "CF": "Republica African Central",
           "CG": "Congo",
-          "CG-alt-variant": "CG",
+          "CG-alt-variant": "Congo",
           "CH": "Suissa",
           "CI": "CI",
           "CI-alt-variant": "CI",
@@ -198,7 +198,6 @@
           "MG": "Madagascar",
           "MH": "Insulas Marshall",
           "MK": "Macedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "MM",
           "MN": "Mongolia",
@@ -271,7 +270,7 @@
           "SX": "SX",
           "SY": "Syria",
           "SZ": "Swazilandia",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swazilandia",
           "TA": "TA",
           "TC": "Insulas Turcos e Caicos",
           "TD": "TD",
@@ -281,7 +280,7 @@
           "TJ": "Tadzhikistan",
           "TK": "Tokelau",
           "TL": "Timor del Est",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor del Est",
           "TM": "Turkmenistan",
           "TN": "Tunisia",
           "TO": "Tonga",

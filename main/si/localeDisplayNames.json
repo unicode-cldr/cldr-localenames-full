@@ -3,7 +3,7 @@
     "si": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "si"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "දේවනාගරී ඉලක්කම්",
+            "diak": "diak",
             "ethi": "ඉතියෝපියානු සංඛ්‍යාංකන",
             "fullwide": "සම්පූර්ණ පළල ඉලක්කම්",
             "geor": "ජෝජියානු සංඛ්‍යාංකන",

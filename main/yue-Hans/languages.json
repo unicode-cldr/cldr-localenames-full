@@ -3,7 +3,7 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yue",
         "script": "Hans"
@@ -172,6 +172,7 @@
           "ewo": "依汪都文",
           "ext": "埃斯特雷马杜拉文",
           "fa": "波斯文",
+          "fa-AF": "达里文",
           "fan": "芳族文",
           "fat": "芳蒂文",
           "ff": "富拉文",

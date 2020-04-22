@@ -3,7 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "am"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "የዴቫንጋሪ አሃዞች",
+            "diak": "diak",
             "ethi": "የኢትዮጵያ ቁጥሮች",
             "finance": "የፋይናንስ ቁጥሮች",
             "fullwide": "የሙሉ ወርድ አሃዞች",

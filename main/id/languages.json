@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "id"
       },
@@ -160,6 +160,7 @@
           "eu": "Basque",
           "ewo": "Ewondo",
           "fa": "Persia",
+          "fa-AF": "Persia Dari",
           "fan": "Fang",
           "fat": "Fanti",
           "ff": "Fula",
@@ -567,9 +568,9 @@
           "zh": "Tionghoa",
           "zh-alt-menu": "Tionghoa, Mandarin",
           "zh-Hans": "Tionghoa (Aksara Sederhana)",
-          "zh-Hans-alt-long": "Tionghoa (Sederhana)",
+          "zh-Hans-alt-long": "Tionghoa (Aksara Sederhana)",
           "zh-Hant": "Tionghoa (Aksara Tradisional)",
-          "zh-Hant-alt-long": "Tionghoa (Tradisional)",
+          "zh-Hant-alt-long": "Tionghoa (Aksara Tradisional)",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Tidak ada konten linguistik",

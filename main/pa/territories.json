@@ -3,7 +3,7 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pa"
       },
@@ -198,7 +198,6 @@
           "MG": "ਮੈਡਾਗਾਸਕਰ",
           "MH": "ਮਾਰਸ਼ਲ ਟਾਪੂ",
           "MK": "ਉੱਤਰੀ ਮੈਕਡੋਨੀਆ",
-          "MK-alt-variant": "MK",
           "ML": "ਮਾਲੀ",
           "MM": "ਮਿਆਂਮਾਰ (ਬਰਮਾ)",
           "MN": "ਮੰਗੋਲੀਆ",

@@ -3,7 +3,7 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pa"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "ਦੇਵਨਾਗਰੀ ਅੰਕ",
+            "diak": "diak",
             "ethi": "ਐਥਿਓਪਿਕ ਸੰਖਿਆਵਾਂ",
             "fullwide": "ਪੂਰਨ ਵਿਸਤਾਰ ਅੰਕ",
             "geor": "ਜਾਰਜੀਅਨ ਸੰਖਿਆਵਾਂ",

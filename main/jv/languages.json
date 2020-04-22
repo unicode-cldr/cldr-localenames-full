@@ -3,13 +3,13 @@
     "jv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "jv"
       },
       "localeDisplayNames": {
         "languages": {
-          "af": "af",
+          "af": "Afrika",
           "agq": "Aghem",
           "ak": "Akan",
           "am": "Amharik",
@@ -20,9 +20,8 @@
           "ast": "Asturia",
           "az": "Azerbaijan",
           "az-alt-short": "Azeri",
-          "ban": "ban",
           "bas": "Basaa",
-          "be": "be",
+          "be": "Belarus",
           "bem": "Bemba",
           "bez": "Bena",
           "bg": "Bulgaria",
@@ -31,7 +30,7 @@
           "bo": "Tibet",
           "br": "Breton",
           "brx": "Bodo",
-          "bs": "bs",
+          "bs": "Bosnia lan Hercegovina",
           "ca": "Katala",
           "ccp": "Chakma",
           "ce": "Chechen",
@@ -72,6 +71,7 @@
           "eu": "Basque",
           "ewo": "Ewondo",
           "fa": "Persia",
+          "fa-AF": "Persia (Afganistan)",
           "ff": "Fulah",
           "fi": "Suomi",
           "fil": "Tagalog",
@@ -145,6 +145,7 @@
           "luo": "Luo",
           "luy": "Luyia",
           "lv": "Latvia",
+          "mai": "mai",
           "mas": "Masai",
           "mer": "Meru",
           "mfe": "Morisyen",
@@ -155,6 +156,7 @@
           "mk": "Makedonia",
           "ml": "Malayalam",
           "mn": "Mongolia",
+          "mni": "mni",
           "mr": "Marathi",
           "ms": "Melayu",
           "mt": "Malta",
@@ -180,6 +182,7 @@
           "or": "Odia",
           "os": "Ossetia",
           "pa": "Punjab",
+          "pcm": "pcm",
           "pl": "Polandia",
           "prg": "Prusia",
           "ps": "Pashto",
@@ -199,6 +202,7 @@
           "sa": "Sanskerta",
           "sah": "Sakha",
           "saq": "Samburu",
+          "sat": "sat",
           "sbp": "Sangu",
           "sd": "Sindhi",
           "se": "Sami Sisih Lor",

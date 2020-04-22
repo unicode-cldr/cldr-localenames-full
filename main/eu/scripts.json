@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eu"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "arabiarra",
           "Arab-alt-variant": "persiar-arabiarra",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "armeniarra",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "zirilikoa",
           "Deva": "devanagaria",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "khemerarra",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kanadarra",
           "Kore": "korearra",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

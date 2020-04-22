@@ -3,7 +3,7 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ks"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "اَربی",
+          "Aran": "نستعلیق",
           "Armi": "Armi",
           "Armn": "اَرمانیَن",
           "Avst": "اَویستَن",
@@ -33,12 +34,14 @@
           "Cari": "کاریَن",
           "Cham": "چَم",
           "Cher": "چیروکی",
+          "Chrs": "Chrs",
           "Cirt": "کِرتھ",
           "Copt": "کاپٹِک",
           "Cprt": "کِپرایِٹ",
           "Cyrl": "سَیرِلِک",
           "Cyrs": "پرون چٔرچسلیوونِک سَیرِلِک",
           "Deva": "دیوناگری",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "ڈیسٔریٹ",
           "Dupl": "Dupl",
@@ -63,9 +66,9 @@
           "Hani": "ہان",
           "Hano": "ہانُنوٗ",
           "Hans": "سِمپلِفایِڑ ہان",
-          "Hans-alt-stand-alone": "Hans",
+          "Hans-alt-stand-alone": "سِمپلِفایِڑ ہان",
           "Hant": "ٹریڑِشَنَل",
-          "Hant-alt-stand-alone": "Hant",
+          "Hant-alt-stand-alone": "ٹریڑِشَنَل",
           "Hatr": "Hatr",
           "Hebr": "ہِبرِو",
           "Hira": "ہیٖراگانا",
@@ -84,6 +87,7 @@
           "Khar": "خَروشتھی",
           "Khmr": "کھٕمیر",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "کَنَڑا",
           "Kore": "کوریَن",
           "Kthi": "Kthi",
@@ -186,6 +190,7 @@
           "Wcho": "Wcho",
           "Xpeo": "پرون فارسی",
           "Xsux": "سُمیرو اکادیَن کوٗنِفام",
+          "Yezi": "Yezi",
           "Yiii": "یٖی",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

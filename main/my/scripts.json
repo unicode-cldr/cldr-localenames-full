@@ -3,7 +3,7 @@
     "my": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "my"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "အာရေဗျ",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "အာမေးနီးယား",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "စစ်ရိလစ်",
           "Deva": "ဒီဗနာဂရီ",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "ခမာ",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "ခန်နာဒါ",
           "Kore": "ကိုရီးယား",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "ပါရှန် အဟောင်း",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "ရီ",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

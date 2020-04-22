@@ -3,7 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "jv"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Républik Kongo",
           "CH": "Switserlan",
           "CI": "Pasisir Gadhing",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Pasisir Gadhing",
           "CK": "Kapuloan Cook",
           "CL": "Cilé",
           "CM": "Kamerun",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Kapuloan Marshall",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",

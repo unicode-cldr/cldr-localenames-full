@@ -3,7 +3,7 @@
     "sv-FI": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sv",
         "territory": "FI"
@@ -149,6 +149,7 @@
             "cham": "chamiska siffror",
             "cyrl": "kyrilliska taltecken",
             "deva": "devanagariska siffror",
+            "diak": "diak",
             "ethi": "etiopiska taltecken",
             "finance": "finansiella siffror",
             "fullwide": "fullbreddssiffror",

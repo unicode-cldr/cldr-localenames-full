@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sd"
       },
@@ -108,6 +108,7 @@
           "eu": "باسڪي",
           "ewo": "اوانڊو",
           "fa": "فارسي",
+          "fa-AF": "دري",
           "ff": "فلاهه",
           "fi": "فنش",
           "fil": "فلپائني",

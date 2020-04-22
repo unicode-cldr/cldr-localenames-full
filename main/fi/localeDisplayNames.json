@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fi"
       },
@@ -148,11 +148,12 @@
             "cham": "cham-numerot",
             "cyrl": "kyrilliset numerot",
             "deva": "devanagarinumerot",
+            "diak": "dives akuru -numerot",
             "ethi": "etiopialaiset numerot",
             "finance": "talousnumerot",
             "fullwide": "ideografin levyiset numerot",
             "geor": "georgialaiset numerot",
-            "gong": "gong",
+            "gong": "gondin gunjala-numerot",
             "gonm": "gondin masaram-numerot",
             "grek": "kreikkalaiset numerot",
             "greklow": "kreikkalaiset piennumerot",
@@ -165,7 +166,7 @@
             "hantfin": "perinteiset kiinalaiset talousnumerot",
             "hebr": "heprealaiset numerot",
             "hmng": "pahawh hmong -numerot",
-            "hmnp": "hmnp",
+            "hmnp": "hmongin nyiakeng puachue -numerot",
             "java": "jaavalaiset numerot",
             "jpan": "japanilaiset numerot",
             "jpanfin": "japanilaiset talousnumerot",
@@ -196,7 +197,7 @@
             "olck": "ol chiki -numerot",
             "orya": "orijalaiset numerot",
             "osma": "osmanjalaiset numerot",
-            "rohg": "rohg",
+            "rohg": "hanifilaisen rohingyan numerot",
             "roman": "roomalaiset numerot",
             "romanlow": "roomalaiset piennumerot",
             "saur": "saurashtra-numerot",

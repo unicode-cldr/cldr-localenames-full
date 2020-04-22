@@ -3,7 +3,7 @@
     "se": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "se"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "deva",
+            "diak": "diak",
             "ethi": "ethi",
             "fullwide": "viddis oarjelohkosátni",
             "geor": "geor",

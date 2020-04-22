@@ -3,7 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sk"
       },
@@ -150,6 +150,7 @@
           "eu": "baskičtina",
           "ewo": "ewondo",
           "fa": "perzština",
+          "fa-AF": "daríjčina",
           "fan": "fangčina",
           "fat": "fanti",
           "ff": "fulbčina",

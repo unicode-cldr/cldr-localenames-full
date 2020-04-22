@@ -3,7 +3,7 @@
     "ff-Latn-CM": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ff",
         "script": "Latn",

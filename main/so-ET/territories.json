@@ -3,7 +3,7 @@
     "so-ET": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "so",
         "territory": "ET"
@@ -93,7 +93,7 @@
           "CL": "Jili",
           "CM": "Kaameruun",
           "CN": "Shiinaha",
-          "CO": "CO",
+          "CO": "Koloombiya",
           "CP": "Jasiiradda Kilibarton",
           "CR": "Kosta Riika",
           "CU": "Kuuba",
@@ -146,7 +146,7 @@
           "GT": "Guwaatamaala",
           "GU": "Guaam",
           "GW": "Gini-Bisaaw",
-          "GY": "GY",
+          "GY": "Guyana",
           "HK": "Hong Kong",
           "HK-alt-short": "Hong Kong",
           "HM": "Jasiiradda Haad & MakDonald",
@@ -199,7 +199,6 @@
           "MG": "Madagaskar",
           "MH": "Jasiiradda Maarshal",
           "MK": "Masedooniya Waqooyi",
-          "MK-alt-variant": "MK",
           "ML": "Maali",
           "MM": "Miyanmar",
           "MN": "Mongooliya",
@@ -296,7 +295,7 @@
           "UM": "Jasiiradaha ka baxsan Maraykanka",
           "UN": "Qaramada Midoobay",
           "US": "Maraykanka",
-          "US-alt-short": "US",
+          "US-alt-short": "Maraykanka",
           "UY": "Uruguwaay",
           "UZ": "Uusbakistaan",
           "VA": "Faatikaan",
@@ -308,8 +307,8 @@
           "VU": "Fanuaatu",
           "WF": "Walis & Futuna",
           "WS": "Samoowa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Shigshiga",
+          "XB": "Pseudo-Bidi",
           "XK": "Koosofo",
           "YE": "Yaman",
           "YT": "Mayotte",

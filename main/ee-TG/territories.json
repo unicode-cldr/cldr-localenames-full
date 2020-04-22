@@ -3,7 +3,7 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ee",
         "territory": "TG"
@@ -102,7 +102,7 @@
           "CX": "Kristmas ƒudomekpo nutome",
           "CY": "Saiprus nutome",
           "CZ": "Tsɛk repɔblik nutome",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tsɛk repɔblik nutome",
           "DE": "Germania nutome",
           "DG": "Diego Garsia nutome",
           "DJ": "Dzibuti nutome",
@@ -129,7 +129,7 @@
           "FR": "France nutome",
           "GA": "Gabɔn nutome",
           "GB": "United Kingdom nutome",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "United Kingdom nutome",
           "GD": "Grenada nutome",
           "GE": "Georgia nutome",
           "GF": "Frentsi Gayana nutome",
@@ -199,7 +199,6 @@
           "MG": "Madagaska nutome",
           "MH": "Marshal ƒudomekpowo nutome",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali nutome",
           "MM": "Myanmar (Burma) nutome",
           "MN": "Mongolia nutome",
@@ -240,7 +239,7 @@
           "PN": "Pitkairn ƒudomekpo nutome",
           "PR": "Puerto Riko nutome",
           "PS": "Palestinia nutome",
-          "PS-alt-short": "PS",
+          "PS-alt-short": "Palestinia nutome",
           "PT": "Portugal nutome",
           "PW": "Palau nutome",
           "PY": "Paragua nutome",
@@ -272,7 +271,7 @@
           "SX": "SX",
           "SY": "Siria nutome",
           "SZ": "Swaziland nutome",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swaziland nutome",
           "TA": "Tristan da Kunha nutome",
           "TC": "Tɛks kple Kaikos ƒudomekpowo nutome",
           "TD": "Tsad nutome",
@@ -296,7 +295,7 @@
           "UM": "U.S. Minor Outlaying ƒudomekpowo nutome",
           "UN": "UN",
           "US": "USA nutome",
-          "US-alt-short": "US",
+          "US-alt-short": "USA nutome",
           "UY": "uruguaydukɔ",
           "UZ": "Uzbekistan nutome",
           "VA": "Vatikandu nutome",

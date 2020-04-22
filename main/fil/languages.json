@@ -3,7 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fil"
       },
@@ -110,6 +110,7 @@
           "eu": "Basque",
           "ewo": "Ewondo",
           "fa": "Persian",
+          "fa-AF": "Dari",
           "ff": "Fulah",
           "fi": "Finnish",
           "fil": "Filipino",

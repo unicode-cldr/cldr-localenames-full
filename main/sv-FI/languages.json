@@ -3,7 +3,7 @@
     "sv-FI": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sv",
         "territory": "FI"
@@ -40,6 +40,7 @@
           "arp": "arapaho",
           "arq": "algerisk arabiska",
           "ars": "najdiarabiska",
+          "ars-alt-menu": "arabiska (najd)",
           "arw": "arawakiska",
           "ary": "marockansk arabiska",
           "arz": "egyptisk arabiska",
@@ -113,6 +114,7 @@
           "chr": "cherokesiska",
           "chy": "cheyenne",
           "ckb": "soranisk kurdiska",
+          "ckb-alt-menu": "kurdiska (sorani)",
           "co": "korsikanska",
           "cop": "koptiska",
           "cps": "kapisnon",
@@ -158,9 +160,9 @@
           "en-AU": "australisk engelska",
           "en-CA": "kanadensisk engelska",
           "en-GB": "brittisk engelska",
-          "en-GB-alt-short": "engelska (Storbritannien)",
+          "en-GB-alt-short": "brittisk engelska",
           "en-US": "amerikansk engelska",
-          "en-US-alt-short": "engelska (USA)",
+          "en-US-alt-short": "amerikansk engelska",
           "enm": "medelengelska",
           "eo": "esperanto",
           "es": "spanska",
@@ -173,6 +175,7 @@
           "ewo": "ewondo",
           "ext": "extremaduriska",
           "fa": "persiska",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulani",

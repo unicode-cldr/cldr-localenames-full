@@ -3,7 +3,7 @@
     "sr": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sr"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "девангари цифре",
+            "diak": "diak",
             "ethi": "етиопски бројеви",
             "finance": "Финансијски бројеви",
             "fullwide": "цифре пуне ширине",

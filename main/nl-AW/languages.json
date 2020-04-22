@@ -3,7 +3,7 @@
     "nl-AW": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nl",
         "territory": "AW"
@@ -40,6 +40,7 @@
           "arp": "Arapaho",
           "arq": "Algerijns Arabisch",
           "ars": "Nadjdi-Arabisch",
+          "ars-alt-menu": "Arabisch, Nadjdi",
           "arw": "Arawak",
           "ary": "Marokkaans Arabisch",
           "arz": "Egyptisch Arabisch",
@@ -113,6 +114,7 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Soranî",
+          "ckb-alt-menu": "Koerdisch, Soranî",
           "co": "Corsicaans",
           "cop": "Koptisch",
           "cps": "Capiznon",
@@ -173,6 +175,7 @@
           "ewo": "Ewondo",
           "ext": "Extremeens",
           "fa": "Perzisch",
+          "fa-AF": "Dari",
           "fan": "Fang",
           "fat": "Fanti",
           "ff": "Fulah",

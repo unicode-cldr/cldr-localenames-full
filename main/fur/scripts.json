@@ -3,7 +3,7 @@
     "fur": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fur"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "arap",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "armen",
           "Avst": "Avst",
@@ -32,11 +33,13 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "copt",
           "Cprt": "cipriot",
           "Cyrl": "cirilic",
           "Cyrs": "cirilic dal vieri slavonic de glesie",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -60,9 +63,9 @@
           "Hani": "han",
           "Hano": "Hano",
           "Hans": "Han semplificât",
-          "Hans-alt-stand-alone": "Hans",
+          "Hans-alt-stand-alone": "Han semplificât",
           "Hant": "Han tradizionâl",
-          "Hant-alt-stand-alone": "Hant",
+          "Hant-alt-stand-alone": "Han tradizionâl",
           "Hatr": "Hatr",
           "Hebr": "ebreu",
           "Hira": "Hira",
@@ -80,6 +83,7 @@
           "Khar": "Khar",
           "Khmr": "khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "corean",
           "Kthi": "Kthi",
@@ -176,6 +180,7 @@
           "Wcho": "Wcho",
           "Xpeo": "vieri persian",
           "Xsux": "cuneiform sumeric-acadic",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

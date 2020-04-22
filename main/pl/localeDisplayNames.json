@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pl"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "cyfry dewanagari",
+            "diak": "diak",
             "ethi": "cyfry etiopskie",
             "finance": "Liczebniki księgowe",
             "fullwide": "cyfry o pełnej szerokości",

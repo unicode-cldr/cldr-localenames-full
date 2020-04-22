@@ -3,7 +3,7 @@
     "sw-UG": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sw",
         "territory": "UG"
@@ -125,6 +125,7 @@
           "eu": "Kibaski",
           "ewo": "Kiewondo",
           "fa": "Kiajemi",
+          "fa-AF": "Kiajemi (Afghanistan)",
           "ff": "Kifulani",
           "fi": "Kifini",
           "fil": "Kifilipino",
@@ -450,7 +451,7 @@
           "zh": "Kichina",
           "zh-alt-menu": "Kichina sanifu",
           "zh-Hans": "Kichina (Kilichorahisishwa)",
-          "zh-Hans-alt-long": "Kichina (Rahisi)",
+          "zh-Hans-alt-long": "Kichina (Kilichorahisishwa)",
           "zh-Hant": "Kichina cha Jadi",
           "zh-Hant-alt-long": "Kichina (cha jadi)",
           "zu": "Kizulu",

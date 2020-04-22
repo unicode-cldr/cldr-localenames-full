@@ -3,7 +3,7 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "or"
       },
@@ -140,6 +140,7 @@
           "eu": "ବାସ୍କ୍ୱି",
           "ewo": "ଇୱୋଣ୍ଡୋ",
           "fa": "ପର୍ସିଆନ୍",
+          "fa-AF": "ଦାରି",
           "fan": "ଫାଙ୍ଗ",
           "fat": "ଫାଣ୍ଟି",
           "ff": "ଫୁଲାହ",

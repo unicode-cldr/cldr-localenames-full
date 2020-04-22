@@ -3,7 +3,7 @@
     "lt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lt"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskaras",
           "MH": "Maršalo Salos",
           "MK": "Šiaurės Makedonija",
-          "MK-alt-variant": "MK",
           "ML": "Malis",
           "MM": "Mianmaras (Birma)",
           "MN": "Mongolija",
@@ -281,7 +280,7 @@
           "TJ": "Tadžikija",
           "TK": "Tokelau",
           "TL": "Rytų Timoras",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Rytų Timoras",
           "TM": "Turkmėnistanas",
           "TN": "Tunisas",
           "TO": "Tonga",
@@ -308,8 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Volisas ir Futūna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "pseudo A",
+          "XB": "pseudo B",
           "XK": "Kosovas",
           "YE": "Jemenas",
           "YT": "Majotas",

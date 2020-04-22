@@ -3,7 +3,7 @@
     "wae": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "wae"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "Arabiš",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Armeniš",
           "Avst": "Avst",
@@ -32,10 +33,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "Kirilliš",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -57,9 +60,9 @@
           "Hani": "Hani",
           "Hano": "Hano",
           "Hans": "Vereifačt",
-          "Hans-alt-stand-alone": "Hans",
+          "Hans-alt-stand-alone": "Vereifačt",
           "Hant": "Traditionell",
-          "Hant-alt-stand-alone": "Hant",
+          "Hant-alt-stand-alone": "Traditionell",
           "Hatr": "Hatr",
           "Hebr": "Hebräiš",
           "Hira": "Hira",
@@ -77,6 +80,7 @@
           "Khar": "Khar",
           "Khmr": "Khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Korianiš",
           "Kthi": "Kthi",
@@ -167,6 +171,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

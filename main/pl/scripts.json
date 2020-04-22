@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pl"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "arabskie",
           "Arab-alt-variant": "perso-arabskie",
+          "Aran": "nastaliq",
           "Armi": "armi",
           "Armn": "ormiańskie",
           "Avst": "awestyjskie",
@@ -34,12 +35,14 @@
           "Cari": "karyjskie",
           "Cham": "czamskie",
           "Cher": "czirokeski",
+          "Chrs": "Chrs",
           "Cirt": "cirth",
           "Copt": "koptyjskie",
           "Cprt": "cypryjskie",
           "Cyrl": "cyrylica",
           "Cyrs": "cyrylica staro-cerkiewno-słowiańska",
           "Deva": "dewanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
@@ -85,6 +88,7 @@
           "Khar": "charosti",
           "Khmr": "khmerskie",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "koreańskie",
           "Kthi": "kaithi",
@@ -140,7 +144,7 @@
           "Phnx": "fenicki",
           "Plrd": "fonetyczny Pollard’a",
           "Prti": "partyjski inskrypcyjny",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "Rohg",
           "Roro": "rongorongo",
@@ -187,6 +191,7 @@
           "Wcho": "Wcho",
           "Xpeo": "staroperskie",
           "Xsux": "klinowe sumero-akadyjskie",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "dziedziczone",

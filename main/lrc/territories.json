@@ -3,7 +3,7 @@
     "lrc": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lrc"
       },
@@ -128,7 +128,7 @@
           "FR": "فأرانسە",
           "GA": "GA",
           "GB": "بیریتانیا گأپ",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "بیریتانیا گأپ",
           "GD": "GD",
           "GE": "GE",
           "GF": "GF",
@@ -198,7 +198,6 @@
           "MG": "MG",
           "MH": "MH",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "ML",
           "MM": "MM",
           "MN": "MN",
@@ -295,7 +294,7 @@
           "UM": "UM",
           "UN": "UN",
           "US": "ڤولاتیا یأکاگئرتە",
-          "US-alt-short": "US",
+          "US-alt-short": "ڤولاتیا یأکاگئرتە",
           "UY": "UY",
           "UZ": "UZ",
           "VA": "VA",

@@ -3,7 +3,7 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ms",
         "territory": "BN"
@@ -149,6 +149,7 @@
             "cham": "Digit Cham",
             "cyrl": "Digit Cyril",
             "deva": "Digit Devanagari",
+            "diak": "diak",
             "ethi": "Angka Ethiopia",
             "finance": "Angka Kewangan",
             "fullwide": "Digit Lebar Penuh",

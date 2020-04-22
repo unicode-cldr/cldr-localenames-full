@@ -3,7 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gu"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "અરબી",
           "Arab-alt-variant": "પર્સો-અરબી",
+          "Aran": "Aran",
           "Armi": "ઇમ્પિરિયલ આર્મનિક",
           "Armn": "અર્મેનિયન",
           "Avst": "અવેસ્તન",
@@ -34,12 +35,14 @@
           "Cari": "કરૈન",
           "Cham": "Cham",
           "Cher": "ચેરોકી",
+          "Chrs": "Chrs",
           "Cirt": "સિર્થ",
           "Copt": "કોપ્ટિક",
           "Cprt": "સિપ્રાયટ",
           "Cyrl": "સિરિલિક",
           "Cyrs": "ઓલ્ડ ચર્ચ સ્લાવોનિક સિરિલિક",
           "Deva": "દેવનાગરી",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "ડેસરેટ",
           "Dupl": "Dupl",
@@ -85,6 +88,7 @@
           "Khar": "ખારોશ્થી",
           "Khmr": "ખ્મેર",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "કન્નડા",
           "Kore": "કોરિયન",
           "Kthi": "કૈથી",
@@ -187,6 +191,7 @@
           "Wcho": "Wcho",
           "Xpeo": "જુની ફારસી",
           "Xsux": "સુમેરો અક્કાદિયન સુનિફોર્મ",
+          "Yezi": "Yezi",
           "Yiii": "યી",
           "Zanb": "Zanb",
           "Zinh": "વંશાગત",

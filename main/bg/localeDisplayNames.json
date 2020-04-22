@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bg"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "цифри в деванагари",
+            "diak": "diak",
             "ethi": "етиопски цифри",
             "finance": "Финансови цифри",
             "fullwide": "цифри с пълна ширина",

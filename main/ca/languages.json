@@ -3,7 +3,7 @@
     "ca": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ca"
       },
@@ -103,6 +103,7 @@
           "chr": "cherokee",
           "chy": "xeiene",
           "ckb": "kurd central",
+          "ckb-alt-variant": "kurd sorani",
           "co": "cors",
           "cop": "copte",
           "cr": "cree",
@@ -148,7 +149,7 @@
           "en-GB": "anglès britànic",
           "en-GB-alt-short": "anglès (GB)",
           "en-US": "anglès americà",
-          "en-US-alt-short": "anglès (EUA)",
+          "en-US-alt-short": "anglès americà",
           "enm": "anglès mitjà",
           "eo": "esperanto",
           "es": "espanyol",
@@ -160,6 +161,7 @@
           "ewo": "ewondo",
           "ext": "extremeny",
           "fa": "persa",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "ful",

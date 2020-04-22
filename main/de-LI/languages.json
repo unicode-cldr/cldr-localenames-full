@@ -3,7 +3,7 @@
     "de-LI": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "de",
         "territory": "LI"
@@ -113,6 +113,7 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Zentralkurdisch",
+          "ckb-alt-menu": "Kurdisch (Sorani)",
           "co": "Korsisch",
           "cop": "Koptisch",
           "cps": "Capiznon",
@@ -173,6 +174,7 @@
           "ewo": "Ewondo",
           "ext": "Extremadurisch",
           "fa": "Persisch",
+          "fa-AF": "Dari",
           "fan": "Pangwe",
           "fat": "Fanti",
           "ff": "Ful",
@@ -629,7 +631,7 @@
           "zh-Hans": "Chinesisch (vereinfacht)",
           "zh-Hans-alt-long": "Mandarin (Vereinfacht)",
           "zh-Hant": "Chinesisch (traditionell)",
-          "zh-Hant-alt-long": "Chinesisch (Traditionell)",
+          "zh-Hant-alt-long": "Mandarin (traditionell)",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Keine Sprachinhalte",

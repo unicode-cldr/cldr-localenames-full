@@ -3,7 +3,7 @@
     "my": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "my"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "ဒီဗာနာဂရီ ဂဏန်းခြေ",
+            "diak": "diak",
             "ethi": "အီသီယိုပီးယား ဂဏန်းခြေ",
             "fullwide": "ဗြက်ပြည့် ဂဏန်းခြေ",
             "geor": "နိုင်ငံတကာသုံးဂဏန်းခြေ",

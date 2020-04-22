@@ -3,7 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cs"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshallovy ostrovy",
           "MK": "Severní Makedonie",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Barma)",
           "MN": "Mongolsko",

@@ -3,7 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ms"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Kepulauan Marshall",
           "MK": "Macedonia Utara",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -308,8 +307,8 @@
           "VU": "Vanuatu",
           "WF": "Wallis dan Futuna",
           "WS": "Samoa",
-          "XA": "XA",
-          "XB": "XB",
+          "XA": "Aksen Pseudo",
+          "XB": "Bidi Pseudo",
           "XK": "Kosovo",
           "YE": "Yaman",
           "YT": "Mayotte",

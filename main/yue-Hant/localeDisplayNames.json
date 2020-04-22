@@ -3,7 +3,7 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yue",
         "script": "Hant"
@@ -149,6 +149,7 @@
             "cham": "占文數字",
             "cyrl": "cyrl",
             "deva": "梵文數字",
+            "diak": "diak",
             "ethi": "衣索比亞數字",
             "finance": "金融數字",
             "fullwide": "全形數字",

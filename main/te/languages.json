@@ -3,7 +3,7 @@
     "te": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "te"
       },
@@ -144,6 +144,7 @@
           "eu": "బాస్క్యూ",
           "ewo": "ఎవోండొ",
           "fa": "పర్షియన్",
+          "fa-AF": "డారి",
           "fan": "ఫాంగ్",
           "fat": "ఫాంటి",
           "ff": "ఫ్యుల",

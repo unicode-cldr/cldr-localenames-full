@@ -3,7 +3,7 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sr",
         "script": "Latn",
@@ -150,6 +150,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "devangari cifre",
+            "diak": "diak",
             "ethi": "etiopski brojevi",
             "finance": "Finansijski brojevi",
             "fullwide": "cifre pune širine",

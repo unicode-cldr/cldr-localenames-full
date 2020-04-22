@@ -3,7 +3,7 @@
     "ko": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ko"
       },
@@ -198,7 +198,6 @@
           "MG": "마다가스카르",
           "MH": "마셜 제도",
           "MK": "북마케도니아",
-          "MK-alt-variant": "MK",
           "ML": "말리",
           "MM": "미얀마",
           "MN": "몽골",
@@ -294,7 +293,6 @@
           "UG": "우간다",
           "UM": "미국령 해외 제도",
           "UN": "유엔",
-          "UN-alt-short": "유엔",
           "US": "미국",
           "US-alt-short": "미국",
           "UY": "우루과이",

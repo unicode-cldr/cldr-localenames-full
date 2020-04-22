@@ -3,7 +3,7 @@
     "te": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "te"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "దేవనాగరి అంకెలు",
+            "diak": "diak",
             "ethi": "ఎథియోపిక్ సంఖ్యలు",
             "finance": "ఆర్థిక సంఖ్యలు",
             "fullwide": "పూర్తి వెడల్పు అంకెలు",

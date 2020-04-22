@@ -3,7 +3,7 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ro",
         "territory": "MD"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "arabă",
           "Arab-alt-variant": "persano-arabă",
+          "Aran": "nastaaliq",
           "Armi": "Armi",
           "Armn": "armeană",
           "Avst": "Avst",
@@ -34,11 +35,13 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "coptă",
           "Cprt": "cipriotă",
           "Cyrl": "chirilică",
           "Cyrs": "chirilică slavonă bisericească veche",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "mormonă",
           "Dupl": "Dupl",
@@ -84,6 +87,7 @@
           "Khar": "Khar",
           "Khmr": "khmeră",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "coreeană",
           "Kthi": "Kthi",
@@ -113,7 +117,7 @@
           "Modi": "Modi",
           "Mong": "mongolă",
           "Mroo": "Mroo",
-          "Mtei": "Mtei",
+          "Mtei": "meitei mayek",
           "Mult": "Mult",
           "Mymr": "birmană",
           "Nand": "Nand",
@@ -123,7 +127,7 @@
           "Nkoo": "Nkoo",
           "Nshu": "Nshu",
           "Ogam": "Ogam",
-          "Olck": "Olck",
+          "Olck": "ol chiki",
           "Orkh": "Orkh",
           "Orya": "oriya",
           "Osge": "Osge",
@@ -137,7 +141,7 @@
           "Phnx": "feniciană",
           "Plrd": "Plrd",
           "Prti": "Prti",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "Rjng",
           "Rohg": "Rohg",
           "Runr": "runică",
@@ -179,6 +183,7 @@
           "Wcho": "Wcho",
           "Xpeo": "persană veche",
           "Xsux": "cuneiformă sumero-akkadiană",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "moștenită",

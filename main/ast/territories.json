@@ -3,7 +3,7 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ast"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagascar",
           "MH": "Islles Marshall",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Malí",
           "MM": "Myanmar (Birmania)",
           "MN": "Mongolia",
@@ -271,7 +270,7 @@
           "SX": "Sint Maarten",
           "SY": "Siria",
           "SZ": "Suazilandia",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Suazilandia",
           "TA": "Tristán da Cunha",
           "TC": "Islles Turques y Caicos",
           "TD": "Chad",

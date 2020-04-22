@@ -3,7 +3,7 @@
     "nl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nl"
       },
@@ -34,7 +34,7 @@
           "BISKE": "San Giorgio/Bila-dialect",
           "BOHORIC": "Bohorič-alfabet",
           "BOONT": "Boontling",
-          "BORNHOLM": "BORNHOLM",
+          "BORNHOLM": "Bornholms",
           "CISAUP": "Cisaup",
           "COLB1945": "Portugese-Braziliaanse spellingsverdrag van 1945",
           "CORNU": "Cornu",

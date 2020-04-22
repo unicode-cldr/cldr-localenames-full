@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "et"
       },
@@ -15,6 +15,7 @@
           "Ahom": "ahomi",
           "Arab": "araabia",
           "Arab-alt-variant": "pärsia-araabia",
+          "Aran": "Aran",
           "Armi": "vanaaramea",
           "Armn": "armeenia",
           "Avst": "avesta",
@@ -35,12 +36,14 @@
           "Cari": "kaaria",
           "Cham": "tšaami",
           "Cher": "tšerokii",
+          "Chrs": "Chrs",
           "Cirt": "Cirthi",
           "Copt": "kopti",
           "Cprt": "Küprose silpkiri",
           "Cyrl": "kirillitsa",
           "Cyrs": "kürilliline kirikuslaavi",
           "Deva": "devanaagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "desereti",
           "Dupl": "Duployé kiirkiri",
@@ -87,6 +90,7 @@
           "Khar": "kharoshthi",
           "Khmr": "khmeeri",
           "Khoj": "hodžki",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "korea segakiri",
           "Kpel": "kpelle",
@@ -193,6 +197,7 @@
           "Wole": "voleai",
           "Xpeo": "vanapärsia",
           "Xsux": "sumeri-akadi kiilkiri",
+          "Yezi": "Yezi",
           "Yiii": "jii",
           "Zanb": "Dzanabadzari ruutkiri",
           "Zinh": "päritud",

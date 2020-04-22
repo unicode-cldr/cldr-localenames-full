@@ -3,7 +3,7 @@
     "pt-MZ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pt",
         "territory": "MZ"
@@ -149,6 +149,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Algarismos devanágaris",
+            "diak": "diak",
             "ethi": "Numeração etíope",
             "finance": "Algarismos financeiros",
             "fullwide": "Algarismos de largura completa",

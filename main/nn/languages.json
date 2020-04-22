@@ -3,7 +3,7 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nn"
       },
@@ -41,7 +41,7 @@
           "awa": "avadhi",
           "ay": "aymara",
           "az": "aserbajdsjansk",
-          "az-alt-short": "az",
+          "az-alt-short": "aserbajdsjansk",
           "ba": "basjkirsk",
           "bal": "baluchi",
           "ban": "balinesisk",
@@ -129,7 +129,7 @@
           "en-AU": "engelsk (Australia)",
           "en-CA": "engelsk (Canada)",
           "en-GB": "britisk engelsk",
-          "en-GB-alt-short": "engelsk (Storbritannia)",
+          "en-GB-alt-short": "britisk engelsk",
           "en-US": "engelsk (USA)",
           "en-US-alt-short": "engelsk (USA)",
           "enm": "mellomengelsk",
@@ -142,6 +142,7 @@
           "eu": "baskisk",
           "ewo": "ewondo",
           "fa": "persisk",
+          "fa-AF": "persisk (Afghanistan)",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulfulde",
@@ -510,18 +511,18 @@
           "yi": "jiddisk",
           "yo": "joruba",
           "yue": "kantonesisk",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "kantonesisk",
           "za": "zhuang",
           "zap": "zapotec",
           "zbl": "blissymbol",
           "zen": "zenaga",
           "zgh": "standard marokkansk tamazight",
           "zh": "kinesisk",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "kinesisk",
           "zh-Hans": "forenkla kinesisk",
-          "zh-Hans-alt-long": "kinesisk (forenkla)",
+          "zh-Hans-alt-long": "forenkla kinesisk",
           "zh-Hant": "tradisjonell kinesisk",
-          "zh-Hant-alt-long": "kinesisk (tradisjonell)",
+          "zh-Hant-alt-long": "tradisjonell kinesisk",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "utan språkleg innhald",

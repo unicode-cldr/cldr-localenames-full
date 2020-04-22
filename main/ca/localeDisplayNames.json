@@ -3,7 +3,7 @@
     "ca": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ca"
       },
@@ -148,6 +148,7 @@
             "cham": "dígits txams",
             "cyrl": "cyrl",
             "deva": "dígits devanagaris",
+            "diak": "diak",
             "ethi": "nombres etiòpics",
             "finance": "Numerals financers",
             "fullwide": "dígits d’amplada completa",

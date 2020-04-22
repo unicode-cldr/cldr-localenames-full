@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hr",
         "territory": "BA"
@@ -199,7 +199,6 @@
           "MG": "Madagaskar",
           "MH": "Maršalovi Otoci",
           "MK": "Sjeverna Makedonija",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mjanmar (Burma)",
           "MN": "Mongolija",

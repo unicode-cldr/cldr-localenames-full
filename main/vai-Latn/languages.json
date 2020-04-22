@@ -3,7 +3,7 @@
     "vai-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "vai",
         "script": "Latn"
@@ -60,9 +60,9 @@
           "en-AU": "Poo (Ɔsituwéeliya)",
           "en-CA": "Poo (Kánáda)",
           "en-GB": "Poo (Yunaitɛ Kíŋdɔŋ)",
-          "en-GB-alt-short": "Poo (GB)",
+          "en-GB-alt-short": "Poo (Yunaitɛ Kíŋdɔŋ)",
           "en-US": "Poo (Poo)",
-          "en-US-alt-short": "Poo (US)",
+          "en-US-alt-short": "Poo (Poo)",
           "eo": "eo",
           "es": "Panyɛĩ",
           "es-419": "Panyɛĩ (419)",
@@ -72,6 +72,7 @@
           "eu": "eu",
           "ewo": "ewo",
           "fa": "Pɛɛsiyɛŋ",
+          "fa-AF": "Pɛɛsiyɛŋ (Afigándesitaŋ)",
           "ff": "ff",
           "fi": "fi",
           "fil": "fil",
@@ -145,6 +146,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "lv",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -155,6 +157,7 @@
           "mk": "mk",
           "ml": "ml",
           "mn": "mn",
+          "mni": "mni",
           "mr": "mr",
           "ms": "Maléee",
           "mt": "mt",
@@ -180,6 +183,7 @@
           "or": "or",
           "os": "os",
           "pa": "Puŋjabhi",
+          "pcm": "pcm",
           "pl": "Pɔ́lési",
           "prg": "prg",
           "ps": "ps",
@@ -199,6 +203,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",
@@ -252,7 +257,7 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chaniĩ",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Chaniĩ",
           "zh-Hans": "Chaniĩ (Hans)",
           "zh-Hans-alt-long": "Chaniĩ (Hans)",
           "zh-Hant": "Chaniĩ (Hant)",

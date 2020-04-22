@@ -3,7 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "af"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Devanagari-syfers",
+            "diak": "diak",
             "ethi": "Etiopiese syfers",
             "finance": "Finansiële syfers",
             "fullwide": "Vollewydte-syfers",

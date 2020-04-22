@@ -3,7 +3,7 @@
     "ig": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ig"
       },
@@ -71,6 +71,7 @@
           "eu": "eu",
           "ewo": "ewo",
           "fa": "Peshan",
+          "fa-AF": "Peshan (Mba Afghanistan)",
           "ff": "ff",
           "fi": "fi",
           "fil": "fil",
@@ -144,6 +145,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "lv",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -154,6 +156,7 @@
           "mk": "mk",
           "ml": "ml",
           "mn": "mn",
+          "mni": "mni",
           "mr": "mr",
           "ms": "Maleyi",
           "mt": "mt",
@@ -179,6 +182,7 @@
           "or": "or",
           "os": "os",
           "pa": "Punjabi",
+          "pcm": "pcm",
           "pl": "Poliishi",
           "prg": "prg",
           "ps": "ps",
@@ -198,6 +202,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",
@@ -251,11 +256,11 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Mandarịịnị",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Mandarịịnị",
           "zh-Hans": "Asụsụ Chinese dị mfe",
-          "zh-Hans-alt-long": "Mandarịịnị (Nke dị mfe)",
+          "zh-Hans-alt-long": "Asụsụ Chinese dị mfe",
           "zh-Hant": "Asụsụ Chinese Izugbe",
-          "zh-Hant-alt-long": "Mandarịịnị (Izugbe)",
+          "zh-Hant-alt-long": "Asụsụ Chinese Izugbe",
           "zu": "Zulu",
           "zxx": "zxx"
         }

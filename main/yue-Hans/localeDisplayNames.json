@@ -3,7 +3,7 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "yue",
         "script": "Hans"
@@ -149,6 +149,7 @@
             "cham": "占文数字",
             "cyrl": "cyrl",
             "deva": "梵文数字",
+            "diak": "diak",
             "ethi": "衣索比亚数字",
             "finance": "金融数字",
             "fullwide": "全形数字",

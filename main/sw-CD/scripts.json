@@ -3,7 +3,7 @@
     "sw-CD": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sw",
         "territory": "CD"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "Kiarabu",
           "Arab-alt-variant": "Kiajemi/Kiarabu",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Kiarmenia",
           "Avst": "Avst",
@@ -34,10 +35,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "Kisiriliki",
           "Deva": "Kidevanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -54,7 +57,7 @@
           "Grek": "Kigiriki",
           "Gujr": "Kigujarati",
           "Guru": "Kigurmukhi",
-          "Hanb": "Hanb",
+          "Hanb": "Kihan chenye Bopomofo",
           "Hang": "Kihangul",
           "Hani": "Kihan",
           "Hano": "Hano",
@@ -79,6 +82,7 @@
           "Khar": "Khar",
           "Khmr": "Kikambodia",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Kikannada",
           "Kore": "Kikorea",
           "Kthi": "Kthi",
@@ -169,6 +173,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

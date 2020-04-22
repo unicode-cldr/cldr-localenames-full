@@ -3,7 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fa"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "ارقام سیریلیک",
             "deva": "ارقام دوناگری",
+            "diak": "diak",
             "ethi": "اعداد اتیوپیایی",
             "finance": "سیستم عددی مالی",
             "fullwide": "ارقام تمام‌عرض",

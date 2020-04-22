@@ -3,7 +3,7 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "da",
         "territory": "GL"
@@ -16,6 +16,7 @@
           "Ahom": "Ahom",
           "Arab": "arabisk",
           "Arab-alt-variant": "persisk-arabisk",
+          "Aran": "nastaliq",
           "Armi": "armi",
           "Armn": "armensk",
           "Avst": "avestansk",
@@ -36,12 +37,14 @@
           "Cari": "kariansk",
           "Cham": "cham",
           "Cher": "cherokee",
+          "Chrs": "Chrs",
           "Cirt": "cirt",
           "Copt": "koptisk",
           "Cprt": "cypriotisk",
           "Cyrl": "kyrillisk",
           "Cyrs": "kyrillisk - oldkirkeslavisk variant",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Duploya-stenografi",
@@ -88,6 +91,7 @@
           "Khar": "kharoshti",
           "Khmr": "khmer",
           "Khoj": "khojki",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "koreansk",
           "Kpel": "kpelle",
@@ -146,7 +150,7 @@
           "Phnx": "fønikisk",
           "Plrd": "pollardtegn",
           "Prti": "prti",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "Rohg",
           "Roro": "rongo-rongo",
@@ -194,6 +198,7 @@
           "Wole": "woleai",
           "Xpeo": "oldpersisk",
           "Xsux": "sumero-akkadisk cuneiform",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "arvet",

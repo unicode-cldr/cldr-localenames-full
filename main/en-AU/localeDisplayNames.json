@@ -3,7 +3,7 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "en",
         "territory": "AU"
@@ -19,7 +19,7 @@
           "cf": "Currency Format",
           "colAlternate": "Ignore Symbols Sorting",
           "colBackwards": "Reversed Accent Sorting",
-          "colCaseFirst": "Uppercase/Lowercase Ordering",
+          "colCaseFirst": "Upper case / Lower case Ordering",
           "colCaseLevel": "Case-Sensitive Sorting",
           "collation": "Sort Order",
           "colNormalization": "Normalised Sorting",
@@ -280,6 +280,7 @@
             "cham": "Cham Digits",
             "cyrl": "Cyrillic Numerals",
             "deva": "Devanagari Digits",
+            "diak": "Dives Akuru Digits",
             "ethi": "Ethiopic Numerals",
             "finance": "Financial Numerals",
             "fullwide": "Full-Width Digits",
@@ -335,6 +336,7 @@
             "roman": "Roman Numerals",
             "romanlow": "Roman Lowercase Numerals",
             "saur": "Saurashtra Digits",
+            "segment": "Segmented Digits",
             "shrd": "Sharada Digits",
             "sind": "Khudawadi Digits",
             "sinh": "Sinhala Lith Digits",

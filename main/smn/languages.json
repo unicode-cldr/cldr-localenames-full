@@ -3,7 +3,7 @@
     "smn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "smn"
       },
@@ -34,7 +34,7 @@
           "awa": "awadhikielâ",
           "ay": "aymarakielâ",
           "az": "azerbaidžankielâ",
-          "az-alt-short": "az",
+          "az-alt-short": "azerbaidžankielâ",
           "ba": "baškirkielâ",
           "ban": "balikielâ",
           "bas": "basaakielâ",
@@ -96,9 +96,9 @@
           "en-AU": "Australia eŋgâlâskielâ",
           "en-CA": "Kanada eŋgâlâskielâ",
           "en-GB": "Britannia eŋgâlâskielâ",
-          "en-GB-alt-short": "eŋgâlâskielâ (OK)",
+          "en-GB-alt-short": "Britannia eŋgâlâskielâ",
           "en-US": "Amerika eŋgâlâskielâ",
-          "en-US-alt-short": "eŋgâlâskielâ (USA)",
+          "en-US-alt-short": "Amerika eŋgâlâskielâ",
           "eo": "esperantokielâ",
           "es": "espanjakielâ",
           "es-419": "Läättin-Amerika espanjakielâ",
@@ -108,6 +108,7 @@
           "eu": "baskikielâ",
           "ewo": "ewondokielâ",
           "fa": "persiakielâ",
+          "fa-AF": "persiakielâ (Afganistan)",
           "ff": "fulakielâ",
           "fi": "suomâkielâ",
           "fil": "filipinokielâ",
@@ -404,14 +405,14 @@
           "yi": "jiddish",
           "yo": "yorubakielâ",
           "yue": "kantonkielâ",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "kantonkielâ",
           "zgh": "standard tamazight",
           "zh": "mandarinkiinakielâ",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "mandarinkiinakielâ",
           "zh-Hans": "oovtâkiärdánis kiinakielâ",
-          "zh-Hans-alt-long": "mandarinkiinakielâ (Hans)",
+          "zh-Hans-alt-long": "oovtâkiärdánis kiinakielâ",
           "zh-Hant": "ärbivuáválâš kiinakielâ",
-          "zh-Hant-alt-long": "mandarinkiinakielâ (Hant)",
+          "zh-Hant-alt-long": "ärbivuáválâš kiinakielâ",
           "zu": "zulukielâ",
           "zun": "zunikielâ",
           "zxx": "ij kielâlâš siskáldâs",

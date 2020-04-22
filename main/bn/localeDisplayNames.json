@@ -3,7 +3,7 @@
     "bn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bn"
       },
@@ -148,6 +148,7 @@
             "cham": "চাম সংখ্যা",
             "cyrl": "সিরিলিক সংখ্যা",
             "deva": "দেবনাগরি সংখ্যা",
+            "diak": "diak",
             "ethi": "ইথিয়োপিক সংখ্যা",
             "finance": "অর্থনৈতিক সংখ্যাসূচক",
             "fullwide": "পূর্ণ চওড়া সংখ্যা",

@@ -3,7 +3,7 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh",
         "script": "Hant",
@@ -89,7 +89,7 @@
           "CG-alt-variant": "剛果共和國",
           "CH": "瑞士",
           "CI": "科特迪瓦",
-          "CI-alt-variant": "象牙海岸",
+          "CI-alt-variant": "科特迪瓦",
           "CK": "庫克群島",
           "CL": "智利",
           "CM": "喀麥隆",
@@ -200,7 +200,6 @@
           "MG": "馬達加斯加",
           "MH": "馬紹爾群島",
           "MK": "北馬其頓",
-          "MK-alt-variant": "MK",
           "ML": "馬里",
           "MM": "緬甸",
           "MN": "蒙古",
@@ -296,7 +295,6 @@
           "UG": "烏干達",
           "UM": "美國本土外小島嶼",
           "UN": "聯合國",
-          "UN-alt-short": "聯合國",
           "US": "美國",
           "US-alt-short": "美國",
           "UY": "烏拉圭",

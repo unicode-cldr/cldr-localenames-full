@@ -3,7 +3,7 @@
     "as": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "as"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "দেৱনাগৰী অংক",
+            "diak": "diak",
             "ethi": "ইথিঅ’পিক সংখ্যা",
             "fullwide": "পূৰ্ণ-প্ৰস্থৰ অংক",
             "geor": "জৰ্জীয়ান সংখ্যা",

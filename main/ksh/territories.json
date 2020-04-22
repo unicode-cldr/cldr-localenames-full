@@ -3,7 +3,7 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ksh"
       },
@@ -101,7 +101,7 @@
           "CX": "de Weihnaachs-Ensel",
           "CY": "Züppere",
           "CZ": "de Tschäschei",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "de Tschäschei",
           "DE": "Doütschland",
           "DG": "de Diego-Garcia-Ensel",
           "DJ": "Dschibutti",
@@ -198,7 +198,6 @@
           "MG": "Maddajaska",
           "MH": "de Machschall-Enselle",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Maali",
           "MM": "Birma",
           "MN": "Mongjolei",
@@ -239,7 +238,7 @@
           "PN": "de Pitkärn-Ensel",
           "PR": "Pochtoriko",
           "PS": "Palästina",
-          "PS-alt-short": "PS",
+          "PS-alt-short": "Palästina",
           "PT": "Pochtojall",
           "PW": "Pallau",
           "PY": "Parraguwai",
@@ -271,7 +270,7 @@
           "SX": "Zint Maarten",
           "SY": "Sürije",
           "SZ": "ẞwaasiland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "ẞwaasiland",
           "TA": "Tristan da Cunja",
           "TC": "de Enselle Turks un Kaikos",
           "TD": "der Tschadd",
@@ -281,7 +280,7 @@
           "TJ": "Tadschikistahn",
           "TK": "Tokelau",
           "TL": "Oß-Timor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Oß-Timor",
           "TM": "Turkmenistahn",
           "TN": "Tuneesije",
           "TO": "Tongga",

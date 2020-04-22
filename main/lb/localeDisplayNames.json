@@ -3,7 +3,7 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lb"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Devanagari-Zifferen",
+            "diak": "diak",
             "ethi": "Ethiopesch Zifferen",
             "fullwide": "Vollbreet Zifferen",
             "geor": "Georgesch Zifferen",

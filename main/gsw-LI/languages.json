@@ -3,7 +3,7 @@
     "gsw-LI": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gsw",
         "territory": "LI"
@@ -42,7 +42,7 @@
           "awa": "Awadhi",
           "ay": "Aymara",
           "az": "Aserbaidschanisch",
-          "az-alt-short": "az",
+          "az-alt-short": "Aserbaidschanisch",
           "ba": "Baschkirisch",
           "bal": "Belutschisch",
           "ban": "Balinesisch",
@@ -126,9 +126,9 @@
           "en-AU": "Auschtralischs Änglisch",
           "en-CA": "Kanadischs Änglisch",
           "en-GB": "Britischs Änglisch",
-          "en-GB-alt-short": "Änglisch (GB)",
+          "en-GB-alt-short": "Britischs Änglisch",
           "en-US": "Amerikanischs Änglisch",
-          "en-US-alt-short": "Änglisch (US)",
+          "en-US-alt-short": "Amerikanischs Änglisch",
           "enm": "Mittelänglisch",
           "eo": "Eschperanto",
           "es": "Schpanisch",
@@ -139,6 +139,7 @@
           "eu": "Baskisch",
           "ewo": "Ewondo",
           "fa": "Persisch",
+          "fa-AF": "Persisch (Afganischtan)",
           "fan": "Pangwe-Schpraach",
           "fat": "Fanti-Schpraach",
           "ff": "Ful",
@@ -363,6 +364,7 @@
           "pam": "Pampanggan-Schpraach",
           "pap": "Papiamento",
           "pau": "Palau",
+          "pcm": "pcm",
           "peo": "Altpersisch",
           "phn": "Phönikisch",
           "pi": "Pali",
@@ -506,11 +508,11 @@
           "zen": "Zenaga",
           "zgh": "zgh",
           "zh": "Chineesisch",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Chineesisch",
           "zh-Hans": "Veräifachts Chineesisch",
-          "zh-Hans-alt-long": "Chineesisch (Veräifachti Chineesischi Schrift)",
+          "zh-Hans-alt-long": "Veräifachts Chineesisch",
           "zh-Hant": "Tradizionells Chineesisch",
-          "zh-Hant-alt-long": "Chineesisch (Tradizionelli Chineesischi Schrift)",
+          "zh-Hant-alt-long": "Tradizionells Chineesisch",
           "zu": "Zulu",
           "zun": "Zuni-Schpraach",
           "zxx": "Kän schpraachliche Inhalt",

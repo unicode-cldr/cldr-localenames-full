@@ -3,7 +3,7 @@
     "is": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "is"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshalleyjar",
           "MK": "Norður-Makedónía",
-          "MK-alt-variant": "MK",
           "ML": "Malí",
           "MM": "Mjanmar (Búrma)",
           "MN": "Mongólía",

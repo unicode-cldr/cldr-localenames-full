@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eu"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Digitu devanagariak",
+            "diak": "diak",
             "ethi": "Zenbaki etiopiarrak",
             "finance": "Finantza-zenbakiak",
             "fullwide": "Zabalera osoko digituak",

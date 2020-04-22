@@ -3,7 +3,7 @@
     "zh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh"
       },
@@ -198,7 +198,6 @@
           "MG": "马达加斯加",
           "MH": "马绍尔群岛",
           "MK": "北马其顿",
-          "MK-alt-variant": "MK",
           "ML": "马里",
           "MM": "缅甸",
           "MN": "蒙古",
@@ -271,7 +270,7 @@
           "SX": "荷属圣马丁",
           "SY": "叙利亚",
           "SZ": "斯威士兰",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "斯威士兰",
           "TA": "特里斯坦-达库尼亚群岛",
           "TC": "特克斯和凯科斯群岛",
           "TD": "乍得",
@@ -281,7 +280,7 @@
           "TJ": "塔吉克斯坦",
           "TK": "托克劳",
           "TL": "东帝汶",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "东帝汶",
           "TM": "土库曼斯坦",
           "TN": "突尼斯",
           "TO": "汤加",
@@ -294,7 +293,6 @@
           "UG": "乌干达",
           "UM": "美国本土外小岛屿",
           "UN": "联合国",
-          "UN-alt-short": "联合国",
           "US": "美国",
           "US-alt-short": "美国",
           "UY": "乌拉圭",

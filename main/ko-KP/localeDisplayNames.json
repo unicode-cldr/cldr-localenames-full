@@ -3,7 +3,7 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ko",
         "territory": "KP"
@@ -149,6 +149,7 @@
             "cham": "참 숫자",
             "cyrl": "cyrl",
             "deva": "데바나가리 숫자",
+            "diak": "diak",
             "ethi": "에티오피아 숫자",
             "finance": "재무 숫자",
             "fullwide": "전자 숫자",

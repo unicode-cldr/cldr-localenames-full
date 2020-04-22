@@ -3,7 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "th"
       },
@@ -148,6 +148,7 @@
             "cham": "ตัวเลขชาม",
             "cyrl": "cyrl",
             "deva": "ตัวเลขเทวนาครี",
+            "diak": "diak",
             "ethi": "ตัวเลขเอธิโอเปีย",
             "finance": "ตัวเลขทางการเงิน",
             "fullwide": "ตัวเลขแบบเต็มขนาด",

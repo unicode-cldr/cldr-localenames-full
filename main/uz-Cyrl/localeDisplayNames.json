@@ -3,7 +3,7 @@
     "uz-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uz",
         "script": "Cyrl"
@@ -97,6 +97,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Деванагари рақамлари",
+            "diak": "diak",
             "ethi": "Ҳабаш сонлари",
             "fullwide": "Тўлиқ кенгликдаги рақамлар",
             "geor": "Грузин сонлари",

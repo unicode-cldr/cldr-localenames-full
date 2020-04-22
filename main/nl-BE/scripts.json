@@ -3,7 +3,7 @@
     "nl-BE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nl",
         "territory": "BE"
@@ -16,6 +16,7 @@
           "Ahom": "Ahom",
           "Arab": "Arabisch",
           "Arab-alt-variant": "Perso-Arabisch",
+          "Aran": "Nastaliq",
           "Armi": "Keizerlijk Aramees",
           "Armn": "Armeens",
           "Avst": "Avestaans",
@@ -36,12 +37,14 @@
           "Cari": "Carisch",
           "Cham": "Cham",
           "Cher": "Cherokee",
+          "Chrs": "Chorasmisch",
           "Cirt": "Cirth",
           "Copt": "Koptisch",
           "Cprt": "Cyprisch",
           "Cyrl": "Cyrillisch",
           "Cyrs": "Oudkerkslavisch Cyrillisch",
           "Deva": "Devanagari",
+          "Diak": "Dives Akuru",
           "Dogr": "Dogra",
           "Dsrt": "Deseret",
           "Dupl": "Duployan snelschrift",
@@ -61,7 +64,7 @@
           "Grek": "Grieks",
           "Gujr": "Gujarati",
           "Guru": "Gurmukhi",
-          "Hanb": "Hanb",
+          "Hanb": "Han met Bopomofo",
           "Hang": "Hangul",
           "Hani": "Han",
           "Hano": "Hanunoo",
@@ -88,6 +91,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Khmer",
           "Khoj": "Khojki",
+          "Kits": "Kitaans kleinschrift",
           "Knda": "Kannada",
           "Kore": "Koreaans",
           "Kpel": "Kpelle",
@@ -146,7 +150,7 @@
           "Phnx": "Foenicisch",
           "Plrd": "Pollard-fonetisch",
           "Prti": "Inscriptioneel Parthisch",
-          "Qaag": "Qaag",
+          "Qaag": "Zawgyi",
           "Rjng": "Rejang",
           "Rohg": "Hanifi Rohingya",
           "Roro": "Rongorongo",
@@ -194,6 +198,7 @@
           "Wole": "Woleai",
           "Xpeo": "Oudperzisch",
           "Xsux": "Sumero-Akkadian Cuneiform",
+          "Yezi": "Jezidi",
           "Yiii": "Yi",
           "Zanb": "vierkant Zanabazar",
           "Zinh": "Overgeërfd",

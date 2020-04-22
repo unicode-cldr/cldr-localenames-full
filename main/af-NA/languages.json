@@ -3,7 +3,7 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "af",
         "territory": "NA"
@@ -114,6 +114,7 @@
           "eu": "Baskies",
           "ewo": "Ewondo",
           "fa": "Persies",
+          "fa-AF": "Dari",
           "ff": "Fulah",
           "fi": "Fins",
           "fil": "Filippyns",

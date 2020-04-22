@@ -3,7 +3,7 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "tr",
         "territory": "CY"
@@ -16,6 +16,7 @@
           "Ahom": "Ahom",
           "Arab": "Arap",
           "Arab-alt-variant": "Fars-Arap",
+          "Aran": "Nestâlik",
           "Armi": "İmparatorluk Aramicesi",
           "Armn": "Ermeni",
           "Avst": "Avesta",
@@ -36,12 +37,14 @@
           "Cari": "Karya",
           "Cham": "Cham",
           "Cher": "Çeroki",
+          "Chrs": "Chrs",
           "Cirt": "Cirth",
           "Copt": "Kıpti",
           "Cprt": "Kıbrıs",
           "Cyrl": "Kiril",
           "Cyrs": "Eski Kilise Slavcası Kiril",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Duployé Stenografi",
@@ -88,8 +91,9 @@
           "Khar": "Kharoshthi",
           "Khmr": "Kmer",
           "Khoj": "Khojki",
+          "Kits": "Kits",
           "Knda": "Kannada",
-          "Kore": "Kore",
+          "Kore": "Korece",
           "Kpel": "Kpelle",
           "Kthi": "Kaithi",
           "Lana": "Lanna",
@@ -146,7 +150,7 @@
           "Phnx": "Fenike",
           "Plrd": "Pollard Fonetik",
           "Prti": "Partça Kitabe Dili",
-          "Qaag": "Qaag",
+          "Qaag": "Zawgyi",
           "Rjng": "Rejang",
           "Rohg": "Rohg",
           "Roro": "Rongorongo",
@@ -194,6 +198,7 @@
           "Wole": "Woleai",
           "Xpeo": "Eski Fars",
           "Xsux": "Sümer-Akad Çivi Yazısı",
+          "Yezi": "Yezi",
           "Yiii": "Yi",
           "Zanb": "Zanb",
           "Zinh": "Kalıtsal",

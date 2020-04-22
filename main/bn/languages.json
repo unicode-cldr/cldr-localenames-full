@@ -3,7 +3,7 @@
     "bn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bn"
       },
@@ -141,6 +141,7 @@
           "eu": "বাস্ক",
           "ewo": "ইওন্ডো",
           "fa": "ফার্সি",
+          "fa-AF": "দারি",
           "fan": "ফ্যাঙ্গ",
           "fat": "ফান্তি",
           "ff": "ফুলাহ্",

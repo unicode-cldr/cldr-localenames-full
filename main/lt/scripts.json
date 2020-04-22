@@ -3,7 +3,7 @@
     "lt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lt"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "arabų",
           "Arab-alt-variant": "persų-arabų",
+          "Aran": "Aran",
           "Armi": "imperinė aramaikų",
           "Armn": "armėnų",
           "Avst": "avestano",
@@ -35,12 +36,14 @@
           "Cari": "karių",
           "Cham": "čam",
           "Cher": "čerokių",
+          "Chrs": "Chrs",
           "Cirt": "kirt",
           "Copt": "koptų",
           "Cprt": "kipro",
           "Cyrl": "kirilica",
           "Cyrs": "senoji bažnytinė slavų kirilica",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseretas",
           "Dupl": "Duplojė stenografija",
@@ -87,6 +90,7 @@
           "Khar": "karošti",
           "Khmr": "khmerų",
           "Khoj": "Khojki",
+          "Kits": "Kits",
           "Knda": "kanadų",
           "Kore": "korėjiečių",
           "Kpel": "Kpelų",
@@ -193,6 +197,7 @@
           "Wole": "Woleai",
           "Xpeo": "senieji persų",
           "Xsux": "Šumero Akado dantiraštis",
+          "Yezi": "Yezi",
           "Yiii": "ji",
           "Zanb": "Zanb",
           "Zinh": "paveldėtas",

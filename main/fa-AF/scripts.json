@@ -3,7 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fa",
         "territory": "AF"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "عربی",
           "Arab-alt-variant": "فارسی‐عربی",
+          "Aran": "Aran",
           "Armi": "آرامی هخامنشی",
           "Armn": "ارمنی",
           "Avst": "اوستایی",
@@ -35,11 +36,13 @@
           "Cari": "کاری",
           "Cham": "چمی",
           "Cher": "چروکیایی",
+          "Chrs": "Chrs",
           "Cirt": "کرت",
           "Copt": "قبطی",
           "Cprt": "قبرسی",
           "Cyrl": "سیریلی",
           "Deva": "دوناگری",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "دیسرتی",
           "Dupl": "Dupl",
@@ -84,6 +87,7 @@
           "Khar": "Khar",
           "Khmr": "خمری",
           "Khoj": "خواجکی",
+          "Kits": "Kits",
           "Knda": "کانارا",
           "Kore": "کره‌ای",
           "Kthi": "کثی",
@@ -185,6 +189,7 @@
           "Wcho": "Wcho",
           "Xpeo": "فارسی باستان",
           "Xsux": "میخی سومری‐اکدی",
+          "Yezi": "Yezi",
           "Yiii": "یی",
           "Zanb": "Zanb",
           "Zinh": "موروثی",

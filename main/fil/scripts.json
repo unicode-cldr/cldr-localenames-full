@@ -3,7 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fil"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "Arabic",
           "Arab-alt-variant": "Perso-Arabic",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Armenian",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "Cyrillic",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -53,7 +56,7 @@
           "Grek": "Greek",
           "Gujr": "Gujarati",
           "Guru": "Gurmukhi",
-          "Hanb": "Hanb",
+          "Hanb": "Han na may Bopomofo",
           "Hang": "Hangul",
           "Hani": "Han",
           "Hano": "Hano",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "Khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Korean",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

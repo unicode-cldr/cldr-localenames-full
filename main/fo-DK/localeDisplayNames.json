@@ -3,7 +3,7 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fo",
         "territory": "DK"
@@ -97,6 +97,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "devanagarik tøl",
+            "diak": "diak",
             "ethi": "etiopisk tøl",
             "fullwide": "tøl í fullari longd",
             "geor": "gregoriansk tøl",

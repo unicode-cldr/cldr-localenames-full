@@ -3,7 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cs"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "arabské",
           "Arab-alt-variant": "persko-arabské",
+          "Aran": "nastaliq",
           "Armi": "aramejské (imperiální)",
           "Armn": "arménské",
           "Avst": "avestánské",
@@ -35,12 +36,14 @@
           "Cari": "karijské",
           "Cham": "čam",
           "Cher": "čerokí",
+          "Chrs": "Chrs",
           "Cirt": "kirt",
           "Copt": "koptské",
           "Cprt": "kyperské",
           "Cyrl": "cyrilice",
           "Cyrs": "cyrilce - staroslověnská",
           "Deva": "dévanágarí",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Duployého těsnopis",
@@ -87,6 +90,7 @@
           "Khar": "kháróšthí",
           "Khmr": "khmerské",
           "Khoj": "chodžiki",
+          "Kits": "Kits",
           "Knda": "kannadské",
           "Kore": "korejské",
           "Kpel": "kpelle",
@@ -145,7 +149,7 @@
           "Phnx": "fénické",
           "Plrd": "Pollardova fonetická abeceda",
           "Prti": "parthské klínové",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "redžanské",
           "Rohg": "Rohg",
           "Roro": "rongorongo",
@@ -193,6 +197,7 @@
           "Wole": "karolínské (woleai)",
           "Xpeo": "staroperské klínové písmo",
           "Xsux": "sumero-akkadské klínové písmo",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

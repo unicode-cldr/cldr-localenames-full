@@ -3,7 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ja"
       },
@@ -198,7 +198,6 @@
           "MG": "マダガスカル",
           "MH": "マーシャル諸島",
           "MK": "北マケドニア",
-          "MK-alt-variant": "MK",
           "ML": "マリ",
           "MM": "ミャンマー (ビルマ)",
           "MN": "モンゴル",

@@ -3,7 +3,7 @@
     "it": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "it"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "arabo",
           "Arab-alt-variant": "arabo-persiano",
+          "Aran": "nastaliq",
           "Armi": "aramaico imperiale",
           "Armn": "armeno",
           "Avst": "avestico",
@@ -35,12 +36,14 @@
           "Cari": "carian",
           "Cham": "cham",
           "Cher": "cherokee",
+          "Chrs": "Chrs",
           "Cirt": "cirth",
           "Copt": "copto",
           "Cprt": "cipriota",
           "Cyrl": "cirillico",
           "Cyrs": "cirillico antica chiesa slavonica",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "stenografia duployan",
@@ -87,6 +90,7 @@
           "Khar": "kharoshthi",
           "Khmr": "khmer",
           "Khoj": "khojki",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "coreano",
           "Kpel": "Kpelle",
@@ -145,7 +149,7 @@
           "Phnx": "fenicio",
           "Plrd": "fonetica di pollard",
           "Prti": "partico delle iscrizioni",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "Rohg",
           "Roro": "rongorongo",
@@ -193,6 +197,7 @@
           "Wole": "woleai",
           "Xpeo": "persiano antico",
           "Xsux": "sumero-accadiano cuneiforme",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "ereditato",

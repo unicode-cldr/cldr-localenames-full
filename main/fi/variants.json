@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fi"
       },
@@ -34,7 +34,7 @@
           "BISKE": "sloveenin resian San Giorgion/Bilan alamurre",
           "BOHORIC": "sloveenin Bohorič-aakkosto",
           "BOONT": "englannin boontling-murre",
-          "BORNHOLM": "BORNHOLM",
+          "BORNHOLM": "Bornholmin murre",
           "CISAUP": "oksitaanin luoteisitalialainen variantti",
           "COLB1945": "portugalin oikeinkirjoitus 1945",
           "CORNU": "englannin cornu-murre",
@@ -65,7 +65,7 @@
           "KSCOR": "kornin Kernowek-ortografia",
           "LAUKIKA": "klassinen sanskriitti",
           "LEMOSIN": "oksitaanin Limousin-alueen variantti",
-          "LENGADOC": "LENGADOC",
+          "LENGADOC": "oksitaanin lengadocian variantti",
           "LIPAW": "sloveenin resian Lipovazin/Lipovecin alamurre",
           "LUNA1918": "venäjän ortografia 1918",
           "METELKO": "sloveenin Metelko-aakkosto",
@@ -73,7 +73,7 @@
           "NDYUKA": "ndyukan kreolimurre",
           "NEDIS": "sloveenin natisonen murre",
           "NEWFOUND": "englannin newfoundlandilaismurre",
-          "NICARD": "NICARD",
+          "NICARD": "oksitaanin Nizzan variantti",
           "NJIVA": "sloveenin resian Gnivan/Njivan alamurre",
           "NULIK": "nykyvolapük",
           "OSOJS": "sloveenin resian Oseaccon/Osojanen alamurre",
@@ -86,7 +86,7 @@
           "PINYIN": "kiinan pinyin-latinaistus",
           "POLYTON": "polytoninen kreikka",
           "POSIX": "tietokonemäärittely POSIX",
-          "PROVENC": "PROVENC",
+          "PROVENC": "provensaali",
           "PUTER": "retoromaanin puter-muoto",
           "REVISED": "uudistettu oikeinkirjoitus",
           "RIGIK": "klassinen volapük",
@@ -110,7 +110,7 @@
           "VAIDIKA": "sanskriitin veda-murre",
           "VALENCIA": "katalaanin valencian murre",
           "VALLADER": "reoromaanin vallader-muoto",
-          "VIVARAUP": "VIVARAUP",
+          "VIVARAUP": "oksitaanin vivaro-alpiininen variantti",
           "WADEGILE": "kiinan Wade-Giles-latinaistus",
           "XSISTEMO": "esperanton x-kirjoitus"
         }

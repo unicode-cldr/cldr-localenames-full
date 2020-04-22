@@ -3,7 +3,7 @@
     "ca-AD": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ca",
         "territory": "AD"
@@ -199,7 +199,6 @@
           "MG": "Madagascar",
           "MH": "Illes Marshall",
           "MK": "Macedònia del Nord",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birmània)",
           "MN": "Mongòlia",

@@ -3,22 +3,22 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "or"
       },
       "localeDisplayNames": {
         "variants": {
-          "1901": "1901",
+          "1901": "ପାରମ୍ପରିକ ଜର୍ମାନ ବର୍ଣ୍ଣପ୍ରକରଣ",
           "1994": "1994",
-          "1996": "1996",
+          "1996": "1996ର ଜର୍ମାନ ବର୍ଣ୍ଣପ୍ରକରଣ",
           "1606NICT": "1606NICT",
-          "1694ACAD": "1694ACAD",
-          "1959ACAD": "1959ACAD",
+          "1694ACAD": "ଆଦ୍ୟ ଆଧୁନିକ ଫରାସୀ",
+          "1959ACAD": "ଏକାଡେମିକ",
           "ABL1943": "ABL1943",
           "AKUAPEM": "AKUAPEM",
           "ALALC97": "ALALC97",
-          "ALUKU": "ALUKU",
+          "ALUKU": "ଆଲୁକୁ ଉପଭାଷା",
           "AO1990": "AO1990",
           "ARANES": "ARANES",
           "ASANTE": "ASANTE",
@@ -103,9 +103,9 @@
           "UCCOR": "UCCOR",
           "UCRCOR": "UCRCOR",
           "ULSTER": "ULSTER",
-          "UNIFON": "UNIFON",
-          "VAIDIKA": "VAIDIKA",
-          "VALENCIA": "VALENCIA",
+          "UNIFON": "ୟୁନିଫନ୍ ଫନେଟିକ୍ ଆଲଫାବେଟ୍",
+          "VAIDIKA": "ବୈଦିକ",
+          "VALENCIA": "ଭେଲେନସିଆନ୍",
           "VALLADER": "VALLADER",
           "VIVARAUP": "VIVARAUP",
           "WADEGILE": "WADEGILE",

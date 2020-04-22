@@ -3,7 +3,7 @@
     "bs-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bs",
         "script": "Cyrl"
@@ -107,6 +107,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "девангари цифре",
+            "diak": "diak",
             "ethi": "етиопски бројеви",
             "fullwide": "цифре пуне ширине",
             "geor": "грузијски бројеви",

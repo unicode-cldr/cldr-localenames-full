@@ -3,7 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bs",
         "script": "Latn"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "arapsko pismo",
           "Arab-alt-variant": "perzijsko-arapsko pismo",
+          "Aran": "Aran",
           "Armi": "imperijsko aramejsko pismo",
           "Armn": "armensko pismo",
           "Avst": "avestansko pismo",
@@ -35,12 +36,14 @@
           "Cari": "karijsko pismo",
           "Cham": "čamsko pismo",
           "Cher": "čeroki",
+          "Chrs": "Chrs",
           "Cirt": "cirt pismo",
           "Copt": "koptičko pismo",
           "Cprt": "kiparsko pismo",
           "Cyrl": "ćirilica",
           "Cyrs": "Staroslovenska crkvena ćirilica",
           "Deva": "pismo devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "dezeret",
           "Dupl": "Dupl",
@@ -86,6 +89,7 @@
           "Khar": "karošti pismo",
           "Khmr": "kmersko pismo",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "pismo kanada",
           "Kore": "korejsko pismo",
           "Kthi": "kaićansko pismo",
@@ -188,6 +192,7 @@
           "Wcho": "Wcho",
           "Xpeo": "staropersijsko pismo",
           "Xsux": "sumersko-akadsko kuneiform pismo",
+          "Yezi": "Yezi",
           "Yiii": "ji pismo",
           "Zanb": "Zanb",
           "Zinh": "nasledno pismo",

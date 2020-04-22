@@ -3,7 +3,7 @@
     "pt-GQ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pt",
         "territory": "GQ"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "árabe",
           "Arab-alt-variant": "perso-árabe",
+          "Aran": "nasta’liq",
           "Armi": "armi",
           "Armn": "arménio",
           "Avst": "avéstico",
@@ -35,12 +36,14 @@
           "Cari": "cariano",
           "Cham": "cham",
           "Cher": "cherokee",
+          "Chrs": "Chrs",
           "Cirt": "cirth",
           "Copt": "cóptico",
           "Cprt": "cipriota",
           "Cyrl": "cirílico",
           "Cyrs": "cirílico eslavo eclesiástico",
           "Deva": "devanágari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
@@ -86,6 +89,7 @@
           "Khar": "kharoshthi",
           "Khmr": "khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "coreano",
           "Kthi": "kthi",
@@ -141,7 +145,7 @@
           "Phnx": "fenício",
           "Plrd": "fonético pollard",
           "Prti": "prti",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "Rohg",
           "Roro": "rongorongo",
@@ -188,6 +192,7 @@
           "Wcho": "Wcho",
           "Xpeo": "persa antigo",
           "Xsux": "sumério-acadiano cuneiforme",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "herdado",

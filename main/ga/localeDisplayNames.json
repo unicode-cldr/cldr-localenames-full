@@ -3,7 +3,7 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ga"
       },
@@ -30,7 +30,7 @@
             "coptic": "Féilire Coptach",
             "dangi": "Féilire Dangi",
             "ethiopic": "Féilire Aetóipice",
-            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "ethiopic-amete-alem": "Féilire Aetóipice Amete Alem",
             "gregorian": "Féilire Ghréagóra",
             "hebrew": "Féilire na nEabhrach",
             "indian": "Féilire Náisiúnta na hIndia",
@@ -51,9 +51,9 @@
           "collation": {
             "big5han": "Ord sórtála Síneach traidisiúnta - Big5",
             "compat": "compat",
-            "dictionary": "dictionary",
+            "dictionary": "Ord Sórtála Foclóirí",
             "ducet": "Ord Sórtála Réamhshocraithe Unicode",
-            "emoji": "emoji",
+            "emoji": "Ord Sórtála Emoji",
             "eor": "eor",
             "gb2312han": "Ord sórtála Síneach simplithe - GB 2312",
             "phonebook": "Ord sórtála an eolaire teileafóin",
@@ -84,18 +84,19 @@
             "ussystem": "Córas Tomhais SAM"
           },
           "numbers": {
-            "ahom": "ahom",
+            "ahom": "Digití Ahom",
             "arab": "Digití Ind-Arabacha",
             "arabext": "Digití Ind-Arabacha Breisithe",
             "armn": "Uimhreacha Airméanacha",
             "armnlow": "Uimhreacha Cás Íochtair Airméanacha",
             "bali": "Digití Bailíocha",
             "beng": "Digití Beangálacha",
-            "brah": "brah",
-            "cakm": "cakm",
-            "cham": "cham",
+            "brah": "Digití Brahmi",
+            "cakm": "Digití Chakma",
+            "cham": "Digití Cham",
             "cyrl": "Uimhreacha Coireallacha",
             "deva": "Digití Déiveanágracha",
+            "diak": "diak",
             "ethi": "Uimhreacha Aetóipice",
             "fullwide": "Digití Lánleithid",
             "geor": "Uimhreacha Seoirseacha",

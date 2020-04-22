@@ -3,7 +3,7 @@
     "qu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "qu"
       },
@@ -75,6 +75,7 @@
           "eu": "Euskera Simi",
           "ewo": "Ewondo Simi",
           "fa": "Persa Simi",
+          "fa-AF": "Persa Simi (Afganistán)",
           "ff": "Fulah Simi",
           "fi": "Fines Simi",
           "fil": "Filipino Simi",
@@ -149,6 +150,7 @@
           "luo": "Luo Simi",
           "luy": "Luyia Simi",
           "lv": "Leton Simi",
+          "mai": "mai",
           "mas": "Masai Simi",
           "mer": "Meru Simi",
           "mfe": "Mauriciano Simi",
@@ -159,6 +161,7 @@
           "mk": "Macedonio Simi",
           "ml": "Malayalam Simi",
           "mn": "Mongol Simi",
+          "mni": "mni",
           "moh": "Mohawk Simi",
           "mr": "Marathi Simi",
           "ms": "Malayo Simi",
@@ -189,6 +192,7 @@
           "os": "Osetio Simi",
           "pa": "Punyabi Simi",
           "pap": "Papiamento Simi",
+          "pcm": "pcm",
           "pl": "Polaco Simi",
           "prg": "Prusiano Simi",
           "ps": "Pashto Simi",
@@ -209,6 +213,7 @@
           "sa": "Sanscrito Simi",
           "sah": "Sakha Simi",
           "saq": "Samburu Simi",
+          "sat": "sat",
           "sbp": "Sangu Simi",
           "sd": "Sindhi Simi",
           "se": "Chincha Sami Simi",

@@ -3,7 +3,7 @@
     "chr": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "chr"
       },
@@ -198,7 +198,6 @@
           "MG": "ᎹᏓᎦᏍᎧᎵ",
           "MH": "ᎹᏌᎵ ᏚᎦᏚᏛᎢ",
           "MK": "ᏧᏴᏜ ᎹᏎᏙᏂᏯ",
-          "MK-alt-variant": "MK",
           "ML": "ᎹᎵ",
           "MM": "ᎹᏯᎹᎵ (ᏇᎵᎹ)",
           "MN": "ᎹᏂᎪᎵᎠ",

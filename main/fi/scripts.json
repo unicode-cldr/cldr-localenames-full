@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fi"
       },
@@ -15,6 +15,7 @@
           "Ahom": "ahom",
           "Arab": "arabialainen",
           "Arab-alt-variant": "persialaisarabialainen",
+          "Aran": "nastaliq",
           "Armi": "valtakunnanaramealainen",
           "Armn": "armenialainen",
           "Avst": "avestalainen",
@@ -35,12 +36,14 @@
           "Cari": "kaarialainen",
           "Cham": "tšamilainen",
           "Cher": "cherokeelainen",
+          "Chrs": "horemzi",
           "Cirt": "cirth",
           "Copt": "koptilainen",
           "Cprt": "muinaiskyproslainen",
           "Cyrl": "kyrillinen",
           "Cyrs": "kyrillinen muinaiskirkkoslaavimuunnelma",
           "Deva": "devanagari",
+          "Diak": "dives akuru",
           "Dogr": "dogri",
           "Dsrt": "deseret",
           "Dupl": "Duployén pikakirjoitus",
@@ -56,7 +59,7 @@
           "Geor": "georgialainen",
           "Geor-alt-secondary": "mkhedruli",
           "Glag": "glagoliittinen",
-          "Gong": "Gong",
+          "Gong": "gondin gunjala",
           "Gonm": "masaram-gondi",
           "Goth": "goottilainen",
           "Gran": "grantha",
@@ -76,7 +79,7 @@
           "Hira": "hiragana",
           "Hluw": "anatolialaiset hieroglyfit",
           "Hmng": "pahawh hmong",
-          "Hmnp": "Hmnp",
+          "Hmnp": "hmongin nyiakeng puachue",
           "Hrkt": "japanin tavumerkistöt",
           "Hung": "muinaisunkarilainen",
           "Inds": "induslainen",
@@ -90,6 +93,7 @@
           "Khar": "kharosthi",
           "Khmr": "khmeriläinen",
           "Khoj": "khojki",
+          "Kits": "kitaanin pieni merkistö",
           "Knda": "kannadalainen",
           "Kore": "korealainen",
           "Kpel": "kpelle",
@@ -198,6 +202,7 @@
           "Wole": "woleai",
           "Xpeo": "muinaispersialainen",
           "Xsux": "sumerilais-akkadilainen nuolenpääkirjoitus",
+          "Yezi": "jesidi",
           "Yiii": "yiläinen",
           "Zanb": "zanabazar-neliökirjaimisto",
           "Zinh": "peritty",

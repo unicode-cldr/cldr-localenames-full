@@ -3,7 +3,7 @@
     "ku": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ku"
       },
@@ -46,7 +46,6 @@
           "brx": "brx",
           "bs": "bosnî",
           "bug": "bugî",
-          "byn": "byn",
           "ca": "katalanî",
           "ccp": "ccp",
           "ce": "çeçenî",
@@ -93,6 +92,7 @@
           "eu": "baskî",
           "ewo": "ewo",
           "fa": "farisî",
+          "fa-AF": "farisî (Efxanistan)",
           "ff": "fulahî",
           "fi": "fînî",
           "fil": "fîlîpînoyî",
@@ -106,7 +106,6 @@
           "fy": "frîsî",
           "ga": "îrî",
           "gd": "gaelîka skotî",
-          "gez": "gez",
           "gil": "kîrîbatî",
           "gl": "galîsî",
           "gn": "guwaranî",
@@ -183,6 +182,7 @@
           "luy": "luy",
           "lv": "latviyayî",
           "mad": "madurayî",
+          "mai": "mai",
           "mas": "masayî",
           "mdf": "mokşayî",
           "mer": "mer",
@@ -197,6 +197,7 @@
           "mk": "makedonî",
           "ml": "malayalamî",
           "mn": "mongolî",
+          "mni": "mni",
           "moh": "mohawkî",
           "mr": "maratî",
           "ms": "malezî",
@@ -233,6 +234,7 @@
           "pam": "kapampanganî",
           "pap": "papyamentoyî",
           "pau": "palawî",
+          "pcm": "pcm",
           "pl": "polonî",
           "prg": "prûsyayî",
           "ps": "peştûyî",
@@ -255,6 +257,7 @@
           "sa": "sanskrîtî",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sc": "sardînî",
           "scn": "sicîlî",
@@ -324,7 +327,7 @@
           "yi": "yidîşî",
           "yo": "yorubayî",
           "yue": "kantonî",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "kantonî",
           "zgh": "zgh",
           "zh": "zh",
           "zh-alt-menu": "zh",

@@ -3,7 +3,7 @@
     "mt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mt"
       },
@@ -127,9 +127,9 @@
           "en-AU": "Ingliż Awstraljan",
           "en-CA": "Ingliż Kanadiż",
           "en-GB": "Ingliż Brittaniku",
-          "en-GB-alt-short": "Ingliż (UK)",
+          "en-GB-alt-short": "Ingliż Brittaniku",
           "en-US": "Ingliż Amerikan",
-          "en-US-alt-short": "Ingliż (US)",
+          "en-US-alt-short": "Ingliż Amerikan",
           "enm": "Ingliż Medjevali",
           "eo": "Esperanto",
           "es": "Spanjol",
@@ -140,6 +140,7 @@
           "eu": "Bask",
           "ewo": "Ewondo",
           "fa": "Persjan",
+          "fa-AF": "Persjan (l-Afganistan)",
           "fan": "Fang",
           "fat": "Fanti",
           "ff": "Fulah",
@@ -505,17 +506,17 @@
           "yi": "Yiddish",
           "yo": "Yoruba",
           "yue": "Kantoniż",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "Kantoniż",
           "za": "Zhuang",
           "zap": "Zapotec",
           "zen": "Zenaga",
           "zgh": "Tamazight Standard tal-Marokk",
           "zh": "Ċiniż",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Ċiniż",
           "zh-Hans": "Ċiniż Simplifikat",
-          "zh-Hans-alt-long": "Ċiniż (Simplifikat)",
+          "zh-Hans-alt-long": "Ċiniż Simplifikat",
           "zh-Hant": "Ċiniż Tradizzjonali",
-          "zh-Hant-alt-long": "Ċiniż (Tradizzjonali)",
+          "zh-Hant-alt-long": "Ċiniż Tradizzjonali",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Bla kontenut lingwistiku",

@@ -3,7 +3,7 @@
     "ln-CG": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ln",
         "territory": "CG"
@@ -60,9 +60,9 @@
           "en-AU": "lingɛlɛ́sa (Ositáli)",
           "en-CA": "lingɛlɛ́sa (Kanada)",
           "en-GB": "lingɛlɛ́sa (Angɛlɛtɛ́lɛ)",
-          "en-GB-alt-short": "lingɛlɛ́sa (GB)",
+          "en-GB-alt-short": "lingɛlɛ́sa (Angɛlɛtɛ́lɛ)",
           "en-US": "lingɛlɛ́sa (Ameriki)",
-          "en-US-alt-short": "lingɛlɛ́sa (US)",
+          "en-US-alt-short": "lingɛlɛ́sa (Ameriki)",
           "eo": "eo",
           "es": "lisipanye",
           "es-419": "lisipanye (419)",
@@ -72,6 +72,7 @@
           "eu": "eu",
           "ewo": "ewo",
           "fa": "lipelésanɛ",
+          "fa-AF": "lipelésanɛ (Afiganisitá)",
           "ff": "ff",
           "fi": "fi",
           "fil": "fil",
@@ -145,6 +146,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "lv",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -155,6 +157,7 @@
           "mk": "mk",
           "ml": "ml",
           "mn": "mn",
+          "mni": "mni",
           "mr": "mr",
           "ms": "limalezi",
           "mt": "mt",
@@ -180,6 +183,7 @@
           "or": "or",
           "os": "os",
           "pa": "lipendzabi",
+          "pcm": "pcm",
           "pl": "lipolonɛ",
           "prg": "prg",
           "ps": "ps",
@@ -199,6 +203,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",
@@ -252,7 +257,7 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "lisinwa",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "lisinwa",
           "zh-Hans": "lisinwa (Hans)",
           "zh-Hans-alt-long": "lisinwa (Hans)",
           "zh-Hant": "lisinwa (Hant)",

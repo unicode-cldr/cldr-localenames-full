@@ -3,7 +3,7 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ast"
       },
@@ -171,6 +171,7 @@
           "ewo": "ewondo",
           "ext": "estremeñu",
           "fa": "persa",
+          "fa-AF": "persa (Afganistán)",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulah",
@@ -615,7 +616,7 @@
           "yo": "yoruba",
           "yrl": "nheengatu",
           "yue": "cantonés",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "cantonés",
           "za": "zhuang",
           "zap": "zapoteca",
           "zbl": "simbólicu Bliss",
@@ -623,11 +624,11 @@
           "zen": "zenaga",
           "zgh": "tamazight estándar de Marruecos",
           "zh": "chinu",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "chinu",
           "zh-Hans": "chinu simplificáu",
-          "zh-Hans-alt-long": "chinu (simplificáu)",
+          "zh-Hans-alt-long": "chinu simplificáu",
           "zh-Hant": "chinu tradicional",
-          "zh-Hant-alt-long": "chinu (tradicional)",
+          "zh-Hant-alt-long": "chinu tradicional",
           "zu": "zulú",
           "zun": "zuni",
           "zxx": "ensin conteníu llingüísticu",

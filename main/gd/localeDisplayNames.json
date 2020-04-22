@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gd"
       },
@@ -105,6 +105,7 @@
             "cham": "Àireamhan Cham",
             "cyrl": "Àireamhan na Cirilise",
             "deva": "Àireamhan Devanagari",
+            "diak": "diak",
             "ethi": "Àireamhan Itiopach",
             "fullwide": "Àireamhan làn-leud",
             "geor": "Àireamhan na Cairtbheilise",

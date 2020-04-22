@@ -3,7 +3,7 @@
     "es-IC": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "IC"
@@ -149,6 +149,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "dígitos en devanagari",
+            "diak": "diak",
             "ethi": "números en etíope",
             "finance": "Números financieros",
             "fullwide": "dígitos de ancho completo",

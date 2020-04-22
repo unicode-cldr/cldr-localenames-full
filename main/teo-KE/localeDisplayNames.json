@@ -3,7 +3,7 @@
     "teo-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "teo",
         "territory": "KE"
@@ -97,6 +97,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "deva",
+            "diak": "diak",
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",

@@ -3,7 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fr",
         "territory": "CA"
@@ -52,7 +52,7 @@
           "awa": "awadhi",
           "ay": "aymara",
           "az": "azerbaïdjanais",
-          "az-alt-short": "azéri",
+          "az-alt-short": "azerbaïdjanais",
           "ba": "bachkir",
           "bal": "baloutchi",
           "ban": "balinais",
@@ -113,6 +113,7 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "kurde central",
+          "ckb-alt-menu": "sorani",
           "co": "corse",
           "cop": "copte",
           "cps": "capiznon",
@@ -158,9 +159,9 @@
           "en-AU": "anglais australien",
           "en-CA": "anglais canadien",
           "en-GB": "anglais britannique",
-          "en-GB-alt-short": "anglais (R.-U.)",
+          "en-GB-alt-short": "anglais britannique",
           "en-US": "anglais américain",
-          "en-US-alt-short": "anglais (É.-U.)",
+          "en-US-alt-short": "anglais américain",
           "enm": "moyen anglais",
           "eo": "espéranto",
           "es": "espagnol",
@@ -173,6 +174,7 @@
           "ewo": "ewondo",
           "ext": "estrémègne",
           "fa": "persan",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "peul",

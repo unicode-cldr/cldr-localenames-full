@@ -3,7 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "to"
       },
@@ -198,7 +198,6 @@
           "MG": "Matakasika",
           "MH": "ʻOtumotu Māsolo",
           "MK": "Masetōnia fakatokelau",
-          "MK-alt-variant": "MK",
           "ML": "Māli",
           "MM": "Mianimā (Pema)",
           "MN": "Mongokōlia",

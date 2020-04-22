@@ -3,7 +3,7 @@
     "fo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fo"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshalloyggjar",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",

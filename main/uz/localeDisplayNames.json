@@ -3,7 +3,7 @@
     "uz": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uz"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "devanagari raqamlari",
+            "diak": "diak",
             "ethi": "habash raqamlari",
             "fullwide": "to‘liq enli raqamlar",
             "geor": "gruzin raqamlari",

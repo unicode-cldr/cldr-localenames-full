@@ -3,7 +3,7 @@
     "se-SE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "se",
         "territory": "SE"
@@ -77,6 +77,7 @@
           "eu": "eu",
           "ewo": "ewo",
           "fa": "persijagiella",
+          "fa-AF": "persijagiella (Afghanistan)",
           "ff": "ff",
           "fi": "suomagiella",
           "fil": "filippiinnagiella",
@@ -153,6 +154,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "látviagiella",
+          "mai": "mai",
           "mas": "mas",
           "mdf": "mokšagiella",
           "mer": "mer",
@@ -164,6 +166,7 @@
           "mk": "makedoniagiella",
           "ml": "ml",
           "mn": "mongoliagiella",
+          "mni": "mni",
           "mr": "mr",
           "ms": "ms",
           "mt": "maltagiella",
@@ -192,6 +195,7 @@
           "or": "or",
           "os": "os",
           "pa": "panjabigiella",
+          "pcm": "pcm",
           "pl": "polskkagiella",
           "prg": "prg",
           "ps": "ps",
@@ -211,6 +215,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sc": "sardigiella",
           "scn": "sisiliagiella",
@@ -272,14 +277,14 @@
           "yi": "yi",
           "yo": "yo",
           "yue": "kantongiella",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "kantongiella",
           "zgh": "zgh",
           "zh": "kiinnágiella",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "kiinnágiella",
           "zh-Hans": "álki kiinágiella",
-          "zh-Hans-alt-long": "kiinnágiella (álki)",
+          "zh-Hans-alt-long": "álki kiinágiella",
           "zh-Hant": "árbevirolaš kiinnágiella",
-          "zh-Hant-alt-long": "kiinnágiella (árbevirolaš)",
+          "zh-Hant-alt-long": "árbevirolaš kiinnágiella",
           "zu": "zu",
           "zxx": "zxx"
         }

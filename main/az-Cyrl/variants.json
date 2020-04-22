@@ -3,7 +3,7 @@
     "az-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "az",
         "script": "Cyrl"

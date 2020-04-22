@@ -3,7 +3,7 @@
     "lo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lo"
       },
@@ -96,6 +96,7 @@
             "cham": "ຕົວເລກຊຣາມ",
             "cyrl": "cyrl",
             "deva": "ຕົວເລກເດວານາກາຣີ",
+            "diak": "diak",
             "ethi": "ຕົວເລກເອທິໂອປິກ",
             "fullwide": "ຕົວເລກຄວາມກວ້າງເຕັມ",
             "geor": "ຕົວເລກຈໍຈຽນ",

@@ -3,7 +3,7 @@
     "smn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "smn"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Kongo täsiväldi",
           "CH": "Sveitsi",
           "CI": "Côte d’Ivoire",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Côte d’Ivoire",
           "CK": "Cooksuolluuh",
           "CL": "Chile",
           "CM": "Kamerun",
@@ -101,7 +101,7 @@
           "CX": "Juovlâsuálui",
           "CY": "Kypros",
           "CZ": "Tšekki",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tšekki",
           "DE": "Saksa",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Marshallsuolluuh",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -271,7 +270,7 @@
           "SX": "Sint Maarten",
           "SY": "Syria",
           "SZ": "Swazieennâm",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swazieennâm",
           "TA": "Tristan da Cunha",
           "TC": "Turks- já Caicossuolluuh",
           "TD": "Tšad",
@@ -281,7 +280,7 @@
           "TJ": "Tadžikistan",
           "TK": "Tokelau",
           "TL": "Timor-Leste",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Timor-Leste",
           "TM": "Turkmenistan",
           "TN": "Tunisia",
           "TO": "Tonga",

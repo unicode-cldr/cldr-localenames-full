@@ -3,7 +3,7 @@
     "de-LI": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "de",
         "territory": "LI"
@@ -149,6 +149,7 @@
             "cham": "Cham-Ziffern",
             "cyrl": "cyrl",
             "deva": "Devanagari-Ziffern",
+            "diak": "diak",
             "ethi": "Äthiopische Ziffern",
             "finance": "Finanzzahlen",
             "fullwide": "Vollbreite Ziffern",

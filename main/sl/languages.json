@@ -3,7 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sl"
       },
@@ -127,7 +127,7 @@
           "en-AU": "avstralska angleščina",
           "en-CA": "kanadska angleščina",
           "en-GB": "angleščina (VB)",
-          "en-GB-alt-short": "angleščina (ZK)",
+          "en-GB-alt-short": "angleščina (VB)",
           "en-US": "angleščina (ZDA)",
           "en-US-alt-short": "angleščina (ZDA)",
           "enm": "srednja angleščina",
@@ -140,6 +140,7 @@
           "eu": "baskovščina",
           "ewo": "evondovščina",
           "fa": "perzijščina",
+          "fa-AF": "darijščina",
           "fan": "fangijščina",
           "fat": "fantijščina",
           "ff": "fulščina",
@@ -518,9 +519,9 @@
           "zh": "kitajščina",
           "zh-alt-menu": "kitajščina (mandarinščina)",
           "zh-Hans": "poenostavljena kitajščina",
-          "zh-Hans-alt-long": "kitajščina (poenostavljena pisava han)",
+          "zh-Hans-alt-long": "poenostavljena kitajščina",
           "zh-Hant": "tradicionalna kitajščina",
-          "zh-Hant-alt-long": "kitajščina (tradicionalna pisava han)",
+          "zh-Hant-alt-long": "tradicionalna kitajščina",
           "zu": "zulujščina",
           "zun": "zunijščina",
           "zxx": "brez jezikoslovne vsebine",

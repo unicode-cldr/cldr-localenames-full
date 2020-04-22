@@ -3,7 +3,7 @@
     "be": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "be"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "лічбы дэванагары",
+            "diak": "diak",
             "ethi": "эфіопскія лічбы",
             "fullwide": "поўнашырынныя лічбы",
             "geor": "грузінскія лічбы",

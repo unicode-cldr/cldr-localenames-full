@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hr",
         "territory": "BA"
@@ -16,6 +16,7 @@
           "Ahom": "Ahom",
           "Arab": "arapsko pismo",
           "Arab-alt-variant": "perzijsko-arapsko pismo",
+          "Aran": "nastaliq",
           "Armi": "aramejsko pismo",
           "Armn": "armensko pismo",
           "Avst": "avestansko pismo",
@@ -36,12 +37,14 @@
           "Cari": "karijsko pismo",
           "Cham": "čamsko pismo",
           "Cher": "čeroki pismo",
+          "Chrs": "Chrs",
           "Cirt": "cirth pismo",
           "Copt": "koptsko pismo",
           "Cprt": "cypriot pismo",
           "Cyrl": "ćirilica",
           "Cyrs": "staroslavenska crkvena čirilica",
           "Deva": "devangari pismo",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret pismo",
           "Dupl": "Dupl",
@@ -88,6 +91,7 @@
           "Khar": "kharoshthi pismo",
           "Khmr": "kmersko pismo",
           "Khoj": "khojki pismo",
+          "Kits": "Kits",
           "Knda": "kannada pismo",
           "Kore": "korejsko pismo",
           "Kpel": "kpelle pismo",
@@ -146,7 +150,7 @@
           "Phnx": "feničko pismo",
           "Plrd": "pollard fonetsko pismo",
           "Prti": "pisani parthian",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang pismo",
           "Rohg": "Rohg",
           "Roro": "rongorongo pismo",
@@ -194,6 +198,7 @@
           "Wole": "woleai pismo",
           "Xpeo": "staro perzijsko pismo",
           "Xsux": "sumersko-akadsko cuneiform pismo",
+          "Yezi": "Yezi",
           "Yiii": "Yi pismo",
           "Zanb": "Zanb",
           "Zinh": "nasljedno pismo",

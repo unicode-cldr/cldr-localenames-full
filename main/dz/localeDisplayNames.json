@@ -3,7 +3,7 @@
     "dz": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "dz"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "དེ་ཝ་ན་ག་རི་ཨང",
+            "diak": "diak",
             "ethi": "ཨི་ཐི་ཡོ་པིཀ་ཨང་རྟགཨ",
             "fullwide": "རྒྱ་ཚད་གང་བའི་ཨང",
             "geor": "ཇཽར་ཇཱི་ཡཱན་ཨང་རྟགས",

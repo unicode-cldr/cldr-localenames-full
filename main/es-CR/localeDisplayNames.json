@@ -3,7 +3,7 @@
     "es-CR": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "CR"
@@ -47,9 +47,9 @@
             "indian": "calendario nacional hindú",
             "islamic": "calendario islámico",
             "islamic-civil": "calendario civil islámico",
-            "islamic-rgsa": "islamic-rgsa",
-            "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-rgsa": "calendario islámico (Arabia Saudita)",
+            "islamic-tbla": "calendario islámico tabular",
+            "islamic-umalqura": "calendario islámico umalqura",
             "iso8601": "calendario ISO-8601",
             "japanese": "calendario japonés",
             "persian": "calendario persa",
@@ -149,6 +149,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "dígitos en devanagari",
+            "diak": "diak",
             "ethi": "números en etíope",
             "finance": "Números financieros",
             "fullwide": "dígitos de ancho completo",

@@ -3,7 +3,7 @@
     "ii": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ii"
       },
@@ -128,7 +128,7 @@
           "FR": "ꃔꇩ",
           "GA": "GA",
           "GB": "ꑱꇩ",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "ꑱꇩ",
           "GD": "GD",
           "GE": "GE",
           "GF": "GF",
@@ -198,7 +198,6 @@
           "MG": "MG",
           "MH": "MH",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "ML",
           "MM": "MM",
           "MN": "MN",
@@ -295,7 +294,7 @@
           "UM": "UM",
           "UN": "UN",
           "US": "ꂰꇩ",
-          "US-alt-short": "US",
+          "US-alt-short": "ꂰꇩ",
           "UY": "UY",
           "UZ": "UZ",
           "VA": "VA",

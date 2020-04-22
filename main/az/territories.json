@@ -3,7 +3,7 @@
     "az": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "az"
       },
@@ -198,7 +198,6 @@
           "MG": "Madaqaskar",
           "MH": "Marşal adaları",
           "MK": "Şimali Makedoniya",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanma",
           "MN": "Monqolustan",

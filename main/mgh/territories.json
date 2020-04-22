@@ -3,7 +3,7 @@
     "mgh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mgh"
       },
@@ -84,10 +84,10 @@
           "CD-alt-variant": "CD",
           "CF": "CF",
           "CG": "Ukongo",
-          "CG-alt-variant": "CG",
+          "CG-alt-variant": "Ukongo",
           "CH": "Uswisi",
           "CI": "Ukodiva",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Ukodiva",
           "CK": "CK",
           "CL": "Uchile",
           "CM": "CM",
@@ -101,7 +101,7 @@
           "CX": "CX",
           "CY": "Ukuprosi",
           "CZ": "Ucheki",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Ucheki",
           "DE": "DE",
           "DG": "DG",
           "DJ": "Ujibuti",
@@ -198,7 +198,6 @@
           "MG": "Ubukini",
           "MH": "MH",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "ML",
           "MM": "MM",
           "MN": "MN",
@@ -271,7 +270,7 @@
           "SX": "SX",
           "SY": "Usiria",
           "SZ": "Uswazi",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Uswazi",
           "TA": "TA",
           "TC": "TC",
           "TD": "Uchadi",
@@ -281,7 +280,7 @@
           "TJ": "Ujikistani",
           "TK": "Utokelau",
           "TL": "Utimo Mashariki",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "Utimo Mashariki",
           "TM": "Uturukimenistani",
           "TN": "Utunisia",
           "TO": "Utonga",
@@ -295,7 +294,7 @@
           "UM": "UM",
           "UN": "UN",
           "US": "Umarekani",
-          "US-alt-short": "US",
+          "US-alt-short": "Umarekani",
           "UY": "UY",
           "UZ": "UZ",
           "VA": "Uvatikani",

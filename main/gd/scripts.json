@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gd"
       },
@@ -14,6 +14,7 @@
           "Aghb": "Albàinis Chabhcasach",
           "Ahom": "Ahom",
           "Arab": "Arabais",
+          "Aran": "Aran",
           "Armi": "Aramais impireil",
           "Armn": "Airmeinis",
           "Avst": "Avestanais",
@@ -34,12 +35,14 @@
           "Cari": "Carian",
           "Cham": "Cham",
           "Cher": "Cherokee",
+          "Chrs": "Chrs",
           "Cirt": "Cirth",
           "Copt": "Coptais",
           "Cprt": "Cìoprasais",
           "Cyrl": "Cirilis",
           "Cyrs": "Cirilis Seann-Slàbhais na h-Eaglaise",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogra",
           "Dsrt": "Deseret",
           "Dupl": "Gearr-sgrìobhadh Duployé",
@@ -82,6 +85,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Cmèar",
           "Khoj": "Khojki",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Coirèanais",
           "Kpel": "Kpelle",
@@ -138,7 +142,7 @@
           "Phnx": "Pheniceach",
           "Plrd": "Miao Phollard",
           "Prti": "Partais snaidh-sgrìobhte",
-          "Qaag": "Qaag",
+          "Qaag": "Zawgyi",
           "Rjng": "Rejang",
           "Rohg": "Hanifi Rohingya",
           "Roro": "Rongorongo",
@@ -184,6 +188,7 @@
           "Wole": "Woleai",
           "Xpeo": "Seann-Pheirsis",
           "Xsux": "Gèinn-sgrìobhadh Sumer is Akkad",
+          "Yezi": "Yezi",
           "Yiii": "Yi",
           "Zanb": "Zanabazar ceàrnagach",
           "Zinh": "Dìleab",

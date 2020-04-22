@@ -3,7 +3,7 @@
     "mgh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mgh"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "deva",
+            "diak": "diak",
             "ethi": "ethi",
             "fullwide": "fullwide",
             "geor": "geor",

@@ -3,7 +3,7 @@
     "es-IC": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "IC"
@@ -138,9 +138,9 @@
           "en-AU": "inglés australiano",
           "en-CA": "inglés canadiense",
           "en-GB": "inglés británico",
-          "en-GB-alt-short": "inglés (RU)",
+          "en-GB-alt-short": "inglés británico",
           "en-US": "inglés estadounidense",
-          "en-US-alt-short": "inglés (EE. UU.)",
+          "en-US-alt-short": "inglés estadounidense",
           "enm": "inglés medio",
           "eo": "esperanto",
           "es": "español",
@@ -151,6 +151,7 @@
           "eu": "euskera",
           "ewo": "ewondo",
           "fa": "persa",
+          "fa-AF": "darí",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fula",

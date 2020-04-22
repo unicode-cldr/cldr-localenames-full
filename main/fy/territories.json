@@ -3,7 +3,7 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fy"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "Congo (Republyk)",
           "CH": "Switserlân",
           "CI": "Ivoorkust",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Ivoorkust",
           "CK": "Cookeilannen",
           "CL": "Chili",
           "CM": "Kameroen",
@@ -101,7 +101,7 @@
           "CX": "Krysteilan",
           "CY": "Syprus",
           "CZ": "Tsjechje",
-          "CZ-alt-variant": "CZ",
+          "CZ-alt-variant": "Tsjechje",
           "DE": "Dútslân",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -198,7 +198,6 @@
           "MG": "Madeiaskar",
           "MH": "Marshalleilannen",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Birma)",
           "MN": "Mongolië",
@@ -271,7 +270,7 @@
           "SX": "Sint-Maarten",
           "SY": "Syrië",
           "SZ": "Swazilân",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swazilân",
           "TA": "Tristan da Cunha",
           "TC": "Turks- en Caicoseilannen",
           "TD": "Tsjaad",
@@ -281,7 +280,7 @@
           "TJ": "Tadzjikistan",
           "TK": "Tokelau",
           "TL": "East-Timor",
-          "TL-alt-variant": "TL",
+          "TL-alt-variant": "East-Timor",
           "TM": "Turkmenistan",
           "TN": "Tunesië",
           "TO": "Tonga",

@@ -3,7 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nb",
         "territory": "SJ"
@@ -118,7 +118,7 @@
           "ER": "Eritrea",
           "ES": "Spania",
           "ET": "Etiopia",
-          "EU": "EU",
+          "EU": "Den europeiske union",
           "EZ": "eurosonen",
           "FI": "Finland",
           "FJ": "Fiji",
@@ -199,7 +199,6 @@
           "MG": "Madagaskar",
           "MH": "Marshalløyene",
           "MK": "Nord-Makedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -295,7 +294,6 @@
           "UG": "Uganda",
           "UM": "USAs ytre øyer",
           "UN": "FN",
-          "UN-alt-short": "FN",
           "US": "USA",
           "US-alt-short": "USA",
           "UY": "Uruguay",

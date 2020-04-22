@@ -3,7 +3,7 @@
     "gsw-FR": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gsw",
         "territory": "FR"
@@ -14,6 +14,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "Arabisch",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Armenisch",
           "Avst": "Aveschtisch",
@@ -34,12 +35,14 @@
           "Cari": "Karisch",
           "Cham": "Cham",
           "Cher": "Cherokee",
+          "Chrs": "Chrs",
           "Cirt": "Cirth",
           "Copt": "Koptisch",
           "Cprt": "Zypriotisch",
           "Cyrl": "Kyrillisch",
           "Cyrs": "Altchileslawisch",
           "Deva": "Tövanagaari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Teseret",
           "Dupl": "Dupl",
@@ -64,9 +67,9 @@
           "Hani": "Chineesisch",
           "Hano": "Hanunoo",
           "Hans": "Veräifachti Chineesischi Schrift",
-          "Hans-alt-stand-alone": "Hans",
+          "Hans-alt-stand-alone": "Veräifachti Chineesischi Schrift",
           "Hant": "Tradizionelli Chineesischi Schrift",
-          "Hant-alt-stand-alone": "Hant",
+          "Hant-alt-stand-alone": "Tradizionelli Chineesischi Schrift",
           "Hatr": "Hatr",
           "Hebr": "Hebräisch",
           "Hira": "Hiragana",
@@ -85,6 +88,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Koreanisch",
           "Kthi": "Kthi",
@@ -187,6 +191,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Altpersisch",
           "Xsux": "Sumerisch-akkadischi Keilschrift",
+          "Yezi": "Yezi",
           "Yiii": "Yi",
           "Zanb": "Zanb",
           "Zinh": "G’eerbtä Schriftwärt",

@@ -3,7 +3,7 @@
     "naq": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "naq"
       },
@@ -59,9 +59,9 @@
           "en-AU": "Engels (Australieb)",
           "en-CA": "Engels (Kanadab)",
           "en-GB": "Engels (United Kingdom)",
-          "en-GB-alt-short": "Engels (GB)",
+          "en-GB-alt-short": "Engels (United Kingdom)",
           "en-US": "Engels (Amerikab)",
-          "en-US-alt-short": "Engels (US)",
+          "en-US-alt-short": "Engels (Amerikab)",
           "eo": "eo",
           "es": "Spaans",
           "es-419": "Spaans (419)",
@@ -71,6 +71,7 @@
           "eu": "eu",
           "ewo": "ewo",
           "fa": "Persiaǁî gowab",
+          "fa-AF": "Persiaǁî gowab (Afghanistanni)",
           "ff": "ff",
           "fi": "fi",
           "fil": "fil",
@@ -144,6 +145,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "lv",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -154,6 +156,7 @@
           "mk": "mk",
           "ml": "ml",
           "mn": "mn",
+          "mni": "mni",
           "mr": "mr",
           "ms": "Malayǁî gowab",
           "mt": "mt",
@@ -179,6 +182,7 @@
           "or": "or",
           "os": "os",
           "pa": "Punjabigowab",
+          "pcm": "pcm",
           "pl": "Poleǁî gowab",
           "prg": "prg",
           "ps": "ps",
@@ -198,6 +202,7 @@
           "sa": "sa",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sd": "sd",
           "se": "se",
@@ -251,7 +256,7 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Chineesǁî gowab, Mandarinni",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Chineesǁî gowab, Mandarinni",
           "zh-Hans": "Chineesǁî gowab, Mandarinni (Hans)",
           "zh-Hans-alt-long": "Chineesǁî gowab, Mandarinni (Hans)",
           "zh-Hant": "Chineesǁî gowab, Mandarinni (Hant)",

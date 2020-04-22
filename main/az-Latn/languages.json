@@ -3,7 +3,7 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "az",
         "script": "Latn"
@@ -130,9 +130,9 @@
           "en-AU": "Avstraliya ingiliscəsi",
           "en-CA": "Kanada ingiliscəsi",
           "en-GB": "Britaniya ingiliscəsi",
-          "en-GB-alt-short": "ingilis (BK)",
+          "en-GB-alt-short": "Britaniya ingiliscəsi",
           "en-US": "Amerika ingiliscəsi",
-          "en-US-alt-short": "ingilis (ABŞ)",
+          "en-US-alt-short": "Amerika ingiliscəsi",
           "enm": "orta ingilis",
           "eo": "esperanto",
           "es": "ispan",
@@ -143,6 +143,7 @@
           "eu": "bask",
           "ewo": "evondo",
           "fa": "fars",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fula",

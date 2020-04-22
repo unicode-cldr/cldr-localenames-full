@@ -3,7 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cy"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagascar",
           "MH": "Ynysoedd Marshall",
           "MK": "Gogledd Macedonia",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",

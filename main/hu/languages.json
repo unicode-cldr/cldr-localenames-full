@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hu"
       },
@@ -34,6 +34,7 @@
           "arn": "mapucse",
           "arp": "arapaho",
           "ars": "nedzsdi arab",
+          "ars-alt-menu": "arab, nedzsdi",
           "arw": "aravak",
           "as": "asszámi",
           "asa": "asu",
@@ -95,6 +96,7 @@
           "chr": "cseroki",
           "chy": "csejen",
           "ckb": "közép-ázsiai kurd",
+          "ckb-alt-menu": "kurd, szoráni",
           "co": "korzikai",
           "cop": "kopt",
           "cr": "krí",
@@ -137,9 +139,9 @@
           "en-AU": "ausztrál angol",
           "en-CA": "kanadai angol",
           "en-GB": "brit angol",
-          "en-GB-alt-short": "angol (UK)",
+          "en-GB-alt-short": "brit angol",
           "en-US": "amerikai angol",
-          "en-US-alt-short": "angol (USA)",
+          "en-US-alt-short": "amerikai angol",
           "enm": "közép angol",
           "eo": "eszperantó",
           "es": "spanyol",
@@ -150,6 +152,7 @@
           "eu": "baszk",
           "ewo": "evondo",
           "fa": "perzsa",
+          "fa-AF": "dari",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fulani",

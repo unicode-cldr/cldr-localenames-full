@@ -3,7 +3,7 @@
     "ta": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ta"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "தேவநாகரி இலக்கங்கள்",
+            "diak": "diak",
             "ethi": "எத்தியோப்பிய எண்கள்",
             "finance": "நிதி எண்கள்",
             "fullwide": "முழு-அகல இலக்கங்கள்",

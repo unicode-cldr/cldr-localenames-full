@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pl"
       },
@@ -198,7 +198,6 @@
           "MG": "Madagaskar",
           "MH": "Wyspy Marshalla",
           "MK": "Macedonia Północna",
-          "MK-alt-variant": "MK",
           "ML": "Mali",
           "MM": "Mjanma (Birma)",
           "MN": "Mongolia",

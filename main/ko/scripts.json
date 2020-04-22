@@ -3,7 +3,7 @@
     "ko": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ko"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "아랍 문자",
           "Arab-alt-variant": "페르소-아라비아 문자",
+          "Aran": "나스탈리크체",
           "Armi": "아랍제국 문자",
           "Armn": "아르메니아 문자",
           "Avst": "아베스타 문자",
@@ -35,12 +36,14 @@
           "Cari": "카리 문자",
           "Cham": "칸 고어",
           "Cher": "체로키 문자",
+          "Chrs": "Chrs",
           "Cirt": "키르쓰",
           "Copt": "콥트 문자",
           "Cprt": "키프로스 문자",
           "Cyrl": "키릴 문자",
           "Cyrs": "고대교회슬라브어 키릴문자",
           "Deva": "데바나가리 문자",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "디저렛 문자",
           "Dupl": "듀플로이안 문자",
@@ -87,6 +90,7 @@
           "Khar": "카로슈티 문자",
           "Khmr": "크메르 문자",
           "Khoj": "코즈키 문자",
+          "Kits": "Kits",
           "Knda": "칸나다 문자",
           "Kore": "한국어",
           "Kpel": "크펠레 문자",
@@ -145,7 +149,7 @@
           "Phnx": "페니키아 문자",
           "Plrd": "폴라드 표음 문자",
           "Prti": "명문 파라티아 문자",
-          "Qaag": "Qaag",
+          "Qaag": "저지 문자",
           "Rjng": "레장 문자",
           "Rohg": "Rohg",
           "Roro": "롱고롱고",
@@ -193,6 +197,7 @@
           "Wole": "울레아이",
           "Xpeo": "고대 페르시아 문자",
           "Xsux": "수메르-아카드어 설형문자",
+          "Yezi": "Yezi",
           "Yiii": "이 문자",
           "Zanb": "Zanb",
           "Zinh": "구전 문자",

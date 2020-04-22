@@ -3,7 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "to"
       },
@@ -171,6 +171,7 @@
           "ewo": "lea fakaʻeuōnito",
           "ext": "lea fakaʻekisitematula",
           "fa": "lea fakapēsia",
+          "fa-AF": "lea fakapēsia (ʻAfikānisitani)",
           "fan": "lea fakafangi",
           "fat": "lea fakafanitē",
           "ff": "lea fakafulā",

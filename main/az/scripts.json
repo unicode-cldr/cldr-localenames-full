@@ -3,7 +3,7 @@
     "az": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "az"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "ərəb",
+          "Aran": "Aran",
           "Armi": "armi",
           "Armn": "erməni",
           "Avst": "avestan",
@@ -33,12 +34,14 @@
           "Cari": "kariyan",
           "Cham": "çam",
           "Cher": "çiroki",
+          "Chrs": "Chrs",
           "Cirt": "sirt",
           "Copt": "koptik",
           "Cprt": "kipr",
           "Cyrl": "kiril",
           "Cyrs": "qədimi kilsa kirili",
           "Deva": "devanaqari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "deseret",
           "Dupl": "Dupl",
@@ -84,6 +87,7 @@
           "Khar": "xaroşti",
           "Khmr": "kxmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannada",
           "Kore": "koreya",
           "Kthi": "kti",
@@ -184,6 +188,7 @@
           "Wcho": "Wcho",
           "Xpeo": "qədimi fars",
           "Xsux": "sumer-akadyan kuneyform",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

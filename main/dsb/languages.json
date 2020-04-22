@@ -3,7 +3,7 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "dsb"
       },
@@ -26,7 +26,7 @@
           "av": "awaršćina",
           "ay": "aymaršćina",
           "az": "azerbajdžanšćina",
-          "az-alt-short": "az",
+          "az-alt-short": "azerbajdžanšćina",
           "ba": "baškiršćina",
           "bas": "bas",
           "be": "běłorušćina",
@@ -85,6 +85,7 @@
           "eu": "baskišćina",
           "ewo": "ewo",
           "fa": "persišćina",
+          "fa-AF": "persišćina (Afghanistan)",
           "ff": "ff",
           "fi": "finšćina",
           "fil": "filipinšćina",
@@ -167,6 +168,7 @@
           "luo": "luo",
           "luy": "luhya",
           "lv": "letišćina",
+          "mai": "mai",
           "mas": "masaišćina",
           "mer": "meru",
           "mfe": "mauriciska kreolšćina",
@@ -177,6 +179,7 @@
           "mk": "makedońšćina",
           "ml": "malajamšćina",
           "mn": "mongolšćina",
+          "mni": "mni",
           "moh": "mohawkšćina",
           "mr": "maratišćina",
           "ms": "malajšćina",
@@ -209,6 +212,7 @@
           "or": "orojišćina",
           "os": "os",
           "pa": "pandžabšćina",
+          "pcm": "pcm",
           "pl": "pólšćina",
           "prg": "prusčina",
           "ps": "paštunšćina",
@@ -229,6 +233,7 @@
           "sa": "sanskrit",
           "sah": "sah",
           "saq": "samburu",
+          "sat": "sat",
           "sbp": "sangu",
           "sc": "sardinšćina",
           "scn": "sicilianišćina",
@@ -297,11 +302,11 @@
           "za": "zhuang",
           "zgh": "standardny marokkański tamazight",
           "zh": "chinšćina",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "chinšćina",
           "zh-Hans": "chinšćina (zjadnorjona)",
-          "zh-Hans-alt-long": "chinšćina (zjadnorjone)",
+          "zh-Hans-alt-long": "chinšćina (zjadnorjona)",
           "zh-Hant": "chinšćina (tradicionalna)",
-          "zh-Hant-alt-long": "chinšćina (tradionalne)",
+          "zh-Hant-alt-long": "chinšćina (tradicionalna)",
           "zu": "zulu",
           "zxx": "žedno rěcne wopśimjeśe"
         }

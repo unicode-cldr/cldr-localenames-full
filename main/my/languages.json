@@ -3,7 +3,7 @@
     "my": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "my"
       },
@@ -115,6 +115,7 @@
           "eu": "ဘာစ်ခ်",
           "ewo": "အီဝန်ဒို",
           "fa": "ပါရှန်",
+          "fa-AF": "ဒါရီ",
           "ff": "ဖူလာ",
           "fi": "ဖင်လန်",
           "fil": "ဖိလစ်ပိုင်",

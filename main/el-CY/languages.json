@@ -3,7 +3,7 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "el",
         "territory": "CY"
@@ -151,6 +151,7 @@
           "eu": "Βασκικά",
           "ewo": "Εγουόντο",
           "fa": "Περσικά",
+          "fa-AF": "Νταρί",
           "fan": "Φανγκ",
           "fat": "Φάντι",
           "ff": "Φουλά",

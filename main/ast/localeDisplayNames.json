@@ -3,7 +3,7 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ast"
       },
@@ -96,6 +96,7 @@
             "cham": "númberos cham",
             "cyrl": "númberos cirílicos",
             "deva": "númberos devanagari",
+            "diak": "diak",
             "ethi": "númberos etíopes",
             "fullwide": "númberos n’anchu completu",
             "geor": "númberos xeorxanos",

@@ -3,7 +3,7 @@
     "jgo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "jgo"
       },
@@ -81,13 +81,13 @@
           "CA": "Kanadâ",
           "CC": "CC",
           "CD": "Kɔ́ŋgɔ-Kinshása",
-          "CD-alt-variant": "CD",
+          "CD-alt-variant": "Kɔ́ŋgɔ-Kinshása",
           "CF": "CF",
           "CG": "Kɔ́ŋgɔ-Mbɛlazavîl",
-          "CG-alt-variant": "CG",
+          "CG-alt-variant": "Kɔ́ŋgɔ-Mbɛlazavîl",
           "CH": "Sẅísɛ",
           "CI": "Kɔ́t Ndivwâ",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Kɔ́t Ndivwâ",
           "CK": "CK",
           "CL": "Cíllɛ",
           "CM": "Kamɛlûn",
@@ -198,7 +198,6 @@
           "MG": "Mándaŋgasɛkâ",
           "MH": "MH",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "Malî",
           "MM": "MM",
           "MN": "MN",
@@ -271,7 +270,7 @@
           "SX": "SX",
           "SY": "SY",
           "SZ": "Swazilân",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "Swazilân",
           "TA": "TA",
           "TC": "TC",
           "TD": "Cât",

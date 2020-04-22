@@ -3,7 +3,7 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "el",
         "territory": "CY"
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "Αραβικό",
           "Arab-alt-variant": "Περσικό-Αραβικό",
+          "Aran": "Νασταλίκ",
           "Armi": "Αυτοκρατορικό Αραμαϊκό",
           "Armn": "Αρμενικό",
           "Avst": "Αβεστάν",
@@ -35,12 +36,14 @@
           "Cari": "Καριάν",
           "Cham": "Τσαμ",
           "Cher": "Τσερόκι",
+          "Chrs": "Chrs",
           "Cirt": "Σερθ",
           "Copt": "Κοπτικό",
           "Cprt": "Κυπριακό",
           "Cyrl": "Κυριλλικό",
           "Cyrs": "Παλαιό Εκκλησιαστικό Σλαβικό Κυριλλικό",
           "Deva": "Ντεβαναγκάρι",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Ντεσερέ",
           "Dupl": "Dupl",
@@ -86,6 +89,7 @@
           "Khar": "Καρόσθι",
           "Khmr": "Χμερ",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Κανάντα",
           "Kore": "Κορεατικό",
           "Kthi": "Καϊθί",
@@ -188,6 +192,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Παλαιό Περσικό",
           "Xsux": "Σούμερο-Ακάντιαν Κουνεϊφόρμ",
+          "Yezi": "Yezi",
           "Yiii": "Γι",
           "Zanb": "Zanb",
           "Zinh": "Κληρονομημένο",

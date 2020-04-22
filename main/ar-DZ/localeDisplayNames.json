@@ -3,7 +3,7 @@
     "ar-DZ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ar",
         "territory": "DZ"
@@ -149,6 +149,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "الأرقام الديفانغارية",
+            "diak": "diak",
             "ethi": "الأرقام الإثيوبية",
             "finance": "الأرقام المالية",
             "fullwide": "أرقام كاملة العرض",

@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eu"
       },
@@ -109,6 +109,7 @@
           "eu": "euskara",
           "ewo": "ewondera",
           "fa": "persiera",
+          "fa-AF": "daria",
           "ff": "fula",
           "fi": "finlandiera",
           "fil": "filipinera",

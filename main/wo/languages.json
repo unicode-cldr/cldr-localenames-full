@@ -3,7 +3,7 @@
     "wo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "wo"
       },
@@ -19,7 +19,7 @@
           "asa": "asa",
           "ast": "ast",
           "az": "Aserbayjane",
-          "az-alt-short": "az",
+          "az-alt-short": "Aserbayjane",
           "ba": "Baskir",
           "ban": "Bali",
           "bas": "bas",
@@ -75,6 +75,7 @@
           "eu": "Bask",
           "ewo": "ewo",
           "fa": "Pers",
+          "fa-AF": "Pers (Afganistaŋ)",
           "ff": "Pël",
           "fi": "Feylànde",
           "fil": "Filipiye",
@@ -155,6 +156,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "Letoniye",
+          "mai": "mai",
           "mas": "mas",
           "men": "Mende",
           "mer": "mer",
@@ -197,6 +199,7 @@
           "os": "os",
           "pa": "Punjabi",
           "pap": "Papiyamento",
+          "pcm": "pcm",
           "pl": "Polone",
           "prg": "prg",
           "ps": "Pasto",
@@ -276,11 +279,11 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "Sinuwaa",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Sinuwaa",
           "zh-Hans": "Sinuwaa buñ woyofal",
-          "zh-Hans-alt-long": "Sinuwaa (Buñ woyofal)",
+          "zh-Hans-alt-long": "Sinuwaa buñ woyofal",
           "zh-Hant": "Sinuwaa bu cosaan",
-          "zh-Hant-alt-long": "Sinuwaa (Cosaan)",
+          "zh-Hant-alt-long": "Sinuwaa bu cosaan",
           "zu": "zu",
           "zxx": "zxx"
         }

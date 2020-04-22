@@ -3,7 +3,7 @@
     "mi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mi"
       },
@@ -128,7 +128,7 @@
           "FR": "Wīwī",
           "GA": "GA",
           "GB": "Hononga o Piritene",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "Hononga o Piritene",
           "GD": "GD",
           "GE": "GE",
           "GF": "GF",
@@ -198,7 +198,6 @@
           "MG": "MG",
           "MH": "MH",
           "MK": "Makerōnia ki te Raki",
-          "MK-alt-variant": "MK",
           "ML": "ML",
           "MM": "MM",
           "MN": "MN",
@@ -295,7 +294,7 @@
           "UM": "UM",
           "UN": "UN",
           "US": "Hononga o Amerika",
-          "US-alt-short": "US",
+          "US-alt-short": "Hononga o Amerika",
           "UY": "UY",
           "UZ": "UZ",
           "VA": "VA",

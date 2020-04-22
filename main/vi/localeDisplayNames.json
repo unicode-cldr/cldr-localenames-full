@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "vi"
       },
@@ -148,6 +148,7 @@
             "cham": "Chữ số Chăm",
             "cyrl": "Số Kirin",
             "deva": "Chữ số Devanagari",
+            "diak": "diak",
             "ethi": "Chữ số Ethiopia",
             "finance": "Chữ số dùng trong tài chính",
             "fullwide": "Chữ số có độ rộng đầy đủ",

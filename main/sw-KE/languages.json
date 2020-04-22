@@ -3,7 +3,7 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sw",
         "territory": "KE"
@@ -125,6 +125,7 @@
           "eu": "Kibaski",
           "ewo": "Kiewondo",
           "fa": "Kiajemi",
+          "fa-AF": "Kiajemi (Afghanistani)",
           "ff": "Kifulani",
           "fi": "Kifini",
           "fil": "Kifilipino",

@@ -3,7 +3,7 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uz",
         "script": "Latn"
@@ -110,6 +110,7 @@
           "eu": "bask",
           "ewo": "evondo",
           "fa": "fors",
+          "fa-AF": "dari",
           "ff": "fula",
           "fi": "fincha",
           "fil": "filipincha",
@@ -138,7 +139,6 @@
           "gv": "men",
           "gwi": "gvichin",
           "ha": "xausa",
-          "hak": "hak",
           "haw": "gavaycha",
           "he": "ivrit",
           "hi": "hind",
@@ -146,7 +146,6 @@
           "hmn": "xmong",
           "hr": "xorvat",
           "hsb": "yuqori sorb",
-          "hsn": "hsn",
           "ht": "gaityan",
           "hu": "venger",
           "hup": "xupa",
@@ -261,7 +260,6 @@
           "myv": "erzya",
           "mzn": "mozandaron",
           "na": "nauru",
-          "nan": "nan",
           "nap": "neapolitan",
           "naq": "nama",
           "nb": "norveg-bokmal",
@@ -400,7 +398,6 @@
           "war": "varay",
           "wbp": "valbiri",
           "wo": "volof",
-          "wuu": "wuu",
           "xal": "qalmoq",
           "xh": "kxosa",
           "xog": "soga",

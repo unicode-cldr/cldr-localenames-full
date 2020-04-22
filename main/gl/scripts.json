@@ -3,7 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gl"
       },
@@ -14,6 +14,7 @@
           "Ahom": "Ahom",
           "Arab": "árabe",
           "Arab-alt-variant": "perso-árabe",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "armenio",
           "Avst": "Avst",
@@ -33,10 +34,12 @@
           "Cari": "Cari",
           "Cham": "Cham",
           "Cher": "Cher",
+          "Chrs": "Chrs",
           "Copt": "Copt",
           "Cprt": "Cprt",
           "Cyrl": "cirílico",
           "Deva": "devanágari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Dsrt",
           "Dupl": "Dupl",
@@ -78,6 +81,7 @@
           "Khar": "Khar",
           "Khmr": "khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "kannará",
           "Kore": "coreano",
           "Kthi": "Kthi",
@@ -168,6 +172,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Xpeo",
           "Xsux": "Xsux",
+          "Yezi": "Yezi",
           "Yiii": "Yiii",
           "Zanb": "Zanb",
           "Zinh": "Zinh",

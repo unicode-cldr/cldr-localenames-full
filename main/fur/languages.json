@@ -3,7 +3,7 @@
     "fur": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fur"
       },
@@ -27,7 +27,7 @@
           "av": "avar",
           "ay": "aymarà",
           "az": "azerbaijani",
-          "az-alt-short": "az",
+          "az-alt-short": "azerbaijani",
           "bas": "bas",
           "be": "bielorùs",
           "bem": "bem",
@@ -72,9 +72,9 @@
           "en-AU": "inglês australian",
           "en-CA": "inglês canadês",
           "en-GB": "inglês britanic",
-          "en-GB-alt-short": "inglês (GB)",
+          "en-GB-alt-short": "inglês britanic",
           "en-US": "ingles merecan",
-          "en-US-alt-short": "inglês (US)",
+          "en-US-alt-short": "ingles merecan",
           "eo": "esperanto",
           "es": "spagnûl",
           "es-419": "spagnûl de Americhe Latine",
@@ -84,6 +84,7 @@
           "eu": "basc",
           "ewo": "ewo",
           "fa": "persian",
+          "fa-AF": "persian (Afghanistan)",
           "ff": "fulah",
           "fi": "finlandês",
           "fil": "filipin",
@@ -167,6 +168,7 @@
           "luo": "luo",
           "luy": "luy",
           "lv": "leton",
+          "mai": "mai",
           "mas": "mas",
           "mer": "mer",
           "mfe": "mfe",
@@ -177,6 +179,7 @@
           "mk": "macedon",
           "ml": "malayalam",
           "mn": "mongul",
+          "mni": "mni",
           "mr": "marathi",
           "ms": "malês",
           "mt": "maltês",
@@ -211,6 +214,7 @@
           "ota": "turc otoman",
           "pa": "punjabi",
           "pap": "papiamento",
+          "pcm": "pcm",
           "peo": "vieri persian",
           "pl": "polac",
           "prg": "prg",
@@ -232,6 +236,7 @@
           "sa": "sanscrit",
           "sah": "sah",
           "saq": "saq",
+          "sat": "sat",
           "sbp": "sbp",
           "sc": "sardegnûl",
           "scn": "sicilian",
@@ -296,11 +301,11 @@
           "yue-alt-menu": "yue",
           "zgh": "zgh",
           "zh": "cinês",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "cinês",
           "zh-Hans": "cinês semplificât",
-          "zh-Hans-alt-long": "cinês (Han semplificât)",
+          "zh-Hans-alt-long": "cinês semplificât",
           "zh-Hant": "cinês tradizionâl",
-          "zh-Hant-alt-long": "cinês (Han tradizionâl)",
+          "zh-Hant-alt-long": "cinês tradizionâl",
           "zu": "zulu",
           "zxx": "zxx"
         }

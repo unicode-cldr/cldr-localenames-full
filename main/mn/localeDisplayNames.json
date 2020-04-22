@@ -3,7 +3,7 @@
     "mn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mn"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "деванагари тоо",
+            "diak": "diak",
             "ethi": "этиоп тоо",
             "fullwide": "бүтэн-өргөнтэй тоо",
             "geor": "гүрж тоо",

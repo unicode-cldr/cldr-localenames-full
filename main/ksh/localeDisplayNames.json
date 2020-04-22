@@ -3,7 +3,7 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ksh"
       },
@@ -96,6 +96,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "Devanagari-Zeffere",
+            "diak": "diak",
             "ethi": "ätejoopesche Zahle",
             "fullwide": "janz breede Zeffere",
             "geor": "jeorjeesche Zahle",

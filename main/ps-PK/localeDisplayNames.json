@@ -3,7 +3,7 @@
     "ps-PK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ps",
         "territory": "PK"
@@ -97,6 +97,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "ديوانګري اعداد",
+            "diak": "diak",
             "ethi": "ايتهوپيايي اعداد",
             "fullwide": "د بشپړه پراختيا اعداد",
             "geor": "ګريګورين اعداد",

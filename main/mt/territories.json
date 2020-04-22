@@ -3,7 +3,7 @@
     "mt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mt"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "ir-Repubblika tal-Kongo",
           "CH": "l-Iżvizzera",
           "CI": "il-Kosta tal-Avorju",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "il-Kosta tal-Avorju",
           "CK": "Gżejjer Cook",
           "CL": "iċ-Ċili",
           "CM": "il-Kamerun",
@@ -198,7 +198,6 @@
           "MG": "Madagascar",
           "MH": "Gżejjer Marshall",
           "MK": "il-Maċedonja ta’ Fuq",
-          "MK-alt-variant": "MK",
           "ML": "il-Mali",
           "MM": "il-Myanmar/Burma",
           "MN": "il-Mongolja",
@@ -271,7 +270,7 @@
           "SX": "Sint Maarten",
           "SY": "is-Sirja",
           "SZ": "is-Swaziland",
-          "SZ-alt-variant": "SZ",
+          "SZ-alt-variant": "is-Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "il-Gżejjer Turks u Caicos",
           "TD": "iċ-Chad",

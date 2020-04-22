@@ -3,7 +3,7 @@
     "kn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kn"
       },
@@ -46,7 +46,7 @@
             "indian": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕ್ಯಾಲೆಂಡರ್",
             "islamic": "ಇಸ್ಲಾಮಿಕ್ ಕ್ಯಾಲೆಂಡರ್",
             "islamic-civil": "ಇಸ್ಲಾಮಿಕ್-ಸಿವಿಲ್ ಕ್ಯಾಲೆಂಡರ್",
-            "islamic-rgsa": "islamic-rgsa",
+            "islamic-rgsa": "ಇಸ್ಲಾಮಿಕ್‌ ಕ್ಯಾಲೆಂಡರ್‌ (ಸೌದಿ ಅರೇಬಿಯಾ, ಸೈಟಿಂಗ್‌)bia, sighting)",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "ಇಸ್ಲಾಮಿಕ್ ಕ್ಯಾಲೆಂಡರ್ (ಉಮ್ ಅಲ್-ಖುರಾ)",
             "iso8601": "ISO-8601 ಕ್ಯಾಲೆಂಡರ್",
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "ದೇವನಾಗರಿ ಅಂಕೆಗಳು",
+            "diak": "diak",
             "ethi": "ಇಥಿಯೋಪಿಯಾದ ಸಂಖ್ಯೆಗಳು",
             "finance": "ಆರ್ಥಿಕ ಸಂಖ್ಯೆಗಳು",
             "fullwide": "ಪೂರ್ಣ ಅಗಲವಾದ ಸಂಖ್ಯೆಗಳು",

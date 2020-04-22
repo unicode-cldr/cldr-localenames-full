@@ -3,7 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ja"
       },
@@ -148,6 +148,7 @@
             "cham": "チャム数字",
             "cyrl": "cyrl",
             "deva": "デーバナーガリー数字",
+            "diak": "diak",
             "ethi": "エチオピア数字",
             "finance": "財務用漢数字",
             "fullwide": "全角数字",

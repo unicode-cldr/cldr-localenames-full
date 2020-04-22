@@ -3,7 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uk"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "цифри деванагарі",
+            "diak": "diak",
             "ethi": "ефіопські цифри",
             "finance": "фінансові символи чисел",
             "fullwide": "цифри повної ширини",

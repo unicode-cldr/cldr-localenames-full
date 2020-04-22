@@ -3,7 +3,7 @@
     "ha": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ha"
       },
@@ -71,6 +71,7 @@
           "eu": "Basque",
           "ewo": "Ewondo",
           "fa": "Parisanci",
+          "fa-AF": "Parisanci (Afaganistan)",
           "ff": "Fulah",
           "fi": "Yaren mutanen Finland",
           "fil": "Dan Filifin",
@@ -144,6 +145,7 @@
           "luo": "Luo",
           "luy": "Luyia",
           "lv": "Latbiyanci",
+          "mai": "mai",
           "mas": "Harshen Masai",
           "mer": "Meru",
           "mfe": "Morisyen",
@@ -154,6 +156,7 @@
           "mk": "Dan Masedoniya",
           "ml": "Kabilar Maleyalam",
           "mn": "Mongolian",
+          "mni": "mni",
           "mr": "Kʼabilan Marathi",
           "ms": "Harshen Malai",
           "mt": "Harshen Maltis",
@@ -179,6 +182,7 @@
           "or": "Oriyanci",
           "os": "Ossetic",
           "pa": "Punjabi",
+          "pcm": "pcm",
           "pl": "Harshen Polan",
           "prg": "Ferusawa",
           "ps": "Pashtanci",
@@ -194,10 +198,11 @@
           "root": "root",
           "ru": "Rashanci",
           "rw": "Kiniyaruwanda",
-          "rwk": "rwk",
+          "rwk": "yaren Rwa",
           "sa": "Sanskrit",
           "sah": "Sakha",
           "saq": "Samburu",
+          "sat": "sat",
           "sbp": "Sangu",
           "sd": "Sindiyanci",
           "se": "Northern Sami",
@@ -253,11 +258,11 @@
           "zh": "Harshen Sinanci",
           "zh-alt-menu": "Harshen, Sinanci",
           "zh-Hans": "Sauƙaƙaƙƙen Sinanci",
-          "zh-Hans-alt-long": "Harshen Sinanci (Sauƙaƙaƙƙen)",
+          "zh-Hans-alt-long": "Sauƙaƙaƙƙen Sinanci",
           "zh-Hant": "Sinanci na gargajiya",
-          "zh-Hant-alt-long": "Harshen Sinanci (Na gargajiya)",
+          "zh-Hant-alt-long": "Sinanci na gargajiya",
           "zu": "Harshen Zulu",
-          "zxx": "zxx"
+          "zxx": "Babu abun-ciki na yare"
         }
       }
     }

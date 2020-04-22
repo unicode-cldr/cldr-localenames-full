@@ -3,7 +3,7 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ksh"
       },
@@ -127,6 +127,7 @@
           "eu": "Baskesch",
           "ewo": "Ewonndo",
           "fa": "Pärsesch",
+          "fa-AF": "Pärsesch en Afjaanistahn",
           "ff": "Fulfulde",
           "fi": "Finnesch",
           "fil": "Fillipihnesch",
@@ -240,6 +241,7 @@
           "luo": "Luo",
           "luy": "Luhjesch",
           "lv": "Lättesch",
+          "mai": "mai",
           "mas": "mas",
           "mdf": "Mokschah",
           "mer": "mer",
@@ -289,6 +291,7 @@
           "or": "Oriija",
           "os": "Oßeetesch",
           "pa": "Panschaabesch",
+          "pcm": "pcm",
           "pl": "Pollnesch",
           "prg": "prg",
           "ps": "Paschtuunesch",
@@ -310,6 +313,7 @@
           "sa": "Sanskrit",
           "sah": "Jackutesch",
           "saq": "saq",
+          "sat": "sat",
           "sba": "Njambaij",
           "sbp": "sbp",
           "sd": "Sinndi",
@@ -383,14 +387,14 @@
           "yi": "Jiddesch",
           "yo": "Joruhba",
           "yue": "Kanton-Schinehsesch",
-          "yue-alt-menu": "yue",
+          "yue-alt-menu": "Kanton-Schinehsesch",
           "zgh": "zgh",
           "zh": "Schinehsesch (Mandarin)",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "Schinehsesch (Mandarin)",
           "zh-Hans": "Schinehsesch (eijfache Schreff)",
-          "zh-Hans-alt-long": "Schinehsesch [Mandarin] en eijfacher",
+          "zh-Hans-alt-long": "Schinehsesch (eijfache Schreff)",
           "zh-Hant": "Schinehsesch (tradizjonälle Schreff)",
-          "zh-Hant-alt-long": "Schinehsesch [Mandarin] en tradizjonäll",
+          "zh-Hant-alt-long": "Schinehsesch (tradizjonälle Schreff)",
           "zu": "Suhlu",
           "zun": "Suhñi",
           "zxx": "kein Schprooch",

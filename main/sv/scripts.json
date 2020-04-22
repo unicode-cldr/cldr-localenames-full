@@ -3,7 +3,7 @@
     "sv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sv"
       },
@@ -14,6 +14,7 @@
           "Aghb": "kaukasiska albanska",
           "Ahom": "ahom",
           "Arab": "arabiska",
+          "Aran": "nastaliq",
           "Armi": "imperisk arameiska",
           "Armn": "armeniska",
           "Avst": "avestiska",
@@ -34,12 +35,14 @@
           "Cari": "kariska",
           "Cham": "cham",
           "Cher": "cherokee",
+          "Chrs": "Chrs",
           "Cirt": "cirt",
           "Copt": "koptiska",
           "Cprt": "cypriotiska",
           "Cyrl": "kyrilliska",
           "Cyrs": "fornkyrkoslavisk kyrilliska",
           "Deva": "devanagari",
+          "Diak": "Diak",
           "Dogr": "dogriska",
           "Dsrt": "deseret",
           "Dupl": "Duployéstenografiska",
@@ -86,6 +89,7 @@
           "Khar": "kharoshti",
           "Khmr": "khmeriska",
           "Khoj": "khojkiska",
+          "Kits": "Kits",
           "Knda": "kanaresiska",
           "Kore": "koreanska",
           "Kpel": "kpellé",
@@ -144,7 +148,7 @@
           "Phnx": "feniciska",
           "Plrd": "pollardtecken",
           "Prti": "tidig parthianska",
-          "Qaag": "Qaag",
+          "Qaag": "zawgyi",
           "Rjng": "rejang",
           "Rohg": "hanifiska",
           "Roro": "rongo-rongo",
@@ -192,6 +196,7 @@
           "Wole": "woleai",
           "Xpeo": "fornpersiska",
           "Xsux": "sumero-akkadisk kilskrift",
+          "Yezi": "Yezi",
           "Yiii": "yi",
           "Zanb": "zanabazar kvadratisk skrift",
           "Zinh": "ärvda",

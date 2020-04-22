@@ -3,7 +3,7 @@
     "as": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "as"
       },
@@ -108,6 +108,7 @@
           "eu": "বাস্ক",
           "ewo": "ইওন্দো",
           "fa": "ফাৰ্ছী",
+          "fa-AF": "দাৰি",
           "ff": "ফুলাহ",
           "fi": "ফিনিচ",
           "fil": "ফিলিপিনো",

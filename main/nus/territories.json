@@ -3,7 +3,7 @@
     "nus": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nus"
       },
@@ -84,10 +84,10 @@
           "CD-alt-variant": "CD",
           "CF": "Cɛntrɔl aprika repuɔblic",
           "CG": "Kɔŋgɔ",
-          "CG-alt-variant": "CG",
+          "CG-alt-variant": "Kɔŋgɔ",
           "CH": "CH",
           "CI": "Kodibo̱o̱",
-          "CI-alt-variant": "CI",
+          "CI-alt-variant": "Kodibo̱o̱",
           "CK": "Kuk ɣa̱ylɛn",
           "CL": "Cili̱",
           "CM": "Kɛmɛrun",
@@ -198,7 +198,6 @@
           "MG": "MG",
           "MH": "MH",
           "MK": "MK",
-          "MK-alt-variant": "MK",
           "ML": "ML",
           "MM": "MM",
           "MN": "MN",

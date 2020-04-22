@@ -3,7 +3,7 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fy"
       },
@@ -15,6 +15,7 @@
           "Ahom": "Ahom",
           "Arab": "Arabysk",
           "Arab-alt-variant": "Perso-Arabysk",
+          "Aran": "Aran",
           "Armi": "Keizerlijk Aramees",
           "Armn": "Armeens",
           "Avst": "Avestaansk",
@@ -35,12 +36,14 @@
           "Cari": "Karysk",
           "Cham": "Cham",
           "Cher": "Cherokee",
+          "Chrs": "Chrs",
           "Cirt": "Cirth",
           "Copt": "Koptysk",
           "Cprt": "Syprysk",
           "Cyrl": "Syrillysk",
           "Cyrs": "Aldkerkslavysk Syrillysk",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Duployan snelschrift",
@@ -87,6 +90,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Khmer",
           "Khoj": "Khojki",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Koreaansk",
           "Kpel": "Kpelle",
@@ -193,6 +197,7 @@
           "Wole": "Woleai",
           "Xpeo": "Aldperzysk",
           "Xsux": "Sumero-Akkadian Cuneiform",
+          "Yezi": "Yezi",
           "Yiii": "Yi",
           "Zanb": "Zanb",
           "Zinh": "Oergeërfd",

@@ -3,7 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "gu"
       },
@@ -148,6 +148,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "દેવનાગરી અંકો",
+            "diak": "diak",
             "ethi": "ઇથિયોપીક સંખ્યાઓ",
             "finance": "નાણાકીય સંખ્યાઓ",
             "fullwide": "પૂર્ણ પહોળાઈ અંકો",

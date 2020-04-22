@@ -3,7 +3,7 @@
     "hsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hsb"
       },
@@ -26,7 +26,7 @@
           "av": "awaršćina",
           "ay": "aymaršćina",
           "az": "azerbajdźanšćina",
-          "az-alt-short": "az",
+          "az-alt-short": "azerbajdźanšćina",
           "ba": "baškiršćina",
           "bas": "bas",
           "be": "běłorušćina",
@@ -73,9 +73,9 @@
           "en-AU": "awstralska jendźelšćina",
           "en-CA": "kanadiska jendźelšćina",
           "en-GB": "britiska jendźelšćina",
-          "en-GB-alt-short": "jendźelšćina (UK)",
+          "en-GB-alt-short": "britiska jendźelšćina",
           "en-US": "ameriska jendźelšćina",
-          "en-US-alt-short": "jendźelšćina (USA)",
+          "en-US-alt-short": "ameriska jendźelšćina",
           "eo": "esperanto",
           "es": "španišćina",
           "es-419": "łaćonskoameriska španišćina",
@@ -85,6 +85,7 @@
           "eu": "baskišćina",
           "ewo": "ewo",
           "fa": "persišćina",
+          "fa-AF": "persišćina (Afghanistan)",
           "ff": "ff",
           "fi": "finšćina",
           "fil": "filipinšćina",
@@ -167,6 +168,7 @@
           "luo": "luo",
           "luy": "luhya",
           "lv": "letišćina",
+          "mai": "mai",
           "mas": "masaišćina",
           "mer": "meru",
           "mfe": "mauriciska kreolšćina",
@@ -177,6 +179,7 @@
           "mk": "makedonšćina",
           "ml": "malajamšćina",
           "mn": "mongolšćina",
+          "mni": "mni",
           "moh": "mohawkšćina",
           "mr": "maratišćina",
           "ms": "malajšćina",
@@ -209,6 +212,7 @@
           "or": "orijšćina",
           "os": "os",
           "pa": "pandźabšćina",
+          "pcm": "pcm",
           "pl": "pólšćina",
           "prg": "prušćina",
           "ps": "paštunšćina",
@@ -229,6 +233,7 @@
           "sa": "sanskrit",
           "sah": "sah",
           "saq": "samburu",
+          "sat": "sat",
           "sbp": "sangu",
           "sc": "sardinšćina",
           "scn": "sicilšćina",
@@ -297,11 +302,11 @@
           "za": "zhuang",
           "zgh": "tamazight",
           "zh": "chinšćina",
-          "zh-alt-menu": "zh",
+          "zh-alt-menu": "chinšćina",
           "zh-Hans": "chinšćina (zjednorjena)",
-          "zh-Hans-alt-long": "chinšćina (zjednorjene)",
+          "zh-Hans-alt-long": "chinšćina (zjednorjena)",
           "zh-Hant": "chinšćina (tradicionalna)",
-          "zh-Hant-alt-long": "chinšćina (tradicionalne)",
+          "zh-Hant-alt-long": "chinšćina (tradicionalna)",
           "zu": "zulušćina",
           "zxx": "žadyn rěčny wobsah"
         }

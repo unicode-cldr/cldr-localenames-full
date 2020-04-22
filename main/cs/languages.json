@@ -3,7 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cs"
       },
@@ -172,6 +172,7 @@
           "ewo": "ewondo",
           "ext": "extremadurština",
           "fa": "perština",
+          "fa-AF": "darí",
           "fan": "fang",
           "fat": "fantština",
           "ff": "fulbština",

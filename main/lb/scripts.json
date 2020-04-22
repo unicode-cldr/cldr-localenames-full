@@ -3,7 +3,7 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lb"
       },
@@ -13,6 +13,7 @@
           "Aghb": "Aghb",
           "Ahom": "Ahom",
           "Arab": "Arabesch",
+          "Aran": "Aran",
           "Armi": "Armi",
           "Armn": "Armenesch",
           "Avst": "Avestesch",
@@ -33,12 +34,14 @@
           "Cari": "Karesch",
           "Cham": "Cham",
           "Cher": "Cherokee",
+          "Chrs": "Chrs",
           "Cirt": "Cirth",
           "Copt": "Koptesch",
           "Cprt": "Zypriotesch",
           "Cyrl": "Kyrillesch",
           "Cyrs": "Alkiercheslawesch",
           "Deva": "Devanagari",
+          "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Deseret",
           "Dupl": "Dupl",
@@ -84,6 +87,7 @@
           "Khar": "Kharoshthi",
           "Khmr": "Khmer",
           "Khoj": "Khoj",
+          "Kits": "Kits",
           "Knda": "Kannada",
           "Kore": "Koreanesch",
           "Kthi": "Kthi",
@@ -186,6 +190,7 @@
           "Wcho": "Wcho",
           "Xpeo": "Alpersesch",
           "Xsux": "Sumeresch-akkadesch Keilschrëft",
+          "Yezi": "Yezi",
           "Yiii": "Yi",
           "Zanb": "Zanb",
           "Zinh": "Geierfte Schrëftwäert",

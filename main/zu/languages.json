@@ -3,7 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zu"
       },
@@ -110,6 +110,7 @@
           "eu": "isi-Basque",
           "ewo": "isi-Ewondo",
           "fa": "isi-Persian",
+          "fa-AF": "isi-Dari",
           "ff": "isi-Fulah",
           "fi": "isi-Finnish",
           "fil": "isi-Filipino",
@@ -420,9 +421,9 @@
           "zh": "isi-Chinese",
           "zh-alt-menu": "isi-Chinese, Mandarin",
           "zh-Hans": "isi-Chinese (esenziwe-lula)",
-          "zh-Hans-alt-long": "isi-Chinese (enziwe lula)",
+          "zh-Hans-alt-long": "isi-Chinese (esenziwe-lula)",
           "zh-Hant": "isi-Chinese (Okosiko)",
-          "zh-Hant-alt-long": "isi-Chinese (okosiko)",
+          "zh-Hant-alt-long": "isi-Chinese (Okosiko)",
           "zu": "isiZulu",
           "zun": "isi-Zuni",
           "zxx": "akukho okuqukethwe kolimi",

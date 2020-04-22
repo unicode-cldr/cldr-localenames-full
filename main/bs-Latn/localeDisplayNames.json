@@ -3,7 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bs",
         "script": "Latn"
@@ -115,6 +115,7 @@
             "cham": "cham",
             "cyrl": "cyrl",
             "deva": "brojevi pisma devanagari",
+            "diak": "diak",
             "ethi": "etiopski brojevi",
             "fullwide": "široki brojevi",
             "geor": "gruzijski brojevi",
