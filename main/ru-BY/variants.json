@@ -3,7 +3,7 @@
     "ru-BY": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ru",
         "territory": "BY"
@@ -60,7 +60,7 @@
           "IVANCHOV": "IVANCHOV",
           "JAUER": "JAUER",
           "JYUTPING": "JYUTPING",
-          "KKCOR": "KKCOR",
+          "KKCOR": "Общая орфография",
           "KOCIEWIE": "KOCIEWIE",
           "KSCOR": "KSCOR",
           "LAUKIKA": "LAUKIKA",
@@ -82,6 +82,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "Пиньинь",
           "POLYTON": "Многотональный",
@@ -103,6 +104,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "Тарашкевица",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "UCCOR",
           "UCRCOR": "UCRCOR",
           "ULSTER": "ULSTER",

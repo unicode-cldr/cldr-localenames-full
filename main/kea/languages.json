@@ -3,7 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kea"
       },
@@ -43,6 +43,8 @@
           "cgg": "xiga",
           "chr": "xeroki",
           "ckb": "kurdu sentral",
+          "ckb-alt-menu": "kurdu sentral",
+          "ckb-alt-variant": "kurdu sentral",
           "co": "kórsiku",
           "cs": "txeku",
           "cu": "slavu klériku",
@@ -54,6 +56,7 @@
           "de-AT": "alemon austríaku",
           "de-CH": "alemon altu suisu",
           "dje": "zarma",
+          "doi": "doi",
           "dsb": "sórbiu baxu",
           "dua": "duala",
           "dyo": "jola-fonyi",
@@ -94,7 +97,7 @@
           "gd": "gd",
           "gl": "galegu",
           "gn": "guarani",
-          "gsw": "alemon suísu",
+          "gsw": "alemon suisu",
           "gu": "gujarati",
           "guz": "gusii",
           "gv": "manks",
@@ -124,6 +127,7 @@
           "kam": "kamba",
           "kde": "makonde",
           "kea": "kabuverdianu",
+          "kgp": "kgp",
           "khq": "koira txiini",
           "ki": "kikuiu",
           "kk": "kazak",
@@ -146,6 +150,7 @@
           "lag": "langi",
           "lb": "luxemburges",
           "lg": "luganda",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "lausianu",
@@ -187,6 +192,7 @@
           "nn": "norueges nynorsk",
           "nnh": "nnh",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "om": "oromo",
@@ -247,7 +253,7 @@
           "tr": "turku",
           "tt": "tatar",
           "twq": "twq",
-          "tzm": "tamazait di Atlas Sentral",
+          "tzm": "tamaziti di Atlas Sentral",
           "ug": "uigur",
           "uk": "ukranianu",
           "und": "língua diskonxedu",

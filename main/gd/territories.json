@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gd"
       },
@@ -257,7 +257,7 @@
           "SG": "Singeapòr",
           "SH": "Eilean Naomh Eilidh",
           "SI": "An t-Slòbhain",
-          "SJ": "Svalbard agus Jan Mayen",
+          "SJ": "Svalbard is Jan Mayen",
           "SK": "An t-Slòbhac",
           "SL": "Siarra Leòmhann",
           "SM": "San Marino",

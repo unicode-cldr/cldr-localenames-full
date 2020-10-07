@@ -3,7 +3,7 @@
     "dsb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "dsb"
       },
@@ -50,6 +50,8 @@
           "cho": "choctawšćina",
           "chr": "cherokee",
           "ckb": "sorani",
+          "ckb-alt-menu": "sorani",
+          "ckb-alt-variant": "sorani",
           "co": "korsišćina",
           "cr": "kri",
           "cs": "češćina",
@@ -61,6 +63,7 @@
           "de-AT": "awstriska nimšćina",
           "de-CH": "šwicarska wusokonimšćina",
           "dje": "zarma",
+          "doi": "doi",
           "dsb": "dolnoserbšćina",
           "dua": "duala",
           "dv": "divehi",
@@ -135,6 +138,7 @@
           "kam": "kamba",
           "kde": "makonde",
           "kea": "kapverdšćina",
+          "kgp": "kgp",
           "khq": "koyra chiini",
           "ki": "kikuyu",
           "kk": "kazachšćina",
@@ -158,6 +162,7 @@
           "lb": "luxemburgšćina",
           "lg": "gandšćina",
           "li": "limburšćina",
+          "lij": "lij",
           "lkt": "lakotšćina",
           "ln": "lingala",
           "lo": "laošćina",

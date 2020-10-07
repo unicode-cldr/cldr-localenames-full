@@ -3,7 +3,7 @@
     "ia": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ia"
       },
@@ -49,7 +49,7 @@
           "AL": "Albania",
           "AM": "Armenia",
           "AO": "Angola",
-          "AQ": "AQ",
+          "AQ": "Antarctica",
           "AR": "Argentina",
           "AS": "Samoa american",
           "AT": "Austria",
@@ -273,7 +273,7 @@
           "SZ-alt-variant": "Swazilandia",
           "TA": "TA",
           "TC": "Insulas Turcos e Caicos",
-          "TD": "TD",
+          "TD": "Tchad",
           "TF": "Territorios meridional francese",
           "TG": "Togo",
           "TH": "Thailandia",

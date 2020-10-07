@@ -3,7 +3,7 @@
     "ast": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ast"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "dialectu pamaka",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "romanización pinyin",
           "POLYTON": "politónicu",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "ortografía taraskievica",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "ortografía unificada",
           "UCRCOR": "ortografía unificada revisada",
           "ULSTER": "ULSTER",

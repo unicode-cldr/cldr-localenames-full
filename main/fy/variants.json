@@ -3,7 +3,7 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fy"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "Pamaka",
+          "PEANO": "PEANO",
           "PETR1708": "Petr1708",
           "PINYIN": "Pinyin",
           "POLYTON": "Polytonaal",
@@ -102,6 +103,8 @@
           "SURSILV": "Sursilvan",
           "SUTSILV": "Sutsilvan",
           "TARASK": "Taraskievica-stavering",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "Ienfoarmige stavering",
           "UCRCOR": "Ienfoarmige stavering (hersjoen)",
           "ULSTER": "Ulster",

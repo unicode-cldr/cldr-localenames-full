@@ -3,7 +3,7 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sv",
         "territory": "AX"
@@ -132,7 +132,7 @@
             "ungegn": "enligt FN:s geografiska namnkommitté"
           },
           "ms": {
-            "metric": "SI-enheter",
+            "metric": "metersystem",
             "uksystem": "brittiskt måttsystem",
             "ussystem": "USA:s måttsystem"
           },
@@ -149,7 +149,7 @@
             "cham": "chamiska siffror",
             "cyrl": "kyrilliska taltecken",
             "deva": "devanagariska siffror",
-            "diak": "diak",
+            "diak": "dives akuru-siffror",
             "ethi": "etiopiska taltecken",
             "finance": "finansiella siffror",
             "fullwide": "fullbreddssiffror",

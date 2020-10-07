@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sd"
       },
@@ -103,7 +103,7 @@
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
-          "Mlym": "مليالم",
+          "Mlym": "ملايالم",
           "Modi": "Modi",
           "Mong": "منگولي",
           "Mroo": "Mroo",

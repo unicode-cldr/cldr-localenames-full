@@ -3,7 +3,7 @@
     "da": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "da"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "Pamaka-dialekt",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "pinyin",
           "POLYTON": "polytonisk",
@@ -102,6 +103,8 @@
           "SURSILV": "sursilv",
           "SUTSILV": "sutsilv",
           "TARASK": "Taraskievica-ortografi",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "forenet ortografi",
           "UCRCOR": "forenet revideret ortografi",
           "ULSTER": "ulster",

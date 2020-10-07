@@ -3,7 +3,7 @@
     "lkt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lkt"
       },
@@ -51,6 +51,8 @@
           "chr": "Cherokee Iyápi",
           "chy": "Šahíyela Iyápi",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cop": "Coptic Iyápi",
           "cr": "Maštíŋča Oyáte Iyápi",
@@ -140,6 +142,7 @@
           "kbd": "Kabardian Iyápi",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "Kazakh Iyápi",
@@ -162,6 +165,7 @@
           "lah": "Lahnda Iyápi",
           "lb": "Luxembourg Iyápi",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "Lakȟólʼiyapi",
           "ln": "ln",
           "lo": "Lao Iyápi",

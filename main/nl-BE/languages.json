@@ -3,7 +3,7 @@
     "nl-BE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nl",
         "territory": "BE"
@@ -62,7 +62,7 @@
           "bax": "Bamoun",
           "bbc": "Batak Toba",
           "bbj": "Ghomala’",
-          "be": "Wit-Russisch",
+          "be": "Belarussisch",
           "bej": "Beja",
           "bem": "Bemba",
           "bew": "Betawi",
@@ -115,6 +115,7 @@
           "chy": "Cheyenne",
           "ckb": "Soranî",
           "ckb-alt-menu": "Koerdisch, Soranî",
+          "ckb-alt-variant": "Koerdisch, Soranî",
           "co": "Corsicaans",
           "cop": "Koptisch",
           "cps": "Capiznon",
@@ -383,7 +384,7 @@
           "ms": "Maleis",
           "mt": "Maltees",
           "mua": "Mundang",
-          "mul": "Meerdere talen",
+          "mul": "meerdere talen",
           "mus": "Creek",
           "mwl": "Mirandees",
           "mwr": "Marwari",

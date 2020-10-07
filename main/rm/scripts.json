@@ -3,15 +3,15 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "rm"
       },
       "localeDisplayNames": {
         "scripts": {
           "Adlm": "Adlm",
-          "Aghb": "Aghb",
-          "Ahom": "Ahom",
+          "Aghb": "albanais dal Caucasus",
+          "Ahom": "ahom",
           "Arab": "arab",
           "Aran": "Aran",
           "Armi": "arameic imperial",
@@ -61,25 +61,25 @@
           "Grek": "grec",
           "Gujr": "gujarati",
           "Guru": "gurmukhi",
-          "Hanb": "Hanb",
+          "Hanb": "han cun bopomofo",
           "Hang": "hangul",
           "Hani": "han",
           "Hano": "hanunoo",
-          "Hans": "scrittira chinaisa simplifitgada",
-          "Hans-alt-stand-alone": "scrittira chinaisa simplifitgada",
-          "Hant": "scrittira chinaisa tradiziunala",
-          "Hant-alt-stand-alone": "scrittira chinaisa tradiziunala",
+          "Hans": "simplifitgà",
+          "Hans-alt-stand-alone": "han simplifitgà",
+          "Hant": "tradiziunal",
+          "Hant-alt-stand-alone": "han tradiziunal",
           "Hatr": "Hatr",
           "Hebr": "ebraic",
           "Hira": "hiragana",
           "Hluw": "Hluw",
           "Hmng": "pahawn hmong",
           "Hmnp": "Hmnp",
-          "Hrkt": "katanaka u hiragana",
+          "Hrkt": "scrittira da silbas giapunaisa",
           "Hung": "ungarais vegl",
           "Inds": "indus",
           "Ital": "italic vegl",
-          "Jamo": "Jamo",
+          "Jamo": "jamo",
           "Java": "javanais",
           "Jpan": "giapunais",
           "Kali": "kayah li",
@@ -122,7 +122,7 @@
           "Mult": "Mult",
           "Mymr": "burmais",
           "Nand": "Nand",
-          "Narb": "Narb",
+          "Narb": "arab vegl dal nord",
           "Nbat": "Nbat",
           "Newa": "Newa",
           "Nkoo": "n’ko",
@@ -150,11 +150,11 @@
           "Runr": "runic",
           "Samr": "samaritan",
           "Sara": "sarati",
-          "Sarb": "Sarb",
+          "Sarb": "arab vegl dal sid",
           "Saur": "saurashtra",
           "Sgnw": "lingua da segns",
           "Shaw": "shavian",
-          "Shrd": "Shrd",
+          "Shrd": "sharada",
           "Sidd": "Sidd",
           "Sind": "Sind",
           "Sinh": "singalais",
@@ -195,11 +195,11 @@
           "Zanb": "Zanb",
           "Zinh": "ertà",
           "Zmth": "notaziun matematica",
-          "Zsye": "Zsye",
+          "Zsye": "emojis",
           "Zsym": "simbols",
-          "Zxxx": "linguas na scrittas",
+          "Zxxx": "betg scrit",
           "Zyyy": "betg determinà",
-          "Zzzz": "scrittira nunenconuschenta u nunvalaivla"
+          "Zzzz": "scrittira nunenconuschenta"
         }
       }
     }

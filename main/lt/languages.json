@@ -3,7 +3,7 @@
     "lt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lt"
       },
@@ -111,6 +111,8 @@
           "chr": "čerokių",
           "chy": "čajenų",
           "ckb": "soranių kurdų",
+          "ckb-alt-menu": "soranių kurdų",
+          "ckb-alt-variant": "soranių kurdų",
           "co": "korsikiečių",
           "cop": "koptų",
           "cps": "capiznon",

@@ -3,7 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "af"
       },
@@ -87,11 +87,11 @@
           "CG-alt-variant": "Kongo (Republiek die)",
           "CH": "Switserland",
           "CI": "Ivoorkus",
-          "CI-alt-variant": "Cote d’Ivoire",
+          "CI-alt-variant": "Ivoorkus",
           "CK": "Cookeilande",
           "CL": "Chili",
           "CM": "Kameroen",
-          "CN": "Sjina",
+          "CN": "China",
           "CO": "Colombië",
           "CP": "Clippertoneiland",
           "CR": "Costa Rica",
@@ -146,7 +146,7 @@
           "GU": "Guam",
           "GW": "Guinee-Bissau",
           "GY": "Guyana",
-          "HK": "Hongkong SAS Sjina",
+          "HK": "Hongkong SAS China",
           "HK-alt-short": "Hongkong",
           "HM": "Heardeiland en McDonaldeilande",
           "HN": "Honduras",
@@ -201,7 +201,7 @@
           "ML": "Mali",
           "MM": "Mianmar (Birma)",
           "MN": "Mongolië",
-          "MO": "Macau SAS Sjina",
+          "MO": "Macau SAS China",
           "MO-alt-short": "Macau",
           "MP": "Noord-Mariane-eilande",
           "MQ": "Martinique",
@@ -237,7 +237,7 @@
           "PM": "Sint Pierre en Miquelon",
           "PN": "Pitcairneilande",
           "PR": "Puerto Rico",
-          "PS": "Palestynse gebiede",
+          "PS": "Palestynse Grondgebiede",
           "PS-alt-short": "Palestina",
           "PT": "Portugal",
           "PW": "Palau",
@@ -257,7 +257,7 @@
           "SG": "Singapoer",
           "SH": "Sint Helena",
           "SI": "Slowenië",
-          "SJ": "Svalbard en Jan Mayen",
+          "SJ": "Spitsbergen en Jan Mayen",
           "SK": "Slowakye",
           "SL": "Sierra Leone",
           "SM": "San Marino",

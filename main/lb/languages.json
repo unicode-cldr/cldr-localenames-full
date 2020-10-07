@@ -3,7 +3,7 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lb"
       },
@@ -110,6 +110,8 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Sorani",
+          "ckb-alt-menu": "Sorani",
+          "ckb-alt-variant": "Sorani",
           "co": "Korsesch",
           "cop": "Koptesch",
           "cps": "Capiznon",

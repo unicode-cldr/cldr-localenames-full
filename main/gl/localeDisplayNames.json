@@ -3,7 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gl"
       },
@@ -16,14 +16,14 @@
         "keys": {
           "calendar": "calendario",
           "cf": "formato de moeda",
-          "colAlternate": "Ignorar clasificación de símbolos",
-          "colBackwards": "Clasificación de acentos invertida",
-          "colCaseFirst": "Orde de maiúsculas/minúsculas",
-          "colCaseLevel": "Clasificación que distingue entre maiúsculas e minúsculas",
+          "colAlternate": "ignorar ordenación de símbolos",
+          "colBackwards": "ordenación de acentos invertida",
+          "colCaseFirst": "orde de maiúsculas/minúsculas",
+          "colCaseLevel": "ordenación que distingue entre maiúsculas e minúsculas",
           "collation": "criterio de ordenación",
-          "colNormalization": "Clasificación normalizada",
-          "colNumeric": "Clasificación numérica",
-          "colStrength": "Forza de clasificación",
+          "colNormalization": "ordenación normalizada",
+          "colNumeric": "ordenación numérica",
+          "colStrength": "forza de ordenación",
           "currency": "moeda",
           "hc": "ciclo horario (12 ou 24)",
           "lb": "estilo de quebra de liña",

@@ -3,7 +3,7 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Cyrl",

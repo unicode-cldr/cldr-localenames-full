@@ -3,7 +3,7 @@
     "en-KN": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "KN"
@@ -486,7 +486,7 @@
           "rwk": "Rwa",
           "sa": "Sanskrit",
           "sad": "Sandawe",
-          "sah": "Sakha",
+          "sah": "Yakut",
           "sam": "Samaritan Aramaic",
           "saq": "Samburu",
           "sas": "Sasak",

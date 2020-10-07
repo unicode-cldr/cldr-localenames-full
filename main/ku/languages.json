@@ -3,7 +3,7 @@
     "ku": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ku"
       },
@@ -57,6 +57,8 @@
           "chr": "çerokî",
           "chy": "çeyenî",
           "ckb": "soranî",
+          "ckb-alt-menu": "soranî",
+          "ckb-alt-variant": "soranî",
           "co": "korsîkayî",
           "cs": "çekî",
           "cu": "cu",
@@ -68,6 +70,7 @@
           "de-AT": "elmanî (Awistirya)",
           "de-CH": "elmanî (Swîsre)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "sorbiya jêrîn",
           "dua": "diwalayî",
           "dv": "divehî",
@@ -146,6 +149,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kapverdî",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "qazaxî",
@@ -171,6 +175,7 @@
           "lez": "lezgînî",
           "lg": "lugandayî",
           "li": "lîmbûrgî",
+          "lij": "lij",
           "lkt": "lakotayî",
           "ln": "lingalayî",
           "lo": "lawsî",

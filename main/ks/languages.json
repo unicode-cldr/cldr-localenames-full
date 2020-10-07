@@ -3,7 +3,7 @@
     "ks": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ks"
       },
@@ -85,6 +85,8 @@
           "chr": "چیروکی",
           "chy": "شییون",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "کارسِکَن",
           "cop": "کاپٹِک",
           "cr": "کری",
@@ -227,6 +229,7 @@
           "kea": "kea",
           "kfo": "کورو",
           "kg": "کونگو",
+          "kgp": "kgp",
           "kha": "کھاسی",
           "kho": "کھوتَنیٖز",
           "khq": "khq",
@@ -266,6 +269,7 @@
           "lez": "لیزگِیَن",
           "lg": "گاندا",
           "li": "لِمبٔرگِش",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "لِنگالا",
           "lo": "لاو",

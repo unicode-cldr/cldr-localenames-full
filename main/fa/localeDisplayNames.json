@@ -3,7 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fa"
       },
@@ -132,8 +132,8 @@
           },
           "ms": {
             "metric": "دستگاه متریک",
-            "uksystem": "دستگاه اندازه‌گیری بریتانیایی",
-            "ussystem": "دستگاه اندازه‌گیری امریکایی"
+            "uksystem": "سیستم اندازه‌گیری انگلیسی",
+            "ussystem": "سیستم اندازه‌گیری امریکایی"
           },
           "numbers": {
             "ahom": "ahom",
@@ -195,7 +195,7 @@
             "native": "ارقام بومی",
             "nkoo": "nkoo",
             "olck": "olck",
-            "orya": "ارقام اوریه‌ای",
+            "orya": "ارقام اودیه",
             "osma": "osma",
             "rohg": "rohg",
             "roman": "اعداد رومی",

@@ -3,7 +3,7 @@
     "is": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "is"
       },
@@ -14,7 +14,7 @@
           "localeKeyTypePattern": "{0}: {1}"
         },
         "keys": {
-          "calendar": "Dagatal",
+          "calendar": "Tímatal",
           "cf": "Gjaldmiðilssnið",
           "colAlternate": "Röðun óháð táknum",
           "colBackwards": "Röðun með viðsnúnum áherslum",
@@ -35,24 +35,24 @@
         },
         "types": {
           "calendar": {
-            "buddhist": "Búddískt dagatal",
-            "chinese": "Kínverskt dagatal",
+            "buddhist": "Búddískt tímatal",
+            "chinese": "Kínversk tímatal",
             "coptic": "Koptískt tímatal",
-            "dangi": "Dangi dagatal",
-            "ethiopic": "Eþíópískt dagatal",
+            "dangi": "Dangi tímatal",
+            "ethiopic": "Eþíópískt tímatal",
             "ethiopic-amete-alem": "Eþíópískt ‘amete alem’ tímatal",
-            "gregorian": "Gregorískt dagatal",
-            "hebrew": "Hebreskt dagatal",
+            "gregorian": "Gregorískt tímatal",
+            "hebrew": "Hebreskt tímatal",
             "indian": "indverskt dagatal",
-            "islamic": "Íslamskt dagatal",
+            "islamic": "Íslamskt tímatal",
             "islamic-civil": "Íslamskt borgaradagatal",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "Íslamskt dagatal (Umm al-Qura)",
-            "iso8601": "ISO-8601 dagatal",
-            "japanese": "Japanskt dagatal",
-            "persian": "Persneskt dagatal",
-            "roc": "Minguo dagatal"
+            "iso8601": "ISO-8601 tímatal",
+            "japanese": "Japanskt tímatal",
+            "persian": "Persneskt tímatal",
+            "roc": "Minguo tímatal"
           },
           "cf": {
             "account": "Bókhaldsgjaldmiðill",

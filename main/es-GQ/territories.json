@@ -3,7 +3,7 @@
     "es-GQ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "GQ"
@@ -56,7 +56,7 @@
           "AT": "Austria",
           "AU": "Australia",
           "AW": "Aruba",
-          "AX": "Islas Åland",
+          "AX": "Islas Aland",
           "AZ": "Azerbaiyán",
           "BA": "Bosnia y Herzegovina",
           "BB": "Barbados",
@@ -119,7 +119,7 @@
           "ES": "España",
           "ET": "Etiopía",
           "EU": "Unión Europea",
-          "EZ": "zona euro",
+          "EZ": "zona del euro",
           "FI": "Finlandia",
           "FJ": "Fiyi",
           "FK": "Islas Malvinas",
@@ -133,7 +133,7 @@
           "GD": "Granada",
           "GE": "Georgia",
           "GF": "Guayana Francesa",
-          "GG": "Guernsey",
+          "GG": "Guernesey",
           "GH": "Ghana",
           "GI": "Gibraltar",
           "GL": "Groenlandia",

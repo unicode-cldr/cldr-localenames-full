@@ -3,7 +3,7 @@
     "gsw-LI": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gsw",
         "territory": "LI"
@@ -86,6 +86,8 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "Korsisch",
           "cop": "Koptisch",
           "cr": "Cree",
@@ -228,6 +230,7 @@
           "kea": "kea",
           "kfo": "Koro",
           "kg": "Kongolesisch",
+          "kgp": "kgp",
           "kha": "Khasisch",
           "kho": "Sakisch",
           "khq": "khq",
@@ -267,6 +270,7 @@
           "lez": "Lesgisch",
           "lg": "Ganda-Schpraach",
           "li": "Limburgisch",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "Lingala",
           "lo": "Laozisch",

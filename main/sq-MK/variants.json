@@ -3,7 +3,7 @@
     "sq-MK": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sq",
         "territory": "MK"
@@ -80,6 +80,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "PINYIN",
           "POLYTON": "POLYTON",
@@ -101,6 +102,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "TARASK",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "UCCOR",
           "UCRCOR": "UCRCOR",
           "ULSTER": "ULSTER",

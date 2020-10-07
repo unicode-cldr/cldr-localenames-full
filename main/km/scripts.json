@@ -3,7 +3,7 @@
     "km": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "km"
       },
@@ -103,7 +103,7 @@
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "Mero",
-          "Mlym": "មលយាល័ម",
+          "Mlym": "ម៉ាឡាយ៉ាឡាម",
           "Modi": "Modi",
           "Mong": "ម៉ុងហ្គោលី",
           "Mroo": "Mroo",

@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "US"
@@ -63,7 +63,7 @@
           "Grek": "griego",
           "Gujr": "gujarati",
           "Guru": "gurmuji",
-          "Hanb": "hanb",
+          "Hanb": "han con bopomofo",
           "Hang": "hangul",
           "Hani": "han",
           "Hano": "hanunoo",
@@ -77,7 +77,7 @@
           "Hluw": "Hluw",
           "Hmng": "pahawh hmong",
           "Hmnp": "Hmnp",
-          "Hrkt": "katakana o hiragana",
+          "Hrkt": "silabarios del japonés",
           "Hung": "húngaro antiguo",
           "Inds": "Indio (harappan)",
           "Ital": "antigua bastardilla",
@@ -115,7 +115,7 @@
           "Mend": "Mend",
           "Merc": "Merc",
           "Mero": "meroítico",
-          "Mlym": "malayálam",
+          "Mlym": "malayalam",
           "Modi": "Modi",
           "Mong": "mongol",
           "Moon": "moon",
@@ -176,7 +176,7 @@
           "Taml": "tamil",
           "Tang": "Tang",
           "Tavt": "Tavt",
-          "Telu": "telegu",
+          "Telu": "telugu",
           "Teng": "tengwar",
           "Tfng": "tifinagh",
           "Tglg": "tagalo",
@@ -200,7 +200,7 @@
           "Zsym": "símbolos",
           "Zxxx": "no escrito",
           "Zyyy": "común",
-          "Zzzz": "alfabeto desconocido"
+          "Zzzz": "letra desconocida"
         }
       }
     }

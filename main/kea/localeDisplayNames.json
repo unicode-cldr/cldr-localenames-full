@@ -3,7 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kea"
       },
@@ -27,18 +27,18 @@
           "calendar": {
             "buddhist": "Kalendáriu budista",
             "chinese": "Kalendáriu xines",
-            "coptic": "coptic",
+            "coptic": "Kalendáriu kopta",
             "dangi": "Kalendáriu dangi",
             "ethiopic": "Kalendáriu etiópiku",
-            "ethiopic-amete-alem": "ethiopic-amete-alem",
+            "ethiopic-amete-alem": "Kalendáriu etíopi ameti alem",
             "gregorian": "Kalendáriu Gregorianu",
             "hebrew": "Kalendáriu ebraiku",
-            "indian": "indian",
+            "indian": "Kalendáriu nasional indianu",
             "islamic": "Kalendáriu islámiku",
-            "islamic-civil": "islamic-civil",
+            "islamic-civil": "Kalendáriu islámiku (sivil)",
             "islamic-rgsa": "islamic-rgsa",
-            "islamic-tbla": "islamic-tbla",
-            "islamic-umalqura": "islamic-umalqura",
+            "islamic-tbla": "Kalendáriu islámiku (astronómiku)",
+            "islamic-umalqura": "Kalendáriu islámiku (Umm al-Qura)",
             "iso8601": "Kalendáriu ISO-8601",
             "japanese": "Kalendáriu japones",
             "persian": "Kalendáriu persa",

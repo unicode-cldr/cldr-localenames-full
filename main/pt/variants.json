@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "dialeto pamaka",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "romanização Pinyin",
           "POLYTON": "politônico",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "ortografia taraskievica",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "ortografia unificada",
           "UCRCOR": "ortografia revisada e unificada",
           "ULSTER": "ULSTER",

@@ -3,7 +3,7 @@
     "it-CH": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "it",
         "territory": "CH"
@@ -113,6 +113,8 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "curdo sorani",
+          "ckb-alt-menu": "curdo centrale",
+          "ckb-alt-variant": "curdo sorani",
           "co": "corso",
           "cop": "copto",
           "cps": "capiznon",
@@ -121,7 +123,7 @@
           "crs": "creolo delle Seychelles",
           "cs": "ceco",
           "csb": "kashubian",
-          "cu": "slavo della Chiesa",
+          "cu": "slavo ecclesiastico",
           "cv": "ciuvascio",
           "cy": "gallese",
           "da": "danese",
@@ -235,7 +237,7 @@
           "hr": "croato",
           "hsb": "alto sorabo",
           "hsn": "xiang",
-          "ht": "haitiano",
+          "ht": "creolo haitiano",
           "hu": "ungherese",
           "hup": "hupa",
           "hy": "armeno",
@@ -474,7 +476,7 @@
           "rwk": "rwa",
           "sa": "sanscrito",
           "sad": "sandawe",
-          "sah": "yakut",
+          "sah": "sacha",
           "sam": "aramaico samaritano",
           "saq": "samburu",
           "sas": "sasak",
@@ -612,7 +614,7 @@
           "yo": "yoruba",
           "yrl": "nheengatu",
           "yue": "cantonese",
-          "yue-alt-menu": "cantonese",
+          "yue-alt-menu": "cinese (cantonese)",
           "za": "zhuang",
           "zap": "zapotec",
           "zbl": "blissymbol",

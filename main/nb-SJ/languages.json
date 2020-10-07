@@ -3,7 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nb",
         "territory": "SJ"
@@ -114,6 +114,8 @@
           "chr": "cherokesisk",
           "chy": "cheyenne",
           "ckb": "kurdisk (sorani)",
+          "ckb-alt-menu": "kurdisk (sentral)",
+          "ckb-alt-variant": "kurdisk (sorani)",
           "co": "korsikansk",
           "cop": "koptisk",
           "cps": "kapiz",

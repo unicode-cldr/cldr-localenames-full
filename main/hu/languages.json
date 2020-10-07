@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hu"
       },
@@ -29,7 +29,7 @@
           "ang": "óangol",
           "anp": "angika",
           "ar": "arab",
-          "ar-001": "modern szabányos arab",
+          "ar-001": "modern szabványos arab",
           "arc": "arámi",
           "arn": "mapucse",
           "arp": "arapaho",
@@ -96,7 +96,8 @@
           "chr": "cseroki",
           "chy": "csejen",
           "ckb": "közép-ázsiai kurd",
-          "ckb-alt-menu": "kurd, szoráni",
+          "ckb-alt-menu": "közép-ázsiai kurd",
+          "ckb-alt-variant": "kurd, szoráni",
           "co": "korzikai",
           "cop": "kopt",
           "cr": "krí",
@@ -247,6 +248,7 @@
           "kea": "kabuverdianu",
           "kfo": "koro",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "kaszi",
           "kho": "kotanéz",
           "khq": "kojra-csíni",
@@ -287,6 +289,7 @@
           "lez": "lezg",
           "lg": "ganda",
           "li": "limburgi",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "lao",

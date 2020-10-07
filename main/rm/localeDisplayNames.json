@@ -3,7 +3,7 @@
     "rm": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "rm"
       },
@@ -15,12 +15,12 @@
         },
         "keys": {
           "calendar": "chalender",
-          "cf": "cf",
+          "cf": "format da valuta",
           "collation": "zavrada",
-          "currency": "munaida",
-          "hc": "hc",
-          "lb": "lb",
-          "ms": "ms",
+          "currency": "valuta",
+          "hc": "ciclus da las uras",
+          "lb": "stil da sigl da lingia",
+          "ms": "sistem da mesira",
           "numbers": "numbers"
         },
         "types": {
@@ -28,8 +28,8 @@
             "buddhist": "chalender budistic",
             "chinese": "chalender chinais",
             "coptic": "coptic",
-            "dangi": "dangi",
-            "ethiopic": "ethiopic",
+            "dangi": "chalender dangi",
+            "ethiopic": "chalender etiopic",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
             "gregorian": "chalender gregorian",
             "hebrew": "chalender ebraic",
@@ -39,53 +39,53 @@
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "iso8601",
+            "iso8601": "chalender tenor ISO 8601",
             "japanese": "chalender giapunais",
-            "persian": "persian",
-            "roc": "chalendar da la republica chinaisa"
+            "persian": "chalender persian",
+            "roc": "chalender da la Republica Chinaisa"
           },
           "cf": {
-            "account": "account",
-            "standard": "standard"
+            "account": "format da valuta per la contabilitad",
+            "standard": "format da valuta da standard"
           },
           "collation": {
             "big5han": "chinaisa tradiziunala - Big5",
             "compat": "compat",
             "dictionary": "dictionary",
-            "ducet": "ducet",
+            "ducet": "zavrada unicode standard",
             "emoji": "emoji",
             "eor": "eor",
             "gb2312han": "chinaisa simplifitgada - GB2312",
             "phonebook": "cudesch da telefon",
             "pinyin": "Pinyin",
             "reformed": "reformed",
-            "search": "search",
+            "search": "tschertga generala",
             "searchjl": "searchjl",
-            "standard": "standard",
+            "standard": "zavrada da standard",
             "stroke": "urden dals stritgs",
             "traditional": "reglas tradiziunalas",
             "unihan": "unihan",
             "zhuyin": "zhuyin"
           },
           "hc": {
-            "h11": "h11",
-            "h12": "h12",
-            "h23": "h23",
-            "h24": "h24"
+            "h11": "sistem da 12 uras (0–11)",
+            "h12": "sistem da 12 uras (1–12)",
+            "h23": "sistem da 24 uras (0–23)",
+            "h24": "sistem da 24 uras (1–24)"
           },
           "lb": {
-            "loose": "loose",
-            "normal": "normal",
-            "strict": "strict"
+            "loose": "stil da sigl da lingia liber",
+            "normal": "stil da sigl da lingia normal",
+            "strict": "stil da sigl da lingia strict"
           },
           "ms": {
-            "metric": "metric",
-            "uksystem": "uksystem",
-            "ussystem": "ussystem"
+            "metric": "sistem metric",
+            "uksystem": "sistem da mesira imperial",
+            "ussystem": "sistem da mesira US"
           },
           "numbers": {
             "ahom": "ahom",
-            "arab": "arab",
+            "arab": "cifras indic-arabas",
             "arabext": "arabext",
             "armn": "armn",
             "armnlow": "armnlow",
@@ -123,7 +123,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "laoo",
-            "latn": "latn",
+            "latn": "cifras occidentalas",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",

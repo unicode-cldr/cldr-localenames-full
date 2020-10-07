@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "vi"
       },
@@ -146,7 +146,7 @@
           "GU": "Guam",
           "GW": "Guinea-Bissau",
           "GY": "Guyana",
-          "HK": "Hồng Kông, Trung Quốc",
+          "HK": "Đặc khu Hành chính Hồng Kông, Trung Quốc",
           "HK-alt-short": "Hồng Kông",
           "HM": "Quần đảo Heard và McDonald",
           "HN": "Honduras",
@@ -201,7 +201,7 @@
           "ML": "Mali",
           "MM": "Myanmar (Miến Điện)",
           "MN": "Mông Cổ",
-          "MO": "Macao, Trung Quốc",
+          "MO": "Đặc khu Hành chính Macao, Trung Quốc",
           "MO-alt-short": "Macao",
           "MP": "Quần đảo Bắc Mariana",
           "MQ": "Martinique",
@@ -269,8 +269,8 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Syria",
-          "SZ": "Swaziland",
-          "SZ-alt-variant": "Eswatini",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Quần đảo Turks và Caicos",
           "TD": "Chad",
@@ -301,7 +301,7 @@
           "VC": "St. Vincent và Grenadines",
           "VE": "Venezuela",
           "VG": "Quần đảo Virgin thuộc Anh",
-          "VI": "Quần đảo Virgin thuộc Mỹ",
+          "VI": "Quần đảo Virgin thuộc Hoa Kỳ",
           "VN": "Việt Nam",
           "VU": "Vanuatu",
           "WF": "Wallis và Futuna",

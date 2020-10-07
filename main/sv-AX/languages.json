@@ -3,7 +3,7 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sv",
         "territory": "AX"
@@ -115,6 +115,7 @@
           "chy": "cheyenne",
           "ckb": "soranisk kurdiska",
           "ckb-alt-menu": "kurdiska (sorani)",
+          "ckb-alt-variant": "soranisk kurdiska",
           "co": "korsikanska",
           "cop": "koptiska",
           "cps": "kapisnon",
@@ -440,7 +441,7 @@
           "pap": "papiamento",
           "pau": "palau",
           "pcd": "pikardiska",
-          "pcm": "Nigeria-pidgin",
+          "pcm": "nigeriansk pidgin",
           "pdc": "Pennsylvaniatyska",
           "pdt": "mennonitisk lågtyska",
           "peo": "fornpersiska",
@@ -501,7 +502,7 @@
           "seh": "sena",
           "sei": "seri",
           "sel": "selkup",
-          "ses": "Gao-songhai",
+          "ses": "songhai",
           "sg": "sango",
           "sga": "forniriska",
           "sgs": "samogitiska",

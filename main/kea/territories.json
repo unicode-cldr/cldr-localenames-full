@@ -3,7 +3,7 @@
     "kea": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kea"
       },
@@ -92,7 +92,7 @@
           "CL": "Xili",
           "CM": "Kamarons",
           "CN": "Xina",
-          "CO": "Kolômbia",
+          "CO": "Kolómbia",
           "CP": "Ilha Kliperton",
           "CR": "Kosta Rika",
           "CU": "Kuba",

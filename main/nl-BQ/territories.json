@@ -3,7 +3,7 @@
     "nl-BQ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nl",
         "territory": "BQ"
@@ -88,7 +88,7 @@
           "CG-alt-variant": "Congo (Republiek)",
           "CH": "Zwitserland",
           "CI": "Ivoorkust",
-          "CI-alt-variant": "Republiek Ivoorkust",
+          "CI-alt-variant": "Ivoorkust",
           "CK": "Cookeilanden",
           "CL": "Chili",
           "CM": "Kameroen",
@@ -270,7 +270,7 @@
           "SV": "El Salvador",
           "SX": "Sint-Maarten",
           "SY": "Syrië",
-          "SZ": "eSwatini",
+          "SZ": "Eswatini",
           "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Turks- en Caicoseilanden",

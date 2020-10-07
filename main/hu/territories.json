@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hu"
       },
@@ -80,10 +80,10 @@
           "BZ": "Belize",
           "CA": "Kanada",
           "CC": "Kókusz (Keeling)-szigetek",
-          "CD": "Kongó - Kinshasa",
+          "CD": "Kongó – Kinshasa",
           "CD-alt-variant": "Kongó (KDK)",
           "CF": "Közép-afrikai Köztársaság",
-          "CG": "Kongó - Brazzaville",
+          "CG": "Kongó – Brazzaville",
           "CG-alt-variant": "Kongó (Köztársaság)",
           "CH": "Svájc",
           "CI": "Elefántcsontpart",
@@ -237,7 +237,7 @@
           "PM": "Saint-Pierre és Miquelon",
           "PN": "Pitcairn-szigetek",
           "PR": "Puerto Rico",
-          "PS": "Palesztin Terület",
+          "PS": "Palesztin Autonómia",
           "PS-alt-short": "Palesztina",
           "PT": "Portugália",
           "PW": "Palau",

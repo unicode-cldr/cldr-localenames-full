@@ -3,7 +3,7 @@
     "nnh": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nnh"
       },
@@ -45,6 +45,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cs": "cs",
           "cu": "cu",
@@ -55,6 +57,7 @@
           "de-AT": "nzǎmɔ̂ɔn (AT)",
           "de-CH": "nzǎmɔ̂ɔn (CH)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dyo": "dyo",
@@ -121,6 +124,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kk",
@@ -142,6 +146,7 @@
           "lag": "lag",
           "lb": "lb",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
@@ -183,6 +188,7 @@
           "nn": "nn",
           "nnh": "Shwóŋò ngiembɔɔn",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "om": "om",

@@ -3,7 +3,7 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ms",
         "territory": "BN"
@@ -62,7 +62,7 @@
           "bkm": "Kom",
           "bla": "Siksika",
           "bm": "Bambara",
-          "bn": "Benggala",
+          "bn": "Benggali",
           "bo": "Tibet",
           "bpy": "Bishnupriya",
           "br": "Breton",
@@ -88,6 +88,8 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Kurdi Sorani",
+          "ckb-alt-menu": "Kurdi, Tengah",
+          "ckb-alt-variant": "Kurdi Sorani",
           "co": "Corsica",
           "cop": "Coptic",
           "crh": "Turki Krimea",
@@ -210,6 +212,7 @@
           "kea": "Kabuverdianu",
           "kfo": "Koro",
           "kg": "Kongo",
+          "kgp": "kgp",
           "kha": "Khasi",
           "khq": "Koyra Chiini",
           "khw": "Khowar",
@@ -247,6 +250,7 @@
           "lez": "Lezghian",
           "lg": "Ganda",
           "li": "Limburgish",
+          "lij": "lij",
           "lkt": "Lakota",
           "ln": "Lingala",
           "lo": "Laos",

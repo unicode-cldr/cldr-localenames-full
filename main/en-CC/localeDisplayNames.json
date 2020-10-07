@@ -3,7 +3,7 @@
     "en-CC": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "CC"
@@ -28,6 +28,7 @@
           "colStrength": "Sorting Strength",
           "currency": "Currency",
           "d0": "Transform Destination",
+          "dx": "Dictionary Break Exclusions",
           "em": "Emoji Presentation Style",
           "fw": "First day of week",
           "h0": "Mixed-in",

@@ -3,7 +3,7 @@
     "smn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "smn"
       },
@@ -66,6 +66,8 @@
           "chr": "cherokeekielâ",
           "chy": "cheyennekielâ",
           "ckb": "sorani kurdikielâ",
+          "ckb-alt-menu": "sorani kurdikielâ",
+          "ckb-alt-variant": "sorani kurdikielâ",
           "co": "korsikakielâ",
           "crs": "Seychellij kreoliranska",
           "cs": "tšeekikielâ",
@@ -81,6 +83,7 @@
           "de-CH": "Sveitsi pajesaksakielâ",
           "dgr": "dogribkielâ",
           "dje": "zarmakielâ",
+          "doi": "doi",
           "dsb": "vyelisorbi",
           "dua": "dualakielâ",
           "dv": "divehikielâ",
@@ -175,6 +178,7 @@
           "kde": "makonde",
           "kea": "Kap Verde kreoli",
           "kfo": "koro",
+          "kgp": "kgp",
           "kha": "khasi",
           "khq": "koyra chiini",
           "ki": "kikujukielâ",
@@ -209,6 +213,7 @@
           "lez": "lezgikielâ",
           "lg": "luganda",
           "li": "limburgkielâ",
+          "lij": "lij",
           "lkt": "lakotakielâ",
           "ln": "lingala",
           "lo": "laokielâ",

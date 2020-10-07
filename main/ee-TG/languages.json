@@ -3,7 +3,7 @@
     "ee-TG": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ee",
         "territory": "TG"
@@ -41,6 +41,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cs": "tsɛkgbe",
           "cu": "cu",
@@ -51,6 +53,7 @@
           "de-AT": "Germaniagbe (Austria)",
           "de-CH": "Germaniagbe (Switzerland)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dv": "divehgbe",
@@ -121,6 +124,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "cape verdegbe",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kazakhstangbe",
@@ -143,6 +147,7 @@
           "lah": "lahndagbe",
           "lb": "laksembɔggbe",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "lingala",
           "lo": "laogbe",
@@ -186,6 +191,7 @@
           "no": "nɔweigbe",
           "nso": "dziehe sothogbe",
           "nus": "nus",
+          "nv": "nv",
           "ny": "nyanjagbe",
           "nyn": "nyn",
           "om": "om",

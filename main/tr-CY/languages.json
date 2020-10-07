@@ -3,7 +3,7 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "tr",
         "territory": "CY"
@@ -115,7 +115,8 @@
           "chr": "Çerokice",
           "chy": "Şayence",
           "ckb": "Orta Kürtçe",
-          "ckb-alt-menu": "Kürtçe, Sorani",
+          "ckb-alt-menu": "Kürtçe, Orta",
+          "ckb-alt-variant": "Kürtçe, Sorani",
           "co": "Korsikaca",
           "cop": "Kıptice",
           "cps": "Capiznon",
@@ -430,7 +431,7 @@
           "oc": "Oksitan dili",
           "oj": "Ojibva dili",
           "om": "Oromo dili",
-          "or": "Oriya Dili",
+          "or": "Oriya dili",
           "os": "Osetçe",
           "osa": "Osage",
           "ota": "Osmanlı Türkçesi",

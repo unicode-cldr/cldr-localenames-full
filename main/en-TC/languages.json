@@ -3,7 +3,7 @@
     "en-TC": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "TC"
@@ -486,7 +486,7 @@
           "rwk": "Rwa",
           "sa": "Sanskrit",
           "sad": "Sandawe",
-          "sah": "Sakha",
+          "sah": "Yakut",
           "sam": "Samaritan Aramaic",
           "saq": "Samburu",
           "sas": "Sasak",

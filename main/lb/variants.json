@@ -3,7 +3,7 @@
     "lb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lb"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "Pamaka-Dialekt",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "Pinyin",
           "POLYTON": "Polytonesch",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "Taraskievica-Orthographie",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "Vereenheetlecht Rechtschreiwung",
           "UCRCOR": "Vereenheetlecht iwwerschafft Rechtschreiwung",
           "ULSTER": "ULSTER",

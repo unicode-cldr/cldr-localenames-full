@@ -3,7 +3,7 @@
     "ca-ES-VALENCIA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ca",
         "territory": "ES",
@@ -140,7 +140,7 @@
           "GL": "Groenlàndia",
           "GM": "Gàmbia",
           "GN": "Guinea",
-          "GP": "Guadeloupe",
+          "GP": "Guadalupe",
           "GQ": "Guinea Equatorial",
           "GR": "Grècia",
           "GS": "Illes Geòrgia del Sud i Sandwich del Sud",

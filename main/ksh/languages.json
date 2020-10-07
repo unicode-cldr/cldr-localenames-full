@@ -3,7 +3,7 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ksh"
       },
@@ -79,6 +79,8 @@
           "chr": "Tschärrokeh",
           "chy": "Tschäjänn",
           "ckb": "Zäntrahl-Kurrdesch",
+          "ckb-alt-menu": "Zäntrahl-Kurrdesch",
+          "ckb-alt-variant": "Zäntrahl-Kurrdesch",
           "co": "Korsesch",
           "cop": "Koptesch",
           "cs": "Tschäschesch",
@@ -95,6 +97,7 @@
           "de-CH": "Deutsch uß de Schweijz",
           "dgr": "Dohjribesch",
           "dje": "Djerma",
+          "doi": "doi",
           "dsb": "Niddersorbesch",
           "dua": "Du’ala",
           "dum": "Meddelnehderlängsch",
@@ -193,6 +196,7 @@
           "kde": "Chimakonde",
           "kea": "Kapvärdesch",
           "kfo": "Koro vun de Älfebeijnköß",
+          "kgp": "kgp",
           "kha": "Khasi",
           "khq": "Kojra Tschihni",
           "ki": "Rekohjo",
@@ -228,6 +232,7 @@
           "lez": "Lesjesch",
           "lg": "Lugannda",
           "li": "Lemburjesch",
+          "lij": "lij",
           "lkt": "Lakota",
           "ln": "Lingjalla",
           "lo": "Lahootesch",

@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt"
       },
@@ -158,7 +158,7 @@
             "grek": "Algarismos gregos",
             "greklow": "Algarismos gregos minúsculos",
             "gujr": "Algarismos guzerate",
-            "guru": "Algarismos gurmukhi",
+            "guru": "Algarismos gurmuqui",
             "hanidec": "Algarismos decimais chineses",
             "hans": "Algarismos chineses simplificados",
             "hansfin": "Algarismos financeiros chineses simplificados",
@@ -189,7 +189,7 @@
             "mong": "Algarismos mongóis",
             "mroo": "mroo",
             "mtei": "mtei",
-            "mymr": "Algarismos de Myanmar",
+            "mymr": "Algarismos mianmarenses",
             "mymrshan": "mymrshan",
             "mymrtlng": "mymrtlng",
             "native": "Dígitos nativos",

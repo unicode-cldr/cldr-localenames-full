@@ -3,7 +3,7 @@
     "yo-BJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yo",
         "territory": "BJ"
@@ -26,24 +26,24 @@
         },
         "types": {
           "calendar": {
-            "buddhist": "Kàlɛ̀ńdà Buddhist",
-            "chinese": "Kàlɛ̀ńdà ti Sháìnà",
+            "buddhist": "Kàlɛ́ńdà Buddhist",
+            "chinese": "Kàlɛ́ńdà ti Sháìnà",
             "coptic": "coptic",
-            "dangi": "Kàlɛ̀ńdà dangi",
-            "ethiopic": "Kàlɛ̀ńdà Ɛtíópíìkì",
+            "dangi": "Kàlɛ́ńdà dangi",
+            "ethiopic": "Kàlɛ́ńdà Ɛtíópíìkì",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
             "gregorian": "Kàlɛ́ńdà Gregory",
-            "hebrew": "Kàlɛ̀ńdà Hébérù",
+            "hebrew": "Kàlɛ́ńdà Hébérù",
             "indian": "indian",
-            "islamic": "Kàlɛ̀ńdà Lárúbáwá",
+            "islamic": "Kàlɛ́ńdà Lárúbáwá",
             "islamic-civil": "islamic-civil",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
             "iso8601": "Kàlɛ́ńdà ISO-8601",
-            "japanese": "Kàlɛ̀ńdà ti Jàpánù",
-            "persian": "Kàlɛ̀ńdà Pásíànù",
-            "roc": "Kàlɛ̀ńdà Minguo"
+            "japanese": "Kàlɛ́ńdà ti Jàpánù",
+            "persian": "Kàlɛ́ńdà Pásíànù",
+            "roc": "Kàlɛ́ńdà Minguo"
           },
           "cf": {
             "account": "Ìgúnrégé Ìshirò Owó Kɔ́rɛ́ńsì",

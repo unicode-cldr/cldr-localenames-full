@@ -3,7 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "jv"
       },
@@ -11,13 +11,13 @@
         "territories": {
           "001": "Donya",
           "002": "Afrika",
-          "003": "003",
+          "003": "Amérika Lor",
           "005": "Amérika Kidul",
           "009": "Oséania",
           "011": "Afrika Kulon",
           "013": "Amérika Tengah",
           "014": "Afrika Wétan",
-          "015": "015",
+          "015": "Afrika Lor",
           "017": "Afrika Sisih Tengah",
           "018": "Afrika Sisih Kidul",
           "019": "Amérika",
@@ -36,7 +36,7 @@
           "145": "Asia Kulon",
           "150": "Éropah",
           "151": "Éropah Wétan",
-          "154": "154",
+          "154": "Éropah Lor",
           "155": "Éropah Kulon",
           "202": "Afrika Kidule Sahara",
           "419": "Amérika Latin",
@@ -158,7 +158,7 @@
           "IE": "Républik Irlan",
           "IL": "Israèl",
           "IM": "Pulo Man",
-          "IN": "IN",
+          "IN": "Indhia",
           "IO": "Wilayah Inggris nang Segoro Hindia",
           "IQ": "Irak",
           "IR": "Iran",
@@ -174,7 +174,7 @@
           "KI": "Kiribati",
           "KM": "Komoro",
           "KN": "Saint Kits lan Nèvis",
-          "KP": "KP",
+          "KP": "Korea Lor",
           "KR": "Koréa Kidul",
           "KW": "Kuwait",
           "KY": "Kapuloan Kéman",
@@ -197,7 +197,7 @@
           "MF": "Santa Martin",
           "MG": "Madagaskar",
           "MH": "Kapuloan Marshall",
-          "MK": "MK",
+          "MK": "Républik Makédonia Lor",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
@@ -225,7 +225,7 @@
           "NP": "Népal",
           "NR": "Nauru",
           "NU": "Niue",
-          "NZ": "NZ",
+          "NZ": "Selandia Anyar",
           "OM": "Oman",
           "PA": "Panama",
           "PE": "Peru",

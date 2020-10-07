@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt"
       },
@@ -96,6 +96,7 @@
           "chr": "cheroqui",
           "chy": "cheiene",
           "ckb": "curdo central",
+          "ckb-alt-menu": "curdo central",
           "ckb-alt-variant": "curdo sorâni",
           "co": "corso",
           "cop": "copta",
@@ -129,7 +130,7 @@
           "dz": "dzonga",
           "dzg": "dazaga",
           "ebu": "embu",
-          "ee": "eve",
+          "ee": "ewe",
           "efi": "efique",
           "egy": "egípcio arcaico",
           "eka": "ekajuk",
@@ -247,6 +248,7 @@
           "kea": "crioulo cabo-verdiano",
           "kfo": "koro",
           "kg": "congolês",
+          "kgp": "kgp",
           "kha": "khasi",
           "kho": "khotanês",
           "khq": "koyra chiini",
@@ -287,6 +289,7 @@
           "lez": "lezgui",
           "lg": "luganda",
           "li": "limburguês",
+          "lij": "lij",
           "lkt": "lacota",
           "ln": "lingala",
           "lo": "laosiano",
@@ -449,7 +452,7 @@
           "sm": "samoano",
           "sma": "sami meridional",
           "smj": "sami de Lule",
-          "smn": "sami de Inari",
+          "smn": "lapão de Inari",
           "sms": "sami de Skolt",
           "sn": "xona",
           "snk": "soninquê",
@@ -504,7 +507,7 @@
           "twq": "tasawaq",
           "ty": "taitiano",
           "tyv": "tuviniano",
-          "tzm": "tamazirte do Atlas Central",
+          "tzm": "tamazight do Atlas Central",
           "udm": "udmurte",
           "ug": "uigur",
           "uga": "ugarítico",

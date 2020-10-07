@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "et"
       },
@@ -148,13 +148,13 @@
             "cham": "tšaami numbrid",
             "cyrl": "kirillitsa numbrid",
             "deva": "devanaagari numbrid",
-            "diak": "diak",
+            "diak": "divehi numbrid",
             "ethi": "etioopia numbrid",
             "finance": "finantsnumbrid",
             "fullwide": "täislaiusega numbrid",
             "geor": "gruusia numbrid",
-            "gong": "gong",
-            "gonm": "masaram gondi numbrid",
+            "gong": "Gūnjāla gondi numbrid",
+            "gonm": "Masarami gondi numbrid",
             "grek": "kreeka numbrid",
             "greklow": "väiketähelised kreeka numbrid",
             "gujr": "gudžarati numbrid",
@@ -197,7 +197,7 @@
             "olck": "santali numbrid",
             "orya": "oria numbrid",
             "osma": "osmani numbrid",
-            "rohg": "rohg",
+            "rohg": "rohingja numbrid",
             "roman": "Rooma numbrid",
             "romanlow": "väiketähelised Rooma numbrid",
             "saur": "sauraštra numbrid",

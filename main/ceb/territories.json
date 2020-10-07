@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ceb"
       },
@@ -11,7 +11,7 @@
         "territories": {
           "001": "Kalibutan",
           "002": "Africa",
-          "003": "North America",
+          "003": "Amihanang Amerika",
           "005": "South America",
           "009": "Oceania",
           "011": "Western Africa",
@@ -84,7 +84,7 @@
           "CD-alt-variant": "Congo (DRC)",
           "CF": "Central African Republic",
           "CG": "Congo - Brazzaville",
-          "CG-alt-variant": "Congo (Republic)",
+          "CG-alt-variant": "Congo (Republika)",
           "CH": "Switzerland",
           "CI": "Cote d’Ivoire",
           "CI-alt-variant": "Ivory Coast",
@@ -115,7 +115,7 @@
           "EG": "Egypt",
           "EH": "Western Sahara",
           "ER": "Eritrea",
-          "ES": "Spain",
+          "ES": "Espanya",
           "ET": "Ethiopia",
           "EU": "European Union",
           "EZ": "Eurozone",
@@ -292,7 +292,7 @@
           "UA": "Ukraine",
           "UG": "Uganda",
           "UM": "U.S. Outlying Islands",
-          "UN": "United Nations",
+          "UN": "Hiniusang Kanasoran",
           "US": "Estados Unidos",
           "US-alt-short": "US",
           "UY": "Uruguay",

@@ -3,7 +3,7 @@
     "zh": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "zh"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "帕哈苗文3代",
           "PAHAWH4": "帕哈苗文4代",
           "PAMAKA": "Pamaka 方言",
+          "PEANO": "PEANO",
           "PETR1708": "俄文拼字（1708年）",
           "PINYIN": "拼音罗马字",
           "POLYTON": "多音字母",
@@ -102,6 +103,8 @@
           "SURSILV": "瑞士苏瑟瓦方言",
           "SUTSILV": "瑞士苏希瓦方言",
           "TARASK": "Taraskievica 拼字",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "统一的拼字",
           "UCRCOR": "统一和修订的拼字",
           "ULSTER": "阿尔斯特方言",

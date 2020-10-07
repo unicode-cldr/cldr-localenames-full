@@ -3,7 +3,7 @@
     "qu-EC": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "qu",
         "territory": "EC"
@@ -15,7 +15,7 @@
           "ak": "Akan Simi",
           "am": "Amarico Simi",
           "ar": "Arabe Simi",
-          "ar-001": "Arabe Simi (001)",
+          "ar-001": "Arabe Simi (Pacha)",
           "arn": "Mapuche Simi",
           "as": "Asames Simi",
           "asa": "Asu Simi",
@@ -42,6 +42,8 @@
           "cgg": "Kiga Simi",
           "chr": "Cheroqui Simi",
           "ckb": "Chawpi Kurdo Simi",
+          "ckb-alt-menu": "Kurdo Simi, Chawpi",
+          "ckb-alt-variant": "Kurdo Simi, Sorani",
           "co": "Corso Simi",
           "cs": "Checo Simi",
           "cu": "Eslavo Eclesiástico Simi",
@@ -52,6 +54,7 @@
           "de-AT": "Aleman Simi (Austria)",
           "de-CH": "Aleman Simi (Suiza)",
           "dje": "Zarma Simi",
+          "doi": "doi",
           "dsb": "Bajo Sorbio Simi",
           "dua": "Duala Simi",
           "dv": "Divehi Simi",
@@ -76,7 +79,7 @@
           "eu": "Euskera Simi",
           "ewo": "Ewondo Simi",
           "fa": "Persa Simi",
-          "fa-AF": "Persa Simi (Afganistán)",
+          "fa-AF": "Dari Simi",
           "ff": "Fulah Simi",
           "fi": "Fines Simi",
           "fil": "Filipino Simi",
@@ -120,6 +123,7 @@
           "kam": "Kamba Simi",
           "kde": "Makonde Simi",
           "kea": "Caboverdiano Simi",
+          "kgp": "kgp",
           "khq": "Koyra Chiini Simi",
           "ki": "Kikuyu Simi",
           "kk": "Kazajo Simi",
@@ -141,6 +145,7 @@
           "lag": "Langi Simi",
           "lb": "Luxemburgues Simi",
           "lg": "Luganda Simi",
+          "lij": "lij",
           "lkt": "Lakota Simi",
           "ln": "Lingala Simi",
           "lo": "Lao Simi",
@@ -151,7 +156,7 @@
           "luo": "Luo Simi",
           "luy": "Luyia Simi",
           "lv": "Leton Simi",
-          "mai": "mai",
+          "mai": "Maithili Simi",
           "mas": "Masai Simi",
           "mer": "Meru Simi",
           "mfe": "Mauriciano Simi",
@@ -162,7 +167,7 @@
           "mk": "Macedonio Simi",
           "ml": "Malayalam Simi",
           "mn": "Mongol Simi",
-          "mni": "mni",
+          "mni": "Manipuri Simi",
           "moh": "Mohawk Simi",
           "mr": "Marathi Simi",
           "ms": "Malayo Simi",
@@ -185,6 +190,7 @@
           "no": "Noruego Simi",
           "nso": "Sesotho Sa Leboa Simi",
           "nus": "Nuer Simi",
+          "nv": "nv",
           "ny": "Nyanja Simi",
           "nyn": "Nyankole Simi",
           "oc": "Occitano Simi",
@@ -193,7 +199,7 @@
           "os": "Osetio Simi",
           "pa": "Punyabi Simi",
           "pap": "Papiamento Simi",
-          "pcm": "pcm",
+          "pcm": "Pidgin Nigeriano Simi",
           "pl": "Polaco Simi",
           "prg": "Prusiano Simi",
           "ps": "Pashto Simi",
@@ -214,7 +220,7 @@
           "sa": "Sanscrito Simi",
           "sah": "Sakha Simi",
           "saq": "Samburu Simi",
-          "sat": "sat",
+          "sat": "Santali Simi",
           "sbp": "Sangu Simi",
           "sd": "Sindhi Simi",
           "se": "Chincha Sami Simi",
@@ -279,7 +285,7 @@
           "zh-Hant": "Chino Tradicional Simi",
           "zh-Hant-alt-long": "Chino Mandarín Tradicional Simi",
           "zu": "Isizulu Simi",
-          "zxx": "Sin contenido linguístico"
+          "zxx": "Manaraq simi yachana"
         }
       }
     }

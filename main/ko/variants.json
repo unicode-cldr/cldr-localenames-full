@@ -3,7 +3,7 @@
     "ko": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ko"
       },
@@ -79,6 +79,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "파마카 방언",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "PINYIN",
           "POLYTON": "POLYTON",
@@ -100,6 +101,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "TARASK",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "UCCOR",
           "UCRCOR": "통합 개정 표기법",
           "ULSTER": "얼스터",

@@ -3,7 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sl"
       },
@@ -62,13 +62,13 @@
           "Grek": "grški",
           "Gujr": "gudžaratski",
           "Guru": "gurmuki",
-          "Hanb": "Han + Bopomofo",
+          "Hanb": "han + bopomofo",
           "Hang": "hangul",
           "Hani": "kanji",
           "Hano": "hanunski",
-          "Hans": "poenostavljena pisava han",
+          "Hans": "poenostavljena pisava",
           "Hans-alt-stand-alone": "poenostavljena pisava han",
-          "Hant": "tradicionalna pisava han",
+          "Hant": "tradicionalna pisava",
           "Hant-alt-stand-alone": "tradicionalna pisava han",
           "Hatr": "Hatr",
           "Hebr": "hebrejski",
@@ -80,7 +80,7 @@
           "Hung": "staroogrski",
           "Inds": "induški",
           "Ital": "staroitalski",
-          "Jamo": "Jamo",
+          "Jamo": "jamo",
           "Java": "javanski",
           "Jpan": "japonski",
           "Kali": "karenski",

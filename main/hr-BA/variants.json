@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hr",
         "territory": "BA"
@@ -82,6 +82,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "pamaka dijalekt",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "Pinyin romanizacija",
           "POLYTON": "politono",
@@ -103,6 +104,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "taraskievica pravopis",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "ujednačena ortografija",
           "UCRCOR": "ujednačena revidirana ortografija",
           "ULSTER": "ULSTER",

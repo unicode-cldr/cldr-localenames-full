@@ -3,7 +3,7 @@
     "nb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nb"
       },
@@ -63,7 +63,7 @@
           "Grek": "gresk",
           "Gujr": "gujarati",
           "Guru": "gurmukhi",
-          "Hanb": "hanb",
+          "Hanb": "han-kinesisk med bopomofo",
           "Hang": "hangul",
           "Hani": "han",
           "Hano": "hanunoo",

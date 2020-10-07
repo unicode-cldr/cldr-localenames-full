@@ -3,7 +3,7 @@
     "ar-SA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ar",
         "territory": "SA"
@@ -82,6 +82,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "بينيين باللاتينية",
           "POLYTON": "متعدد النغمات",
@@ -103,6 +104,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "TARASK",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "التهجئة الموحدة",
           "UCRCOR": "التهجئة المراجعة الموحدة",
           "ULSTER": "ULSTER",

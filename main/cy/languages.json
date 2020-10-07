@@ -3,7 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "cy"
       },
@@ -96,6 +96,8 @@
           "chr": "Tsierocî",
           "chy": "Cheyenne",
           "ckb": "Cwrdeg Sorani",
+          "ckb-alt-menu": "Cwrdeg Sorani",
+          "ckb-alt-variant": "Cwrdeg Sorani",
           "co": "Corseg",
           "cop": "Copteg",
           "cr": "Cri",
@@ -237,6 +239,7 @@
           "kea": "Caboferdianeg",
           "kfo": "Koro",
           "kg": "Congo",
+          "kgp": "kgp",
           "kha": "Càseg",
           "khq": "Koyra Chiini",
           "khw": "Chowareg",
@@ -275,6 +278,7 @@
           "lez": "Lezgheg",
           "lg": "Ganda",
           "li": "Limbwrgeg",
+          "lij": "lij",
           "lkt": "Lakota",
           "lmo": "Lombardeg",
           "ln": "Lingala",
@@ -389,9 +393,9 @@
           "prg": "Prwseg",
           "pro": "Hen Brofensaleg",
           "ps": "Pashto",
-          "pt": "Portiwgeeg",
-          "pt-BR": "Portiwgeeg Brasil",
-          "pt-PT": "Portiwgeeg Ewrop",
+          "pt": "Portiwgaleg",
+          "pt-BR": "Portiwgaleg Brasil",
+          "pt-PT": "Portiwgaleg Ewrop",
           "qu": "Quechua",
           "quc": "K’iche’",
           "raj": "Rajasthaneg",
@@ -541,7 +545,7 @@
           "zap": "Zapoteceg",
           "zbl": "Blisssymbols",
           "zea": "Zêlandeg",
-          "zgh": "Tamaseit Safonol",
+          "zgh": "Tamaseit Moroco Safonol",
           "zh": "Tsieinëeg",
           "zh-alt-menu": "Tsieinëeg, Mandarin",
           "zh-Hans": "Tsieinëeg Symledig",

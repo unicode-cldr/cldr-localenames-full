@@ -3,7 +3,7 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yue",
         "script": "Hans"
@@ -82,6 +82,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "苏利南帕马卡方言",
+          "PEANO": "PEANO",
           "PETR1708": "俄罗斯文拼字（1708 年）",
           "PINYIN": "汉语拼音",
           "POLYTON": "希腊文多调正字法",
@@ -103,6 +104,8 @@
           "SURSILV": "瑞士苏瑟瓦方言",
           "SUTSILV": "瑞士苏希瓦方言",
           "TARASK": "白俄罗斯文传统拼字",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "统一康沃尔文拼字",
           "UCRCOR": "统一康沃尔文修订拼字",
           "ULSTER": "爱尔兰阿尔斯特方言",

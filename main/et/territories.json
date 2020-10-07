@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "et"
       },
@@ -101,7 +101,7 @@
           "CX": "Jõulusaar",
           "CY": "Küpros",
           "CZ": "Tšehhi",
-          "CZ-alt-variant": "Tšehhia",
+          "CZ-alt-variant": "Tšehhi Vabariik",
           "DE": "Saksamaa",
           "DG": "Diego Garcia",
           "DJ": "Djibouti",
@@ -122,12 +122,12 @@
           "FI": "Soome",
           "FJ": "Fidži",
           "FK": "Falklandi saared",
-          "FK-alt-variant": "Malviini saared",
+          "FK-alt-variant": "Falklandi saared (Malviini saared)",
           "FM": "Mikroneesia",
           "FO": "Fääri saared",
           "FR": "Prantsusmaa",
           "GA": "Gabon",
-          "GB": "Suurbritannia",
+          "GB": "Ühendkuningriik",
           "GB-alt-short": "ÜK",
           "GD": "Grenada",
           "GE": "Gruusia",

@@ -3,7 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sl"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "romanizacija pindžin",
           "POLYTON": "politonalni pravopis",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "Taraškievičeva beloruska slovnica",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "UCCOR",
           "UCRCOR": "UCRCOR",
           "ULSTER": "ULSTER",

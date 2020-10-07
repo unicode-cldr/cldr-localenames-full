@@ -3,7 +3,7 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yue",
         "script": "Hant"
@@ -82,6 +82,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "蘇利南帕馬卡方言",
+          "PEANO": "PEANO",
           "PETR1708": "俄羅斯文拼字（1708 年）",
           "PINYIN": "漢語拼音",
           "POLYTON": "希臘文多調正字法",
@@ -103,6 +104,8 @@
           "SURSILV": "瑞士蘇瑟瓦方言",
           "SUTSILV": "瑞士蘇希瓦方言",
           "TARASK": "白俄羅斯文傳統拼字",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "統一康沃爾文拼字",
           "UCRCOR": "統一康沃爾文修訂拼字",
           "ULSTER": "愛爾蘭阿爾斯特方言",

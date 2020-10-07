@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hr",
         "territory": "BA"
@@ -99,6 +99,7 @@
           "chy": "čejenski",
           "ckb": "soranski kurdski",
           "ckb-alt-menu": "kurdski, sorani",
+          "ckb-alt-variant": "kurdski, soranski",
           "co": "korzički",
           "cop": "koptski",
           "cr": "cree",
@@ -249,6 +250,7 @@
           "kea": "zelenortski",
           "kfo": "koro",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "khasi",
           "kho": "khotanese",
           "khq": "koyra chiini",
@@ -289,6 +291,7 @@
           "lez": "lezgiški",
           "lg": "ganda",
           "li": "limburški",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laoski",

@@ -3,7 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "zu"
       },
@@ -118,7 +118,7 @@
           "ES": "i-Spain",
           "ET": "i-Ethiopia",
           "EU": "i-European Union",
-          "EZ": "EZ",
+          "EZ": "I-Eurozone",
           "FI": "i-Finland",
           "FJ": "i-Fiji",
           "FK": "i-Falkland Islands",

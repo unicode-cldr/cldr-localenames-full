@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt"
       },
@@ -63,7 +63,7 @@
           "BE": "Bélgica",
           "BF": "Burquina Faso",
           "BG": "Bulgária",
-          "BH": "Bahrein",
+          "BH": "Barein",
           "BI": "Burundi",
           "BJ": "Benin",
           "BL": "São Bartolomeu",
@@ -124,7 +124,7 @@
           "FK": "Ilhas Malvinas",
           "FK-alt-variant": "Ilhas Malvinas (Ilhas Falkland)",
           "FM": "Micronésia",
-          "FO": "Ilhas Faroe",
+          "FO": "Ilhas Faroé",
           "FR": "França",
           "GA": "Gabão",
           "GB": "Reino Unido",
@@ -192,7 +192,7 @@
           "LY": "Líbia",
           "MA": "Marrocos",
           "MC": "Mônaco",
-          "MD": "Moldova",
+          "MD": "Moldávia",
           "ME": "Montenegro",
           "MF": "São Martinho",
           "MG": "Madagascar",

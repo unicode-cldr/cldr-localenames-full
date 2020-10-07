@@ -3,7 +3,7 @@
     "fur": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fur"
       },
@@ -47,6 +47,8 @@
           "ch": "chamorro",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "cors",
           "cop": "coptic",
           "cr": "cree",
@@ -60,6 +62,7 @@
           "de-CH": "alt todesc de Svuizare",
           "den": "sclâf",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dyo": "dyo",
@@ -135,6 +138,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kazac",
@@ -158,6 +162,7 @@
           "lb": "lussemburghês",
           "lg": "lg",
           "li": "limburghês",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "lingala",
           "lo": "lao",

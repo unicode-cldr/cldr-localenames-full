@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sd"
       },
@@ -79,10 +79,11 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "PINYIN",
           "POLYTON": "POLYTON",
-          "POSIX": "POSIX",
+          "POSIX": "ڪمپيوٽر",
           "PROVENC": "PROVENC",
           "PUTER": "PUTER",
           "REVISED": "REVISED",
@@ -100,6 +101,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "TARASK",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "UCCOR",
           "UCRCOR": "UCRCOR",
           "ULSTER": "ULSTER",

@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lv"
       },
@@ -157,7 +157,7 @@
           "ID": "Indonēzija",
           "IE": "Īrija",
           "IL": "Izraēla",
-          "IM": "Mena",
+          "IM": "Menas sala",
           "IN": "Indija",
           "IO": "Indijas okeāna Britu teritorija",
           "IQ": "Irāka",
@@ -237,7 +237,7 @@
           "PM": "Senpjēra un Mikelona",
           "PN": "Pitkērnas salas",
           "PR": "Puertoriko",
-          "PS": "Palestīna",
+          "PS": "Palestīnas teritorijas",
           "PS-alt-short": "Palestīna",
           "PT": "Portugāle",
           "PW": "Palau",
@@ -271,7 +271,7 @@
           "SY": "Sīrija",
           "SZ": "Svatini",
           "SZ-alt-variant": "Svazilenda",
-          "TA": "Tristana da Kuņas salas",
+          "TA": "Tristana da Kuņjas salu teritorijas",
           "TC": "Tērksas un Kaikosas salas",
           "TD": "Čada",
           "TF": "Francijas Dienvidjūru teritorija",

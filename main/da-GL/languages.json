@@ -3,7 +3,7 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "da",
         "territory": "GL"
@@ -98,6 +98,7 @@
           "chy": "cheyenne",
           "ckb": "sorani",
           "ckb-alt-menu": "kurdisk, sorani",
+          "ckb-alt-variant": "centralkurdisk",
           "co": "korsikansk",
           "cop": "koptisk",
           "cr": "cree",
@@ -170,7 +171,7 @@
           "fro": "oldfransk",
           "frr": "nordfrisisk",
           "frs": "østfrisisk",
-          "fur": "friulian",
+          "fur": "friulisk",
           "fy": "vestfrisisk",
           "ga": "irsk",
           "gaa": "ga",
@@ -248,6 +249,7 @@
           "kea": "kapverdisk",
           "kfo": "koro",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "khasi",
           "kho": "khotanesisk",
           "khq": "koyra-chiini",
@@ -288,6 +290,7 @@
           "lez": "lezghian",
           "lg": "ganda",
           "li": "limburgsk",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "lao",
@@ -348,7 +351,7 @@
           "nan": "min-kinesisk",
           "nap": "napolitansk",
           "naq": "nama",
-          "nb": "norsk bokmål",
+          "nb": "bokmål",
           "nd": "nordndebele",
           "nds": "nedertysk",
           "nds-NL": "nedertysk (Holland)",
@@ -420,7 +423,7 @@
           "rwk": "rwa",
           "sa": "sanskrit",
           "sad": "sandawe",
-          "sah": "yakut",
+          "sah": "jakutisk",
           "sam": "samaritansk aramæisk",
           "saq": "samburu",
           "sas": "sasak",
@@ -530,7 +533,7 @@
           "wo": "wolof",
           "wuu": "wu-kinesisk",
           "xal": "kalmyk",
-          "xh": "isiXhosa",
+          "xh": "xhosa",
           "xog": "soga",
           "yao": "yao",
           "yap": "yapese",

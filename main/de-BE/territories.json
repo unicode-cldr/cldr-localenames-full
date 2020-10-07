@@ -3,7 +3,7 @@
     "de-BE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "de",
         "territory": "BE"
@@ -71,7 +71,7 @@
           "BM": "Bermuda",
           "BN": "Brunei Darussalam",
           "BO": "Bolivien",
-          "BQ": "Bonaire, Sint Eustatius und Saba",
+          "BQ": "Karibische Niederlande",
           "BR": "Brasilien",
           "BS": "Bahamas",
           "BT": "Bhutan",
@@ -129,7 +129,7 @@
           "FR": "Frankreich",
           "GA": "Gabun",
           "GB": "Vereinigtes Königreich",
-          "GB-alt-short": "GB",
+          "GB-alt-short": "UK",
           "GD": "Grenada",
           "GE": "Georgien",
           "GF": "Französisch-Guayana",

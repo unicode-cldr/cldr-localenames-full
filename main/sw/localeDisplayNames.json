@@ -3,7 +3,7 @@
     "sw": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sw"
       },
@@ -19,10 +19,10 @@
           "colAlternate": "Puuza Upangaji Alama",
           "colBackwards": "Upangaji Uliogeuzwa wa Kiinitoni",
           "colCaseFirst": "Upangaji wa Herufi kubwa/Herufi ndogo",
-          "colCaseLevel": "Upangaji Unaoathiriwa na Herufi",
+          "colCaseLevel": "Upangaji Kulingana na Ukubwa wa Herufi",
           "collation": "Mpangilio",
           "colNormalization": "Upangaji wa Kawaida",
-          "colNumeric": "Upangaji wa Namba",
+          "colNumeric": "Upangaji kwa Nambari",
           "colStrength": "Nguvu ya Upangaji",
           "currency": "Sarafu",
           "hc": "Kipindi cha saa (12 au 24)",
@@ -52,7 +52,7 @@
             "iso8601": "Kalenda ya ISO-8601",
             "japanese": "Kalenda ya Kijapani",
             "persian": "Kalenda ya Kiajemi",
-            "roc": "Kalenda ya Minguo"
+            "roc": "Kalenda ya Jamhuri ya Uchina"
           },
           "cf": {
             "account": "Mpangilio wa Kihasibu wa Sarafu",
@@ -132,8 +132,8 @@
           },
           "ms": {
             "metric": "Mfumo wa Metriki",
-            "uksystem": "Mfumo wa UK",
-            "ussystem": "Mfumo wa US"
+            "uksystem": "Mfumo wa Vipimo wa Uingereza",
+            "ussystem": "Mfumo wa Vipimo wa Marekani"
           },
           "numbers": {
             "ahom": "ahom",
@@ -171,12 +171,12 @@
             "jpan": "Nambari za Kijapani",
             "jpanfin": "Nambari za Kifedha za Kijapani",
             "kali": "kali",
-            "khmr": "Nambari za Kikhmer",
+            "khmr": "Nambari za Kikambodia",
             "knda": "Nambari za Kikannada",
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "Nambari za Kilao",
-            "latn": "Nambari za Magharibi",
+            "latn": "Nambari za Nchi za Magharibi",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",

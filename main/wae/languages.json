@@ -3,7 +3,7 @@
     "wae": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "wae"
       },
@@ -40,6 +40,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cs": "Tšečiš",
           "cu": "cu",
@@ -50,6 +52,7 @@
           "de-AT": "Öštričišes Titš",
           "de-CH": "Schwizer Hočtitš",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dv": "Malediwiš",
@@ -120,6 +123,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "Kazačiš",
@@ -141,6 +145,7 @@
           "lag": "lag",
           "lb": "Luxemburgiš",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "Lingala",
           "lo": "Laotiš",
@@ -183,6 +188,7 @@
           "nnh": "nnh",
           "nso": "Nordsotho",
           "nus": "nus",
+          "nv": "nv",
           "ny": "Nyanja",
           "nyn": "nyn",
           "om": "om",

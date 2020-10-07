@@ -3,7 +3,7 @@
     "sw-UG": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sw",
         "territory": "UG"
@@ -27,7 +27,7 @@
           "Bhks": "Bhks",
           "Bopo": "Kibopomofo",
           "Brah": "Brah",
-          "Brai": "Braille",
+          "Brai": "Nukta nundu",
           "Bugi": "Bugi",
           "Buhd": "Buhd",
           "Cakm": "Cakm",

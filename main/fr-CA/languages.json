@@ -3,7 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fr",
         "territory": "CA"
@@ -44,7 +44,7 @@
           "ary": "arabe marocain",
           "arz": "arabe égyptien",
           "as": "assamais",
-          "asa": "assou",
+          "asa": "asou",
           "ase": "langue des signes américaine",
           "ast": "asturien",
           "av": "avar",
@@ -52,7 +52,7 @@
           "awa": "awadhi",
           "ay": "aymara",
           "az": "azerbaïdjanais",
-          "az-alt-short": "azerbaïdjanais",
+          "az-alt-short": "azéri",
           "ba": "bachkir",
           "bal": "baloutchi",
           "ban": "balinais",
@@ -114,6 +114,7 @@
           "chy": "cheyenne",
           "ckb": "kurde central",
           "ckb-alt-menu": "sorani",
+          "ckb-alt-variant": "kurde central",
           "co": "corse",
           "cop": "copte",
           "cps": "capiznon",
@@ -201,7 +202,7 @@
           "gan": "gan",
           "gay": "gayo",
           "gba": "gbaya",
-          "gbz": "dari",
+          "gbz": "dari zoroastrien",
           "gd": "gaélique écossais",
           "gez": "guèze",
           "gil": "gilbertin",

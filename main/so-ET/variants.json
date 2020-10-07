@@ -3,7 +3,7 @@
     "so-ET": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "so",
         "territory": "ET"
@@ -80,6 +80,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "PINYIN",
           "POLYTON": "POLYTON",
@@ -101,6 +102,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "orthographyga Taraskievica",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "orthograpghyga mideeysan",
           "UCRCOR": "orthographyga mideeysan ee hadana ladul maray",
           "ULSTER": "ULSTER",

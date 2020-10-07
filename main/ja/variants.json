@@ -3,7 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ja"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "パマカ方言",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "ピン音(ローマ字表記法)",
           "POLYTON": "ポリトニック",
@@ -102,6 +103,8 @@
           "SURSILV": "スルシルヴァン",
           "SUTSILV": "ストシルヴァン",
           "TARASK": "タラシケヴィツァ正書法",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "統一コーンウォール語正書法",
           "UCRCOR": "改訂統一コーンウォール語正書法",
           "ULSTER": "アルスター",

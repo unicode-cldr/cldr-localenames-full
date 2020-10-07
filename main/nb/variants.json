@@ -3,7 +3,7 @@
     "nb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nb"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "Pamaka-dialekt",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "pinyin",
           "POLYTON": "polytonisk rettskriving",
@@ -102,6 +103,8 @@
           "SURSILV": "sursilvan",
           "SUTSILV": "sutsilvan",
           "TARASK": "taraskievica-ortografi",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "harmonisert ortografi",
           "UCRCOR": "harmonisert revidert ortografi",
           "ULSTER": "ulster",

@@ -3,7 +3,7 @@
     "so": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "so"
       },
@@ -33,7 +33,7 @@
             "ethiopic-amete-alem": "Taariikhda Itoobiya ee Amete Alem",
             "gregorian": "Habeetiriska Geregoriyaan",
             "hebrew": "Habeentiriska yuhuudda",
-            "indian": "Taariikhda Qaranka Hindiya",
+            "indian": "Habeentiris Qarameedka Hindiya",
             "islamic": "Habeentiriska islaamka",
             "islamic-civil": "Taariikhda Islaamiga (tabular, civil epoch)",
             "islamic-rgsa": "Habeentiriska Islaamka (Sacuudiga, aragtida)",

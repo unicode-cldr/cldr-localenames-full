@@ -3,7 +3,7 @@
     "kok": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kok"
       },
@@ -31,7 +31,7 @@
             "dangi": "डांगी दिनदर्शिका",
             "ethiopic": "इथियोपिक दिनदर्शिका",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "ग्रेगोरियन कॅलेन्डर",
+            "gregorian": "ग्रेगोरियन कॅलॅण्डर",
             "hebrew": "हिब्रू दिनदर्शिका",
             "indian": "indian",
             "islamic": "ईस्लामीक दिनदर्शिका",

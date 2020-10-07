@@ -3,7 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sk"
       },
@@ -95,6 +95,8 @@
           "chr": "čerokí",
           "chy": "čejenčina",
           "ckb": "kurdčina (sorání)",
+          "ckb-alt-menu": "kurdčina (sorání)",
+          "ckb-alt-variant": "kurdčina (sorání)",
           "co": "korzičtina",
           "cop": "koptčina",
           "cr": "krí",
@@ -242,6 +244,7 @@
           "kea": "kapverdčina",
           "kfo": "koro",
           "kg": "kongčina",
+          "kgp": "kgp",
           "kha": "khasijčina",
           "kho": "chotančina",
           "khq": "západná songhajčina",
@@ -282,6 +285,7 @@
           "lez": "lezginčina",
           "lg": "gandčina",
           "li": "limburčina",
+          "lij": "lij",
           "lkt": "lakotčina",
           "ln": "lingalčina",
           "lo": "laoština",
@@ -497,7 +501,7 @@
           "twq": "tasawaq",
           "ty": "tahitčina",
           "tyv": "tuviančina",
-          "tzm": "tuaregčina (stredomarocká)",
+          "tzm": "tamazight (stredomarocký)",
           "udm": "udmurtčina",
           "ug": "ujgurčina",
           "uga": "ugaritčina",

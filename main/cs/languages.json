@@ -3,7 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "cs"
       },
@@ -112,6 +112,8 @@
           "chr": "čerokézština",
           "chy": "čejenština",
           "ckb": "kurdština (sorání)",
+          "ckb-alt-menu": "kurdština (sorání)",
+          "ckb-alt-variant": "kurdština (sorání)",
           "co": "korsičtina",
           "cop": "koptština",
           "cps": "kapiznonština",
@@ -617,7 +619,7 @@
           "yo": "jorubština",
           "yrl": "nheengatu",
           "yue": "kantonština",
-          "yue-alt-menu": "jüe",
+          "yue-alt-menu": "čínština (kantonština)",
           "za": "čuangština",
           "zap": "zapotéčtina",
           "zbl": "bliss systém",

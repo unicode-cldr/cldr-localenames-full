@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fi"
       },
@@ -82,6 +82,7 @@
           "PAHAWH3": "pahawh-hmongin tavukirjoituksen kolmas vaihe",
           "PAHAWH4": "pahawh-hmongin tavukirjoituksen viimeinen vaihe",
           "PAMAKA": "pamakan kreolimurre",
+          "PEANO": "PEANO",
           "PETR1708": "venäjän Pietarin siviiliaakkosto 1708",
           "PINYIN": "kiinan pinyin-latinaistus",
           "POLYTON": "polytoninen kreikka",
@@ -103,6 +104,8 @@
           "SURSILV": "retoromaanin sursilvan-muoto",
           "SUTSILV": "retoromaanin sutsilvan-muoto",
           "TARASK": "valkovenäjän taraškevitsa-oikeinkirjoitus",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "kornin yhtenäiskirjoitus",
           "UCRCOR": "kornin uusittu yhtenäiskirjoitus",
           "ULSTER": "skotin ulster-murre",

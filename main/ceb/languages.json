@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ceb"
       },
@@ -38,6 +38,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cs": "cs",
           "cu": "cu",
@@ -46,8 +48,9 @@
           "dav": "dav",
           "de": "Aleman",
           "de-AT": "Austriano nga Aleman",
-          "de-CH": "Swiss nga Taas nga Aleman",
+          "de-CH": "Taas nga Aleman sa Switzerland",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dyo": "dyo",
@@ -78,7 +81,7 @@
           "fo": "fo",
           "fr": "Pranses",
           "fr-CA": "Pranses sa Canada",
-          "fr-CH": "Swiss nga Pranses",
+          "fr-CH": "Pranses sa Switzerland",
           "frc": "frc",
           "fur": "fur",
           "fy": "fy",
@@ -114,6 +117,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kk",
@@ -135,6 +139,7 @@
           "lag": "lag",
           "lb": "lb",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
@@ -176,6 +181,7 @@
           "nn": "nn",
           "nnh": "nnh",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "om": "om",

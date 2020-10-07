@@ -3,7 +3,7 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ur",
         "territory": "IN"
@@ -88,7 +88,7 @@
             "phonetic": "صوتی چھٹائی کی ترتیب",
             "pinyin": "پن ین کی چھٹنی کی ترتیب",
             "reformed": "دوبارہ تشکیل شدہ چھٹنی کی ترتیب",
-            "search": "عام-مقصد کی تلاش",
+            "search": "عمومی تلاش",
             "searchjl": "Hangul Initial Consonant کے لحاظ سے تلاش کریں",
             "standard": "معیاری چھانٹی کی ترتیب",
             "stroke": "سٹروک کی چھٹنی کی ترتیب",

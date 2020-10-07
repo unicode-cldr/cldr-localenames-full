@@ -3,7 +3,7 @@
     "eo": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "eo"
       },
@@ -43,6 +43,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "korsika",
           "cs": "ĉeĥa",
           "cu": "cu",
@@ -53,6 +55,7 @@
           "de-AT": "germana (Aŭstrujo)",
           "de-CH": "germana (Svisujo)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dv": "mahla",
@@ -126,6 +129,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kazaĥa",
@@ -147,6 +151,7 @@
           "lag": "lag",
           "lb": "luksemburga",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "lingala",
           "lo": "laŭa",
@@ -190,6 +195,7 @@
           "nnh": "nnh",
           "no": "norvega",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "oc": "okcitana",

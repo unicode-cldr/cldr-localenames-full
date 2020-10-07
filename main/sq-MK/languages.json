@@ -3,7 +3,7 @@
     "sq-MK": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sq",
         "territory": "MK"
@@ -68,6 +68,8 @@
           "chr": "çerokisht",
           "chy": "çejenisht",
           "ckb": "kurdishte qendrore",
+          "ckb-alt-menu": "kurdishte qendrore",
+          "ckb-alt-variant": "kurdishte qendrore",
           "co": "korsikisht",
           "crs": "frëngjishte kreole seselve",
           "cs": "çekisht",
@@ -83,6 +85,7 @@
           "de-CH": "gjermanishte zvicerane (dialekti i Alpeve)",
           "dgr": "dogribisht",
           "dje": "zarmaisht",
+          "doi": "doi",
           "dsb": "sorbishte e poshtme",
           "dua": "dualaisht",
           "dv": "divehisht",
@@ -178,6 +181,7 @@
           "kde": "makondisht",
           "kea": "kreolishte e Kepit të Gjelbër",
           "kfo": "koroisht",
+          "kgp": "kgp",
           "kha": "kasisht",
           "khq": "kojraçinisht",
           "ki": "kikujuisht",
@@ -213,6 +217,7 @@
           "lez": "lezgianisht",
           "lg": "gandaisht",
           "li": "limburgisht",
+          "lij": "lij",
           "lkt": "lakotisht",
           "ln": "lingalisht",
           "lo": "laosisht",

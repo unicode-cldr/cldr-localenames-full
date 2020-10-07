@@ -3,7 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "br"
       },
@@ -19,7 +19,7 @@
           "collation": "doare rummañ",
           "currency": "moneiz",
           "hc": "kelcʼhiad eurioù",
-          "lb": "lb",
+          "lb": "stil torr linenn",
           "ms": "reizhiad vuzuliañ",
           "numbers": "niveroù"
         },
@@ -45,7 +45,7 @@
             "roc": "deiziadur Republik Sina"
           },
           "cf": {
-            "account": "account",
+            "account": "furmad unanenn jediñ",
             "standard": "furmad moneiz standart"
           },
           "collation": {
@@ -74,9 +74,9 @@
             "h24": "reizhiad 24 eurvezh (1–24)"
           },
           "lb": {
-            "loose": "loose",
-            "normal": "normal",
-            "strict": "strict"
+            "loose": "stil torr linenn lezober",
+            "normal": "stil torr linenn boas",
+            "strict": "stil torr linenn strizh"
           },
           "ms": {
             "metric": "reizhiad vetrek",

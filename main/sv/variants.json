@@ -3,7 +3,7 @@
     "sv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sv"
       },
@@ -34,7 +34,7 @@
           "BISKE": "Bila-dialekt",
           "BOHORIC": "Bohorič-alfabetet",
           "BOONT": "boontling",
-          "BORNHOLM": "BORNHOLM",
+          "BORNHOLM": "Bornholm",
           "CISAUP": "cisalpinska (occitanska)",
           "COLB1945": "stavning enligt 1945 års konvention mellan Portugal och Brasilien",
           "CORNU": "kornisk engelska",
@@ -81,6 +81,7 @@
           "PAHAWH3": "pahawh hmong tredje steget reducerad stavning",
           "PAHAWH4": "pahawh hmong sista steget reducerad stavning",
           "PAMAKA": "Pamaka-dialekt",
+          "PEANO": "PEANO",
           "PETR1708": "1708 års stavning",
           "PINYIN": "pinyin",
           "POLYTON": "polytonisk stavning",
@@ -102,6 +103,8 @@
           "SURSILV": "sursilvan-dialekt",
           "SUTSILV": "sutsilvan-dialekt",
           "TARASK": "Taraskievika-stavning",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "unifierad stavning",
           "UCRCOR": "reviderad unifierad stavning",
           "ULSTER": "Ulster-dialekt",

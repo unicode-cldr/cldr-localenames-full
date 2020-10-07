@@ -3,7 +3,7 @@
     "lo": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lo"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "ພາສາພື້ນເມືອງພາມາຄາ",
+          "PEANO": "PEANO",
           "PETR1708": "ພີທ໌1708",
           "PINYIN": "ພິນຢິນ",
           "POLYTON": "ໂພລີໂທນິກ",
@@ -102,6 +103,8 @@
           "SURSILV": "ຊູຣ໌ຊີລ໌",
           "SUTSILV": "ຊຸຕ໌ຊີລ໌",
           "TARASK": "ອັກຂະລະວິທີທາຣາຊ໌ເຄຍວິກາ",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "ອັກຂະລະວິທີແບບຄົບວົງຈອນ",
           "UCRCOR": "ອັກຂະລະວິທີສະບັບປັບປຸງແບບຄົບວົງຈອນ",
           "ULSTER": "ອັລສະເຕີ",

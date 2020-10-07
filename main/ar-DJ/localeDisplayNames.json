@@ -3,7 +3,7 @@
     "ar-DJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ar",
         "territory": "DJ"
@@ -132,9 +132,9 @@
             "ungegn": "يو إن جي إي جي إن"
           },
           "ms": {
-            "metric": "نظام متري",
-            "uksystem": "نظام المملكة المتحدة",
-            "ussystem": "نظام الولايات المتحدة"
+            "metric": "النظام المتري",
+            "uksystem": "نظام القياس البريطاني",
+            "ussystem": "نظام القياس الأمريكي"
           },
           "numbers": {
             "ahom": "ahom",

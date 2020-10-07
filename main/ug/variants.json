@@ -3,7 +3,7 @@
     "ug": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ug"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "پاماكا شىۋەسى",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "پىنيىن لاتىنلاشتۇرۇش",
           "POLYTON": "پولىتونىك",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "تاراسكىۋىتسا ئىملا قائىدىسى",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "بىرلىككە كەلگەن ئىملا قائىدىسى",
           "UCRCOR": "بىرلىككە كەلگەن تۈزىتىلگەن ئىملا قائىدىسى",
           "ULSTER": "ULSTER",

@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "vi"
       },
@@ -109,6 +109,7 @@
           "chr": "Tiếng Cherokee",
           "chy": "Tiếng Cheyenne",
           "ckb": "Tiếng Kurd Miền Trung",
+          "ckb-alt-menu": "Tiếng Kurd Miền Trung",
           "ckb-alt-variant": "Tiếng Kurd Sorani",
           "co": "Tiếng Corsica",
           "cop": "Tiếng Coptic",
@@ -225,7 +226,7 @@
           "hif": "Tiếng Fiji Hindi",
           "hil": "Tiếng Hiligaynon",
           "hit": "Tiếng Hittite",
-          "hmn": "Tiếng Hmông",
+          "hmn": "Tiếng H’Mông",
           "ho": "Tiếng Hiri Motu",
           "hr": "Tiếng Croatia",
           "hsb": "Tiếng Thượng Sorbia",
@@ -273,6 +274,7 @@
           "kea": "Tiếng Kabuverdianu",
           "kfo": "Tiếng Koro",
           "kg": "Tiếng Kongo",
+          "kgp": "kgp",
           "kha": "Tiếng Khasi",
           "kho": "Tiếng Khotan",
           "khq": "Tiếng Koyra Chiini",
@@ -313,6 +315,7 @@
           "lez": "Tiếng Lezghian",
           "lg": "Tiếng Ganda",
           "li": "Tiếng Limburg",
+          "lij": "lij",
           "lkt": "Tiếng Lakota",
           "ln": "Tiếng Lingala",
           "lo": "Tiếng Lào",

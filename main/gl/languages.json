@@ -3,7 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gl"
       },
@@ -69,6 +69,8 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "kurdo central",
+          "ckb-alt-menu": "kurdo central",
+          "ckb-alt-variant": "sorani",
           "co": "corso",
           "crs": "seselwa (crioulo das Seychelles)",
           "cs": "checo",
@@ -84,6 +86,7 @@
           "de-CH": "alto alemán suízo",
           "dgr": "dogrib",
           "dje": "zarma",
+          "doi": "doi",
           "dsb": "baixo sorbio",
           "dua": "duala",
           "dv": "divehi",
@@ -181,6 +184,7 @@
           "kea": "caboverdiano",
           "kfo": "koro",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "khasi",
           "khq": "koyra chiini",
           "ki": "kikuyu",
@@ -216,6 +220,7 @@
           "lez": "lezguio",
           "lg": "ganda",
           "li": "limburgués",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laosiano",

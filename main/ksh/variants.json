@@ -3,7 +3,7 @@
     "ksh": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ksh"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "pamakanesche Dijaläk",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "Pinjin-Ömschreff",
           "POLYTON": "pollütoonesch",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "Taraskijeviza-Schriefwiiß",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "eijheijtlesch Schriefwiiß",
           "UCRCOR": "eijheijtlesch, neu opjelate Schriefwiiß",
           "ULSTER": "ULSTER",

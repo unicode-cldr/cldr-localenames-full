@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "id"
       },
@@ -42,7 +42,7 @@
           "Cprt": "Siprus",
           "Cyrl": "Sirilik",
           "Cyrs": "Gereja Slavonia Sirilik Lama",
-          "Deva": "Devanagari",
+          "Deva": "Dewanagari",
           "Diak": "Diak",
           "Dogr": "Dogr",
           "Dsrt": "Deseret",
@@ -206,7 +206,7 @@
           "Zsym": "Simbol",
           "Zxxx": "Tidak Tertulis",
           "Zyyy": "Umum",
-          "Zzzz": "Skrip Tak Dikenal"
+          "Zzzz": "Skrip Tidak Dikenal"
         }
       }
     }

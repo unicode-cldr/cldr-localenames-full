@@ -3,7 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ms"
       },
@@ -79,6 +79,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "Dialek Pamaka",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "Perumian Pinyin",
           "POLYTON": "Banyak Nada",
@@ -100,6 +101,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "Sistem ejaan Taraskievica",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "Sistem Ejaan Bersatu",
           "UCRCOR": "Sistem Ejaan Semakan Bersatu",
           "ULSTER": "ULSTER",

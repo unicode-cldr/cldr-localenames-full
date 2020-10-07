@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "id"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "Dialek Pamaka",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "Pinyin Latin",
           "POLYTON": "Politon",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "Ortografi Taraskievica",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "Ortografi Terpadu",
           "UCRCOR": "Ortografi Revisi Terpadu",
           "ULSTER": "ULSTER",

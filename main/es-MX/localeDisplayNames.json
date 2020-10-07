@@ -3,7 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "MX"
@@ -124,7 +124,7 @@
           },
           "lb": {
             "loose": "estilo de salto de línea flexible",
-            "normal": "salto de línea normal",
+            "normal": "estilo de salto de línea normal",
             "strict": "estilo de salto de línea estricto"
           },
           "m0": {

@@ -3,7 +3,7 @@
     "os": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "os"
       },
@@ -45,6 +45,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cop": "коптаг",
           "cs": "чехаг",
@@ -57,6 +59,7 @@
           "de-AT": "австралиаг немыцаг",
           "de-CH": "швйецариаг немыцаг",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dyo": "dyo",
@@ -129,6 +132,7 @@
           "kbd": "кӕсгон",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kk",
@@ -153,6 +157,7 @@
           "lb": "lb",
           "lez": "лекъаг",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
@@ -194,6 +199,7 @@
           "nn": "nn",
           "nnh": "nnh",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "om": "om",

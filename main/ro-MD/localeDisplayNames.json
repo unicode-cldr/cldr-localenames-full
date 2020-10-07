@@ -3,7 +3,7 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ro",
         "territory": "MD"
@@ -15,9 +15,9 @@
           "localeKeyTypePattern": "{0}: {1}"
         },
         "keys": {
-          "calendar": "calendar",
+          "calendar": "tip calendar",
           "cf": "Format monedă",
-          "colAlternate": "sortare cu ignorarea simbolurilo",
+          "colAlternate": "sortare cu ignorarea simbolurilor",
           "colBackwards": "sortare inversă după accent",
           "colCaseFirst": "sortare după majuscule/minuscule",
           "colCaseLevel": "sortare care ține seama de majuscule/minuscule",

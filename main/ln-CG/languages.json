@@ -3,7 +3,7 @@
     "ln-CG": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ln",
         "territory": "CG"
@@ -39,6 +39,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cs": "litshekɛ",
           "cu": "cu",
@@ -49,6 +51,7 @@
           "de-AT": "lialemá (Otilisi)",
           "de-CH": "lialemá (Swisɛ)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dyo": "dyo",
@@ -115,6 +118,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kk",
@@ -136,6 +140,7 @@
           "lag": "lag",
           "lb": "lb",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "lingála",
           "lo": "lo",
@@ -177,6 +182,7 @@
           "nn": "nn",
           "nnh": "nnh",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "om": "om",

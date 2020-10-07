@@ -3,7 +3,7 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "af",
         "territory": "NA"
@@ -70,6 +70,8 @@
           "chr": "Cherokees",
           "chy": "Cheyennees",
           "ckb": "Sorani",
+          "ckb-alt-menu": "Sorani",
+          "ckb-alt-variant": "Koerdies Sorani",
           "co": "Korsikaans",
           "cop": "Kopties",
           "crs": "Seselwa Franskreools",
@@ -86,6 +88,7 @@
           "de-CH": "Duits (Switserland)",
           "dgr": "Dogrib",
           "dje": "Zarma",
+          "doi": "doi",
           "dsb": "Benedesorbies",
           "dua": "Duala",
           "dv": "Divehi",
@@ -172,7 +175,7 @@
           "io": "Ido",
           "is": "Yslands",
           "it": "Italiaans",
-          "iu": "Inuïties",
+          "iu": "Inoektitoet",
           "ja": "Japannees",
           "jbo": "Lojban",
           "jgo": "Ngomba",
@@ -189,6 +192,7 @@
           "kea": "Kabuverdianu",
           "kfo": "Koro",
           "kg": "Kongolees",
+          "kgp": "kgp",
           "kha": "Khasi",
           "khq": "Koyra Chiini",
           "ki": "Kikuyu",
@@ -224,6 +228,7 @@
           "lez": "Lezghies",
           "lg": "Ganda",
           "li": "Limburgs",
+          "lij": "lij",
           "lkt": "Lakota",
           "ln": "Lingaals",
           "lo": "Lao",

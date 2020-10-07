@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hu"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "Pamaka dialektus",
+          "PEANO": "PEANO",
           "PETR1708": "Petr1708",
           "PINYIN": "pinjin átírás",
           "POLYTON": "Politonikus",
@@ -102,6 +103,8 @@
           "SURSILV": "Sursilv",
           "SUTSILV": "Sutsilv",
           "TARASK": "Taraskijevica helyesírás",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "Egyesített helyesírás",
           "UCRCOR": "Egyesített átdolgozott helyesírás",
           "ULSTER": "Ulster",

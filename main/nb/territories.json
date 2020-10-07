@@ -3,7 +3,7 @@
     "nb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nb"
       },
@@ -80,7 +80,7 @@
           "BZ": "Belize",
           "CA": "Canada",
           "CC": "Kokosøyene",
-          "CD": "Kongo-Kinshasa",
+          "CD": "Kongo",
           "CD-alt-variant": "Den demokratiske republikken Kongo",
           "CF": "Den sentralafrikanske republikk",
           "CG": "Kongo-Brazzaville",
@@ -146,7 +146,7 @@
           "GU": "Guam",
           "GW": "Guinea-Bissau",
           "GY": "Guyana",
-          "HK": "Hongkong S.A.R. Kina",
+          "HK": "Hongkong SAR Kina",
           "HK-alt-short": "Hongkong",
           "HM": "Heard- og McDonaldøyene",
           "HN": "Honduras",
@@ -201,7 +201,7 @@
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",
-          "MO": "Macao S.A.R. Kina",
+          "MO": "Macao SAR Kina",
           "MO-alt-short": "Macao",
           "MP": "Nord-Marianene",
           "MQ": "Martinique",
@@ -307,7 +307,7 @@
           "WF": "Wallis og Futuna",
           "WS": "Samoa",
           "XA": "pseudospråk – aksenter",
-          "XB": "pseudospråk – RTL",
+          "XB": "pseudospråk – tekst begge veier",
           "XK": "Kosovo",
           "YE": "Jemen",
           "YT": "Mayotte",

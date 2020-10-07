@@ -3,7 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fil"
       },
@@ -68,6 +68,8 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Central Kurdish",
+          "ckb-alt-menu": "Central Kurdish",
+          "ckb-alt-variant": "Central Kurdish",
           "co": "Corsican",
           "crs": "Seselwa Creole French",
           "cs": "Czech",
@@ -83,6 +85,7 @@
           "de-CH": "Swiss High German",
           "dgr": "Dogrib",
           "dje": "Zarma",
+          "doi": "doi",
           "dsb": "Lower Sorbian",
           "dua": "Duala",
           "dv": "Divehi",
@@ -95,7 +98,7 @@
           "eka": "Ekajuk",
           "el": "Greek",
           "en": "Ingles",
-          "en-AU": "Ingles ng Australya",
+          "en-AU": "Ingles ng Australia",
           "en-CA": "Ingles sa Canada",
           "en-GB": "Ingles na British",
           "en-GB-alt-short": "Ingles sa UK",
@@ -179,6 +182,7 @@
           "kea": "Kabuverdianu",
           "kfo": "Koro",
           "kg": "Kongo",
+          "kgp": "kgp",
           "kha": "Khasi",
           "khq": "Koyra Chiini",
           "ki": "Kikuyu",
@@ -214,6 +218,7 @@
           "lez": "Lezghian",
           "lg": "Ganda",
           "li": "Limburgish",
+          "lij": "lij",
           "lkt": "Lakota",
           "ln": "Lingala",
           "lo": "Lao",

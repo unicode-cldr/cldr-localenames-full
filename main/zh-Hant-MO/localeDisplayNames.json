@@ -3,7 +3,7 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "zh",
         "script": "Hant",
@@ -54,7 +54,7 @@
             "iso8601": "ISO 8601 國際曆法",
             "japanese": "日本曆",
             "persian": "波斯曆",
-            "roc": "民國曆"
+            "roc": "國曆"
           },
           "cf": {
             "account": "會計貨幣格式",

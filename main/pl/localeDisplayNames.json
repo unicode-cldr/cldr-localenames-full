@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pl"
       },
@@ -21,17 +21,17 @@
           "colCaseFirst": "Kolejność wielkie/małe litery",
           "colCaseLevel": "Sortowanie uwzględniające wielkość liter",
           "collation": "kolejność sortowania",
-          "colNormalization": "Sortowanie znormalizowane",
-          "colNumeric": "Sortowanie numeryczne",
-          "colStrength": "Siła sortowania",
+          "colNormalization": "sortowanie znormalizowane",
+          "colNumeric": "sortowanie numeryczne",
+          "colStrength": "siła sortowania",
           "currency": "waluta",
           "hc": "cykl (12- lub 24-godzinny)",
           "lb": "styl podziału wiersza",
           "ms": "system miar",
           "numbers": "cyfry",
-          "timezone": "Strefa czasowa",
-          "va": "Wariant regionalny",
-          "x": "Do prywatnego użytku"
+          "timezone": "strefa czasowa",
+          "va": "wariant regionalny",
+          "x": "do użytku prywatnego"
         },
         "types": {
           "calendar": {

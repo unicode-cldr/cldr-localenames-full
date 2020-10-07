@@ -3,7 +3,7 @@
     "ca": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ca"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "dialecte pamaka",
+          "PEANO": "PEANO",
           "PETR1708": "ortografia russa 1708–1917",
           "PINYIN": "romanització Pinyin",
           "POLYTON": "politònic",
@@ -102,6 +103,8 @@
           "SURSILV": "sobreselvà",
           "SUTSILV": "sotaselvà",
           "TARASK": "ortografia taraskievica",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "ortografia unificada",
           "UCRCOR": "ortografia revisada unificada",
           "ULSTER": "ulster",

@@ -3,7 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fa"
       },
@@ -87,7 +87,7 @@
           "CG-alt-variant": "کنگو (جمهوری)",
           "CH": "سوئیس",
           "CI": "ساحل عاج",
-          "CI-alt-variant": "ساحل عاج",
+          "CI-alt-variant": "ساحل‌عاج",
           "CK": "جزایر کوک",
           "CL": "شیلی",
           "CM": "کامرون",

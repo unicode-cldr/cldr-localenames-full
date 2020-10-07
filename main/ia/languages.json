@@ -3,7 +3,7 @@
     "ia": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ia"
       },
@@ -66,6 +66,8 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "kurdo central",
+          "ckb-alt-menu": "kurdo central",
+          "ckb-alt-variant": "kurdo central",
           "co": "corso",
           "crs": "creolo seychellese",
           "cs": "checo",
@@ -81,6 +83,7 @@
           "de-CH": "alte germano suisse",
           "dgr": "dogrib",
           "dje": "zarma",
+          "doi": "doi",
           "dsb": "basse sorabo",
           "dua": "duala",
           "dv": "divehi",
@@ -174,6 +177,7 @@
           "kde": "makonde",
           "kea": "capoverdiano",
           "kfo": "koro",
+          "kgp": "kgp",
           "kha": "khasi",
           "khq": "koyra chiini",
           "ki": "kikuyu",
@@ -208,6 +212,7 @@
           "lez": "lezghiano",
           "lg": "luganda",
           "li": "limburgese",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laotiano",

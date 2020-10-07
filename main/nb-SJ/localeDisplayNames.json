@@ -3,7 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nb",
         "territory": "SJ"
@@ -161,10 +161,10 @@
             "gujr": "gujarati-sifre",
             "guru": "gurmukhi-sifre",
             "hanidec": "kinesiske desimaltall",
-            "hans": "forenklede kinesiske tall",
-            "hansfin": "forenklede kinesiske finanstall",
-            "hant": "tradisjonelle kinesiske tall",
-            "hantfin": "tradisjonelle kinesiske finanstall",
+            "hans": "forenklet kinesisk-tall",
+            "hansfin": "forenklet kinesisk-finanstall",
+            "hant": "tradisjonell kinesisk-tall",
+            "hantfin": "tradisjonell kinesisk-finanstall",
             "hebr": "hebraiske tall",
             "hmng": "hmng",
             "hmnp": "hmnp",

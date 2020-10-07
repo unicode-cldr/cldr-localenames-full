@@ -3,7 +3,7 @@
     "to": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "to"
       },
@@ -111,6 +111,8 @@
           "chr": "lea fakaselokī",
           "chy": "lea fakaseiene",
           "ckb": "lea fakakūtisi-loloto",
+          "ckb-alt-menu": "lea fakakūtisi-loloto",
+          "ckb-alt-variant": "lea fakakūtisi-loloto",
           "co": "lea fakakōsika",
           "cop": "lea fakakopitika",
           "cps": "lea fakakapiseno",
@@ -162,9 +164,9 @@
           "enm": "lea fakapālangi-lotoloto",
           "eo": "lea fakaʻesipulanito",
           "es": "lea fakasipēnisi",
-          "es-419": "lea fakasipēnisi lātini-ʻamelika",
-          "es-ES": "lea fakasipēnisi-‘iulope",
-          "es-MX": "lea fakasipēnisi-mekisikou",
+          "es-419": "lea fakasipeini-lātini-ʻamelika",
+          "es-ES": "lea fakasipeini-ʻeulope",
+          "es-MX": "lea fakasipeini-mekisikou",
           "esu": "lea fakaiūpiki-loloto",
           "et": "lea fakaʻesitōnia",
           "eu": "lea fakapāsiki",

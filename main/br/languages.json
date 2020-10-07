@@ -3,7 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "br"
       },
@@ -95,6 +95,8 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "kurdeg sorani",
+          "ckb-alt-menu": "kurdeg kreiz",
+          "ckb-alt-variant": "kurdeg sorani",
           "co": "korseg",
           "cop": "kopteg",
           "cr": "kri",
@@ -149,7 +151,7 @@
           "eu": "euskareg",
           "ewo": "ewondo",
           "fa": "perseg",
-          "fa-AF": "perseg (Afghanistan)",
+          "fa-AF": "dareg",
           "fan": "fang",
           "fat": "fanti",
           "ff": "fula",
@@ -243,6 +245,7 @@
           "kea": "kabuverdianu",
           "kfo": "koroeg",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "khasi",
           "kho": "khotaneg",
           "khq": "koyra chiini",
@@ -545,7 +548,7 @@
           "yue-alt-menu": "sinaeg, kantoneg",
           "za": "zhuang",
           "zap": "zapoteg",
-          "zbl": "Bliss",
+          "zbl": "arouezioù Bliss",
           "zea": "zelandeg",
           "zen": "zenaga",
           "zgh": "tamacheg Maroko standart",

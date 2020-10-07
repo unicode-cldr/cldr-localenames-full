@@ -3,7 +3,7 @@
     "fy": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fy"
       },
@@ -93,6 +93,8 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Soranî",
+          "ckb-alt-menu": "Soranî",
+          "ckb-alt-variant": "Soranî",
           "co": "Korsikaansk",
           "cop": "Koptysk",
           "cr": "Cree",
@@ -238,6 +240,7 @@
           "kea": "Kaapverdysk Creools",
           "kfo": "Koro",
           "kg": "Kongo",
+          "kgp": "kgp",
           "kha": "Khasi",
           "kho": "Khotaneesk",
           "khq": "Koyra Chiini",
@@ -277,6 +280,7 @@
           "lez": "Lezgysk",
           "lg": "Ganda",
           "li": "Limburgs",
+          "lij": "lij",
           "lkt": "Lakota",
           "ln": "Lingala",
           "lo": "Laotiaansk",

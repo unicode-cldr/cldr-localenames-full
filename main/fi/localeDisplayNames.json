@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fi"
       },
@@ -96,7 +96,7 @@
             "zhuyin": "zhuyin-järjestys"
           },
           "colNormalization": {
-            "no": "lajittelu ilman normalisoinrtia",
+            "no": "lajittelu ilman normalisointia",
             "yes": "lajittelu Unicode-normalisoituna"
           },
           "colNumeric": {

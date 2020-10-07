@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "eu"
       },
@@ -307,7 +307,7 @@
           "WF": "Wallis eta Futuna",
           "WS": "Samoa",
           "XA": "Sasiazentuak",
-          "XB": "pseudobidia",
+          "XB": "Pseudobidia",
           "XK": "Kosovo",
           "YE": "Yemen",
           "YT": "Mayotte",

@@ -3,7 +3,7 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "da",
         "territory": "GL"
@@ -129,7 +129,7 @@
           "FR": "Frankrig",
           "GA": "Gabon",
           "GB": "Storbritannien",
-          "GB-alt-short": "UK",
+          "GB-alt-short": "Storbritannien",
           "GD": "Grenada",
           "GE": "Georgien",
           "GF": "Fransk Guyana",

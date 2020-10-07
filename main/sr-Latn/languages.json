@@ -3,7 +3,7 @@
     "sr-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Latn"
@@ -87,6 +87,8 @@
           "chr": "čeroki",
           "chy": "čejenski",
           "ckb": "centralni kurdski",
+          "ckb-alt-menu": "centralni kurdski",
+          "ckb-alt-variant": "centralni kurdski",
           "co": "korzikanski",
           "cop": "koptski",
           "cr": "kri",
@@ -102,7 +104,7 @@
           "dar": "darginski",
           "dav": "taita",
           "de": "nemački",
-          "de-AT": "nemački (Austrija)",
+          "de-AT": "austrijski nemački",
           "de-CH": "švajcarski visoki nemački",
           "del": "delaverski",
           "den": "slejvi",
@@ -233,6 +235,7 @@
           "kea": "zelenortski",
           "kfo": "koro",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "kasi",
           "kho": "kotaneški",
           "khq": "kojra čiini",
@@ -274,6 +277,7 @@
           "lez": "lezginski",
           "lg": "ganda",
           "li": "limburški",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laoski",
@@ -526,9 +530,9 @@
           "zh": "kineski",
           "zh-alt-menu": "mandarinski kineski",
           "zh-Hans": "pojednostavljeni kineski",
-          "zh-Hans-alt-long": "pojednostavljeni kineski",
+          "zh-Hans-alt-long": "pojednostavljeni mandarinski kineski",
           "zh-Hant": "tradicionalni kineski",
-          "zh-Hant-alt-long": "tradicionalni kineski",
+          "zh-Hant-alt-long": "tradicionalni mandarinski kineski",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "bez lingvističkog sadržaja",

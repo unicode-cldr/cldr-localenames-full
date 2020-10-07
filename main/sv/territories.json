@@ -3,7 +3,7 @@
     "sv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sv"
       },
@@ -21,7 +21,7 @@
           "017": "Centralafrika",
           "018": "södra Afrika",
           "019": "Nord- och Sydamerika",
-          "021": "norra Amerika",
+          "021": "Norra Amerika",
           "029": "Karibien",
           "030": "Östasien",
           "034": "Sydasien",
@@ -118,7 +118,7 @@
           "ES": "Spanien",
           "ET": "Etiopien",
           "EU": "Europeiska unionen",
-          "EZ": "eurozonen",
+          "EZ": "euroområdet",
           "FI": "Finland",
           "FJ": "Fiji",
           "FK": "Falklandsöarna",
@@ -146,7 +146,7 @@
           "GU": "Guam",
           "GW": "Guinea-Bissau",
           "GY": "Guyana",
-          "HK": "Hongkong",
+          "HK": "Hongkong SAR",
           "HK-alt-short": "Hongkong",
           "HM": "Heardön och McDonaldöarna",
           "HN": "Honduras",
@@ -201,7 +201,7 @@
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongoliet",
-          "MO": "Macao",
+          "MO": "Macao SAR",
           "MO-alt-short": "Macao",
           "MP": "Nordmarianerna",
           "MQ": "Martinique",
@@ -278,7 +278,7 @@
           "TG": "Togo",
           "TH": "Thailand",
           "TJ": "Tadzjikistan",
-          "TK": "Tokelau",
+          "TK": "Tokelauöarna",
           "TL": "Östtimor",
           "TL-alt-variant": "Timor-Leste",
           "TM": "Turkmenistan",

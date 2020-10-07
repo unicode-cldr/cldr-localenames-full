@@ -3,7 +3,7 @@
     "ga-GB": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ga",
         "territory": "GB"
@@ -61,7 +61,7 @@
           "Hanb": "Han agus Bopomofo",
           "Hang": "Hangalach",
           "Hani": "Han",
-          "Hano": "Hano",
+          "Hano": "Hananúis",
           "Hans": "Simplithe",
           "Hans-alt-stand-alone": "Han Simplithe",
           "Hant": "Traidisiúnta",
@@ -119,13 +119,13 @@
           "Narb": "Sean-Arabach Thuaidh",
           "Nbat": "Nbat",
           "Newa": "Newa",
-          "Nkoo": "Nkoo",
+          "Nkoo": "N-cóis",
           "Nshu": "Nshu",
           "Ogam": "Ogham",
           "Olck": "Olck",
           "Orkh": "Orkh",
           "Orya": "Oiríseach",
-          "Osge": "Osge",
+          "Osge": "Ósáis",
           "Osma": "Osma",
           "Palm": "Palm",
           "Pauc": "Pauc",
@@ -143,7 +143,7 @@
           "Samr": "Samárach",
           "Sarb": "Sean-Arabach Theas",
           "Saur": "Saur",
-          "Sgnw": "Sgnw",
+          "Sgnw": "Litritheoireacht Comharthaí",
           "Shaw": "Shawach",
           "Shrd": "Shrd",
           "Sidd": "Sidd",
@@ -158,8 +158,8 @@
           "Syrc": "Siriceach",
           "Tagb": "Tagb",
           "Takr": "Takr",
-          "Tale": "Tale",
-          "Talu": "Talu",
+          "Tale": "Deiheoingis",
+          "Talu": "Tai Lue Nua",
           "Taml": "Tamalach",
           "Tang": "Tang",
           "Tavt": "Tavt",
@@ -171,7 +171,7 @@
           "Tibt": "Tibéadach",
           "Tirh": "Tirh",
           "Ugar": "Úgairíteach",
-          "Vaii": "Vaii",
+          "Vaii": "Vadhais",
           "Wara": "Wara",
           "Wcho": "Wcho",
           "Xpeo": "Sean-Pheirseach",

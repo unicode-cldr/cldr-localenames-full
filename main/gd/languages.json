@@ -3,7 +3,7 @@
     "gd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gd"
       },
@@ -110,6 +110,8 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Cùrdais Mheadhanach",
+          "ckb-alt-menu": "Cùrdais Mheadhanach",
+          "ckb-alt-variant": "Cùrdais Sorani",
           "co": "Corsais",
           "cop": "Coptais",
           "cps": "Capiznon",

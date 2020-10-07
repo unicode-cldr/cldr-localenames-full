@@ -3,7 +3,7 @@
     "el": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "el"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "PAMAKA",
+          "PEANO": "PEANO",
           "PETR1708": "PETR1708",
           "PINYIN": "Εκλατινισμένα Πινγίν",
           "POLYTON": "Πολυτονικό",
@@ -102,6 +103,8 @@
           "SURSILV": "SURSILV",
           "SUTSILV": "SUTSILV",
           "TARASK": "Ταρασκιεβική ορθογραφία",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "Ενωποιημένη ορθογραφία",
           "UCRCOR": "Ενωποιημένη αναθεωρημένη ορθογραφία",
           "ULSTER": "ULSTER",

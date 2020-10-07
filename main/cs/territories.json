@@ -3,7 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "cs"
       },
@@ -269,8 +269,8 @@
           "SV": "Salvador",
           "SX": "Svatý Martin (Nizozemsko)",
           "SY": "Sýrie",
-          "SZ": "Svazijsko",
-          "SZ-alt-variant": "Eswatini",
+          "SZ": "Eswatini",
+          "SZ-alt-variant": "Svazijsko",
           "TA": "Tristan da Cunha",
           "TC": "Turks a Caicos",
           "TD": "Čad",

@@ -3,7 +3,7 @@
     "pt-MZ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt",
         "territory": "MZ"
@@ -122,7 +122,7 @@
           "EZ": "Zona Euro",
           "FI": "Finlândia",
           "FJ": "Fiji",
-          "FK": "Ilhas Malvinas (Falkland)",
+          "FK": "Ilhas Falkland",
           "FK-alt-variant": "Ilhas Falkland (Malvinas)",
           "FM": "Micronésia",
           "FO": "Ilhas Faroé",

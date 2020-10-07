@@ -3,7 +3,7 @@
     "dz": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "dz"
       },
@@ -40,6 +40,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cs": "ཅེཀ་ཁ",
           "cu": "cu",
@@ -51,6 +53,7 @@
           "de-AT": "ཨཱོས་ཊྲི་ཡཱན་ཇཱར་མཱན་ཁ",
           "de-CH": "སུ་ཡིས་གི་མཐོ་སའི་ཇཱར་མཱན་ཁ",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dv": "དི་བེ་ཧི་ཁ",
@@ -122,6 +125,7 @@
           "kde": "kde",
           "kea": "kea",
           "kfo": "ཀོ་རོ་ཁ",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "ཀ་ཛགས་ཁ",
@@ -143,6 +147,7 @@
           "lag": "lag",
           "lb": "ལག་ཛམ་བོརྒ་ཁ",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "ln",
           "lo": "ལཱ་ཝོས་ཁ",
@@ -186,6 +191,7 @@
           "nnh": "nnh",
           "no": "ནོར་ཝི་ཇི་ཡན་ཁ",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "om": "om",

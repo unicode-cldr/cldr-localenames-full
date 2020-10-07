@@ -3,7 +3,7 @@
     "nl-SX": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nl",
         "territory": "SX"
@@ -82,6 +82,7 @@
           "PAHAWH3": "Pahawh3",
           "PAHAWH4": "Pahawh4",
           "PAMAKA": "Pamaka",
+          "PEANO": "PEANO",
           "PETR1708": "Petr1708",
           "PINYIN": "Pinyin",
           "POLYTON": "Polytonaal",
@@ -103,6 +104,8 @@
           "SURSILV": "Sursilvan",
           "SUTSILV": "Sutsilvan",
           "TARASK": "Taraskievica-spelling",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "Eenvormige spelling",
           "UCRCOR": "Eenvormig herziene spelling",
           "ULSTER": "Ulster",

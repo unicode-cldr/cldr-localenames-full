@@ -3,7 +3,7 @@
     "nn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nn"
       },
@@ -42,7 +42,7 @@
             "iso8601": "ISO 8601-kalender",
             "japanese": "japansk kalender",
             "persian": "persisk kalender",
-            "roc": "kalender for Republikken Kina"
+            "roc": "minguo-kalender"
           },
           "cf": {
             "account": "valutaformat for rekneskapsføring",

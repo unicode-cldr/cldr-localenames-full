@@ -3,7 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gu"
       },
@@ -127,8 +127,8 @@
             "strict": "ચુસ્ત રેખા વિરામ પ્રકાર"
           },
           "m0": {
-            "bgn": "BGN",
-            "ungegn": "UNGEGN"
+            "bgn": "US BGN",
+            "ungegn": "UN GEGN"
           },
           "ms": {
             "metric": "દશાંશ પદ્ધતિ",

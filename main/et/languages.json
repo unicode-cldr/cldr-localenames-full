@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "et"
       },
@@ -32,7 +32,7 @@
           "ang": "vanainglise",
           "anp": "angika",
           "ar": "araabia",
-          "ar-001": "araabia (tänapäevane)",
+          "ar-001": "tänapäeva araabia kirjakeel",
           "arc": "aramea",
           "arn": "mapudunguni",
           "aro": "araona",
@@ -110,6 +110,8 @@
           "chr": "tšerokii",
           "chy": "šaieeni",
           "ckb": "sorani",
+          "ckb-alt-menu": "kurdi (keskkurdi)",
+          "ckb-alt-variant": "keskkurdi",
           "co": "korsika",
           "cop": "kopti",
           "cps": "kapisnoni",
@@ -403,7 +405,7 @@
           "nnh": "ngiembooni",
           "no": "norra",
           "nog": "nogai",
-          "non": "vanapõhjala",
+          "non": "vanapõhja",
           "nov": "noviaal",
           "nqo": "nkoo",
           "nr": "lõunandebele",
@@ -559,7 +561,7 @@
           "trv": "taroko",
           "ts": "tsonga",
           "tsd": "tsakoonia",
-          "tsi": "tšimši",
+          "tsi": "tsimši",
           "tt": "tatari",
           "ttt": "lõunataadi",
           "tum": "tumbuka",
@@ -608,7 +610,7 @@
           "yo": "joruba",
           "yrl": "njengatu",
           "yue": "kantoni",
-          "yue-alt-menu": "kantoni hiina",
+          "yue-alt-menu": "hiina (kantoni)",
           "za": "tšuangi",
           "zap": "sapoteegi",
           "zbl": "Blissi sümbolid",
@@ -616,7 +618,7 @@
           "zen": "zenaga",
           "zgh": "tamasikti (Maroko)",
           "zh": "hiina",
-          "zh-alt-menu": "mandariinihiina",
+          "zh-alt-menu": "hiina (mandariinihiina)",
           "zh-Hans": "lihtsustatud hiina",
           "zh-Hans-alt-long": "lihtsustatud mandariinihiina",
           "zh-Hant": "traditsiooniline hiina",

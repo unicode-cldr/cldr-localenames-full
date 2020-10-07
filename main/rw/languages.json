@@ -3,7 +3,7 @@
     "rw": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "rw"
       },
@@ -38,6 +38,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "cs": "Igiceke",
           "cu": "cu",
@@ -48,6 +50,7 @@
           "de-AT": "Ikidage (AT)",
           "de-CH": "Ikidage (CH)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dyo": "dyo",
@@ -116,6 +119,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kk",
@@ -137,6 +141,7 @@
           "lag": "lag",
           "lb": "lb",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "Ilingala",
           "lo": "Ikilawotiyani",
@@ -179,6 +184,7 @@
           "nnh": "nnh",
           "no": "Ikinoruveji",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "oc": "Inyogusitani",

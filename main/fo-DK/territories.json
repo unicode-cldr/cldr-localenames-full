@@ -3,7 +3,7 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fo",
         "territory": "DK"
@@ -198,7 +198,7 @@
           "MF": "St-Martin",
           "MG": "Madagaskar",
           "MH": "Marshalloyggjar",
-          "MK": "MK",
+          "MK": "Norður Makedónia",
           "ML": "Mali",
           "MM": "Myanmar (Burma)",
           "MN": "Mongolia",

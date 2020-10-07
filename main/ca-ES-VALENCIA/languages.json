@@ -3,7 +3,7 @@
     "ca-ES-VALENCIA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ca",
         "territory": "ES",
@@ -105,6 +105,7 @@
           "chr": "cherokee",
           "chy": "xeiene",
           "ckb": "kurd central",
+          "ckb-alt-menu": "sorani",
           "ckb-alt-variant": "kurd sorani",
           "co": "cors",
           "cop": "copte",
@@ -272,7 +273,7 @@
           "kj": "kuanyama",
           "kk": "kazakh",
           "kkj": "kako",
-          "kl": "grenlandès",
+          "kl": "groenlandès",
           "kln": "kalenjin",
           "km": "khmer",
           "kmb": "kimbundu",

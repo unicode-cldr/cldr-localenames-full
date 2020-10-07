@@ -3,7 +3,7 @@
     "se-SE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "se",
         "territory": "SE"
@@ -43,6 +43,8 @@
           "chm": "marigiella",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "corsicagiella",
           "cs": "čeahkagiella",
           "cu": "cu",
@@ -53,6 +55,7 @@
           "de-AT": "duiskkagiella (Nuortariika)",
           "de-CH": "duiskkagiella (Šveica)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dv": "divehigiella",
@@ -121,6 +124,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "kazakgiella",
@@ -144,6 +148,7 @@
           "lag": "lag",
           "lb": "luxemburggagiella",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "ln",
           "lo": "laogiella",
@@ -188,6 +193,7 @@
           "nnh": "nnh",
           "no": "dárogiella",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "oc": "oksitánagiella",

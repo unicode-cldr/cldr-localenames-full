@@ -3,7 +3,7 @@
     "brx": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "brx"
       },
@@ -82,6 +82,8 @@
           "chr": "चीरोकी",
           "chy": "शायान्",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "कोर्सीकन्",
           "cop": "कॉप्टीक्",
           "cr": "क्री",
@@ -224,6 +226,7 @@
           "kea": "kea",
           "kfo": "कोरो",
           "kg": "कॉंगो",
+          "kgp": "kgp",
           "kha": "ख़ासी",
           "kho": "ख़ोतानी",
           "khq": "khq",
@@ -263,6 +266,7 @@
           "lez": "लेज़गीयान",
           "lg": "गांडा",
           "li": "लींबुर्गी",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "लिंगाला",
           "lo": "लाओसीयन्",

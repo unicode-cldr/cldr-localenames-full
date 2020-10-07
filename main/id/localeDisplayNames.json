@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "id"
       },
@@ -133,7 +133,7 @@
           "ms": {
             "metric": "Sistem Metrik",
             "uksystem": "Sistem Pengukuran Imperial",
-            "ussystem": "Sistem Pengukuran A.S."
+            "ussystem": "Sistem Pengukuran AS"
           },
           "numbers": {
             "ahom": "ahom",
@@ -147,7 +147,7 @@
             "cakm": "cakm",
             "cham": "Angka Cham",
             "cyrl": "cyrl",
-            "deva": "Angka Devanagari",
+            "deva": "Angka Dewanagari",
             "diak": "diak",
             "ethi": "Angka Etiopia",
             "finance": "Angka Finansial",

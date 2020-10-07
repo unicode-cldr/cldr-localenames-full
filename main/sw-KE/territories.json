@@ -3,7 +3,7 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sw",
         "territory": "KE"
@@ -87,7 +87,7 @@
           "CG": "Kongo - Brazzaville",
           "CG-alt-variant": "Jamhuri ya Kongo",
           "CH": "Uswisi",
-          "CI": "Ivorikosti",
+          "CI": "Cote d’Ivoire",
           "CI-alt-variant": "Ivory Coast",
           "CK": "Visiwa vya Cook",
           "CL": "Chile",
@@ -96,7 +96,7 @@
           "CO": "Kolombia",
           "CP": "Kisiwa cha Clipperton",
           "CR": "Kostarika",
-          "CU": "Cuba",
+          "CU": "Kuba",
           "CV": "Kepuvede",
           "CW": "Curacao",
           "CX": "Kisiwa cha Krismasi",
@@ -270,7 +270,7 @@
           "SV": "El Salvador",
           "SX": "Sint Maarten",
           "SY": "Shamu",
-          "SZ": "Uswazi",
+          "SZ": "Eswatini",
           "SZ-alt-variant": "Uswazi",
           "TA": "Tristan da Cunha",
           "TC": "Visiwa vya Turks na Caicos",

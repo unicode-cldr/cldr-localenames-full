@@ -3,7 +3,7 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "AU"
@@ -28,6 +28,7 @@
           "colStrength": "Sorting Strength",
           "currency": "Currency",
           "d0": "Transform Destination",
+          "dx": "Dictionary Break Exclusions",
           "em": "Emoji Presentation Style",
           "fw": "First day of week",
           "h0": "Mixed-in",
@@ -48,8 +49,8 @@
           "t0": "Machine Translated",
           "timezone": "Time Zone",
           "va": "Locale Variant",
-          "x": "Private-Use",
-          "x0": "Private-Use Transform"
+          "x": "Private Use",
+          "x0": "Private Use Transform"
         },
         "types": {
           "calendar": {

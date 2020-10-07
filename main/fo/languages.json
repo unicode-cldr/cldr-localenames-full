@@ -3,7 +3,7 @@
     "fo": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fo"
       },
@@ -68,6 +68,8 @@
           "chr": "cherokee",
           "chy": "cheyenne",
           "ckb": "miðkurdiskt",
+          "ckb-alt-menu": "kurdiskt, mið",
+          "ckb-alt-variant": "kurdiskt, sorani",
           "co": "korsikanskt",
           "crs": "seselwa creole franskt",
           "cs": "kekkiskt",
@@ -83,6 +85,7 @@
           "de-CH": "høgt týskt (Sveis)",
           "dgr": "dogrib",
           "dje": "sarma",
+          "doi": "doi",
           "dsb": "lágt sorbian",
           "dua": "duala",
           "dv": "divehi",
@@ -110,7 +113,7 @@
           "eu": "baskiskt",
           "ewo": "ewondo",
           "fa": "persiskt",
-          "fa-AF": "persiskt (Afganistan)",
+          "fa-AF": "dari",
           "ff": "fulah",
           "fi": "finskt",
           "fil": "filipiniskt",
@@ -181,6 +184,7 @@
           "kde": "makonde",
           "kea": "grønhøvdaoyggjarskt",
           "kfo": "koro",
+          "kgp": "kgp",
           "kha": "khasi",
           "khq": "koyra chiini",
           "ki": "kikuyu",
@@ -217,6 +221,7 @@
           "lez": "lezghian",
           "lg": "ganda",
           "li": "limburgiskt",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laoskt",

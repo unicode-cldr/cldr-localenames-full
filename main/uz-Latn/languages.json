@@ -3,7 +3,7 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "uz",
         "script": "Latn"
@@ -68,6 +68,8 @@
           "chr": "cheroki",
           "chy": "cheyenn",
           "ckb": "sorani-kurd",
+          "ckb-alt-menu": "sorani-kurd",
+          "ckb-alt-variant": "sorani-kurd",
           "co": "korsikan",
           "crs": "kreol (Seyshel)",
           "cs": "chex",
@@ -83,6 +85,7 @@
           "de-CH": "yuqori nemis (Shveytsariya)",
           "dgr": "dogrib",
           "dje": "zarma",
+          "doi": "doi",
           "dsb": "quyi sorb",
           "dua": "duala",
           "dv": "divexi",
@@ -178,6 +181,7 @@
           "kde": "makonde",
           "kea": "kabuverdianu",
           "kfo": "koro",
+          "kgp": "kgp",
           "kha": "kxasi",
           "khq": "koyra-chiini",
           "ki": "kikuyu",
@@ -213,6 +217,7 @@
           "lez": "lezgin",
           "lg": "ganda",
           "li": "limburg",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laos",

@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "eu"
       },
@@ -67,6 +67,8 @@
           "chr": "txerokiera",
           "chy": "cheyennera",
           "ckb": "erdialdeko kurduera",
+          "ckb-alt-menu": "erdialdeko kurduera",
+          "ckb-alt-variant": "erdialdeko kurduera",
           "co": "korsikera",
           "crs": "Seychelleetako kreolera",
           "cs": "txekiera",
@@ -82,6 +84,7 @@
           "de-CH": "Suitzako aleman garai",
           "dgr": "dogribera",
           "dje": "zarma",
+          "doi": "doi",
           "dsb": "behe-sorabiera",
           "dua": "dualera",
           "dv": "divehiera",
@@ -178,6 +181,7 @@
           "kea": "Cabo Verdeko kreolera",
           "kfo": "koroa",
           "kg": "kikongoa",
+          "kgp": "kgp",
           "kha": "kashia",
           "khq": "koyra chiini",
           "ki": "kikuyuera",
@@ -213,6 +217,7 @@
           "lez": "lezgiera",
           "lg": "gandera",
           "li": "limburgera",
+          "lij": "lij",
           "lkt": "lakotera",
           "ln": "lingala",
           "lo": "laosera",
@@ -412,7 +417,7 @@
           "zgh": "amazigera estandarra",
           "zh": "txinera",
           "zh-alt-menu": "mandarin",
-          "zh-Hans": "txinera soildua",
+          "zh-Hans": "txinera sinplifikatu",
           "zh-Hans-alt-long": "mandarin sinplifikatu",
           "zh-Hant": "txinera tradizionala",
           "zh-Hant-alt-long": "mandarin tradizional",

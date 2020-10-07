@@ -3,7 +3,7 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yue",
         "script": "Hant"
@@ -112,6 +112,8 @@
           "chr": "柴羅基文",
           "chy": "沙伊安文",
           "ckb": "索拉尼庫爾德文",
+          "ckb-alt-menu": "索拉尼庫爾德文",
+          "ckb-alt-variant": "索拉尼庫爾德文",
           "co": "科西嘉文",
           "cop": "科普特文",
           "cps": "卡皮茲文",

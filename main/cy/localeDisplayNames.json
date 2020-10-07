@@ -3,7 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "cy"
       },
@@ -25,14 +25,14 @@
         },
         "types": {
           "calendar": {
-            "buddhist": "Calendr y Bwdiaid",
+            "buddhist": "Calendr Bwdaidd",
             "chinese": "Calendr Tseina",
             "coptic": "Calendr y Coptiaid",
             "dangi": "Calendr Dangi",
             "ethiopic": "Calendr Ethiopia",
             "ethiopic-amete-alem": "Calendr Amete Alem Ethiopia",
             "gregorian": "Calendr Gregori",
-            "hebrew": "Calendr yr Hebraed",
+            "hebrew": "Calendr Hebreaidd",
             "indian": "Calendr Cenedlaethol India",
             "islamic": "Calendr Islam",
             "islamic-civil": "islamic-civil",

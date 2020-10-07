@@ -3,7 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sl"
       },
@@ -82,7 +82,7 @@
           "CC": "Kokosovi otoki",
           "CD": "Demokratična republika Kongo",
           "CD-alt-variant": "Kongo (Demokratična republika Kongo)",
-          "CF": "Centralnoafriška republika",
+          "CF": "Srednjeafriška republika",
           "CG": "Kongo - Brazzaville",
           "CG-alt-variant": "Kongo (Republika)",
           "CH": "Švica",
@@ -146,7 +146,7 @@
           "GU": "Guam",
           "GW": "Gvineja Bissau",
           "GY": "Gvajana",
-          "HK": "Posebno administrativno območje LR Kitajske Hongkong",
+          "HK": "Posebno upravno območje Ljudske republike Kitajske Hongkong",
           "HK-alt-short": "Hongkong",
           "HM": "Heardov otok in McDonaldovi otoki",
           "HN": "Honduras",
@@ -201,8 +201,8 @@
           "ML": "Mali",
           "MM": "Mjanmar (Burma)",
           "MN": "Mongolija",
-          "MO": "Posebno administrativno območje LR Kitajske Macao",
-          "MO-alt-short": "Posebno administrativno območje LR Kitajske Macao",
+          "MO": "Posebno upravno območje Ljudske republike Kitajske Macao",
+          "MO-alt-short": "Macao",
           "MP": "Severni Marianski otoki",
           "MQ": "Martinik",
           "MR": "Mavretanija",

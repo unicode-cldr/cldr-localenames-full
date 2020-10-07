@@ -3,7 +3,7 @@
     "es-419": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "419"
@@ -96,6 +96,8 @@
           "chr": "cheroqui",
           "chy": "cheyene",
           "ckb": "kurdo sorani",
+          "ckb-alt-menu": "kurdo sorani",
+          "ckb-alt-variant": "kurdo central",
           "co": "corso",
           "cop": "copto",
           "cr": "cree",
@@ -246,6 +248,7 @@
           "kea": "criollo caboverdiano",
           "kfo": "koro",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "khasi",
           "kho": "kotanés",
           "khq": "koyra chiini",
@@ -286,6 +289,7 @@
           "lez": "lezgiano",
           "lg": "ganda",
           "li": "limburgués",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laosiano",

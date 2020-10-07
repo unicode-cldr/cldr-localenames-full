@@ -3,7 +3,7 @@
     "bs": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bs"
       },
@@ -87,16 +87,16 @@
           "CG-alt-variant": "Republika Kongo",
           "CH": "Švicarska",
           "CI": "Obala Slonovače",
-          "CI-alt-variant": "Obala Bjelokosti",
+          "CI-alt-variant": "Obala Slonovače",
           "CK": "Kukova ostrva",
           "CL": "Čile",
           "CM": "Kamerun",
           "CN": "Kina",
           "CO": "Kolumbija",
-          "CP": "Ostrvo Kliperton",
+          "CP": "Ostrvo Clipperton",
           "CR": "Kostarika",
           "CU": "Kuba",
-          "CV": "Kape Verde",
+          "CV": "Zelenortska Ostrva",
           "CW": "Kurasao",
           "CX": "Božićno ostrvo",
           "CY": "Kipar",
@@ -132,7 +132,7 @@
           "GD": "Grenada",
           "GE": "Gruzija",
           "GF": "Francuska Gvajana",
-          "GG": "Gernzi",
+          "GG": "Guernsey",
           "GH": "Gana",
           "GI": "Gibraltar",
           "GL": "Grenland",
@@ -148,7 +148,7 @@
           "GY": "Gvajana",
           "HK": "Hong Kong (SAR Kina)",
           "HK-alt-short": "Hong Kong",
-          "HM": "Herd i arhipelag MekDonald",
+          "HM": "Ostrvo Heard i arhipelag McDonald",
           "HN": "Honduras",
           "HR": "Hrvatska",
           "HT": "Haiti",

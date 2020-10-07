@@ -3,7 +3,7 @@
     "yi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yi"
       },
@@ -45,6 +45,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "ckb",
+          "ckb-alt-menu": "ckb",
+          "ckb-alt-variant": "ckb",
           "co": "co",
           "crh": "קרים־טערקיש",
           "cs": "טשעכיש",
@@ -57,6 +59,7 @@
           "de-AT": "דײַטש (עסטרייך)",
           "de-CH": "דײַטש (שווייץ)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "אונטער־סארביש",
           "dua": "dua",
           "dyo": "זשאלא־פֿאני",
@@ -136,6 +139,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "קאַזאַכיש",
@@ -158,6 +162,7 @@
           "lag": "lag",
           "lb": "לוקסעמבורגיש",
           "lg": "lg",
+          "lij": "lij",
           "liv": "ליוויש",
           "lkt": "lkt",
           "ln": "ln",
@@ -203,6 +208,7 @@
           "nnh": "nnh",
           "no": "נארוועגיש",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "oc": "אקסיטאַניש",

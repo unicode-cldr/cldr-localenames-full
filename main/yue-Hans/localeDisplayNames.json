@@ -3,7 +3,7 @@
     "yue-Hans": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "yue",
         "script": "Hans"

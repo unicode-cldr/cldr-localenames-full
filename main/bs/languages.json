@@ -3,7 +3,7 @@
     "bs": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bs"
       },
@@ -94,6 +94,8 @@
           "chr": "čeroki",
           "chy": "čejenski",
           "ckb": "centralnokurdski",
+          "ckb-alt-menu": "centralnokurdski",
+          "ckb-alt-variant": "centralnokurdski",
           "co": "korzikanski",
           "cop": "koptski",
           "cr": "kri",
@@ -241,6 +243,7 @@
           "kea": "zelenortski",
           "kfo": "koro",
           "kg": "kongo",
+          "kgp": "kgp",
           "kha": "kasi",
           "kho": "kotanizijski",
           "khq": "kojra čini",
@@ -282,6 +285,7 @@
           "lez": "lezgijski",
           "lg": "ganda",
           "li": "limburški",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "lingala",
           "lo": "laoski",

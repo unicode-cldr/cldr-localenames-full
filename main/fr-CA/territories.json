@@ -3,7 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fr",
         "territory": "CA"
@@ -142,7 +142,7 @@
           "GP": "Guadeloupe",
           "GQ": "Guinée équatoriale",
           "GR": "Grèce",
-          "GS": "Géorgie du Sud et îles Sandwich du Sud",
+          "GS": "Géorgie du Sud-et-les Îles Sandwich du Sud",
           "GT": "Guatemala",
           "GU": "Guam",
           "GW": "Guinée-Bissau",

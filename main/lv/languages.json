@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lv"
       },
@@ -95,6 +95,8 @@
           "chr": "čiroku",
           "chy": "šejenu",
           "ckb": "centrālkurdu",
+          "ckb-alt-menu": "centrālkurdu",
+          "ckb-alt-variant": "sorani kurdu",
           "co": "korsikāņu",
           "cop": "koptu",
           "cr": "krī",
@@ -242,6 +244,7 @@
           "kea": "kaboverdiešu",
           "kfo": "koru",
           "kg": "kongu",
+          "kgp": "kgp",
           "kha": "khasu",
           "kho": "hotaniešu",
           "khq": "koiračiinī",
@@ -282,6 +285,7 @@
           "lez": "lezgīnu",
           "lg": "gandu",
           "li": "limburgiešu",
+          "lij": "lij",
           "lkt": "lakotu",
           "ln": "lingala",
           "lo": "laosiešu",

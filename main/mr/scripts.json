@@ -3,7 +3,7 @@
     "mr": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "mr"
       },
@@ -62,7 +62,7 @@
           "Grek": "ग्रीक",
           "Gujr": "गुजराती",
           "Guru": "गुरुमुखी",
-          "Hanb": "हान्ब",
+          "Hanb": "बोपोमोफोसह हान",
           "Hang": "हंगुल",
           "Hani": "हान",
           "Hano": "हनुनू",

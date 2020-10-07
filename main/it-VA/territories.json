@@ -3,7 +3,7 @@
     "it-VA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "it",
         "territory": "VA"
@@ -118,7 +118,7 @@
           "ER": "Eritrea",
           "ES": "Spagna",
           "ET": "Etiopia",
-          "EU": "Unione Europea",
+          "EU": "Unione europea",
           "EZ": "Eurozona",
           "FI": "Finlandia",
           "FJ": "Figi",
@@ -281,7 +281,7 @@
           "TJ": "Tagikistan",
           "TK": "Tokelau",
           "TL": "Timor Est",
-          "TL-alt-variant": "Timor Est",
+          "TL-alt-variant": "Timor Leste",
           "TM": "Turkmenistan",
           "TN": "Tunisia",
           "TO": "Tonga",

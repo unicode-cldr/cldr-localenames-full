@@ -3,7 +3,7 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ms",
         "territory": "SG"
@@ -16,7 +16,7 @@
         },
         "keys": {
           "calendar": "Kalendar",
-          "cf": "Format Mata wang",
+          "cf": "Format Mata Wang",
           "colAlternate": "Abaikan Pengisihan Simbol",
           "colBackwards": "Pengisihan Aksen Terbalik",
           "colCaseFirst": "Penyusunan Huruf Besar/Huruf Kecil",

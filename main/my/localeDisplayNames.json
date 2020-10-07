@@ -3,7 +3,7 @@
     "my": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "my"
       },
@@ -11,7 +11,7 @@
         "localeDisplayPattern": {
           "localePattern": "{0} ({1})",
           "localeSeparator": "{0}၊ {1}",
-          "localeKeyTypePattern": "{0}၊ {1}"
+          "localeKeyTypePattern": "{0}- {1}"
         },
         "keys": {
           "calendar": "ပြက္ခဒိန်",

@@ -3,7 +3,7 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Latn",

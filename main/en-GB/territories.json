@@ -3,7 +3,7 @@
     "en-GB": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "GB"
@@ -303,7 +303,7 @@
           "UY": "Uruguay",
           "UZ": "Uzbekistan",
           "VA": "Vatican City",
-          "VC": "St Vincent & Grenadines",
+          "VC": "St Vincent & the Grenadines",
           "VE": "Venezuela",
           "VG": "British Virgin Islands",
           "VI": "US Virgin Islands",

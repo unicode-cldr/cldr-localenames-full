@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "id"
       },
@@ -105,6 +105,8 @@
           "chr": "Cherokee",
           "chy": "Cheyenne",
           "ckb": "Kurdi Sorani",
+          "ckb-alt-menu": "Kurdi Sorani",
+          "ckb-alt-variant": "Kurdi Sorani",
           "co": "Korsika",
           "cop": "Koptik",
           "cr": "Kree",
@@ -147,9 +149,9 @@
           "en-AU": "Inggris (Australia)",
           "en-CA": "Inggris (Kanada)",
           "en-GB": "Inggris (Inggris)",
-          "en-GB-alt-short": "Inggris (U.K.)",
+          "en-GB-alt-short": "Inggris (Inggris)",
           "en-US": "Inggris (Amerika Serikat)",
-          "en-US-alt-short": "Inggris (A.S.)",
+          "en-US-alt-short": "Inggris (AS)",
           "enm": "Inggris Abad Pertengahan",
           "eo": "Esperanto",
           "es": "Spanyol",
@@ -170,8 +172,8 @@
           "fo": "Faroe",
           "fon": "Fon",
           "fr": "Prancis",
-          "fr-CA": "Perancis (Kanada)",
-          "fr-CH": "Perancis (Swiss)",
+          "fr-CA": "Prancis (Kanada)",
+          "fr-CH": "Prancis (Swiss)",
           "frc": "Prancis Cajun",
           "frm": "Prancis Abad Pertengahan",
           "fro": "Prancis Kuno",
@@ -256,6 +258,7 @@
           "ken": "Kenyang",
           "kfo": "Koro",
           "kg": "Kongo",
+          "kgp": "kgp",
           "kha": "Khasi",
           "kho": "Khotan",
           "khq": "Koyra Chiini",
@@ -567,10 +570,10 @@
           "zgh": "Tamazight Maroko Standar",
           "zh": "Tionghoa",
           "zh-alt-menu": "Tionghoa, Mandarin",
-          "zh-Hans": "Tionghoa (Aksara Sederhana)",
-          "zh-Hans-alt-long": "Tionghoa (Aksara Sederhana)",
-          "zh-Hant": "Tionghoa (Aksara Tradisional)",
-          "zh-Hant-alt-long": "Tionghoa (Aksara Tradisional)",
+          "zh-Hans": "Tionghoa (Sederhana)",
+          "zh-Hans-alt-long": "Tionghoa Mandarin (Sederhana)",
+          "zh-Hant": "Tionghoa (Tradisional)",
+          "zh-Hant-alt-long": "Tionghoa Mandarin (Tradisional)",
           "zu": "Zulu",
           "zun": "Zuni",
           "zxx": "Tidak ada konten linguistik",

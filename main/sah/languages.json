@@ -3,7 +3,7 @@
     "sah": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sah"
       },
@@ -41,6 +41,8 @@
           "cgg": "cgg",
           "chr": "chr",
           "ckb": "Киин куурдуу",
+          "ckb-alt-menu": "Киин куурдуу",
+          "ckb-alt-variant": "Киин куурдуу",
           "co": "co",
           "cs": "Чиэхтии",
           "cu": "cu",
@@ -51,6 +53,7 @@
           "de-AT": "Ниэмэстии (AT)",
           "de-CH": "Ниэмэстии (CH)",
           "dje": "dje",
+          "doi": "doi",
           "dsb": "dsb",
           "dua": "dua",
           "dyo": "dyo",
@@ -117,6 +120,7 @@
           "kam": "kam",
           "kde": "kde",
           "kea": "kea",
+          "kgp": "kgp",
           "khq": "khq",
           "ki": "ki",
           "kk": "Хаһаахтыы",
@@ -138,6 +142,7 @@
           "lag": "lag",
           "lb": "lb",
           "lg": "lg",
+          "lij": "lij",
           "lkt": "lkt",
           "ln": "ln",
           "lo": "lo",
@@ -180,6 +185,7 @@
           "nnh": "nnh",
           "nog": "Нагаайдыы",
           "nus": "nus",
+          "nv": "nv",
           "ny": "ny",
           "nyn": "nyn",
           "om": "om",

@@ -3,7 +3,7 @@
     "ne": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ne"
       },
@@ -39,7 +39,7 @@
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "ISO-8601 Calendar",
+            "iso8601": "ISO-8601 पात्रो",
             "japanese": "जापानी पात्रो",
             "persian": "फारसी पात्रो",
             "roc": "चिनियाँ गणतन्त्रको पात्रो"

@@ -3,7 +3,7 @@
     "ro": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ro"
       },
@@ -146,7 +146,7 @@
           "GU": "Guam",
           "GW": "Guineea-Bissau",
           "GY": "Guyana",
-          "HK": "R.A.S. Hong Kong a Chinei",
+          "HK": "R.A.S. Hong Kong, China",
           "HK-alt-short": "Hong Kong",
           "HM": "Insula Heard și Insulele McDonald",
           "HN": "Honduras",
@@ -269,7 +269,7 @@
           "SV": "El Salvador",
           "SX": "Sint-Maarten",
           "SY": "Siria",
-          "SZ": "eSwatini",
+          "SZ": "Eswatini",
           "SZ-alt-variant": "Swaziland",
           "TA": "Tristan da Cunha",
           "TC": "Insulele Turks și Caicos",

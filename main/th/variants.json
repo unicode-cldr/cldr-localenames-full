@@ -3,7 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "th"
       },
@@ -81,6 +81,7 @@
           "PAHAWH3": "PAHAWH3",
           "PAHAWH4": "PAHAWH4",
           "PAMAKA": "ภาษาพื้นเมืองพามาคา",
+          "PEANO": "PEANO",
           "PETR1708": "พีท 1708",
           "PINYIN": "พินอิน",
           "POLYTON": "โพลีโทนิก",
@@ -102,6 +103,8 @@
           "SURSILV": "ซูร์ซีลฟ์",
           "SUTSILV": "ซุตซีลฟ์",
           "TARASK": "ทาราซเคียวิซาออร์โธกราฟี",
+          "TONGYONG": "TONGYONG",
+          "TUNUMIIT": "TUNUMIIT",
           "UCCOR": "อักขรวิธีแบบครบวงจร",
           "UCRCOR": "อักขรวิธีแบบปรับปรุงครบวงจร",
           "ULSTER": "อัลสเตอร์",

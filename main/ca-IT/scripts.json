@@ -3,7 +3,7 @@
     "ca-IT": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ca",
         "territory": "IT"
@@ -78,7 +78,7 @@
           "Hluw": "jeroglífic anatoli",
           "Hmng": "pahawh hmong",
           "Hmnp": "Hmnp",
-          "Hrkt": "katakana o hiragana",
+          "Hrkt": "sil·labaris japonesos",
           "Hung": "hongarès antic",
           "Inds": "escriptura de la vall de l’Indus",
           "Ital": "cursiva antiga",

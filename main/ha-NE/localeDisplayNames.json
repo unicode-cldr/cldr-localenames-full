@@ -3,7 +3,7 @@
     "ha-NE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ha",
         "territory": "NE"
@@ -26,23 +26,23 @@
         },
         "types": {
           "calendar": {
-            "buddhist": "Kalanda Buddist",
-            "chinese": "Kalanda Sin",
+            "buddhist": "Kalandar Buddist",
+            "chinese": "Kalandar Sin",
             "coptic": "coptic",
-            "dangi": "Kalanda Dangi",
-            "ethiopic": "Kalanda Etiofic",
+            "dangi": "Kalandar Dangi",
+            "ethiopic": "Kalandar Etiofic",
             "ethiopic-amete-alem": "ethiopic-amete-alem",
-            "gregorian": "Gregorian Kalanda",
-            "hebrew": "Kalanda Ibrananci",
+            "gregorian": "Kalandar Gregoria",
+            "hebrew": "Kalandar Ibrananci",
             "indian": "indian",
             "islamic": "Kalandar Musulunci",
             "islamic-civil": "islamic-civil",
             "islamic-rgsa": "islamic-rgsa",
             "islamic-tbla": "islamic-tbla",
             "islamic-umalqura": "islamic-umalqura",
-            "iso8601": "Kalanda ISO-8601",
-            "japanese": "Kalanda Jafan",
-            "persian": "Kalanda Farisa",
+            "iso8601": "Kalandar ISO-8601",
+            "japanese": "Kalandar Jafan",
+            "persian": "Kalandar Farisa",
             "roc": "Kalandar kasar Sin"
           },
           "cf": {
@@ -62,7 +62,7 @@
             "reformed": "reformed",
             "search": "Bincike na Dalilai-Gamagari",
             "searchjl": "searchjl",
-            "standard": "Daidai ta ce Kasà",
+            "standard": "Daidaitaccen Kasawa",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -86,7 +86,7 @@
           },
           "numbers": {
             "ahom": "ahom",
-            "arab": "Lambobi na larabawan a gabas",
+            "arab": "Lambobi na Larabawan a Gabas",
             "arabext": "Fitattun lambobin lissafi na Larabci",
             "armn": "Lambobin ƙirga na Armenia",
             "armnlow": "Kananan Haruffan Armenia",
@@ -124,7 +124,7 @@
             "lana": "lana",
             "lanatham": "lanatham",
             "laoo": "Lambobin Yaren Lao",
-            "latn": "Lambobi na yammacin",
+            "latn": "Lambobi na Yammaci",
             "lepc": "lepc",
             "limb": "limb",
             "mathbold": "mathbold",
@@ -169,7 +169,7 @@
         "codePatterns": {
           "language": "Harshe: {0}",
           "script": "Rubutu: {0}",
-          "territory": "Yanki/Sashe: {0}"
+          "territory": "Yanki: {0}"
         }
       }
     }

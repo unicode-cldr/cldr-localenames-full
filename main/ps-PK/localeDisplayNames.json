@@ -3,7 +3,7 @@
     "ps-PK": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ps",
         "territory": "PK"
@@ -81,7 +81,7 @@
           },
           "ms": {
             "metric": "ميټرک نظام",
-            "uksystem": "uksystem",
+            "uksystem": "امپيريل د ناپ نظام",
             "ussystem": "د متحده آيالاتو د ناپ نظام"
           },
           "numbers": {

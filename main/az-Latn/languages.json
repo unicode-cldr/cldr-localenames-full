@@ -3,7 +3,7 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "az",
         "script": "Latn"
@@ -88,6 +88,8 @@
           "chr": "çeroki",
           "chy": "çeyen",
           "ckb": "Mərkəzi kürdcə",
+          "ckb-alt-menu": "Kürdcə, mərkəzi",
+          "ckb-alt-variant": "Kürdcə, sorani",
           "co": "korsika",
           "cop": "kopt",
           "cr": "kri",
@@ -236,6 +238,7 @@
           "kea": "kabuverdian",
           "kfo": "koro",
           "kg": "konqo",
+          "kgp": "kgp",
           "kha": "xazi",
           "kho": "xotan",
           "khq": "koyra çiini",
@@ -276,6 +279,7 @@
           "lez": "ləzgi",
           "lg": "qanda",
           "li": "limburq",
+          "lij": "lij",
           "lkt": "lakota",
           "ln": "linqala",
           "lo": "laos",

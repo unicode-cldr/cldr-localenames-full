@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "US"
@@ -53,7 +53,7 @@
             "iso8601": "calendario ISO-8601",
             "japanese": "calendario japonés",
             "persian": "calendario persa",
-            "roc": "calendario minguo"
+            "roc": "calendario de la República de China"
           },
           "cf": {
             "account": "formato de moneda de contabilidad",
@@ -80,7 +80,7 @@
             "big5han": "orden del chino tradicional - Big5",
             "compat": "orden anterior, para compatibilidad",
             "dictionary": "orden de clasificación del diccionario",
-            "ducet": "orden de clasificación de Unicode predeterminado",
+            "ducet": "orden predeterminado de Unicode",
             "emoji": "emoji",
             "eor": "reglas de orden europeas",
             "gb2312han": "orden del chino simplificado - GB2312",
@@ -124,7 +124,7 @@
           },
           "lb": {
             "loose": "estilo de salto de línea flexible",
-            "normal": "salto de línea normal",
+            "normal": "estilo de salto de línea normal",
             "strict": "estilo de salto de línea estricto"
           },
           "m0": {
@@ -173,10 +173,10 @@
             "jpanfin": "números financieros en japonés",
             "kali": "kali",
             "khmr": "dígitos en jemer",
-            "knda": "números en kannada",
+            "knda": "dígitos en canarés",
             "lana": "lana",
             "lanatham": "lanatham",
-            "laoo": "números en lao",
+            "laoo": "dígitos en lao",
             "latn": "dígitos occidentales",
             "lepc": "lepc",
             "limb": "limb",

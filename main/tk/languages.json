@@ -3,7 +3,7 @@
     "tk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "tk"
       },
@@ -51,7 +51,7 @@
           "bo": "tibet dili",
           "br": "breton dili",
           "brx": "bodo dili",
-          "bs": "boşnak dili",
+          "bs": "bosniýa dili",
           "bug": "bugiý dili",
           "byn": "blin dili",
           "ca": "katalan dili",
@@ -66,6 +66,8 @@
           "chr": "çeroki",
           "chy": "şaýenn dili",
           "ckb": "merkezi kürt dili",
+          "ckb-alt-menu": "merkezi kürt dili",
+          "ckb-alt-variant": "merkezi kürt dili",
           "co": "korsikan dili",
           "crs": "seselwa kreole-fransuz dili",
           "cs": "çeh dili",
@@ -81,6 +83,7 @@
           "de-CH": "ýokarky nemes dili (Şweýsariýa)",
           "dgr": "dogrib dili",
           "dje": "zarma dili",
+          "doi": "doi",
           "dsb": "aşaky lužits dili",
           "dua": "duala dili",
           "dv": "diwehi dili",
@@ -174,8 +177,9 @@
           "kde": "makonde dili",
           "kea": "kabuwerdianu dili",
           "kfo": "koro dili",
+          "kgp": "kgp",
           "kha": "khasi dili",
-          "khq": "koýra-Çini dili",
+          "khq": "koýra-çini dili",
           "ki": "kikuýu dili",
           "kj": "kwanýama dili",
           "kk": "gazak dili",
@@ -208,6 +212,7 @@
           "lez": "lezgin dili",
           "lg": "ganda dili",
           "li": "limburg dili",
+          "lij": "lij",
           "lkt": "lakota dili",
           "ln": "lingala dili",
           "lo": "laos dili",
@@ -288,7 +293,7 @@
           "pam": "kapampangan dili",
           "pap": "papýamento dili",
           "pau": "palau dili",
-          "pcm": "nigeriý-pijin dili",
+          "pcm": "nigeriýa-pijin dili",
           "pl": "polýak dili",
           "prg": "prussiýa dili",
           "ps": "peştun dili",

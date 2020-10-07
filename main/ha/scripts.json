@@ -3,7 +3,7 @@
     "ha": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ha"
       },
@@ -55,7 +55,7 @@
           "Grek": "Girka",
           "Gujr": "Gujarati",
           "Guru": "Gurmukhi",
-          "Hanb": "Han with Bopomofo",
+          "Hanb": "Han tare da Bopomofo",
           "Hang": "Yaren Hangul",
           "Hani": "Mutanen Han na ƙasar Sin",
           "Hano": "Hano",
@@ -82,10 +82,10 @@
           "Khoj": "Khoj",
           "Kits": "Kits",
           "Knda": "Yaren Kannada",
-          "Kore": "Koriya",
+          "Kore": "Rubutun Koriya",
           "Kthi": "Kthi",
           "Lana": "Lana",
-          "Laoo": "Mutanen Laos",
+          "Laoo": "Yan lao",
           "Latn": "Latin",
           "Lepc": "Lepc",
           "Limb": "Limb",

@@ -3,7 +3,7 @@
     "ne-IN": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ne",
         "territory": "IN"
@@ -66,7 +66,7 @@
           "Hani": "हान",
           "Hano": "हानुनु",
           "Hans": "सरलिकृत चिनियाँ",
-          "Hans-alt-stand-alone": "सरलिकृत चिनियाँ",
+          "Hans-alt-stand-alone": "सरलीकृत चिनियाँ",
           "Hant": "परम्परागत चिनियाँ",
           "Hant-alt-stand-alone": "परम्परागत चिनियाँ",
           "Hatr": "Hatr",

@@ -3,7 +3,7 @@
     "ps": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ps"
       },
@@ -61,7 +61,7 @@
             "reformed": "reformed",
             "search": "د عمومي موخي لټون",
             "searchjl": "searchjl",
-            "standard": "معياري د لټې ترتيب",
+            "standard": "د معیاري لټي ترتیب",
             "stroke": "stroke",
             "traditional": "traditional",
             "unihan": "unihan",
@@ -80,7 +80,7 @@
           },
           "ms": {
             "metric": "ميټرک نظام",
-            "uksystem": "uksystem",
+            "uksystem": "امپيريل د ناپ نظام",
             "ussystem": "د متحده آيالاتو د ناپ نظام"
           },
           "numbers": {

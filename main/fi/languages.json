@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fi"
       },
@@ -111,8 +111,9 @@
           "chp": "chipewyan",
           "chr": "cherokee",
           "chy": "cheyenne",
-          "ckb": "sorani",
+          "ckb": "soranî",
           "ckb-alt-menu": "kurdi – soranî",
+          "ckb-alt-variant": "soranî",
           "co": "korsika",
           "cop": "kopti",
           "cps": "capiznon",
@@ -630,10 +631,10 @@
           "zgh": "vakioitu tamazight",
           "zh": "kiina",
           "zh-alt-menu": "kiina (mandariini)",
-          "zh-Hans": "yksinkertaistettu kiina",
-          "zh-Hans-alt-long": "yksinkertaistettu kiina",
-          "zh-Hant": "perinteinen kiina",
-          "zh-Hant-alt-long": "perinteinen kiina",
+          "zh-Hans": "kiina (yksinkertaistettu)",
+          "zh-Hans-alt-long": "mandariinikiina (yksinkertaistettu)",
+          "zh-Hant": "kiina (perinteinen)",
+          "zh-Hant-alt-long": "mandariinikiina (perinteinen)",
           "zu": "zulu",
           "zun": "zuni",
           "zxx": "ei kielellistä sisältöä",
