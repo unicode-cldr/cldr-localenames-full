@@ -1,6 +1,6 @@
 {
   "name": "cldr-localenames-full",
-  "version": "38.0.0-BETA",
+  "version": "38.0.0",
   "peerDependencies": {
     "cldr-core": "38.0.0"
   },
@@ -17,11 +17,6 @@
     "type": "git",
     "url": "git://github.com/unicode-cldr/cldr-localenames-full.git"
   },
-  "licenses": [
-    {
-      "type": "Unicode-TOU",
-      "url": "http://www.unicode.org/copyright.html"
-    }
-  ],
+  "license": "Unicode-DFS-2016",
   "bugs": "https://unicode-org.atlassian.net/projects/CLDR/issues"
 }
